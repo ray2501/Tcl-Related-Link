@@ -31,7 +31,7 @@ Tcllib and Tklib
 Write a Tcl extension
 =====
 
-目前就我所知，Tcl extension 可以大致上分為二種形式，一種是使用 C 與 [TEA] (http://wiki.tcl.tk/327) 架構撰寫的 extension。
+目前就我所知，Tcl extension 可以大致上分為二種形式，一種是使用 C/C++ 與 [TEA] (http://wiki.tcl.tk/327) 架構撰寫的 extension。
 可以從 Tcl 社群提供的 Sample extension 開始。
 
     # Replace sample with the name of your extension
