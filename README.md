@@ -19,6 +19,7 @@ Tcl-Related-Link
 * [TCLWISE] (http://www.invece.org/tclwise/)
 * [Tcl Wikibook] (https://en.wikibooks.org/wiki/Tcl_Programming)
 * [Tcl/Tk Programming Idioms] (http://www.doc.ic.ac.uk/~np2/patterns/scripting/tcl/index.html)
+* [Object Oriented Programming in Tcl] (http://www.magicsplat.com/articles/oo.html)
 * [The Tcl Database Connectivity interface] (http://www.magicsplat.com/articles/tdbc.html)
 * [Tcl Threading Model] (http://www.tcl.tk/doc/howto/thread_model.html)
 * [TkDocs] (http://www.tkdocs.com/)
