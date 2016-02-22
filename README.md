@@ -10,6 +10,7 @@ Tcl-Related-Link
 * [Tcl Developer Site] (http://www.tcl.tk/)
 * [Tcler's Wiki] (http://wiki.tcl.tk/)
 * [Tcl TIP Collection] (http://www.tcl.tk/cgi-bin/tct/tip)
+* [comp.lang.tcl] (https://groups.google.com/forum/#!forum/comp.lang.tcl)
 * [Tcl Source Code (core package)] (http://core.tcl.tk/)
 * [TDBC] (http://tdbc.tcl.tk/index.cgi/index)
 * [Tcl Programming for Windows] (http://www.magicsplat.com/book/)
@@ -17,6 +18,7 @@ Tcl-Related-Link
 * [Tcl Wikibook] (https://en.wikibooks.org/wiki/Tcl_Programming)
 * [Tcl/Tk Programming Idioms] (http://www.doc.ic.ac.uk/~np2/patterns/scripting/tcl/index.html)
 * [The Tcl Database Connectivity interface] (http://www.magicsplat.com/articles/tdbc.html)
+* [Tcl Threading Model] (http://www.tcl.tk/doc/howto/thread_model.html)
 * [TkDocs] (http://www.tkdocs.com/)
 * [Great Unified Tcl/Tk Extension Repository] (http://core.tcl.tk/jenglish/gutter/)
 
