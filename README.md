@@ -13,8 +13,10 @@ Tcl-Related-Link
 * [comp.lang.tcl] (https://groups.google.com/forum/#!forum/comp.lang.tcl)
 * [Tcl Source Code (core package)] (http://core.tcl.tk/)
 * [TDBC] (http://tdbc.tcl.tk/index.cgi/index)
+* [Tcl on Windows FAQ] (http://www.tcl.tk/faq/tclwin.htm)
 * [Tcl Programming for Windows] (http://www.magicsplat.com/book/)
 * [Tcl for Web Nerds] (http://philip.greenspun.com/tcl/)
+* [TCLWISE] (http://www.invece.org/tclwise/)
 * [Tcl Wikibook] (https://en.wikibooks.org/wiki/Tcl_Programming)
 * [Tcl/Tk Programming Idioms] (http://www.doc.ic.ac.uk/~np2/patterns/scripting/tcl/index.html)
 * [The Tcl Database Connectivity interface] (http://www.magicsplat.com/articles/tdbc.html)
@@ -37,7 +39,7 @@ Extensions
 * [Extended Tcl (TclX)] (http://tclx.sourceforge.net/)
 * [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
 * [tDOM] (http://tdom.github.io/)
-* [TLS OpenSSL extension to Tcl] (http://tls.sourceforge.net/)
+* [TLS - OpenSSL extension to Tcl] (http://tls.sourceforge.net/)
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
 
 
