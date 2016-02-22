@@ -28,6 +28,25 @@ Tcllib and Tklib
 * [Tcllib] (https://core.tcl.tk/tcllib/doc/trunk/embedded/index.html)
 * [Tklib] (https://core.tcl.tk/tklib/home)
 
+Extensions
+=====
+
+* [incr Tcl] (http://incrtcl.sourceforge.net/)
+* [Expect] (http://www.nist.gov/el/msid/expect.cfm)
+* [Tcl UDP extension] (https://sourceforge.net/projects/tcludp/)
+* [Extended Tcl (TclX)] (http://tclx.sourceforge.net/)
+* [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
+* [tDOM] (http://tdom.github.io/)
+* [TLS OpenSSL extension to Tcl] (http://tls.sourceforge.net/)
+* [TclVfs] (https://sourceforge.net/projects/tclvfs/)
+
+
+Android and Tcl
+=====
+
+* [AndroWish] (http://www.androwish.org/index.html/home): AndroWish allows to run desktop Tcl and Tk programs almost unaltered on the Android Platform while it opens the door to script a rich set of features on a mobile platform.
+
+
 Write a Tcl extension
 =====
 
