@@ -12,7 +12,6 @@ Tcl-Related-Link
 * [Tcl TIP Collection] (http://www.tcl.tk/cgi-bin/tct/tip)
 * [comp.lang.tcl] (https://groups.google.com/forum/#!forum/comp.lang.tcl)
 * [Tcl Source Code (core package)] (http://core.tcl.tk/)
-* [TDBC] (http://tdbc.tcl.tk/index.cgi/index)
 * [Tcl on Windows FAQ] (http://www.tcl.tk/faq/tclwin.htm)
 * [Tcl Programming for Windows] (http://www.magicsplat.com/book/)
 * [Tcl for Web Nerds] (http://philip.greenspun.com/tcl/)
@@ -30,6 +29,33 @@ ActiveTcl
 
 [ActiveTcl] (http://www.activestate.com/activetcl) 是一個廣為人所知，提供了 [Batteries Included] (http://wiki.tcl.tk/2352) 的 Binary Distribution。
 
+Building Tcl/Tk with Mingw
+=====
+
+* [Building Tcl/Tk with Mingw] (http://wiki.tcl.tk/14828)
+ 
+在 Windows 平台上使用 Mingw/MSYS 自己編譯 Tcl/Tk 可以參考 Tcler's wiki 上的文章。
+
+我主要使用下面來自 Tcler's wiki 於的 script：
+
+    #!/bin/sh
+    mkdir -p /src
+    mkdir -p /opt/tcl
+    mkdir -p /build/tcl
+    mkdir -p /build/tk
+    [ -e /src/tcl ] && {
+        cd /build/tcl
+        /src/tcl/win/configure --prefix=/opt/tcl --enable-threads && make && make install && {
+            [ -e /src/tk ] && {
+            cd /build/tk
+            /src/tk/win/configure --prefix=/opt/tcl --enable-threads --with-tcl=/build/tcl \
+                && make && make install
+            }
+        }
+    }
+
+Tcl 的 source code 放在 /src/tcl 目錄下，而 Tk 的 source code 放在 /src/tk 的目錄下。
+
 
 Tcllib and Tklib
 =====
@@ -41,6 +67,7 @@ Extensions
 =====
 
 * [incr Tcl] (http://incrtcl.sourceforge.net/)
+* [TDBC] (http://tdbc.tcl.tk/index.cgi/index)
 * [Expect] (http://www.nist.gov/el/msid/expect.cfm)
 * [Tcl UDP extension] (https://sourceforge.net/projects/tcludp/)
 * [Extended Tcl (TclX)] (http://tclx.sourceforge.net/)
