@@ -36,7 +36,7 @@ Building Tcl/Tk with Mingw
  
 在 Windows 平台上使用 Mingw/MSYS 自己編譯 Tcl/Tk 可以參考 Tcler's wiki 上的文章。
 
-我主要使用下面來自 Tcler's wiki 於的 script：
+我主要使用下面來自於 Tcler's wiki 的 script：
 
     #!/bin/sh
     mkdir -p /src
