@@ -123,6 +123,18 @@ Android and Tcl
 * [AndroWish] (http://www.androwish.org/index.html/home): AndroWish allows to run desktop Tcl and Tk programs almost unaltered on the Android Platform while it opens the door to script a rich set of features on a mobile platform.
 
 
+Java and Tcl
+=====
+
+* [JTcl] (https://jtcl-project.github.io/jtcl/): JTcl is an implementation of Tool Command Language written in Java. JTcl implements a large extent of Tcl 8.4 syntax and commands, limited only by API restrictions of the Java Virtual Machine.
+
+
+.NET and Tcl
+=====
+
+* [Eagle] (http://eagle.to/): Eagle (Extensible Adaptable Generalized Logic Engine) is an implementation of the Tcl scripting language for the Common Language Runtime (CLR).
+
+
 Write a Tcl extension
 =====
 
