@@ -112,9 +112,14 @@ Extensions
 * [Extended Tcl (TclX)] (http://tclx.sourceforge.net/)
 * [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
 * [tDOM] (http://tdom.github.io/)
+* [Web Services for Tcl] (http://core.tcl.tk/tclws/index)
 * [TLS - OpenSSL extension to Tcl] (http://tls.sourceforge.net/)
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
 * [Enhanced Tk Console: tkcon] (http://tkcon.sourceforge.net/)
+* [BWidget] (https://core.tcl.tk/bwidget/home)
+* [TkHTML] (http://tkhtml.tcl.tk/)
+* [3-D Canvas Widget] (http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)
+* [Tkpath] (https://bitbucket.org/andrew_shadura/tkpath)
 
 
 Android and Tcl
