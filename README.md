@@ -170,3 +170,8 @@ Write a Tcl extension
 Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有的 code 都要放在同一個檔案裡，
 這個機制並不是要取代之前的套件機制（使用 pkgIndex.tcl 這個 index script 來提供套件的資訊），
 而是在減少彃性， 不用提供 pkgIndex.tcl 的情況下，實作提供 Tcl core 資訊並且減少存取檔案系統次數的套件機制。
+
+
+Misc
+=====
+* [Cameron Laird's personal notes on commercial aspects of Tcl] (http://phaseit.net/claird/comp.lang.tcl/commercial-tcl.html)
