@@ -122,6 +122,12 @@ Extensions
 * [Tkpath] (https://bitbucket.org/andrew_shadura/tkpath)
 
 
+Tools
+=====
+
+* [freeWrap] (http://freewrap.sourceforge.net/): FreeWrap distributions are freely available for Linux and Windows operating systems.
+
+
 Android and Tcl
 =====
 
