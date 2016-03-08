@@ -126,6 +126,7 @@ Tools
 =====
 
 * [freeWrap] (http://freewrap.sourceforge.net/): FreeWrap distributions are freely available for Linux and Windows operating systems.
+* [tclexecomp] (https://sourceforge.net/projects/tclexecomp/)
 
 
 Android and Tcl
@@ -144,6 +145,7 @@ Java and Tcl
 =====
 
 * [Eagle] (http://eagle.to/): Eagle (Extensible Adaptable Generalized Logic Engine) is an implementation of the Tcl scripting language for the Common Language Runtime (CLR).
+* [Eagle Integration Tutorial] (http://eagle.to/tutorial/01/index.html)
 
 
 Write a Tcl extension
