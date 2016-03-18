@@ -112,14 +112,18 @@ Extensions
 * [Extended Tcl (TclX)] (http://tclx.sourceforge.net/)
 * [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
 * [tDOM] (http://tdom.github.io/)
+* [TclXML] (http://tclxml.sourceforge.net/)
 * [Web Services for Tcl] (http://core.tcl.tk/tclws/index)
 * [TLS - OpenSSL extension to Tcl] (http://tls.sourceforge.net/)
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
+* [VecTcl] (http://auriocus.github.io/VecTcl/)
 * [Enhanced Tk Console: tkcon] (http://tkcon.sourceforge.net/)
 * [BWidget] (https://core.tcl.tk/bwidget/home)
 * [TkHTML] (http://tkhtml.tcl.tk/)
 * [3-D Canvas Widget] (http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)
 * [Tkpath] (https://bitbucket.org/andrew_shadura/tkpath)
+* [TkTreeCtrl] (http://tktreectrl.sourceforge.net/)
+* [Pdf4Tcl] (https://sourceforge.net/projects/pdf4tcl/)
 
 
 Tools
