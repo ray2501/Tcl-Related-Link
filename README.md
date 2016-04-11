@@ -76,6 +76,7 @@ Java and Tcl
 =====
 
 * [JTcl] (https://jtcl-project.github.io/jtcl/): JTcl is an implementation of Tool Command Language written in Java. JTcl implements a large extent of Tcl 8.4 syntax and commands, limited only by API restrictions of the Java Virtual Machine.
+* [Tcl/Java] (http://tcljava.sourceforge.net/docs/website/index.html)
 
 
 .NET and Tcl
@@ -83,6 +84,12 @@ Java and Tcl
 
 * [Eagle] (http://eagle.to/): Eagle (Extensible Adaptable Generalized Logic Engine) is an implementation of the Tcl scripting language for the Common Language Runtime (CLR).
 * [Eagle Integration Tutorial] (http://eagle.to/tutorial/01/index.html)
+
+
+Related Project
+=====
+
+* [The Jim Interpreter] (http://jim.tcl.tk/index.html/doc/www/www/index.html): A small footprint implementation of the Tcl programming language
 
 
 Write a Tcl extension
