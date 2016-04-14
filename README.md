@@ -86,6 +86,11 @@ Java and Tcl
 * [Eagle Integration Tutorial] (http://eagle.to/tutorial/01/index.html)
 
 
+Swift and Tcl
+=====
+* [tcl-swift-bridge] (https://github.com/flightaware/tcl-swift-bridge): Swift class library that bridges between Swift and Tcl
+
+
 Related Project
 =====
 
