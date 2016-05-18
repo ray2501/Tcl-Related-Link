@@ -71,6 +71,14 @@ Tools
 * [tclexecomp] (https://sourceforge.net/projects/tclexecomp/)
 
 
+Web server and framework
+=====
+* [AOLserver] (http://sourceforge.net/projects/aolserver/)
+* [NaviServer] (http://sourceforge.net/projects/naviserver/)
+* [OpenACS] (http://openacs.org/)
+* [Apache Rivet] (http://tcl.apache.org/rivet/)
+* [Rivetweb] (http://www.rivetweb.org/)
+
 Android and Tcl
 =====
 
