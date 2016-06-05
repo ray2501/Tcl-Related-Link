@@ -60,8 +60,11 @@ Extensions
 * [TkHTML] (http://tkhtml.tcl.tk/)
 * [3-D Canvas Widget] (http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)
 * [Tkpath] (https://bitbucket.org/andrew_shadura/tkpath)
+* [TkTable] (https://sourceforge.net/projects/tktable/)
 * [TkTreeCtrl] (http://tktreectrl.sourceforge.net/)
 * [Pdf4Tcl] (https://sourceforge.net/projects/pdf4tcl/)
+* [Img] (https://sourceforge.net/projects/tkimg/)
+* [The Tcl interface to the SQLite library] (http://www.sqlite.org/tclsqlite.html)
 
 
 Tools
@@ -69,6 +72,7 @@ Tools
 
 * [freeWrap] (http://freewrap.sourceforge.net/): FreeWrap distributions are freely available for Linux and Windows operating systems.
 * [tclexecomp] (https://sourceforge.net/projects/tclexecomp/)
+* [tkcon] (http://tkcon.sourceforge.net/)
 * [TkCVS] (http://www.twobarleycorns.net/tkcvs.html)
 
 
