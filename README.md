@@ -55,7 +55,8 @@ Extensions
 * [TLS - OpenSSL extension to Tcl] (http://tls.sourceforge.net/)
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
 * [VecTcl] (http://auriocus.github.io/VecTcl/)
-* [Enhanced Tk Console: tkcon] (http://tkcon.sourceforge.net/)
+* [csp - Golang inspired concurrency library for Tcl] (https://securitykiss.com/resources/tutorials/csp_project/index.php)
+* [tcl-promise] (http://sourceforge.net/projects/tcl-promise/)
 * [BWidget] (https://core.tcl.tk/bwidget/home)
 * [TkHTML] (http://tkhtml.tcl.tk/)
 * [3-D Canvas Widget] (http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)
@@ -72,8 +73,9 @@ Tools
 
 * [freeWrap] (http://freewrap.sourceforge.net/): FreeWrap distributions are freely available for Linux and Windows operating systems.
 * [tclexecomp] (https://sourceforge.net/projects/tclexecomp/)
-* [tkcon] (http://tkcon.sourceforge.net/)
+* [Enhanced Tk Console: tkcon] (http://tkcon.sourceforge.net/)
 * [TkCVS] (http://www.twobarleycorns.net/tkcvs.html)
+* [poApps - Paul's Portable Applications] (http://www.posoft.de/html/poTools.html)
 
 
 Web server and framework
