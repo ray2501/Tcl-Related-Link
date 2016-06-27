@@ -65,6 +65,8 @@ Extensions
 * [TkTreeCtrl] (http://tktreectrl.sourceforge.net/)
 * [Pdf4Tcl] (https://sourceforge.net/projects/pdf4tcl/)
 * [Img] (https://sourceforge.net/projects/tkimg/)
+* [Snack] (http://www.speech.kth.se/snack/)
+* [SDL_mixer bindings for Tcl] (http://sqlitestudio.pl/tclmixer/)
 * [The Tcl interface to the SQLite library] (http://www.sqlite.org/tclsqlite.html)
 
 
@@ -85,6 +87,7 @@ Web server and framework
 * [OpenACS] (http://openacs.org/)
 * [Apache Rivet] (http://tcl.apache.org/rivet/)
 * [Rivetweb] (http://www.rivetweb.org/)
+* [tänzer] (http://tanzer.io/)
 
 Android and Tcl
 =====
