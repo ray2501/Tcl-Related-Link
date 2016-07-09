@@ -23,6 +23,7 @@ Tcl-Related-Link
 * [Tcl Threading Model] (http://www.tcl.tk/doc/howto/thread_model.html)
 * [TkDocs] (http://www.tkdocs.com/)
 * [Great Unified Tcl/Tk Extension Repository] (http://core.tcl.tk/jenglish/gutter/)
+* [RosettaCode: Tcl] (http://rosettacode.org/wiki/Category:Tcl)
 
 ActiveTcl
 =====
