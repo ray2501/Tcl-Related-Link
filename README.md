@@ -58,6 +58,7 @@ Extensions
 * [csp - Golang inspired concurrency library for Tcl] (https://securitykiss.com/resources/tutorials/csp_project/index.php)
 * [tcl-promise] (http://sourceforge.net/projects/tcl-promise/)
 * [BWidget] (https://core.tcl.tk/bwidget/home)
+* [GRIDPLUS] (http://www.satisoft.com/tcltk/gridplus2/)
 * [TkHTML] (http://tkhtml.tcl.tk/)
 * [3-D Canvas Widget] (http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)
 * [Tkpath] (https://bitbucket.org/andrew_shadura/tkpath)
@@ -68,6 +69,7 @@ Extensions
 * [Snack] (http://www.speech.kth.se/snack/)
 * [SDL_mixer bindings for Tcl] (http://sqlitestudio.pl/tclmixer/)
 * [The Tcl interface to the SQLite library] (http://www.sqlite.org/tclsqlite.html)
+* [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
 
 
 Tools
