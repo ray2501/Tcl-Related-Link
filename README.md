@@ -56,6 +56,7 @@ Extensions
 * [TLS - OpenSSL extension to Tcl] (http://tls.sourceforge.net/)
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
 * [VecTcl] (http://auriocus.github.io/VecTcl/)
+* [TclMPI: Tcl bindings for MPI] (https://sites.google.com/site/akohlmey/software/tclmpi)
 * [csp - Golang inspired concurrency library for Tcl] (https://securitykiss.com/resources/tutorials/csp_project/index.php)
 * [tcl-promise] (http://sourceforge.net/projects/tcl-promise/)
 * [BWidget] (https://core.tcl.tk/bwidget/home)
