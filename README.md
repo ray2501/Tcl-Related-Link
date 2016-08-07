@@ -74,6 +74,7 @@ Extensions
 * [The Tcl interface to the SQLite library] (http://www.sqlite.org/tclsqlite.html)
 * [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
 * [tclquadcode] (http://wiki.tcl.tk/40985)
+* [Memchan] (http://memchan.sourceforge.net/)
 
 
 Tools
