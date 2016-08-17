@@ -25,10 +25,16 @@ Tcl-Related-Link
 * [Great Unified Tcl/Tk Extension Repository] (http://core.tcl.tk/jenglish/gutter/)
 * [RosettaCode: Tcl] (http://rosettacode.org/wiki/Category:Tcl)
 
+
 ActiveTcl
 =====
 
 * [ActiveTcl] (http://www.activestate.com/activetcl) 是一個廣為人所知，提供了 [Batteries Included] (http://wiki.tcl.tk/2352) 的 Binary Distribution。
+
+Tcl binary distributions (for Windows)
+=====
+
+* [Ashok's Tcl binary distributions for the Windows platform] (https://bintray.com/apnadkarni/tcl-binaries/tcl-binaries-windows#read)
 
 TclKits
 =====
