@@ -4,7 +4,7 @@ Tcl-Related-Link
 這是一個我個人收集的 [Tcl] (http://www.tcl.tk/) 相關連結網頁。目的是我需要某個連結的時候，可以很快的找到。
 
 
-官網與文件
+官網與相關文件
 =====
 
 * [Tcl Developer Site] (http://www.tcl.tk/)
@@ -50,18 +50,17 @@ Tcllib and Tklib
 Extensions
 =====
 
+* [TclOO @ TIP #257] (http://www.tcl.tk/cgi-bin/tct/tip/257)
 * [incr Tcl] (http://incrtcl.sourceforge.net/)
 * [TDBC] (http://tdbc.tcl.tk/index.cgi/index)
 * [Expect] (http://www.nist.gov/el/msid/expect.cfm)
 * [Tcl UDP extension] (https://sourceforge.net/projects/tcludp/)
 * [Extended Tcl (TclX)] (http://tclx.sourceforge.net/)
 * [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
-* [tDOM] (http://tdom.github.io/)
-* [TclXML] (http://tclxml.sourceforge.net/)
-* [Web Services for Tcl] (http://core.tcl.tk/tclws/index)
 * [TLS - OpenSSL extension to Tcl] (http://tls.sourceforge.net/)
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
 * [VecTcl] (http://auriocus.github.io/VecTcl/)
+* [Networking and Cryptography library] (http://wiki.tcl.tk/47681)
 * [TclMPI: Tcl bindings for MPI] (https://sites.google.com/site/akohlmey/software/tclmpi)
 * [csp - Golang inspired concurrency library for Tcl] (https://securitykiss.com/resources/tutorials/csp_project/index.php)
 * [tcl-promise] (http://sourceforge.net/projects/tcl-promise/)
@@ -93,6 +92,13 @@ Tools
 * [poApps - Paul's Portable Applications] (http://www.posoft.de/html/poTools.html)
 
 
+XML and Tcl
+=====
+* [tDOM] (http://tdom.github.io/)
+* [TclXML] (http://tclxml.sourceforge.net/)
+* [Web Services for Tcl] (http://core.tcl.tk/tclws/index)
+
+
 Web server and framework
 =====
 * [AOLserver] (http://sourceforge.net/projects/aolserver/)
@@ -106,13 +112,18 @@ Web server and framework
 Android and Tcl
 =====
 
-* [AndroWish] (http://www.androwish.org/index.html/home): AndroWish allows to run desktop Tcl and Tk programs almost unaltered on the Android Platform while it opens the door to script a rich set of features on a mobile platform.
+* [AndroWish] (http://www.androwish.org/index.html/home): AndroWish allows to
+run desktop Tcl and Tk programs almost unaltered on the Android Platform while
+it opens the door to script a rich set of features on a mobile platform.
 
 
 Java and Tcl
 =====
 
-* [JTcl] (https://jtcl-project.github.io/jtcl/): JTcl is an implementation of Tool Command Language written in Java. JTcl implements a large extent of Tcl 8.4 syntax and commands, limited only by API restrictions of the Java Virtual Machine.
+* [JTcl] (https://jtcl-project.github.io/jtcl/): JTcl is an implementation of
+Tool Command Language written in Java. JTcl implements a large extent of Tcl 8.4
+syntax and commands, limited only by API restrictions of the Java Virtual
+Machine.
 * [Tcl/Java] (http://tcljava.sourceforge.net/docs/website/index.html)
 
 
@@ -127,9 +138,11 @@ Swift and Tcl
 =====
 * [tcl-swift-bridge] (https://github.com/flightaware/tcl-swift-bridge): Swift class library that bridges between Swift and Tcl
 
+
 Emscripten and Tcl
 =====
 * [EmTcl] (https://aidanhs.github.io/emtcl/): Tcl 8.6 and Jim Tcl in the browser through emscripten
+
 
 Related Project
 =====
@@ -167,3 +180,4 @@ Misc
 =====
 * [Cameron Laird's personal notes on commercial aspects of Tcl] (http://phaseit.net/claird/comp.lang.tcl/commercial-tcl.html)
 * [Tcl Stuff] (http://tclstuff.ucoz.net/index.html)
+* [Dai's Blog] (http://blog.got7.org/)
