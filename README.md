@@ -66,6 +66,8 @@ Extensions
 * [tcl-promise] (http://sourceforge.net/projects/tcl-promise/)
 * [BWidget] (https://core.tcl.tk/bwidget/home)
 * [MCListbox] (http://core.tcl.tk/mclistbox/home)
+* [Incr Tk] (http://chiselapp.com/user/rene/repository/itk/index)
+* [incr Widgets] (http://chiselapp.com/user/rene/repository/iwidgets/index)
 * [GRIDPLUS] (http://www.satisoft.com/tcltk/gridplus2/)
 * [TkHTML] (http://tkhtml.tcl.tk/)
 * [3-D Canvas Widget] (http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)
@@ -108,6 +110,21 @@ Web server and framework
 * [Rivetweb] (http://www.rivetweb.org/)
 * [tänzer] (http://tanzer.io/)
 * [tclssg] (https://github.com/tclssg/tclssg): A static site generator with template support written in Tcl
+
+
+TDBC
+=====
+
+TDBC is an interface standard for databases and connectivity that aims to
+make it easy to write portable and secure Tcl scripts that access SQL
+databases.
+
+Tcl 8.6 shipped with four drivers for TDBC:
+* MySQL (tdbc::mysql)
+* ODBC (tdbc::odbc)
+* PostgreSQL (tdbc::postgres)
+* SQLite (tdbc::sqlite)
+
 
 Android and Tcl
 =====
