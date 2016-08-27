@@ -36,16 +36,19 @@ Tcl binary distributions (for Windows)
 
 * [Ashok's Tcl binary distributions for the Windows platform] (https://bintray.com/apnadkarni/tcl-binaries/tcl-binaries-windows#read)
 
+
 TclKits
 =====
 
 * [TclKits] (http://tclkits.rkeene.org/fossil/wiki/Downloads)
+
 
 Tcllib and Tklib
 =====
 
 * [Tcllib] (https://core.tcl.tk/tcllib/doc/trunk/embedded/index.html)
 * [Tklib] (https://core.tcl.tk/tklib/home)
+
 
 Extensions
 =====
@@ -68,6 +71,7 @@ Extensions
 * [MCListbox] (http://core.tcl.tk/mclistbox/home)
 * [Incr Tk] (http://chiselapp.com/user/rene/repository/itk/index)
 * [incr Widgets] (http://chiselapp.com/user/rene/repository/iwidgets/index)
+* [Tix Widget Set] (http://sourceforge.net/projects/tix/)
 * [GRIDPLUS] (http://www.satisoft.com/tcltk/gridplus2/)
 * [TkHTML] (http://tkhtml.tcl.tk/)
 * [3-D Canvas Widget] (http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)
@@ -82,6 +86,20 @@ Extensions
 * [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
 * [tclquadcode] (http://wiki.tcl.tk/40985)
 * [Memchan] (http://memchan.sourceforge.net/)
+
+
+TDBC
+=====
+
+TDBC is an interface standard for databases and connectivity that aims to
+make it easy to write portable and secure Tcl scripts that access SQL
+databases.
+
+Tcl 8.6 shipped with four drivers for TDBC:
+* MySQL (tdbc::mysql)
+* ODBC (tdbc::odbc)
+* PostgreSQL (tdbc::postgres)
+* SQLite (tdbc::sqlite)
 
 
 Tools
@@ -110,20 +128,6 @@ Web server and framework
 * [Rivetweb] (http://www.rivetweb.org/)
 * [tänzer] (http://tanzer.io/)
 * [tclssg] (https://github.com/tclssg/tclssg): A static site generator with template support written in Tcl
-
-
-TDBC
-=====
-
-TDBC is an interface standard for databases and connectivity that aims to
-make it easy to write portable and secure Tcl scripts that access SQL
-databases.
-
-Tcl 8.6 shipped with four drivers for TDBC:
-* MySQL (tdbc::mysql)
-* ODBC (tdbc::odbc)
-* PostgreSQL (tdbc::postgres)
-* SQLite (tdbc::sqlite)
 
 
 Android and Tcl
