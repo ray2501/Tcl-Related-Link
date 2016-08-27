@@ -109,6 +109,7 @@ Tools
 * [tclexecomp] (https://sourceforge.net/projects/tclexecomp/)
 * [Enhanced Tk Console: tkcon] (http://tkcon.sourceforge.net/)
 * [TkCVS] (http://www.twobarleycorns.net/tkcvs.html)
+* [Eskil] (http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and directory differences
 * [poApps - Paul's Portable Applications] (http://www.posoft.de/html/poTools.html)
 
 
