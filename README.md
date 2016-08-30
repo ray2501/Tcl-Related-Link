@@ -55,6 +55,7 @@ Extensions
 
 * [TclOO @ TIP #257] (http://www.tcl.tk/cgi-bin/tct/tip/257)
 * [incr Tcl] (http://incrtcl.sourceforge.net/)
+* [Next Scripting Framework] (https://next-scripting.org/xowiki/): A descendant of XOTcl
 * [TDBC] (http://tdbc.tcl.tk/index.cgi/index)
 * [Expect] (http://www.nist.gov/el/msid/expect.cfm)
 * [Tcl UDP extension] (https://sourceforge.net/projects/tcludp/)
