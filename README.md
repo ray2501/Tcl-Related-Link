@@ -83,24 +83,9 @@ Extensions
 * [Img] (https://sourceforge.net/projects/tkimg/)
 * [Snack] (http://www.speech.kth.se/snack/)
 * [SDL_mixer bindings for Tcl] (http://sqlitestudio.pl/tclmixer/)
-* [The Tcl interface to the SQLite library] (http://www.sqlite.org/tclsqlite.html)
 * [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
 * [tclquadcode] (http://wiki.tcl.tk/40985)
 * [Memchan] (http://memchan.sourceforge.net/)
-
-
-TDBC
-=====
-
-TDBC is an interface standard for databases and connectivity that aims to
-make it easy to write portable and secure Tcl scripts that access SQL
-databases.
-
-Tcl 8.6 shipped with four drivers for TDBC:
-* MySQL (tdbc::mysql)
-* ODBC (tdbc::odbc)
-* PostgreSQL (tdbc::postgres)
-* SQLite (tdbc::sqlite)
 
 
 Tools
