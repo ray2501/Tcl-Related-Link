@@ -24,6 +24,7 @@ RDBMS
 * [TclODBC] (https://sourceforge.net/projects/tclodbc/)
 * [Pgtcl] (http://flightaware.github.io/Pgtcl/) - Tcl client side interface to PostgreSQL (libpgtcl)
 * [The Tcl interface to the SQLite library] (http://www.sqlite.org/tclsqlite.html)
+* [tcltds] (https://github.com/cloudsidekick/tcltds) - A tcl extension for the FreeTDS libraries
 
 
 NoSQL
@@ -35,6 +36,15 @@ NoSQL
 * [memcached-for-Tcl] (https://github.com/bovine/memcached-for-Tcl)
 * [mongotcl] (https://github.com/flightaware/mongotcl)
 * [retcl] (https://github.com/gahr/retcl) - Tcl client library for Redis
+* [redis-tcl] (https://github.com/bradvoth/redis-tcl)
+
+
+Other
+=====
+
+* [Speedtables] (http://flightaware.github.io/speedtables/) - High-performance, memory-resident database
+* [SQL Relay] (http://wiki.tcl.tk/9242)
+* [tclcsv] (http://tclcsv.sourceforge.net/)
 
 
 我的作品集
