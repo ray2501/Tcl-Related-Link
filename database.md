@@ -24,6 +24,7 @@ RDBMS
 * [TclODBC] (https://sourceforge.net/projects/tclodbc/)
 * [Pgtcl] (http://flightaware.github.io/Pgtcl/) - Tcl client side interface to PostgreSQL (libpgtcl)
 * [The Tcl interface to the SQLite library] (http://www.sqlite.org/tclsqlite.html)
+* [Oratcl] (http://oratcl.sourceforge.net/) - Tcl interface to Oracle database, versions 8i, 9i, 10g, and 11g
 * [tcltds] (https://github.com/cloudsidekick/tcltds) - A tcl extension for the FreeTDS libraries
 
 
@@ -42,6 +43,7 @@ NoSQL
 Other
 =====
 
+* [kafkatcl] (https://github.com/flightaware/kafkatcl) - Tcl interface to the Apache Kafka
 * [Speedtables] (http://flightaware.github.io/speedtables/) - High-performance, memory-resident database
 * [SQL Relay] (http://wiki.tcl.tk/9242)
 * [tclcsv] (http://tclcsv.sourceforge.net/)
