@@ -33,8 +33,10 @@ NoSQL
 
 * [Berkeley DB Extensions: Tcl] (https://docs.oracle.com/cd/E17276_01/html/programmer_reference/tcl.html)
 * [metakit] (https://github.com/jcw/metakit)
-* [casstcl] (https://github.com/flightaware/casstcl) - Tcl language interface to the Cassandra database
-* [memcached-for-Tcl] (https://github.com/bovine/memcached-for-Tcl)
+* [casstcl] (https://github.com/flightaware/casstcl) - Tcl language interface to the Cassandra database,
+based on [Cassandra cpp driver] (https://github.com/datastax/cpp-driver)
+* [memcached-for-Tcl] (https://github.com/bovine/memcached-for-Tcl) - based on
+[libmemcached] (http://libmemcached.org/libMemcached.html)
 * [mongotcl] (https://github.com/flightaware/mongotcl)
 * [retcl] (https://github.com/gahr/retcl) - Tcl client library for Redis
 * [redis-tcl] (https://github.com/bradvoth/redis-tcl)
