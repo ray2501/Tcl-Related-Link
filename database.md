@@ -46,6 +46,7 @@ Other
 =====
 
 * [kafkatcl] (https://github.com/flightaware/kafkatcl) - Tcl interface to the Apache Kafka
+* [zeromq - Tcl] (http://zeromq.org/bindings:tcl)
 * [Speedtables] (http://flightaware.github.io/speedtables/) - High-performance, memory-resident database
 * [SQL Relay] (http://wiki.tcl.tk/9242)
 * [tclcsv] (http://tclcsv.sourceforge.net/)
