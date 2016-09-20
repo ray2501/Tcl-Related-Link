@@ -148,6 +148,13 @@ Machine.
 * [Eagle Integration Tutorial] (http://eagle.to/tutorial/01/index.html)
 
 
+GO and Tcl
+=====
+
+* [gothic] (https://github.com/nsf/gothic) - Tcl/Tk Go bindings.
+* [Example of a Tcl extension in Go] (http://wiki.tcl.tk/48054)
+
+
 Swift and Tcl
 =====
 * [tcl-swift-bridge] (https://github.com/flightaware/tcl-swift-bridge): Swift class library that bridges between Swift and Tcl
