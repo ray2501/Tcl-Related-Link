@@ -76,6 +76,7 @@ Extensions
 * [GRIDPLUS] (http://www.satisoft.com/tcltk/gridplus2/)
 * [TkHTML] (http://tkhtml.tcl.tk/)
 * [3-D Canvas Widget] (http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)
+* [Tcl3D] (http://www.tcl3d.org/)
 * [Tkpath] (https://bitbucket.org/andrew_shadura/tkpath)
 * [TkTable] (https://sourceforge.net/projects/tktable/)
 * [TkTreeCtrl] (http://tktreectrl.sourceforge.net/)
@@ -83,6 +84,8 @@ Extensions
 * [Img] (https://sourceforge.net/projects/tkimg/)
 * [Snack] (http://www.speech.kth.se/snack/)
 * [SDL_mixer bindings for Tcl] (http://sqlitestudio.pl/tclmixer/)
+* [TkDND] (http://sourceforge.net/projects/tkdnd/)
+* [critcl] (http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
 * [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
 * [tclquadcode] (http://wiki.tcl.tk/40985)
 * [Memchan] (http://memchan.sourceforge.net/)
