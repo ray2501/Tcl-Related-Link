@@ -167,6 +167,7 @@ GO and Tcl
 Swift and Tcl
 =====
 * [tcl-swift-bridge] (https://github.com/flightaware/tcl-swift-bridge): Swift class library that bridges between Swift and Tcl
+* [Example of a Tcl extension in Swift] (http://wiki.tcl.tk/48057)
 
 
 Emscripten and Tcl
