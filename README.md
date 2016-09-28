@@ -141,6 +141,7 @@ Java and Tcl
 Tool Command Language written in Java. JTcl implements a large extent of Tcl 8.4
 syntax and commands, limited only by API restrictions of the Java Virtual
 Machine.
+* [tclJBlend] (http://wiki.tcl.tk/47668) - a fork of TclBlend
 * [Tcl/Java] (http://tcljava.sourceforge.net/docs/website/index.html)
 
 
