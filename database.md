@@ -23,6 +23,7 @@ RDBMS
 * [mysqltcl] (http://www.xdobry.de/mysqltcl/) - Tcl interface to MySQL database
 * [TclODBC] (https://sourceforge.net/projects/tclodbc/)
 * [Pgtcl] (http://flightaware.github.io/Pgtcl/) - Tcl client side interface to PostgreSQL (libpgtcl)
+* [pgintcl] (https://sourceforge.net/projects/pgintcl/): Pure-Tcl Interface to PostgreSQL
 * [The Tcl interface to the SQLite library] (http://www.sqlite.org/tclsqlite.html)
 * [Oratcl] (http://oratcl.sourceforge.net/) - Tcl interface to Oracle database, versions 8i, 9i, 10g, and 11g
 * [tcltds] (https://github.com/cloudsidekick/tcltds) - A tcl extension for the FreeTDS libraries
