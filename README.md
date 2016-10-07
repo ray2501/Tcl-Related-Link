@@ -87,7 +87,7 @@ Extensions
 * [TkDND] (http://sourceforge.net/projects/tkdnd/)
 * [critcl] (http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
 * [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
-* [tclquadcode] (http://wiki.tcl.tk/40985)
+* [tclquadcode] (http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
 * [Memchan] (http://memchan.sourceforge.net/)
 
 ## Tcl extension and Database
@@ -98,7 +98,7 @@ Extensions
 Tools
 =====
 
-* [tclapp] (https://github.com/tcltk/tclapps): a suite of small applications for Tcl useful as
+* [tclapps] (https://github.com/tcltk/tclapps): a suite of small applications for Tcl useful as
 examples and in regular use to a large collection of Tcl programmers
 * [freeWrap] (http://freewrap.sourceforge.net/): FreeWrap distributions are freely available for Linux and Windows operating systems.
 * [tclexecomp] (https://sourceforge.net/projects/tclexecomp/)
