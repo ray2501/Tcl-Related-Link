@@ -98,6 +98,8 @@ Extensions
 Tools
 =====
 
+* [tclapp] (https://github.com/tcltk/tclapps): a suite of small applications for Tcl useful as
+examples and in regular use to a large collection of Tcl programmers
 * [freeWrap] (http://freewrap.sourceforge.net/): FreeWrap distributions are freely available for Linux and Windows operating systems.
 * [tclexecomp] (https://sourceforge.net/projects/tclexecomp/)
 * [Enhanced Tk Console: tkcon] (http://tkcon.sourceforge.net/)
