@@ -41,6 +41,7 @@ TclKits
 =====
 
 * [TclKits] (http://tclkits.rkeene.org/fossil/wiki/Downloads)
+* [SDX] (http://wiki.tcl.tk/3411a)
 
 
 Tcllib and Tklib
