@@ -89,6 +89,7 @@ Extensions
 * [critcl] (http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
 * [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
 * [tclquadcode] (http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
+* [FireTcl] (https://sourceforge.net/projects/firetcl/) - embeds Tcl inside a browser with websocket support
 * [Memchan] (http://memchan.sourceforge.net/)
 
 ## Tcl extension and Database
