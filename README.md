@@ -56,12 +56,15 @@ Extensions
 
 * [TclOO @ TIP #257] (http://www.tcl.tk/cgi-bin/tct/tip/257)
 * [incr Tcl] (http://incrtcl.sourceforge.net/)
+* [zlib] (http://www.tcl.tk/cgi-bin/tct/tip/234) - Core support for zlib compression
 * [Next Scripting Framework] (https://next-scripting.org/xowiki/): A descendant of XOTcl
 * [TDBC] (http://tdbc.tcl.tk/index.cgi/index)
 * [Expect] (http://www.nist.gov/el/msid/expect.cfm)
 * [Tcl UDP extension] (https://sourceforge.net/projects/tcludp/)
 * [Extended Tcl (TclX)] (http://tclx.sourceforge.net/)
+* [DBus binding for Tcl] (https://sourceforge.net/projects/dbus-tcl/)
 * [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
+* [tcom] (https://github.com/pukkaone/tcom)
 * [TLS - OpenSSL extension to Tcl] (http://tls.sourceforge.net/)
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
 * [VecTcl] (http://auriocus.github.io/VecTcl/)
@@ -90,7 +93,7 @@ Extensions
 * [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
 * [tclquadcode] (http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
 * [FireTcl] (https://sourceforge.net/projects/firetcl/) - embeds Tcl inside a browser with websocket support
-* [Memchan] (http://memchan.sourceforge.net/)
+* [Memchan] (http://memchan.sourceforge.net/) - In-memory channels for Tcl
 
 ## Tcl extension and Database
 
