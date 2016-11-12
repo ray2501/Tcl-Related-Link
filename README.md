@@ -61,6 +61,7 @@ Extensions
 * [TDBC] (http://tdbc.tcl.tk/index.cgi/index)
 * [Expect] (http://www.nist.gov/el/msid/expect.cfm)
 * [Tcl UDP extension] (https://sourceforge.net/projects/tcludp/)
+* [scotty] (https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
 * [Extended Tcl (TclX)] (http://tclx.sourceforge.net/)
 * [DBus binding for Tcl] (https://sourceforge.net/projects/dbus-tcl/)
 * [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
