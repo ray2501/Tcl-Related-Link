@@ -48,6 +48,7 @@ Other
 
 * [kafkatcl] (https://github.com/flightaware/kafkatcl) - Tcl interface to the Apache Kafka
 * [zeromq - Tcl] (http://zeromq.org/bindings:tcl)
+* [tcl-mqtt] (https://github.com/Tingenek/tcl-mqtt) - Small library to connect to a matt broker. Very, very basic
 * [Speedtables] (http://flightaware.github.io/speedtables/) - High-performance, memory-resident database
 * [SQL Relay] (http://wiki.tcl.tk/9242)
 * [tclcsv] (http://tclcsv.sourceforge.net/)
