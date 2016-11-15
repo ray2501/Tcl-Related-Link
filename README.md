@@ -175,6 +175,11 @@ Fortran and Tcl
 * [Example of a Tcl extension in Fortran] (http://wiki.tcl.tk/48061)
 
 
+Rust and Tcl
+=====
+* [rust-tcl] (https://github.com/AngryLawyer/rust-tcl) - Currently targets Tcl 8.5
+
+
 GO and Tcl
 =====
 
