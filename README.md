@@ -116,6 +116,7 @@ examples and in regular use to a large collection of Tcl programmers
 * [ezdit] (https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
 * [Markdown2Go] (http://wiki.tcl.tk/48198): markdown converter
 * [poApps - Paul's Portable Applications] (http://www.posoft.de/html/poTools.html)
+* [kitgen build system] (https://sourceforge.net/projects/kbskit/) - Framework to generate TclkitLite executables, compile Tcl packages and build kit files for different operating systems
 
 
 GUI toolkit and Tcl
