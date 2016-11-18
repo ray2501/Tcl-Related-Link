@@ -72,5 +72,6 @@ Other
 * [DrillREST] (https://github.com/ray2501/DrillREST)
 * [solr4tcl] (https://github.com/ray2501/solr4tcl)
 * [tclxqilla] (https://github.com/ray2501/tclxqilla)
+* [tcl.mqttc] (https://github.com/ray2501/tcl.mqttc) - MQTT Client for Tcl
 
 
