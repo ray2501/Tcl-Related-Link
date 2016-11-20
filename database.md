@@ -53,6 +53,7 @@ Other
 * [tcl-mqtt] (https://github.com/Tingenek/tcl-mqtt) - Small library to connect to a matt broker. Very, very basic
 * [Speedtables] (http://flightaware.github.io/speedtables/) - High-performance, memory-resident database
 * [SQL Relay] (http://wiki.tcl.tk/9242)
+* [TclRAL] (http://repos.modelrealization.com/cgi-bin/fossil/tclral/index) - a "C" based extension of Tcl that implements a complete relational algebra.
 * [tclcsv] (http://tclcsv.sourceforge.net/)
 
 
