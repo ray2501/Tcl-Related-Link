@@ -57,6 +57,7 @@ Extensions
 
 * [TclOO @ TIP #257] (http://www.tcl.tk/cgi-bin/tct/tip/257)
 * [incr Tcl] (http://incrtcl.sourceforge.net/)
+* [snit] (http://core.tcl.tk/jenglish/gutter/packages/snit.html) - Snit is a pure-Tcl object and megawidget framework
 * [zlib] (http://www.tcl.tk/cgi-bin/tct/tip/234) - Core support for zlib compression
 * [Next Scripting Framework] (https://next-scripting.org/xowiki/): A descendant of XOTcl
 * [TDBC] (http://tdbc.tcl.tk/index.cgi/index)
@@ -70,7 +71,7 @@ Extensions
 * [TLS - OpenSSL extension to Tcl] (http://tls.sourceforge.net/)
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
 * [VecTcl] (http://auriocus.github.io/VecTcl/)
-* [Networking and Cryptography library] (http://wiki.tcl.tk/47681)
+* [NaCl: Networking and Cryptography library] (http://wiki.tcl.tk/47681)
 * [TclMPI: Tcl bindings for MPI] (https://sites.google.com/site/akohlmey/software/tclmpi)
 * [csp - Golang inspired concurrency library for Tcl] (https://securitykiss.com/resources/tutorials/csp_project/index.php)
 * [tcl-promise] (http://sourceforge.net/projects/tcl-promise/)
@@ -143,6 +144,8 @@ Web server and framework
 * [tänzer] (http://tanzer.io/)
 * [tclssg] (https://github.com/tclssg/tclssg): A static site generator with template support written in Tcl
 * [T2WS - Tiny Tcl Web Server] (https://github.com/Drolla/t2ws)
+* [tclhttpd] (https://core.tcl.tk/tclhttpd/index)
+
 
 
 Android and Tcl
