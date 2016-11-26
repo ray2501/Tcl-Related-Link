@@ -70,6 +70,7 @@ Extensions
 * [tcom] (https://github.com/pukkaone/tcom)
 * [TLS - OpenSSL extension to Tcl] (http://tls.sourceforge.net/)
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
+* [tclreadline] (https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
 * [VecTcl] (http://auriocus.github.io/VecTcl/)
 * [NaCl: Networking and Cryptography library] (http://wiki.tcl.tk/47681)
 * [TclMPI: Tcl bindings for MPI] (https://sites.google.com/site/akohlmey/software/tclmpi)
@@ -77,10 +78,22 @@ Extensions
 * [tcl-promise] (http://sourceforge.net/projects/tcl-promise/)
 * [Memchan] (http://memchan.sourceforge.net/) - In-memory channels for Tcl
 * [ToclBox] (https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
+* [Pdf4Tcl] (https://sourceforge.net/projects/pdf4tcl/)
+* [Snack] (http://www.speech.kth.se/snack/)
+* [SDL_mixer bindings for Tcl] (http://sqlitestudio.pl/tclmixer/)
+* [critcl] (http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
+* [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
+* [tclquadcode] (http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
+* [FireTcl] (https://sourceforge.net/projects/firetcl/) - embeds Tcl inside a browser with websocket support
+
+
+## Tcl extension (GUI and Widget)
+
 * [BWidget] (https://core.tcl.tk/bwidget/home)
 * [MCListbox] (http://core.tcl.tk/mclistbox/home)
 * [Incr Tk] (http://chiselapp.com/user/rene/repository/itk/index)
 * [incr Widgets] (http://chiselapp.com/user/rene/repository/iwidgets/index)
+* [Img] (https://sourceforge.net/projects/tkimg/)
 * [Tix Widget Set] (http://sourceforge.net/projects/tix/)
 * [GRIDPLUS] (http://www.satisoft.com/tcltk/gridplus2/)
 * [TkHTML] (http://tkhtml.tcl.tk/)
@@ -89,15 +102,8 @@ Extensions
 * [Tkpath] (https://bitbucket.org/andrew_shadura/tkpath)
 * [TkTable] (https://sourceforge.net/projects/tktable/)
 * [TkTreeCtrl] (http://tktreectrl.sourceforge.net/)
-* [Pdf4Tcl] (https://sourceforge.net/projects/pdf4tcl/)
-* [Img] (https://sourceforge.net/projects/tkimg/)
-* [Snack] (http://www.speech.kth.se/snack/)
-* [SDL_mixer bindings for Tcl] (http://sqlitestudio.pl/tclmixer/)
 * [TkDND] (http://sourceforge.net/projects/tkdnd/)
-* [critcl] (http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
-* [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
-* [tclquadcode] (http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
-* [FireTcl] (https://sourceforge.net/projects/firetcl/) - embeds Tcl inside a browser with websocket support
+
 
 ## Tcl extension and Database
 
