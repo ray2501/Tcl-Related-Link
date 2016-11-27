@@ -71,9 +71,10 @@ Extensions
 * [TLS - OpenSSL extension to Tcl] (http://tls.sourceforge.net/)
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
 * [tclreadline] (https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
-* [VecTcl] (http://auriocus.github.io/VecTcl/)
-* [NaCl: Networking and Cryptography library] (http://wiki.tcl.tk/47681)
 * [TclMPI: Tcl bindings for MPI] (https://sites.google.com/site/akohlmey/software/tclmpi)
+* [Mpexpr] (http://mpexpr.sourceforge.net/) - Mpexpr is a multiple precision math package for Tcl
+* [NaCl: Networking and Cryptography library] (http://wiki.tcl.tk/47681)
+* [VecTcl] (http://auriocus.github.io/VecTcl/)
 * [csp - Golang inspired concurrency library for Tcl] (https://securitykiss.com/resources/tutorials/csp_project/index.php)
 * [tcl-promise] (http://sourceforge.net/projects/tcl-promise/)
 * [Memchan] (http://memchan.sourceforge.net/) - In-memory channels for Tcl
@@ -102,6 +103,7 @@ Extensions
 * [Tkpath] (https://bitbucket.org/andrew_shadura/tkpath)
 * [TkTable] (https://sourceforge.net/projects/tktable/)
 * [TkTreeCtrl] (http://tktreectrl.sourceforge.net/)
+* [Tablelist] (http://www.nemethi.de/tablelist/index.html)
 * [TkDND] (http://sourceforge.net/projects/tkdnd/)
 
 
