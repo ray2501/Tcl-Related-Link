@@ -137,7 +137,7 @@ GUI toolkit and Tcl
 Audio/Sound and Tcl
 =====
 
-* [Snack] (http://www.speech.kth.se/snack/)
+* [Snack] (http://www.speech.kth.se/snack/) and check [Here] (http://wiki.tcl.tk/2647)
 * [SDL_mixer bindings for Tcl] (http://sqlitestudio.pl/tclmixer/)
 
 And my projects:
@@ -145,7 +145,7 @@ And my projects:
 * [tcllibao] (https://github.com/ray2501/tcllibao) - Tcl bindings for libao
 * [tclsndfile] (https://github.com/ray2501/tclsndfile) - Tcl bindings for libsndfile
 * [tclmpg123] (https://github.com/ray2501/tclmpg123) - Tcl bindings for libmpg123 
-* [tcltaglib] (https://sites.google.com/site/ray2501/tcltagliba) - Tcl interface
+* [tcltaglib] (https://sites.google.com/site/ray2501/tcltaglib) - Tcl interface
 for taglib (Abstract API only)
 
 
