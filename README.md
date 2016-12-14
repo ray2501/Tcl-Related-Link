@@ -80,8 +80,6 @@ Extensions
 * [Memchan] (http://memchan.sourceforge.net/) - In-memory channels for Tcl
 * [ToclBox] (https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
 * [Pdf4Tcl] (https://sourceforge.net/projects/pdf4tcl/)
-* [Snack] (http://www.speech.kth.se/snack/)
-* [SDL_mixer bindings for Tcl] (http://sqlitestudio.pl/tclmixer/)
 * [critcl] (http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
 * [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
 * [tclquadcode] (http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
@@ -134,6 +132,22 @@ GUI toolkit and Tcl
 
 * [Gnocl] (https://sites.google.com/site/gnocltclgtk/): Tcl binding to GTK
 * [TclFltk] (https://sourceforge.net/projects/tclfltk/): a Tcl binding for the Fast Light Tool Kit portable GUI development environment
+
+
+Audio/Sound and Tcl
+=====
+
+* [Snack] (http://www.speech.kth.se/snack/)
+* [SDL_mixer bindings for Tcl] (http://sqlitestudio.pl/tclmixer/)
+
+And my projects:
+
+* [tcllibao] (https://github.com/ray2501/tcllibao) - Tcl bindings for libao
+* [tclsndfile] (https://github.com/ray2501/tclsndfile) - Tcl bindings for libsndfile
+* [tclmpg123] (https://github.com/ray2501/tclmpg123) - Tcl bindings for libmpg123 
+* [tcltaglib] (https://sites.google.com/site/ray2501/tcltagliba) - Tcl interface
+for taglib (Abstract API only)
+
 
 XML and Tcl
 =====
