@@ -80,6 +80,8 @@ Extensions
 * [Memchan] (http://memchan.sourceforge.net/) - In-memory channels for Tcl
 * [ToclBox] (https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
 * [Pdf4Tcl] (https://sourceforge.net/projects/pdf4tcl/)
+* [rl_json] (https://github.com/RubyLane/rl_jsona) - Extends Tcl with a json value type
+and a command to manipulate json values directly
 * [critcl] (http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
 * [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
 * [tclquadcode] (http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
