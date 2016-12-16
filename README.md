@@ -144,6 +144,10 @@ Audio/Sound and Tcl
 * [Snack] (http://www.speech.kth.se/snack/) and check [Here] (http://wiki.tcl.tk/2647)
 * [SDL_mixer bindings for Tcl] (http://sqlitestudio.pl/tclmixer/)
 
+Useful info:
+
+* [Windows: volume control] (http://wiki.tcl.tk/48338)
+
 And my projects:
 
 * [tcllibao] (https://github.com/ray2501/tcllibao) - Tcl bindings for libao
