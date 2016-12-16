@@ -80,6 +80,7 @@ Extensions
 * [Memchan] (http://memchan.sourceforge.net/) - In-memory channels for Tcl
 * [ToclBox] (https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
 * [Pdf4Tcl] (https://sourceforge.net/projects/pdf4tcl/)
+* [tclMuPdf] (http://wiki.tcl.tk/48296) - a porting of the [MuPdf] (http://mupdf.com/) framework
 * [rl_json] (https://github.com/RubyLane/rl_json) - Extends Tcl with a json value type
 and a command to manipulate json values directly
 * [critcl] (http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
@@ -105,6 +106,7 @@ and a command to manipulate json values directly
 * [TkTreeCtrl] (http://tktreectrl.sourceforge.net/)
 * [Tablelist] (http://www.nemethi.de/tablelist/index.html)
 * [TkDND] (http://sourceforge.net/projects/tkdnd/)
+* [TaoLib] (http://fossil.etoyoc.com/fossil/taolib/index) - a TclOO megawidget framework
 
 
 ## Tcl extension and Database
