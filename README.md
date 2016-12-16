@@ -176,6 +176,11 @@ Web server and framework
 * [T2WS - Tiny Tcl Web Server] (https://github.com/Drolla/t2ws)
 * [tclhttpd] (https://core.tcl.tk/tclhttpd/index)
 
+And for html and CGI
+
+* [Tcllib html] (http://wiki.tcl.tk/38727) - provides tools to generate HTML programmatically (tcllib module)
+* [htmlparse] (http://wiki.tcl.tk/2204) - tcllib module
+* [ncgi] (http://wiki.tcl.tk/780) - provides commands that manipulate CGI values (tcllib module)
 
 
 Android and Tcl
