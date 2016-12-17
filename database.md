@@ -46,6 +46,8 @@ based on [Cassandra cpp driver] (https://github.com/datastax/cpp-driver)
 Other
 =====
 
+* [Tcl8 bindings for Xapian] (https://xapian.org/docs/bindings/tcl8/)
+* [etcd-tcl] (https://github.com/efrecon/etcd-tcl)
 * [kafkatcl] (https://github.com/flightaware/kafkatcl) - Tcl interface to the Apache Kafka
 * [zeromq - Tcl] (http://zeromq.org/bindings:tcl)
 * [rabbitmq-tcl] (https://github.com/dereckson/rabbitmq-tcl) - TCL extension to provide an AMQP client. Wrapper around librabbitmq
