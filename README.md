@@ -55,41 +55,28 @@ Tcllib and Tklib
 Extensions
 =====
 
-* [TclOO @ TIP #257] (http://www.tcl.tk/cgi-bin/tct/tip/257)
-* [incr Tcl] (http://incrtcl.sourceforge.net/)
-* [snit] (http://core.tcl.tk/jenglish/gutter/packages/snit.html) - Snit is a pure-Tcl object and megawidget framework
 * [zlib] (http://www.tcl.tk/cgi-bin/tct/tip/234) - Core support for zlib compression
-* [Next Scripting Framework] (https://next-scripting.org/xowiki/): A descendant of XOTcl
-* [TDBC] (http://tdbc.tcl.tk/index.cgi/index)
-* [Expect] (http://www.nist.gov/el/msid/expect.cfm)
-* [Tcl UDP extension] (https://sourceforge.net/projects/tcludp/)
-* [scotty] (https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
-* [Extended Tcl (TclX)] (http://tclx.sourceforge.net/)
-* [DBus binding for Tcl] (https://sourceforge.net/projects/dbus-tcl/)
-* [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
-* [tcom] (https://github.com/pukkaone/tcom)
-* [TLS - OpenSSL extension to Tcl] (http://tls.sourceforge.net/)
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
-* [tclreadline] (https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
-* [TclMPI: Tcl bindings for MPI] (https://sites.google.com/site/akohlmey/software/tclmpi)
-* [Mpexpr] (http://mpexpr.sourceforge.net/) - Mpexpr is a multiple precision math package for Tcl
-* [NaCl: Networking and Cryptography library] (http://wiki.tcl.tk/47681)
-* [VecTcl] (http://auriocus.github.io/VecTcl/)
-* [csp - Golang inspired concurrency library for Tcl] (https://securitykiss.com/resources/tutorials/csp_project/index.php)
-* [tcl-promise] (http://sourceforge.net/projects/tcl-promise/)
 * [Memchan] (http://memchan.sourceforge.net/) - In-memory channels for Tcl
+* [tclreadline] (https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
 * [ToclBox] (https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
-* [Pdf4Tcl] (https://sourceforge.net/projects/pdf4tcl/)
-* [tclMuPdf] (http://wiki.tcl.tk/48296) - a porting of the [MuPdf] (http://mupdf.com/) framework
-* [rl_json] (https://github.com/RubyLane/rl_json) - Extends Tcl with a json value type
-and a command to manipulate json values directly
 * [critcl] (http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
 * [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
 * [tclquadcode] (http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
 * [FireTcl] (https://sourceforge.net/projects/firetcl/) - embeds Tcl inside a browser with websocket support
 
 
-## Tcl extension (GUI and Widget)
+Object-oriented
+=====
+
+* [TclOO @ TIP #257] (http://www.tcl.tk/cgi-bin/tct/tip/257)
+* [incr Tcl] (http://incrtcl.sourceforge.net/)
+* [snit] (http://core.tcl.tk/jenglish/gutter/packages/snit.html) - Snit is a pure-Tcl object and megawidget framework
+* [Next Scripting Framework] (https://next-scripting.org/xowiki/): A descendant of XOTcl
+
+
+GUI and widget
+=====
 
 * [BWidget] (https://core.tcl.tk/bwidget/home)
 * [MCListbox] (http://core.tcl.tk/mclistbox/home)
@@ -109,36 +96,29 @@ and a command to manipulate json values directly
 * [TaoLib] (http://fossil.etoyoc.com/fossil/taolib/index) - a TclOO megawidget framework
 
 
-## Tcl extension and Database
-
-* [Tcl extension and Database] (https://github.com/ray2501/Tcl-Related-Link/blob/master/database.md)
-
-
-Tools
-=====
-
-* [tclapps] (https://github.com/tcltk/tclapps): a suite of small applications for Tcl useful as
-examples and in regular use to a large collection of Tcl programmers
-* [freeWrap] (http://freewrap.sourceforge.net/): FreeWrap distributions are freely available for Linux and Windows operating systems.
-* [tclexecomp] (https://sourceforge.net/projects/tclexecomp/)
-* [Enhanced Tk Console: tkcon] (http://tkcon.sourceforge.net/)
-* [TkCVS] (http://www.twobarleycorns.net/tkcvs.html)
-* [tcl-jira-api] (https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
-* [Eskil] (http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and directory differences
-* [ezdit] (https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
-* [Markdown2Go] (http://wiki.tcl.tk/48198): markdown converter
-* [poApps - Paul's Portable Applications] (http://www.posoft.de/html/poTools.html)
-* [kitgen build system] (https://sourceforge.net/projects/kbskit/) - Framework to generate TclkitLite executables, compile Tcl packages and build kit files for different operating systems
-
-
-GUI toolkit and Tcl
+GUI toolkit
 =====
 
 * [Gnocl] (https://sites.google.com/site/gnocltclgtk/): Tcl binding to GTK
 * [TclFltk] (https://sourceforge.net/projects/tclfltk/): a Tcl binding for the Fast Light Tool Kit portable GUI development environment
 
 
-Audio/Sound and Tcl
+Unix-specific
+=====
+
+* [Expect] (http://www.nist.gov/el/msid/expect.cfm)
+* [Extended Tcl (TclX)] (http://tclx.sourceforge.net/)
+* [DBus binding for Tcl] (https://sourceforge.net/projects/dbus-tcl/)
+
+
+Windows-specific
+======
+
+* [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
+* [tcom] (https://github.com/pukkaone/tcom)
+
+
+Audio/Sound
 =====
 
 * [Snack] (http://www.speech.kth.se/snack/) and check [Here] (http://wiki.tcl.tk/2647)
@@ -157,11 +137,61 @@ And my projects:
 for taglib (Abstract API only)
 
 
-XML and Tcl
+Concurrency
 =====
-* [tDOM] (http://tdom.github.io/)
-* [TclXML] (http://tclxml.sourceforge.net/)
-* [Web Services for Tcl] (http://core.tcl.tk/tclws/index)
+
+* [TclMPI: Tcl bindings for MPI] (https://sites.google.com/site/akohlmey/software/tclmpi)
+* [csp - Golang inspired concurrency library for Tcl] (https://securitykiss.com/resources/tutorials/csp_project/index.php)
+* [tcl-promise] (http://sourceforge.net/projects/tcl-promise/) - Promises are concurrency primitives that simplify asynchronous programming by allowing you to write the code in a sequential style
+
+
+Cryptography
+=====
+
+* [NaCl: Networking and Cryptography library] (http://wiki.tcl.tk/47681)
+* [TLS - OpenSSL extension to Tcl] (http://tls.sourceforge.net/)
+
+
+Database
+=====
+* [TDBC] (http://tdbc.tcl.tk/index.cgi/index)
+
+and check:
+
+* [Tcl extension and Database] (https://github.com/ray2501/Tcl-Related-Link/blob/master/database.md)
+
+
+JSON
+=====
+* [Tcllib JSON] (http://wiki.tcl.tk/40053)
+* [yajl-tcl] (http://wiki.tcl.tk/28240) - a Tcl binding for yajl (yet another json library)
+* [tcl-json] (https://github.com/bef/tcl-json)
+* [rl_json] (https://github.com/RubyLane/rl_json) - Extends Tcl with a json value type
+and a command to manipulate json values directly
+* [tcljsonnet] (https://github.com/ray2501/tcljsonnet)
+* [Playing XPath with JSON] (http://wiki.tcl.tk/40865)
+
+
+Networking
+=====
+
+* [Tcl UDP extension] (https://sourceforge.net/projects/tcludp/)
+* [scotty] (https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
+
+
+Numeric processing
+=====
+
+* [Mpexpr] (http://mpexpr.sourceforge.net/) - Mpexpr is a multiple precision math package for Tcl
+* [tensor] (http://www.eecs.umich.edu/~mckay/computer/)
+* [VecTcl] (http://auriocus.github.io/VecTcl/)
+
+
+PDF
+=====
+
+* [Pdf4Tcl] (https://sourceforge.net/projects/pdf4tcl/)
+* [tclMuPdf] (http://wiki.tcl.tk/48296) - a porting of the [MuPdf] (http://mupdf.com/) framework
 
 
 Web server and framework
@@ -183,12 +213,26 @@ And for html and CGI
 * [ncgi] (http://wiki.tcl.tk/780) - provides commands that manipulate CGI values (tcllib module)
 
 
+XML
+=====
+* [tDOM] (http://tdom.github.io/)
+* [TclXML] (http://tclxml.sourceforge.net/)
+* [Web Services for Tcl] (http://core.tcl.tk/tclws/index)
+
+
 Android and Tcl
 =====
 
 * [AndroWish] (http://www.androwish.org/index.html/home): AndroWish allows to
 run desktop Tcl and Tk programs almost unaltered on the Android Platform while
 it opens the door to script a rich set of features on a mobile platform.
+
+
+.NET and Tcl
+=====
+
+* [Eagle] (http://eagle.to/): Eagle (Extensible Adaptable Generalized Logic Engine) is an implementation of the Tcl scripting language for the Common Language Runtime (CLR).
+* [Eagle Integration Tutorial] (http://eagle.to/tutorial/01/index.html)
 
 
 Java and Tcl
@@ -202,22 +246,10 @@ Machine.
 * [Tcl/Java] (http://tcljava.sourceforge.net/docs/website/index.html)
 
 
-.NET and Tcl
-=====
-
-* [Eagle] (http://eagle.to/): Eagle (Extensible Adaptable Generalized Logic Engine) is an implementation of the Tcl scripting language for the Common Language Runtime (CLR).
-* [Eagle Integration Tutorial] (http://eagle.to/tutorial/01/index.html)
-
-
 Fortran and Tcl
 =====
 
 * [Example of a Tcl extension in Fortran] (http://wiki.tcl.tk/48061)
-
-
-Rust and Tcl
-=====
-* [rust-tcl] (https://github.com/AngryLawyer/rust-tcl) - Currently targets Tcl 8.5
 
 
 GO and Tcl
@@ -225,6 +257,11 @@ GO and Tcl
 
 * [gothic] (https://github.com/nsf/gothic) - Tcl/Tk Go bindings.
 * [Example of a Tcl extension in Go] (http://wiki.tcl.tk/48054)
+
+
+Rust and Tcl
+=====
+* [rust-tcl] (https://github.com/AngryLawyer/rust-tcl) - Currently targets Tcl 8.5
 
 
 Swift and Tcl
@@ -268,6 +305,23 @@ Write a Tcl extension
 Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有的 code 都要放在同一個檔案裡，
 這個機制並不是要取代之前的套件機制（使用 pkgIndex.tcl 這個 index script 來提供套件的資訊），
 而是在減少彃性， 不用提供 pkgIndex.tcl 的情況下，實作提供 Tcl core 資訊並且減少存取檔案系統次數的套件機制。
+
+
+Tools
+=====
+
+* [tclapps] (https://github.com/tcltk/tclapps): a suite of small applications for Tcl useful as
+examples and in regular use to a large collection of Tcl programmers
+* [freeWrap] (http://freewrap.sourceforge.net/): FreeWrap distributions are freely available for Linux and Windows operating systems.
+* [tclexecomp] (https://sourceforge.net/projects/tclexecomp/)
+* [Enhanced Tk Console: tkcon] (http://tkcon.sourceforge.net/)
+* [TkCVS] (http://www.twobarleycorns.net/tkcvs.html)
+* [tcl-jira-api] (https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
+* [Eskil] (http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and directory differences
+* [ezdit] (https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
+* [Markdown2Go] (http://wiki.tcl.tk/48198): markdown converter
+* [poApps - Paul's Portable Applications] (http://www.posoft.de/html/poTools.html)
+* [kitgen build system] (https://sourceforge.net/projects/kbskit/) - Framework to generate TclkitLite executables, compile Tcl packages and build kit files for different operating systems
 
 
 Misc
