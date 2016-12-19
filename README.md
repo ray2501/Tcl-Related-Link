@@ -103,21 +103,6 @@ GUI toolkit
 * [TclFltk] (https://sourceforge.net/projects/tclfltk/): a Tcl binding for the Fast Light Tool Kit portable GUI development environment
 
 
-Unix-specific
-=====
-
-* [Expect] (http://www.nist.gov/el/msid/expect.cfm)
-* [Extended Tcl (TclX)] (http://tclx.sourceforge.net/)
-* [DBus binding for Tcl] (https://sourceforge.net/projects/dbus-tcl/)
-
-
-Windows-specific
-======
-
-* [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
-* [tcom] (https://github.com/pukkaone/tcom)
-
-
 Audio/Sound
 =====
 
@@ -223,23 +208,36 @@ XML
 * [Web Services for Tcl] (http://core.tcl.tk/tclws/index)
 
 
-Android and Tcl
+Platform and Language
 =====
+
+## Unix-specific
+
+* [Expect] (http://www.nist.gov/el/msid/expect.cfm)
+* [Extended Tcl (TclX)] (http://tclx.sourceforge.net/)
+* [DBus binding for Tcl] (https://sourceforge.net/projects/dbus-tcl/)
+
+
+## Windows-specific
+
+* [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
+* [tcom] (https://github.com/pukkaone/tcom)
+
+
+## Android and Tcl
 
 * [AndroWish] (http://www.androwish.org/index.html/home): AndroWish allows to
 run desktop Tcl and Tk programs almost unaltered on the Android Platform while
 it opens the door to script a rich set of features on a mobile platform.
 
 
-.NET and Tcl
-=====
+## .NET and Tcl
 
 * [Eagle] (http://eagle.to/): Eagle (Extensible Adaptable Generalized Logic Engine) is an implementation of the Tcl scripting language for the Common Language Runtime (CLR).
 * [Eagle Integration Tutorial] (http://eagle.to/tutorial/01/index.html)
 
 
-Java and Tcl
-=====
+## Java and Tcl
 
 * [JTcl] (https://jtcl-project.github.io/jtcl/): JTcl is an implementation of
 Tool Command Language written in Java. JTcl implements a large extent of Tcl 8.4
@@ -249,32 +247,30 @@ Machine.
 * [Tcl/Java] (http://tcljava.sourceforge.net/docs/website/index.html)
 
 
-Fortran and Tcl
-=====
+## Fortran and Tcl
 
 * [Example of a Tcl extension in Fortran] (http://wiki.tcl.tk/48061)
 
 
-GO and Tcl
-=====
+## GO and Tcl
 
 * [gothic] (https://github.com/nsf/gothic) - Tcl/Tk Go bindings.
 * [Example of a Tcl extension in Go] (http://wiki.tcl.tk/48054)
 
 
-Rust and Tcl
-=====
+## Rust and Tcl
+
 * [rust-tcl] (https://github.com/AngryLawyer/rust-tcl) - Currently targets Tcl 8.5
 
 
-Swift and Tcl
-=====
+##Swift and Tcl
+
 * [tcl-swift-bridge] (https://github.com/flightaware/tcl-swift-bridge): Swift class library that bridges between Swift and Tcl
 * [Example of a Tcl extension in Swift] (http://wiki.tcl.tk/48057)
 
 
-Emscripten and Tcl
-=====
+## Emscripten and Tcl
+
 * [EmTcl] (https://aidanhs.github.io/emtcl/): Tcl 8.6 and Jim Tcl in the browser through emscripten
 
 
