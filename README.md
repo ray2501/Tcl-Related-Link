@@ -126,7 +126,9 @@ Audio/Sound
 
 Useful info:
 
+* [Linux: volume control] (http://wiki.tcl.tk/48348)
 * [Windows: volume control] (http://wiki.tcl.tk/48338)
+* [Windows XP: volume control] (http://wiki.tcl.tk/48350)
 
 And my projects:
 
@@ -211,6 +213,7 @@ And for html and CGI
 * [Tcllib html] (http://wiki.tcl.tk/38727) - provides tools to generate HTML programmatically (tcllib module)
 * [htmlparse] (http://wiki.tcl.tk/2204) - tcllib module
 * [ncgi] (http://wiki.tcl.tk/780) - provides commands that manipulate CGI values (tcllib module)
+* [Tclgumbo] (https://sites.google.com/site/ray2501/tclgumbo) - Tcl interface for gumbo library
 
 
 XML
