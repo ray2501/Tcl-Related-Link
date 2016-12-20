@@ -45,7 +45,7 @@ TclKits
 * [SDX] (http://wiki.tcl.tk/3411a)
 
 
-Tcllib and Tklib
+Tcllib and Tklib (Standard Libraries)
 =====
 
 * [Tcllib] (https://core.tcl.tk/tcllib/doc/trunk/embedded/index.html)
@@ -55,15 +55,15 @@ Tcllib and Tklib
 Extensions
 =====
 
-* [zlib] (http://www.tcl.tk/cgi-bin/tct/tip/234) - Core support for zlib compression
+* [ffidl] (http://elf.org/ffidl/) - Foreign Function Interface
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
 * [Memchan] (http://memchan.sourceforge.net/) - In-memory channels for Tcl
 * [tclreadline] (https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
 * [ToclBox] (https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
-* [critcl] (http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
 * [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
 * [tclquadcode] (http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
-* [FireTcl] (https://sourceforge.net/projects/firetcl/) - embeds Tcl inside a browser with websocket support
+* [FireTcl] (https://sourceforge.net/projects/firetcl/) - It's a framework for developing desktop apps using web technology and Tcl, embeds Tcl inside a browser with websocket support
+* [TclYAML] (http://chiselapp.com/user/andreas_kupries/repository/tclyaml/index) - provides a Tcl Binding to the [libyaml] (http://pyyaml.org/wiki/LibYAML) library
 
 
 Object-oriented
@@ -123,6 +123,11 @@ And my projects:
 * [tcltaglib] (https://sites.google.com/site/ray2501/tcltaglib) - Tcl interface
 for taglib (Abstract API only)
 
+Compression
+=====
+
+* [zlib] (http://www.tcl.tk/cgi-bin/tct/tip/234) - Core support for zlib compression
+
 
 Concurrency
 =====
@@ -148,6 +153,16 @@ and check:
 * [Tcl extension and Database] (https://github.com/ray2501/Tcl-Related-Link/blob/master/database.md)
 
 
+Images
+=====
+
+* [tcl.gd] (https://github.com/flightaware/tcl.gd) - Feature-complete Tcl interface to GD graphics drawing library
+
+For handle image formats, you also can check [Img] (https://sourceforge.net/projects/tkimg/).
+
+PNG is also built-in support in Tcl/Tk 8.6.0 (and above version).
+
+
 JSON
 =====
 * [Tcllib JSON] (http://wiki.tcl.tk/40053)
@@ -164,6 +179,7 @@ Networking
 
 * [Tcl UDP extension] (https://sourceforge.net/projects/tcludp/)
 * [scotty] (https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
+* [Tcl Extensions for Network Management] (http://www.ibr.cs.tu-bs.de/projects/scotty/)
 
 
 Numeric processing
@@ -192,6 +208,7 @@ Web server and framework
 * [tclssg] (https://github.com/tclssg/tclssg): A static site generator with template support written in Tcl
 * [T2WS - Tiny Tcl Web Server] (https://github.com/Drolla/t2ws)
 * [tclhttpd] (https://core.tcl.tk/tclhttpd/index)
+* [woof] (http://sourceforge.net/projects/woof) - Web Oriented Object Framework
 
 And for html and CGI
 
@@ -237,7 +254,7 @@ it opens the door to script a rich set of features on a mobile platform.
 * [Eagle Integration Tutorial] (http://eagle.to/tutorial/01/index.html)
 
 
-## Java and Tcl
+## Java
 
 * [JTcl] (https://jtcl-project.github.io/jtcl/): JTcl is an implementation of
 Tool Command Language written in Java. JTcl implements a large extent of Tcl 8.4
@@ -247,29 +264,34 @@ Machine.
 * [Tcl/Java] (http://tcljava.sourceforge.net/docs/website/index.html)
 
 
-## Fortran and Tcl
+## C
+
+* [critcl] (http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
+
+
+## Fortran
 
 * [Example of a Tcl extension in Fortran] (http://wiki.tcl.tk/48061)
 
 
-## GO and Tcl
+## GO
 
 * [gothic] (https://github.com/nsf/gothic) - Tcl/Tk Go bindings.
 * [Example of a Tcl extension in Go] (http://wiki.tcl.tk/48054)
 
 
-## Rust and Tcl
+## Rust
 
 * [rust-tcl] (https://github.com/AngryLawyer/rust-tcl) - Currently targets Tcl 8.5
 
 
-##Swift and Tcl
+##Swift
 
 * [tcl-swift-bridge] (https://github.com/flightaware/tcl-swift-bridge): Swift class library that bridges between Swift and Tcl
 * [Example of a Tcl extension in Swift] (http://wiki.tcl.tk/48057)
 
 
-## Emscripten and Tcl
+## Emscripten
 
 * [EmTcl] (https://aidanhs.github.io/emtcl/): Tcl 8.6 and Jim Tcl in the browser through emscripten
 
