@@ -114,6 +114,7 @@ Useful info:
 * [Linux: volume control] (http://wiki.tcl.tk/48348)
 * [Windows: volume control] (http://wiki.tcl.tk/48338)
 * [Windows XP: volume control] (http://wiki.tcl.tk/48350)
+* [Audio Edit Utility] (http://wiki.tcl.tk/40321) - a front-end for the 'ffmpeg' command
 
 And my projects:
 
@@ -123,6 +124,16 @@ And my projects:
 * [tclmpg123] (https://github.com/ray2501/tclmpg123) - Tcl bindings for libmpg123 
 * [tcltaglib] (https://sites.google.com/site/ray2501/tcltaglib) - Tcl interface
 for taglib (Abstract API only)
+
+
+Video
+=====
+
+Useful info:
+
+* [Using Tcl/Tk in Multimedia Applications] (http://wiki.tcl.tk/864)
+* [Movie Edit Utility] (http://wiki.tcl.tk/40305) - http://wiki.tcl.tk/40305
+
 
 Compression
 =====
