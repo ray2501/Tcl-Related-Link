@@ -95,6 +95,10 @@ GUI and widget
 * [TkDND] (http://sourceforge.net/projects/tkdnd/)
 * [TaoLib] (http://fossil.etoyoc.com/fossil/taolib/index) - a TclOO megawidget framework
 
+Useful info:
+
+* [OpenGL with C and Tcl/Tk] (https://codeplea.com/opengl-with-c-and-tcl-tk)
+
 
 GUI toolkit
 =====
@@ -132,7 +136,7 @@ Video
 Useful info:
 
 * [Using Tcl/Tk in Multimedia Applications] (http://wiki.tcl.tk/864)
-* [Movie Edit Utility] (http://wiki.tcl.tk/40305) - http://wiki.tcl.tk/40305
+* [Movie Edit Utility] (http://wiki.tcl.tk/40305) - a front-end for the 'ffmpeg' command
 
 
 Compression
