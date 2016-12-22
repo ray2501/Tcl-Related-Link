@@ -118,6 +118,7 @@ Useful info:
 And my projects:
 
 * [tcllibao] (https://github.com/ray2501/tcllibao) - Tcl bindings for libao
+* [tpulsesimple] (https://github.com/ray2501/tpulsesimple) - Tcl bindings for PulseAudio simple API
 * [tclsndfile] (https://github.com/ray2501/tclsndfile) - Tcl bindings for libsndfile
 * [tclmpg123] (https://github.com/ray2501/tclmpg123) - Tcl bindings for libmpg123 
 * [tcltaglib] (https://sites.google.com/site/ray2501/tcltaglib) - Tcl interface
@@ -162,6 +163,10 @@ For handle image formats, you also can check [Img] (https://sourceforge.net/proj
 
 PNG is also built-in support in Tcl/Tk 8.6.0 (and above version).
 
+And my project:
+
+* [tclqrencode] (https://sites.google.com/site/ray2501/tclqrencode) - Tcl interface for libqrencode
+
 
 JSON
 =====
@@ -180,6 +185,7 @@ Networking
 * [Tcl UDP extension] (https://sourceforge.net/projects/tcludp/)
 * [scotty] (https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
 * [Tcl Extensions for Network Management] (http://www.ibr.cs.tu-bs.de/projects/scotty/)
+* [Tcllib ldap] (https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ldap/ldap.html) - LDAP client
 
 
 Numeric processing
