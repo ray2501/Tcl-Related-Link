@@ -144,6 +144,10 @@ Compression
 
 * [zlib] (http://www.tcl.tk/cgi-bin/tct/tip/234) - Core support for zlib compression
 
+And my project:
+
+* [tcl.snappy] (https://github.com/ray2501/tcl.snappy) - snappy wrapper for Tcl
+
 
 Concurrency
 =====
@@ -364,6 +368,7 @@ examples and in regular use to a large collection of Tcl programmers
 * [Markdown2Go] (http://wiki.tcl.tk/48198): markdown converter
 * [poApps - Paul's Portable Applications] (http://www.posoft.de/html/poTools.html)
 * [kitgen build system] (https://sourceforge.net/projects/kbskit/) - Framework to generate TclkitLite executables, compile Tcl packages and build kit files for different operating systems
+* [minitree note taking app] (http://wiki.tcl.tk/48369)
 
 
 Misc
