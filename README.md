@@ -119,6 +119,7 @@ Useful info:
 * [Windows: volume control] (http://wiki.tcl.tk/48338)
 * [Windows XP: volume control] (http://wiki.tcl.tk/48350)
 * [Audio Edit Utility] (http://wiki.tcl.tk/40321) - a front-end for the 'ffmpeg' command
+* [VLC Tcl Extension] (http://wiki.tcl.tk/48382)
 
 And my projects:
 
@@ -205,6 +206,7 @@ Networking
 * [scotty] (https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
 * [Tcl Extensions for Network Management] (http://www.ibr.cs.tu-bs.de/projects/scotty/)
 * [Tcllib ldap] (https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ldap/ldap.html) - LDAP client
+* [ecap-tcl] (https://github.com/petasis/ecap-tcl) - An eCAP adapter for Tcl
 
 
 Numeric processing
