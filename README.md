@@ -125,6 +125,7 @@ And my projects:
 
 * [tcllibao] (https://github.com/ray2501/tcllibao) - Tcl bindings for libao
 * [tpulsesimple] (https://github.com/ray2501/tpulsesimple) - Tcl bindings for PulseAudio simple API
+* [tclopenal] (https://github.com/ray2501/tclopenal) - Tcl bindings for OpenAL (open audio library)
 * [tclsndfile] (https://github.com/ray2501/tclsndfile) - Tcl bindings for libsndfile
 * [tclmpg123] (https://github.com/ray2501/tclmpg123) - Tcl bindings for libmpg123 
 * [tcltaglib] (https://sites.google.com/site/ray2501/tcltaglib) - Tcl interface
@@ -205,6 +206,7 @@ Networking
 * [Tcl UDP extension] (https://sourceforge.net/projects/tcludp/)
 * [scotty] (https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
 * [Tcl Extensions for Network Management] (http://www.ibr.cs.tu-bs.de/projects/scotty/)
+* [tclnetsnmp] (http://tcl.uk.to/) - netsnmp package for TCL 8.6
 * [Tcllib ldap] (https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ldap/ldap.html) - LDAP client
 * [ecap-tcl] (https://github.com/petasis/ecap-tcl) - An eCAP adapter for Tcl
 
