@@ -58,7 +58,6 @@ Extensions
 * [ffidl] (http://elf.org/ffidl/) - Foreign Function Interface
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
 * [Memchan] (http://memchan.sourceforge.net/) - In-memory channels for Tcl
-* [tclreadline] (https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
 * [ToclBox] (https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
 * [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
 * [tclquadcode] (http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
@@ -94,6 +93,8 @@ GUI and widget
 * [Tablelist] (http://www.nemethi.de/tablelist/index.html)
 * [TkDND] (http://sourceforge.net/projects/tkdnd/)
 * [TaoLib] (http://fossil.etoyoc.com/fossil/taolib/index) - a TclOO megawidget framework
+* [wcb] (http://www.nemethi.de/) - The WCB package provides a general-purpose
+mechanism for customizing the behavior of entry, spinbox, and text widgets
 
 Useful info:
 
@@ -135,10 +136,16 @@ for taglib (Abstract API only)
 Video
 =====
 
+* [tkvideo] (http://www.patthoyts.tk/tkvideo/) - A video widget for use with Windows
+
 Useful info:
 
 * [Using Tcl/Tk in Multimedia Applications] (http://wiki.tcl.tk/864)
 * [Movie Edit Utility] (http://wiki.tcl.tk/40305) - a front-end for the 'ffmpeg' command
+
+And my project:
+
+* [tkvlc] (https://github.com/ray2501/tkvlc) - A demo to embed libVLC to Tk toolkit widget
 
 
 Compression
@@ -178,7 +185,10 @@ and check:
 Images
 =====
 
-* [tcl.gd] (https://github.com/flightaware/tcl.gd) - Feature-complete Tcl interface to GD graphics drawing library
+* [tcl.gd] (https://github.com/flightaware/tcl.gd) - Feature-complete Tcl interface to
+GD graphics drawing library
+* [tclmagick] (http://tclmagick.sourceforge.net/) - Tcl and Tk Interfaces to
+GraphicsMagick and ImageMagick
 
 For handle image formats, you also can check [Img] (https://sourceforge.net/projects/tkimg/).
 
@@ -209,6 +219,7 @@ Networking
 * [tclnetsnmp] (http://tcl.uk.to/) - netsnmp package for TCL 8.6
 * [Tcllib ldap] (https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ldap/ldap.html) - LDAP client
 * [ecap-tcl] (https://github.com/petasis/ecap-tcl) - An eCAP adapter for Tcl
+* [Netinfo] (http://wiki.tcl.tk/17493) - Protocol, service, network, host and ether info
 
 
 Numeric processing
@@ -262,7 +273,7 @@ Platform and Language
 * [Expect] (http://www.nist.gov/el/msid/expect.cfm)
 * [Extended Tcl (TclX)] (http://tclx.sourceforge.net/)
 * [DBus binding for Tcl] (https://sourceforge.net/projects/dbus-tcl/)
-
+* [tclreadline] (https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
 
 ## Windows-specific
 
