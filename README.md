@@ -137,6 +137,7 @@ Video
 =====
 
 * [tkvideo] (http://www.patthoyts.tk/tkvideo/) - A video widget for use with Windows
+* [tkmpeg] (https://github.com/wjoye/tkmpeg) - TK MPEG 1 encoder, Tcl/Tk 8.5/8.6 TEA compatible
 
 Useful info:
 
@@ -274,11 +275,21 @@ Platform and Language
 * [Extended Tcl (TclX)] (http://tclx.sourceforge.net/)
 * [DBus binding for Tcl] (https://sourceforge.net/projects/dbus-tcl/)
 * [tclreadline] (https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
+* [tclbsd] (https://github.com/flightaware/tclbsd) - A Tcl package for interfacing to
+various BSD UNIX system calls and library routines
+
 
 ## Windows-specific
 
 * [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
 * [tcom] (https://github.com/pukkaone/tcom)
+
+
+## Raspberry Pi
+
+Useful info:
+
+* [Raspberry Pi on Tcler's wiki] (http://wiki.tcl.tk/29308)
 
 
 ## Android and Tcl
@@ -380,6 +391,7 @@ examples and in regular use to a large collection of Tcl programmers
 * [tcl-jira-api] (https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
 * [Eskil] (http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and directory differences
 * [ezdit] (https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
+* [MTE] (http://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
 * [Markdown2Go] (http://wiki.tcl.tk/48198): markdown converter
 * [poApps - Paul's Portable Applications] (http://www.posoft.de/html/poTools.html)
 * [kitgen build system] (https://sourceforge.net/projects/kbskit/) - Framework to generate TclkitLite executables, compile Tcl packages and build kit files for different operating systems
