@@ -221,7 +221,7 @@ Networking
 
 * [Tcl UDP extension] (https://sourceforge.net/projects/tcludp/)
 * [scotty] (https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
-* [tclcurl] (https://github.com/jdc8/tclcurl) - https://github.com/jdc8/tclcurl
+* [tclcurl] (https://github.com/jdc8/tclcurl) - Tcl wrapper for Curl
 * [Tcl Extensions for Network Management] (http://www.ibr.cs.tu-bs.de/projects/scotty/)
 * [tclnetsnmp] (http://tcl.uk.to/) - netsnmp package for TCL 8.6
 * [Tcllib ldap] (https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ldap/ldap.html) - LDAP client
