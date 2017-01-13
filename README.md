@@ -4,6 +4,18 @@ Tcl-Related-Link
 這是一個我個人收集的 [Tcl] (http://www.tcl.tk/) 相關連結網頁。目的是我需要某個連結的時候，可以很快的找到。
 
 
+Tcl
+=====
+
+## [Summary of Tcl language syntax] (http://www.tcl.tk/man/tcl8.6/TclCmd/Tcl.htm)
+
+Tcl 說明文件中關於語法的說明，總共有 12 條規則。
+
+## [Everything is a string] (http://wiki.tcl.tk/3018)
+
+The more precise meaning of Everything is a string is every value is a string. This is one of the central features of Tcl.
+
+
 官網與相關文件
 =====
 
@@ -72,8 +84,8 @@ Object-oriented
 
 * [TclOO @ TIP #257] (http://www.tcl.tk/cgi-bin/tct/tip/257)
 * [incr Tcl] (http://incrtcl.sourceforge.net/)
-* [snit] (http://core.tcl.tk/jenglish/gutter/packages/snit.html) - Snit is a pure-Tcl object and megawidget framework
 * [Next Scripting Framework] (https://next-scripting.org/xowiki/): A descendant of XOTcl
+* [snit] (http://core.tcl.tk/jenglish/gutter/packages/snit.html) - Snit is a pure-Tcl object and megawidget framework
 
 
 GUI and widget
@@ -298,8 +310,10 @@ various BSD UNIX system calls and library routines
 
 ## Windows-specific
 
-* [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
 * [tcom] (https://github.com/pukkaone/tcom)
+* [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
+* [CAWT] (http://www.posoft.de/html/extCawt.html) - Com Automation With Tcl,
+based on Twapi to script Microsoft Windows® applications with Tcl
 
 
 ## Raspberry Pi
