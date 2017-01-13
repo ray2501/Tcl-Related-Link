@@ -134,8 +134,8 @@ Audio/Sound
 * [Snack] (http://www.speech.kth.se/snack/) and check [Here] (http://wiki.tcl.tk/2647)
 * [SDL_mixer bindings for Tcl] (http://sqlitestudio.pl/tclmixer/)
 * [TclJACK] (https://github.com/screwtop/TclJACK) - A Tcl extension for interacting with
-* [tclmidi] (https://github.com/jdc8/tclmidi) - a package to work with Midi files
 the JACK Audio Connection Kit library (jacklib)
+* [tclmidi] (https://github.com/jdc8/tclmidi) - a package to work with Midi files
 
 Useful info:
 
