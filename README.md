@@ -24,12 +24,14 @@ Tcl-Related-Link
 * [TkDocs] (http://www.tkdocs.com/)
 * [Great Unified Tcl/Tk Extension Repository] (http://core.tcl.tk/jenglish/gutter/)
 * [RosettaCode: Tcl] (http://rosettacode.org/wiki/Category:Tcl)
+* [Tcl and the Tk Toolkit (2nd Edition)] (http://www.tcltk-book.com/): Updated for Tcl/Tk 8.5
 
 
 ActiveTcl
 =====
 
 * [ActiveTcl] (http://www.activestate.com/activetcl) 是一個廣為人所知，提供了 [Batteries Included] (http://wiki.tcl.tk/2352) 的 Binary Distribution。
+
 
 Tcl binary distributions (for Windows)
 =====
@@ -58,11 +60,11 @@ Extensions
 * [ffidl] (http://elf.org/ffidl/) - Foreign Function Interface
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
 * [Memchan] (http://memchan.sourceforge.net/) - In-memory channels for Tcl
+* [Trf] (http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels
 * [ToclBox] (https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
 * [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
 * [tclquadcode] (http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
 * [FireTcl] (https://sourceforge.net/projects/firetcl/) - It's a framework for developing desktop apps using web technology and Tcl, embeds Tcl inside a browser with websocket support
-* [TclYAML] (http://chiselapp.com/user/andreas_kupries/repository/tclyaml/index) - provides a Tcl Binding to the [libyaml] (http://pyyaml.org/wiki/LibYAML) library
 
 
 Object-oriented
@@ -92,6 +94,7 @@ GUI and widget
 * [TkTreeCtrl] (http://tktreectrl.sourceforge.net/)
 * [Tablelist] (http://www.nemethi.de/tablelist/index.html)
 * [TkDND] (http://sourceforge.net/projects/tkdnd/)
+* [Mtiwidgets] (http://wiki.tcl.tk/6237) - Includes mtiwidgets::mdiframe widget
 * [TaoLib] (http://fossil.etoyoc.com/fossil/taolib/index) - a TclOO megawidget framework
 * [wcb] (http://www.nemethi.de/) - The WCB package provides a general-purpose
 mechanism for customizing the behavior of entry, spinbox, and text widgets
@@ -108,11 +111,31 @@ GUI toolkit
 * [TclFltk] (https://sourceforge.net/projects/tclfltk/): a Tcl binding for the Fast Light Tool Kit portable GUI development environment
 
 
+Images
+=====
+
+* [tcl.gd] (https://github.com/flightaware/tcl.gd) - Feature-complete Tcl interface to
+GD graphics drawing library
+* [tclmagick] (http://tclmagick.sourceforge.net/) - Tcl and Tk Interfaces to
+GraphicsMagick and ImageMagick
+
+For handle image formats, you also can check [Img] (https://sourceforge.net/projects/tkimg/).
+
+PNG is also built-in support in Tcl/Tk 8.6.0 (and above version).
+
+And my project:
+
+* [tclqrencode] (https://sites.google.com/site/ray2501/tclqrencode) - Tcl interface for libqrencode
+
+
 Audio/Sound
 =====
 
 * [Snack] (http://www.speech.kth.se/snack/) and check [Here] (http://wiki.tcl.tk/2647)
 * [SDL_mixer bindings for Tcl] (http://sqlitestudio.pl/tclmixer/)
+* [TclJACK] (https://github.com/screwtop/TclJACK) - A Tcl extension for interacting with
+* [tclmidi] (https://github.com/jdc8/tclmidi) - a package to work with Midi files
+the JACK Audio Connection Kit library (jacklib)
 
 Useful info:
 
@@ -149,14 +172,23 @@ And my project:
 * [tkvlc] (https://github.com/ray2501/tkvlc) - A demo to embed libVLC to Tk toolkit widget
 
 
+PDF
+=====
+
+* [Pdf4Tcl] (https://sourceforge.net/projects/pdf4tcl/)
+* [tclMuPdf] (http://wiki.tcl.tk/48296) - a porting of the [MuPdf] (http://mupdf.com/) framework
+
+
 Compression
 =====
 
 * [zlib] (http://www.tcl.tk/cgi-bin/tct/tip/234) - Core support for zlib compression
+* [tclzvfs] (https://github.com/wjoye/tclzvfs) - TCL Zip Virtual File System, Tcl 8.5/8.6 TEA compatible
 
 And my project:
 
 * [tcl.snappy] (https://github.com/ray2501/tcl.snappy) - snappy wrapper for Tcl
+* [Tcl-lzf] (https://sites.google.com/site/ray2501/tcl-lzf) - Tcl interface to the LibLZF Library
 
 
 Concurrency
@@ -170,6 +202,7 @@ Concurrency
 Cryptography
 =====
 
+* [Cryptkit] (http://wiki.tcl.tk/13191) - a Tcl binding to the Cryptlib security toolkit
 * [NaCl: Networking and Cryptography library] (http://wiki.tcl.tk/47681)
 * [TclTLS] (https://core.tcl.tk/tcltls/index) - OpenSSL extension to Tcl
 
@@ -181,34 +214,6 @@ Database
 and check:
 
 * [Tcl extension and Database] (https://github.com/ray2501/Tcl-Related-Link/blob/master/database.md)
-
-
-Images
-=====
-
-* [tcl.gd] (https://github.com/flightaware/tcl.gd) - Feature-complete Tcl interface to
-GD graphics drawing library
-* [tclmagick] (http://tclmagick.sourceforge.net/) - Tcl and Tk Interfaces to
-GraphicsMagick and ImageMagick
-
-For handle image formats, you also can check [Img] (https://sourceforge.net/projects/tkimg/).
-
-PNG is also built-in support in Tcl/Tk 8.6.0 (and above version).
-
-And my project:
-
-* [tclqrencode] (https://sites.google.com/site/ray2501/tclqrencode) - Tcl interface for libqrencode
-
-
-JSON
-=====
-* [Tcllib JSON] (http://wiki.tcl.tk/40053)
-* [yajl-tcl] (http://wiki.tcl.tk/28240) - a Tcl binding for yajl (yet another json library)
-* [tcl-json] (https://github.com/bef/tcl-json)
-* [rl_json] (https://github.com/RubyLane/rl_json) - Extends Tcl with a json value type
-and a command to manipulate json values directly
-* [tcljsonnet] (https://github.com/ray2501/tcljsonnet)
-* [Playing XPath with JSON] (http://wiki.tcl.tk/40865)
 
 
 Networking
@@ -229,13 +234,6 @@ Numeric processing
 * [Mpexpr] (http://mpexpr.sourceforge.net/) - Mpexpr is a multiple precision math package for Tcl
 * [tensor] (http://www.eecs.umich.edu/~mckay/computer/)
 * [VecTcl] (http://auriocus.github.io/VecTcl/)
-
-
-PDF
-=====
-
-* [Pdf4Tcl] (https://sourceforge.net/projects/pdf4tcl/)
-* [tclMuPdf] (http://wiki.tcl.tk/48296) - a porting of the [MuPdf] (http://mupdf.com/) framework
 
 
 Web server and framework
@@ -259,11 +257,29 @@ And for html and CGI
 * [Tclgumbo] (https://sites.google.com/site/ray2501/tclgumbo) - Tcl interface for gumbo library
 
 
+JSON
+=====
+* [Tcllib JSON] (http://wiki.tcl.tk/40053)
+* [yajl-tcl] (http://wiki.tcl.tk/28240) - a Tcl binding for yajl (yet another json library)
+* [tcl-json] (https://github.com/bef/tcl-json)
+* [rl_json] (https://github.com/RubyLane/rl_json) - Extends Tcl with a json value type
+and a command to manipulate json values directly
+* [tcljsonnet] (https://github.com/ray2501/tcljsonnet)
+* [Playing XPath with JSON] (http://wiki.tcl.tk/40865)
+
+
 XML
 =====
+
 * [tDOM] (http://tdom.github.io/)
 * [TclXML] (http://tclxml.sourceforge.net/)
 * [Web Services for Tcl] (http://core.tcl.tk/tclws/index)
+
+
+YAML
+=====
+
+* [TclYAML] (http://chiselapp.com/user/andreas_kupries/repository/tclyaml/index) - provides a Tcl Binding to the [libyaml] (http://pyyaml.org/wiki/LibYAML) library
 
 
 Platform and Language
@@ -324,6 +340,10 @@ Machine.
 
 * [Example of a Tcl extension in Fortran] (http://wiki.tcl.tk/48061)
 
+
+## JavaScript
+
+* [tcljs (SpiderMonkey)] (https://github.com/flightaware/tcljs) - Tcl extension to execute JavaScript using the SpiderMonkey Javascript interpreter
 
 ## GO
 
