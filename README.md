@@ -130,10 +130,15 @@ Images
 GD graphics drawing library
 * [tclmagick] (http://tclmagick.sourceforge.net/) - Tcl and Tk Interfaces to
 GraphicsMagick and ImageMagick
+* [tklib plotchart] (http://wiki.tcl.tk/11265)
 
 For handle image formats, you also can check [Img] (https://sourceforge.net/projects/tkimg/).
 
 PNG is also built-in support in Tcl/Tk 8.6.0 (and above version).
+
+Useful info:
+
+* [3D animation on canvas with Gnuplot] (http://wiki.tcl.tk/13555)
 
 And my project:
 
