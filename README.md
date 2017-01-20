@@ -110,6 +110,7 @@ GUI and widget
 * [TaoLib] (http://fossil.etoyoc.com/fossil/taolib/index) - a TclOO megawidget framework
 * [wcb] (http://www.nemethi.de/) - The WCB package provides a general-purpose
 mechanism for customizing the behavior of entry, spinbox, and text widgets
+* [BLT in Wize] (http://pdqi.com/w/pw/pdqi/Wize/Blt)
 
 Useful info:
 
@@ -358,6 +359,7 @@ Machine.
 
 ## Fortran
 
+* [Ftcl] (http://ftcl.sourceforge.net/) - Using Tcl in Fortran programs and vice versa
 * [Example of a Tcl extension in Fortran] (http://wiki.tcl.tk/48061)
 
 
