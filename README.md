@@ -115,6 +115,7 @@ mechanism for customizing the behavior of entry, spinbox, and text widgets
 Useful info:
 
 * [OpenGL with C and Tcl/Tk] (https://codeplea.com/opengl-with-c-and-tcl-tk)
+* [A TclOO Tkhtml 3.0 megawidget - example of how to render html+css] (http://wiki.tcl.tk/48458)
 
 
 GUI toolkit
