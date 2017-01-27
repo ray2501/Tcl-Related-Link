@@ -367,6 +367,8 @@ Machine.
 ## JavaScript
 
 * [tcljs (SpiderMonkey)] (https://github.com/flightaware/tcljs) - Tcl extension to execute JavaScript using the SpiderMonkey Javascript interpreter
+* [tcl-duktape] (https://github.com/dbohdan/tcl-duktape) - Tcl bindings for [Duktape] (http://duktape.org/),
+an embedded JavaScript interpreter
 
 ## GO
 
