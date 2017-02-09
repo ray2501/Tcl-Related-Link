@@ -125,7 +125,7 @@ GUI toolkit
 * [TclFltk] (https://sourceforge.net/projects/tclfltk/): a Tcl binding for the Fast Light Tool Kit portable GUI development environment
 
 
-Images
+Graphics and Images
 =====
 
 * [tcl.gd] (https://github.com/flightaware/tcl.gd) - Feature-complete Tcl interface to
@@ -141,6 +141,7 @@ PNG is also built-in support in Tcl/Tk 8.6.0 (and above version).
 Useful info:
 
 * [3D animation on canvas with Gnuplot] (http://wiki.tcl.tk/13555)
+* [Graphics with Tcl] (http://wiki.tcl.tk/2389)
 
 And my project:
 
