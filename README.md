@@ -69,6 +69,8 @@ Tcllib and Tklib (Standard Libraries)
 Extensions
 =====
 
+* [mathemaTcl] (http://wiki.tcl.tk/48535) - MathemaTcl is a collection of compiled extensions for Tcl,
+each intended to solve a particular numerical problem
 * [ffidl] (http://elf.org/ffidl/) - Foreign Function Interface
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
 * [Memchan] (http://memchan.sourceforge.net/) - In-memory channels for Tcl
