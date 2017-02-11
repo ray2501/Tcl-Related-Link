@@ -74,6 +74,7 @@ Other
 * [HBaseClient-Tcl] (https://github.com/ray2501/HBaseClient-Tcl)
 * [DrillREST] (https://github.com/ray2501/DrillREST)
 * [solr4tcl] (https://github.com/ray2501/solr4tcl)
+* [thiredis] (https://github.com/ray2501/thiredis) - Wrapper Redis client hiredis for Tcl
 * [tclxqilla] (https://github.com/ray2501/tclxqilla)
 * [BaseXClient-Tcl] (https://github.com/ray2501/BaseXClient-Tcl)
 * [tcl.mqttc] (https://github.com/ray2501/tcl.mqttc) - MQTT Client for Tcl

@@ -69,8 +69,6 @@ Tcllib and Tklib (Standard Libraries)
 Extensions
 =====
 
-* [mathemaTcl] (http://wiki.tcl.tk/48535) - MathemaTcl is a collection of compiled extensions for Tcl,
-each intended to solve a particular numerical problem
 * [ffidl] (http://elf.org/ffidl/) - Foreign Function Interface
 * [TclVfs] (https://sourceforge.net/projects/tclvfs/)
 * [Memchan] (http://memchan.sourceforge.net/) - In-memory channels for Tcl
@@ -254,6 +252,8 @@ Networking
 Numeric processing
 =====
 
+* [mathemaTcl] (http://wiki.tcl.tk/48535) - MathemaTcl is a collection of compiled extensions for Tcl,
+each intended to solve a particular numerical problem
 * [Mpexpr] (http://mpexpr.sourceforge.net/) - Mpexpr is a multiple precision math package for Tcl
 * [tensor] (http://www.eecs.umich.edu/~mckay/computer/)
 * [VecTcl] (http://auriocus.github.io/VecTcl/)
@@ -324,6 +324,8 @@ various BSD UNIX system calls and library routines
 * [Tcl Windows API extension (TWAPI)] (http://twapi.magicsplat.com/)
 * [CAWT] (http://www.posoft.de/html/extCawt.html) - Com Automation With Tcl,
 based on Twapi to script Microsoft Windows® applications with Tcl
+* iocpsock: [Winsock2 IOCP channel driver for Tcl] (https://sourceforge.net/projects/iocpsock/)
+* [TkPrint] (http://pages.videotron.com/cclients/files/tkprint1.1.html)
 
 
 ## Raspberry Pi
