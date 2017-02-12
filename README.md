@@ -296,6 +296,8 @@ XML
 
 * [tDOM] (http://tdom.github.io/)
 * [TclXML] (http://tclxml.sourceforge.net/)
+* [TclSOAP] (http://tclsoap.sourceforge.net/) and [Wiki page] (http://wiki.tcl.tk/1753)
+ - supports SOAP and XML-RPC, based on TclDOM (TclDOM is  the DOM part of TclXML project)
 * [Web Services for Tcl] (http://core.tcl.tk/tclws/index)
 
 
