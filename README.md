@@ -297,13 +297,14 @@ XML
 * [tDOM] (http://tdom.github.io/)
 * [TclXML] (http://tclxml.sourceforge.net/)
 * [TclSOAP] (http://tclsoap.sourceforge.net/) and [Wiki page] (http://wiki.tcl.tk/1753)
- - supports SOAP and XML-RPC, based on TclDOM (TclDOM is  the DOM part of TclXML project)
+ - supports SOAP and XML-RPC, based on TclDOM (TclDOM is the DOM part of TclXML project)
 * [Web Services for Tcl] (http://core.tcl.tk/tclws/index)
 
 
 YAML
 =====
 
+* [Tcllib YAML module] (https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/yaml/yaml.html)
 * [TclYAML] (http://chiselapp.com/user/andreas_kupries/repository/tclyaml/index) - provides a Tcl Binding to the [libyaml] (http://pyyaml.org/wiki/LibYAML) library
 
 
