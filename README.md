@@ -160,6 +160,7 @@ the JACK Audio Connection Kit library (jacklib)
 Useful info:
 
 * [Linux: volume control] (http://wiki.tcl.tk/48348)
+* [Mac OS X: volume control] (http://wiki.tcl.tk/48551)
 * [Windows: volume control] (http://wiki.tcl.tk/48338)
 * [Windows XP: volume control] (http://wiki.tcl.tk/48350)
 * [Audio Edit Utility] (http://wiki.tcl.tk/40321) - a front-end for the 'ffmpeg' command
@@ -444,6 +445,7 @@ examples and in regular use to a large collection of Tcl programmers
 * [gitk] (https://git-scm.com/docs/gitk) - The Git repository browser
 * [tcl-jira-api] (https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
 * [Eskil] (http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and directory differences
+* [ASED] (https://sourceforge.net/projects/ased/), [Wiki page] (http://wiki.tcl.tk/1278) - BWidget IDE allowing editing of multiple Tcl files
 * [ezdit] (https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
 * [MTE] (http://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
 * [Markdown2Go] (http://wiki.tcl.tk/48198): markdown converter

@@ -53,10 +53,13 @@ Other
 * [rabbitmq-tcl] (https://github.com/dereckson/rabbitmq-tcl) - TCL extension to provide an AMQP client. Wrapper around librabbitmq
 * [tstomp] (https://github.com/siemens/tstomp) - a Stomp Implementation for Tcl coded in pure Tcl
 * [tcl-mqtt] (https://github.com/Tingenek/tcl-mqtt) - Small library to connect to a matt broker. Very, very basic
+* [Round Robin Database Tool (RRDtool)] (http://oss.oetiker.ch/rrdtool/)
 * [Speedtables] (http://flightaware.github.io/speedtables/) - High-performance, memory-resident database
 * [SQL Relay] (http://wiki.tcl.tk/9242)
+* [MrPersister] (http://wiki.tcl.tk/21669) - a database access library for Jacl
 * [TclRAL] (http://repos.modelrealization.com/cgi-bin/fossil/tclral/index) - a "C" based extension of Tcl that implements a complete relational algebra.
 * [tclcsv] (http://tclcsv.sourceforge.net/)
+* [HammerDB] (http://www.hammerdb.com/) - multi-platform software for load testing databases
 
 
 我的作品集
