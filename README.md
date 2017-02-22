@@ -116,6 +116,7 @@ Useful info:
 
 * [OpenGL with C and Tcl/Tk] (https://codeplea.com/opengl-with-c-and-tcl-tk)
 * [A TclOO Tkhtml 3.0 megawidget - example of how to render html+css] (http://wiki.tcl.tk/48458)
+* [Revised Implementation of Tk Text Widget] (http://scidb.sourceforge.net/tk/revised-text-widget.html)
 
 
 GUI toolkit
