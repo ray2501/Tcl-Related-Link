@@ -188,6 +188,7 @@ Useful info:
 
 * [Using Tcl/Tk in Multimedia Applications] (http://wiki.tcl.tk/864)
 * [Movie Edit Utility] (http://wiki.tcl.tk/40305) - a front-end for the 'ffmpeg' command
+* [SnitMPlayer] (http://wiki.tcl.tk/48588) - Widget wrapper for the mplayer media application
 
 And my project:
 
