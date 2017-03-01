@@ -301,6 +301,7 @@ XML
 * [TclXML] (http://tclxml.sourceforge.net/)
 * [TclSOAP] (http://tclsoap.sourceforge.net/) and [Wiki page] (http://wiki.tcl.tk/1753)
  - supports SOAP and XML-RPC, based on TclDOM (TclDOM is the DOM part of TclXML project)
+ - SCM Repositories version (1.6.8) switched TclDOM over to tDOM, changed by ActiveState
 * [Web Services for Tcl] (http://core.tcl.tk/tclws/index)
 
 
@@ -407,6 +408,7 @@ Related Project
 =====
 
 * [The Jim Interpreter] (http://jim.tcl.tk/index.html/doc/www/www/index.html): A small footprint implementation of the Tcl programming language
+* [ParTcl] (https://github.com/zserge/partcl) - a micro Tcl implementation
 
 
 Write a Tcl extension
