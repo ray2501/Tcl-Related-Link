@@ -47,6 +47,7 @@ Other
 =====
 
 * [Tcl8 bindings for Xapian] (https://xapian.org/docs/bindings/tcl8/)
+* [zookeepertcl] (https://github.com/flightaware/zookeepertcl) - Tcl interface to Apache zookeeper distributed coordination system
 * [etcd-tcl] (https://github.com/efrecon/etcd-tcl)
 * [kafkatcl] (https://github.com/flightaware/kafkatcl) - Tcl interface to the Apache Kafka
 * [zeromq - Tcl] (http://zeromq.org/bindings:tcl)
