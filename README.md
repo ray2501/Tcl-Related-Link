@@ -335,6 +335,13 @@ based on Twapi to script Microsoft Windows® applications with Tcl
 * [TkPrint] (http://pages.videotron.com/cclients/files/tkprint1.1.html)
 
 
+## Arduino
+
+Useful info:
+
+* [Arduino on Tcler's wiki] (http://wiki.tcl.tk/37203)
+
+
 ## Raspberry Pi
 
 Useful info:
