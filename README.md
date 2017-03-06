@@ -74,6 +74,7 @@ Extensions
 * [Memchan] (http://memchan.sourceforge.net/) - In-memory channels for Tcl
 * [Trf] (http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels
 * [ToclBox] (https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
+* [chiark-tcl] (http://wiki.tcl.tk/48610) - a collection of tcl extensions and bindings to useful libraries
 * [Tcl extension for the LLVM C API] (https://github.com/jdc8/llvmtcl)
 * [tclquadcode] (http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
 * [FireTcl] (https://sourceforge.net/projects/firetcl/) - It's a framework for developing desktop apps using web technology and Tcl, embeds Tcl inside a browser with websocket support
@@ -142,6 +143,7 @@ PNG is also built-in support in Tcl/Tk 8.6.0 (and above version).
 Useful info:
 
 * [3D animation on canvas with Gnuplot] (http://wiki.tcl.tk/13555)
+* [Canvas Object Movement Example] (http://wiki.tcl.tk/26978)
 * [Graphics with Tcl] (http://wiki.tcl.tk/2389)
 
 And my project:
