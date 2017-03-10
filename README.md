@@ -284,6 +284,11 @@ And for html and CGI
 * [ncgi] (http://wiki.tcl.tk/780) - provides commands that manipulate CGI values (tcllib module)
 * [Tclgumbo] (https://sites.google.com/site/ray2501/tclgumbo) - Tcl interface for gumbo library
 
+And useful info:
+
+ * [DustMote] (http://wiki.tcl.tk/4333) - A web server in one page of Tcl code
+ * [DustMote with Snit] (https://github.com/tclssg/tclssg/tree/master/lib/dustmote-snit/) - An extended version of the DustMote web server wrapped in a Snit type
+
 
 JSON
 =====
@@ -360,6 +365,7 @@ it opens the door to script a rich set of features on a mobile platform.
 
 ## .NET and Tcl
 
+* [Tcl Interpreter in C# Application] (http://wiki.tcl.tk/9563)
 * [Eagle] (http://eagle.to/): Eagle (Extensible Adaptable Generalized Logic Engine) is an implementation of the Tcl scripting language for the Common Language Runtime (CLR).
 * [Eagle Integration Tutorial] (http://eagle.to/tutorial/01/index.html)
 
