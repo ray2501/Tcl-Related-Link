@@ -471,6 +471,7 @@ examples and in regular use to a large collection of Tcl programmers
 * [TkMC] (http://wiki.tcl.tk/7772) - MC like file manager with basic functionality
 * [poApps - Paul's Portable Applications] (http://www.posoft.de/html/poTools.html)
 * [kitgen build system] (https://sourceforge.net/projects/kbskit/) - Framework to generate TclkitLite executables, compile Tcl packages and build kit files for different operating systems
+* [Chimera Grid Tools] (https://www.nas.nasa.gov/publications/software/docs/chimera/index.html)
 * [minitree note taking app] (http://wiki.tcl.tk/48369)
 
 
