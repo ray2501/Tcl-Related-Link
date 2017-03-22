@@ -7,7 +7,7 @@ Build Tcl on Windows Platform
 Building Tcl/Tk with Mingw
 =====
 
-* [Building Tcl/Tk with Mingw] (http://wiki.tcl.tk/14828)
+* [Building Tcl/Tk with Mingw](http://wiki.tcl.tk/14828)
  
 在 Windows 平台上使用 Mingw/MSYS 自己編譯 Tcl/Tk 可以參考 Tcler's wiki 上的文章。
 
@@ -34,7 +34,7 @@ Tcl 的 source code 放在 /src/tcl 目錄下，而 Tk 的 source code 放在 /s
 Building Tcl/Tk with MSYS2 (for x86_64)
 =====
 
-下載並且安裝 [MSYS2] (https://sourceforge.net/projects/msys2/) 以後，首先先更新 MSYS2 的核心套件：
+下載並且安裝 [MSYS2](https://sourceforge.net/projects/msys2/) 以後，首先先更新 MSYS2 的核心套件：
 
     pacman -Sy
     pacman --needed -S bash pacman pacman-mirrors msys2-runtime
