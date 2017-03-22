@@ -455,6 +455,8 @@ Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有�
 Tools
 =====
 
+* [BAWT] (http://www.bawt.tcl3d.org/) - Tcl based configurable framework for automatically
+building C/C++ based software libraries from source code
 * [tclapps] (https://github.com/tcltk/tclapps): a suite of small applications for Tcl useful as
 examples and in regular use to a large collection of Tcl programmers
 * [freeWrap] (http://freewrap.sourceforge.net/): FreeWrap distributions are freely available for Linux and Windows operating systems.
