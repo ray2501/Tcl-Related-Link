@@ -58,7 +58,7 @@ Other
 * [Speedtables](http://flightaware.github.io/speedtables/) - High-performance, memory-resident database
 * [SQL Relay](http://wiki.tcl.tk/9242)
 * [MrPersister](http://wiki.tcl.tk/21669) - a database access library for Jacl
-* [TclRAL] (http://repos.modelrealization.com/cgi-bin/fossil/tclral/index) - a "C" based extension of Tcl that implements a complete relational algebra.
+* [TclRAL](http://repos.modelrealization.com/cgi-bin/fossil/tclral/index) - a "C" based extension of Tcl that implements a complete relational algebra.
 * [tcllib csv](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/csv/csv.html) - a Tcllib
 package, provides facilities for working with csv files
 * [tclcsv](http://tclcsv.sourceforge.net/)
@@ -74,7 +74,7 @@ package, provides facilities for working with csv files
 * [tcl-lmdb](https://github.com/ray2501/tcl-lmdb)
 * [tclmonetdb](https://github.com/ray2501/tclmonetdb)
 * [tclcubrid](https://github.com/ray2501/tclcubrid)
-* [TDBCJDBC](https://github.com/ray2501/TDBCJDBC) and [TclBlend] (https://github.com/ray2501/tclBlend) backup
+* [TDBCJDBC](https://github.com/ray2501/TDBCJDBC) and [TclBlend](https://github.com/ray2501/tclBlend) backup
 * [GeodeREST](https://github.com/ray2501/GeodeREST)
 * [couchdbtcl](https://github.com/ray2501/couchdbtcl)
 * [HBaseClient-Tcl](https://github.com/ray2501/HBaseClient-Tcl)
@@ -82,7 +82,7 @@ package, provides facilities for working with csv files
 * [solr4tcl](https://github.com/ray2501/solr4tcl)
 * [thiredis](https://github.com/ray2501/thiredis) - Wrapper Redis client hiredis for Tcl
 * [tclxqilla](https://github.com/ray2501/tclxqilla)
-* [BaseXClient-Tcl] (https://github.com/ray2501/BaseXClient-Tcl)
+* [BaseXClient-Tcl](https://github.com/ray2501/BaseXClient-Tcl)
 * [tcl.mqttc](https://github.com/ray2501/tcl.mqttc) - MQTT Client for Tcl
 
 
