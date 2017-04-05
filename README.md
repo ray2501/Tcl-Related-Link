@@ -37,6 +37,7 @@ The more precise meaning of Everything is a string is every value is a string. T
 * [Great Unified Tcl/Tk Extension Repository](http://core.tcl.tk/jenglish/gutter/)
 * [RosettaCode: Tcl](http://rosettacode.org/wiki/Category:Tcl)
 * [Tcl and the Tk Toolkit (2nd Edition)](http://www.tcltk-book.com/): Updated for Tcl/Tk 8.5
+* [Example Scripts Everybody Should Have](http://wiki.tcl.tk/460)
 
 
 ActiveTcl
@@ -279,6 +280,7 @@ Web server and framework
 * [tclssg](https://github.com/tclssg/tclssg): A static site generator with template support written in Tcl
 * [T2WS - Tiny Tcl Web Server](https://github.com/Drolla/t2ws)
 * [tclhttpd](https://core.tcl.tk/tclhttpd/index)
+* [Wub](https://github.com/tcler/wub) (github clone) and [Wiki page](http://wiki.tcl.tk/15781)
 * [woof](http://sourceforge.net/projects/woof) - Web Oriented Object Framework
 
 And for html and CGI
