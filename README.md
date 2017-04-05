@@ -75,6 +75,7 @@ Extensions
 * [Trf](http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels
 * [ToclBox](https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
 * [chiark-tcl](http://wiki.tcl.tk/48610) - a collection of tcl extensions and bindings to useful libraries
+* [tcl-modules](https://github.com/Dash-OS/tcl-modules) - A collection of Pure-Tcl Packages & Utilities
 * [Tcl extension for the LLVM C API](https://github.com/jdc8/llvmtcl)
 * [tclquadcode](http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
 * [FireTcl](https://sourceforge.net/projects/firetcl/) - It's a framework for developing desktop apps using web technology and Tcl, embeds Tcl inside a browser with websocket support
@@ -309,9 +310,7 @@ XML
 
 * [tDOM](http://tdom.github.io/)
 * [TclXML](http://tclxml.sourceforge.net/)
-* [TclSOAP](http://tclsoap.sourceforge.net/) and [Wiki page](http://wiki.tcl.tk/1753)
- - supports SOAP and XML-RPC, based on TclDOM (TclDOM is the DOM part of TclXML project)
- - SCM Repositories version (1.6.8) switched TclDOM over to tDOM, changed by ActiveState
+* [TclSOAP](http://tclsoap.sourceforge.net/) and [Wiki page](http://wiki.tcl.tk/1753) - supports SOAP and XML-RPC, based on TclDOM (TclDOM is the DOM part of TclXML project). SCM Repositories version (1.6.8) switched TclDOM over to tDOM, changed by ActiveState.
 * [Web Services for Tcl](http://core.tcl.tk/tclws/index)
 
 
@@ -411,7 +410,7 @@ an embedded JavaScript interpreter
 * [rust-tcl](https://github.com/AngryLawyer/rust-tcl) - Currently targets Tcl 8.5
 
 
-##Swift
+## Swift
 
 * [tcl-swift-bridge](https://github.com/flightaware/tcl-swift-bridge): Swift class library that bridges between Swift and Tcl
 * [Example of a Tcl extension in Swift](http://wiki.tcl.tk/48057)
