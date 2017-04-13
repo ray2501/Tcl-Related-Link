@@ -40,15 +40,11 @@ The more precise meaning of Everything is a string is every value is a string. T
 * [Example Scripts Everybody Should Have](http://wiki.tcl.tk/460)
 
 
-ActiveTcl
-=====
-
-* [ActiveTcl](http://www.activestate.com/activetcl) 是一個廣為人所知，提供了 [Batteries Included](http://wiki.tcl.tk/2352) 的 Binary Distribution。
-
-
 Tcl binary distributions (for Windows)
 =====
 
+* [ActiveTcl](http://www.activestate.com/activetcl) 是一個廣為人所知，
+提供了 [Batteries Included](http://wiki.tcl.tk/2352) 的 Binary Distribution。
 * [Ashok's Tcl binary distributions for the Windows platform](https://bintray.com/apnadkarni/tcl-binaries/tcl-binaries-windows#read)
 * [IronTcl](https://www.irontcl.com/) - is a binary distribution of Tcl and Tk.
 
@@ -72,7 +68,8 @@ Extensions
 
 * [ffidl](http://elf.org/ffidl/) - Foreign Function Interface
 * [TclVfs](https://sourceforge.net/projects/tclvfs/)
-* [Memchan](http://memchan.sourceforge.net/) - In-memory channels for Tcl
+* [Memchan](http://memchan.sourceforge.net/) - In-memory channels for Tcl,
+and deprecated by tcllib's tcl::chan::memchan, which is available for Tcl >= 8.5.
 * [Trf](http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels
 * [ToclBox](https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
 * [chiark-tcl](http://wiki.tcl.tk/48610) - a collection of tcl extensions and bindings to useful libraries
@@ -120,6 +117,7 @@ Useful info:
 * [OpenGL with C and Tcl/Tk](https://codeplea.com/opengl-with-c-and-tcl-tk)
 * [A TclOO Tkhtml 3.0 megawidget - example of how to render html+css](http://wiki.tcl.tk/48458)
 * [Revised Implementation of Tk Text Widget](http://scidb.sourceforge.net/tk/revised-text-widget.html)
+* [A collection of Ttk themes](http://chiselapp.com/user/sgolovan/repository/ttk-themes/home)
 
 
 GUI toolkit
