@@ -13,7 +13,8 @@ Tcl 說明文件中關於語法的說明，總共有 12 條規則。
 
 ## [Everything is a string](http://wiki.tcl.tk/3018)
 
-The more precise meaning of Everything is a string is every value is a string. This is one of the central features of Tcl.
+The more precise meaning of Everything is a string is every value is a string.
+This is one of the central features of Tcl.
 
 
 官網與相關文件
@@ -353,6 +354,8 @@ Useful info:
 
 ## Raspberry Pi
 
+* [piio](http://chiselapp.com/user/schelte/repository/piio/index) - supports both gpio and i2c
+
 Useful info:
 
 * [Raspberry Pi on Tcler's wiki](http://wiki.tcl.tk/29308)
@@ -368,8 +371,12 @@ it opens the door to script a rich set of features on a mobile platform.
 ## .NET and Tcl
 
 * [Tcl Interpreter in C# Application](http://wiki.tcl.tk/9563)
-* [Eagle](http://eagle.to/): Eagle (Extensible Adaptable Generalized Logic Engine) is an implementation of the Tcl scripting language for the Common Language Runtime (CLR).
+* [Eagle](http://eagle.to/): Eagle (Extensible Adaptable Generalized Logic Engine) is
+an implementation of the Tcl scripting language for the Common Language Runtime (CLR).
 * [Eagle Integration Tutorial](http://eagle.to/tutorial/01/index.html)
+* [Garuda](http://eagle.to/): is part of the Eagle project.
+It is a stubs-enabled native package for Tcl that allows the CLR and Eagle to
+be loaded and used by Tcl 8.4 or higher on Windows.
 
 
 ## Java
