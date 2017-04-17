@@ -287,6 +287,7 @@ Web server and framework
 * [OpenACS](http://openacs.org/)
 * [Apache Rivet](http://tcl.apache.org/rivet/)
 * [Rivetweb](http://www.rivetweb.org/)
+* [RivetCGI](https://chiselapp.com/user/rkeene/repository/rivetcgi/home) - Rivet as a CGI
 * [tänzer](http://tanzer.io/)
 * [tclssg](https://github.com/tclssg/tclssg): A static site generator with template support written in Tcl
 * [T2WS - Tiny Tcl Web Server](https://github.com/Drolla/t2ws)
@@ -305,6 +306,7 @@ And useful info:
 
  * [DustMote](http://wiki.tcl.tk/4333) - A web server in one page of Tcl code
  * [DustMote with Snit](https://github.com/tclssg/tclssg/tree/master/lib/dustmote-snit/) - An extended version of the DustMote web server wrapped in a Snit type
+ * [jimhttp](https://github.com/dbohdan/jimhttp) - A web framework prototype for Jim Tcl
 
 
 JSON
@@ -323,7 +325,10 @@ XML
 
 * [tDOM](http://tdom.github.io/)
 * [TclXML](http://tclxml.sourceforge.net/)
-* [TclSOAP](http://tclsoap.sourceforge.net/) and [Wiki page](http://wiki.tcl.tk/1753) - supports SOAP and XML-RPC, based on TclDOM (TclDOM is the DOM part of TclXML project). SCM Repositories version (1.6.8) switched TclDOM over to tDOM, changed by ActiveState.
+* [TclSOAP](http://tclsoap.sourceforge.net/) and [Wiki page](http://wiki.tcl.tk/1753) - supports
+SOAP and XML-RPC, based on TclDOM (TclDOM is the DOM part of TclXML project).
+[SCM Repositories](http://tclsoap.cvs.sourceforge.net/viewvc/tclsoap/tclsoap/) version (1.6.8)
+switched TclDOM over to tDOM and add JSON-RPC support, changed by ActiveState.
 * [Web Services for Tcl](http://core.tcl.tk/tclws/index)
 
 
