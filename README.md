@@ -213,6 +213,10 @@ Procedures to process command lines and options
 * [getopt.tcl](https://github.com/tcler/getopt.tcl) - A getopt implementation of tcl
 that compat with GNU getopt
 
+And useful info:
+
+* [command options](http://wiki.tcl.tk/1730) - Tcler's Wiki info
+
 
 Compression
 =====
@@ -259,7 +263,7 @@ Networking
 
 * [Tcl UDP extension](https://sourceforge.net/projects/tcludp/)
 * [scotty](https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
-* [tclcurl](https://github.com/jdc8/tclcurl) - Tcl wrapper for Curl
+* [tclcurl](https://bitbucket.org/smh377/tclcurl) - Tcl wrapper for Curl
 * [tclnetsnmp](http://tcl.uk.to/) - netsnmp package for TCL 8.6
 * [Tcllib ldap](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ldap/ldap.html) - LDAP client
 * [ecap-tcl](https://github.com/petasis/ecap-tcl) - An eCAP adapter for Tcl
