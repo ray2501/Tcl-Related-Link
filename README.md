@@ -133,8 +133,12 @@ Graphics and Images
 
 * [tcl.gd](https://github.com/flightaware/tcl.gd) - Feature-complete Tcl interface to
 GD graphics drawing library
+* [tclepeg](https://github.com/dzach/tclepeg) - provide a tcl extension to the epeg thumbnailing library
+* [tclimage](https://sourceforge.net/projects/tclimage/) - A Tcl library extension for managing virtually
+any kind of images
 * [tclmagick](http://tclmagick.sourceforge.net/) - Tcl and Tk Interfaces to
 GraphicsMagick and ImageMagick
+* [tcllib exif](http://wiki.tcl.tk/3055) - to extract and parse EXIF fields from digital images
 * [tklib plotchart](http://wiki.tcl.tk/11265)
 
 For handle image formats, you also can check [Img](https://sourceforge.net/projects/tkimg/).
@@ -156,7 +160,7 @@ Audio/Sound
 =====
 
 * [Snack](http://www.speech.kth.se/snack/) and check [Here](http://wiki.tcl.tk/2647)
-* [SDL_mixer bindings for Tcl](http://sqlitestudio.pl/tclmixer/)
+* [SDL_mixer bindings for Tcl](http://sqlitestudio.pl/tclmixer/) - TclMixer
 * [TclJACK](https://github.com/screwtop/TclJACK) - A Tcl extension for interacting with
 the JACK Audio Connection Kit library (jacklib)
 * [tclmidi](https://github.com/jdc8/tclmidi) - a package to work with Midi files
