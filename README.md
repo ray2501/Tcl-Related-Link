@@ -67,7 +67,8 @@ Tcllib and Tklib (Standard Libraries)
 Extensions
 =====
 
-* [ffidl](http://elf.org/ffidl/) - Foreign Function Interface
+* [ffidl](http://elf.org/ffidl/) and [git repository](https://github.com/prs-de/ffidl) - Foreign
+Function Interface
 * [TclVfs](https://sourceforge.net/projects/tclvfs/)
 * [Memchan](http://memchan.sourceforge.net/) - In-memory channels for Tcl,
 and deprecated by tcllib's tcl::chan::memchan, which is available for Tcl >= 8.5.
