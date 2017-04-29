@@ -229,6 +229,8 @@ Compression
 =====
 
 * [zlib](http://www.tcl.tk/cgi-bin/tct/tip/234) - Core support for zlib compression
+* [bztcl](http://download.gna.org/bztcl/) and [wiki page](http://wiki.tcl.tk/9661) - wrapper for the
+BZip2 compression library
 * [tclzvfs](https://github.com/wjoye/tclzvfs) - TCL Zip Virtual File System, Tcl 8.5/8.6 TEA compatible
 * [tcllib tar](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/tar/tar.html) - Tar file creation, extraction & manipulation
 * [tcllib zipfile::decode](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/decode.html), 
@@ -511,6 +513,7 @@ examples and in regular use to a large collection of Tcl programmers
 * [MTE](http://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
 * [Markdown2Go](http://wiki.tcl.tk/48198): markdown converter
 * [minitree note taking app](http://wiki.tcl.tk/48369)
+* [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
 * [TkMC](http://wiki.tcl.tk/7772) - MC like file manager with basic functionality
 
 
