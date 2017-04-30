@@ -67,12 +67,15 @@ Tcllib and Tklib (Standard Libraries)
 Extensions
 =====
 
+* [Thread](brings native thread capabilities to Tcl.) - brings native thread capabilities to Tcl
+* [TclVfs](https://sourceforge.net/projects/tclvfs/)
 * [ffidl](http://elf.org/ffidl/) and [git repository](https://github.com/prs-de/ffidl) - Foreign
 Function Interface
-* [TclVfs](https://sourceforge.net/projects/tclvfs/)
 * [Memchan](http://memchan.sourceforge.net/) - In-memory channels for Tcl,
 and deprecated by tcllib's tcl::chan::memchan, which is available for Tcl >= 8.5.
-* [Trf](http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels
+* [Trf](http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels.
+Stacked channels is available at the Tcl-script level (after 8.5).
+See the [chan](http://wiki.tcl.tk/15111) command for details.
 * [ToclBox](https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
 * [chiark-tcl](http://wiki.tcl.tk/48610) - a collection of tcl extensions and bindings to useful libraries
 * [tcl-modules](https://github.com/Dash-OS/tcl-modules) - A collection of Pure-Tcl Packages & Utilities
@@ -108,7 +111,7 @@ GUI and widget
 * [Tkpath](https://bitbucket.org/andrew_shadura/tkpath)
 * [TkTable](https://sourceforge.net/projects/tktable/)
 * [TkTreeCtrl](http://tktreectrl.sourceforge.net/)
-* [Tablelist](http://www.nemethi.de/tablelist/index.html)
+* [Tablelist](http://www.nemethi.de/tablelist/index.html), include in TkLib
 * [TkDND](http://sourceforge.net/projects/tkdnd/)
 * [Mtiwidgets](http://wiki.tcl.tk/6237) - Includes mtiwidgets::mdiframe widget
 * [TaoLib](http://fossil.etoyoc.com/fossil/taolib/index) - a TclOO megawidget framework
@@ -141,6 +144,8 @@ GD graphics drawing library
 any kind of images
 * [tclmagick](http://tclmagick.sourceforge.net/) - Tcl and Tk Interfaces to
 GraphicsMagick and ImageMagick
+* [Pure Tcl JPEG decoder](https://github.com/dbohdan/ptjd) - A single-file pure Tcl baseline JPEG
+decoder library
 * [tcllib exif](http://wiki.tcl.tk/3055) - to extract and parse EXIF fields from digital images
 * [tklib plotchart](http://wiki.tcl.tk/11265)
 
@@ -264,11 +269,18 @@ Cryptography
 
 Database
 =====
+
 * [TDBC](http://tdbc.tcl.tk/index.cgi/index)
 
 and check:
 
 * [Tcl extension and Database](https://github.com/ray2501/Tcl-Related-Link/blob/master/database.md)
+
+
+Fileutils
+=====
+
+* [tcllib fileutils](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/fileutil/fileutil.html) - Procedures implementing some file utilities
 
 
 Networking
@@ -278,9 +290,10 @@ Networking
 * [scotty](https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
 * [tclcurl](https://bitbucket.org/smh377/tclcurl) - Tcl wrapper for Curl
 * [tclnetsnmp](http://tcl.uk.to/) - netsnmp package for TCL 8.6
-* [Tcllib ldap](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ldap/ldap.html) - LDAP client
 * [ecap-tcl](https://github.com/petasis/ecap-tcl) - An eCAP adapter for Tcl
 * [Netinfo](http://wiki.tcl.tk/17493) - Protocol, service, network, host and ether info
+* [Tcllib ldap](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ldap/ldap.html) - LDAP client
+* [Tcllib ftp](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ftp/ftp.html) - Client-side tcl implementation of the ftp protocol
 
 
 Numeric processing
