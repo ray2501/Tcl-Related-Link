@@ -67,7 +67,7 @@ Tcllib and Tklib (Standard Libraries)
 Extensions
 =====
 
-* [Thread](brings native thread capabilities to Tcl.) - brings native thread capabilities to Tcl
+* [Thread](http://core.tcl.tk/thread) - brings native thread capabilities to Tcl
 * [TclVfs](https://sourceforge.net/projects/tclvfs/)
 * [ffidl](http://elf.org/ffidl/) and [git repository](https://github.com/prs-de/ffidl) - Foreign
 Function Interface
@@ -93,6 +93,26 @@ Object-oriented
 * [incr Tcl](http://incrtcl.sourceforge.net/)
 * [Next Scripting Framework](https://next-scripting.org/xowiki/): A descendant of XOTcl
 * [snit](http://core.tcl.tk/jenglish/gutter/packages/snit.html) - Snit is a pure-Tcl object and megawidget framework
+
+
+Functional Programming
+======
+
+* [tcllib lambda](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/lambda/lambda.html) - Utility commands for anonymous procedures
+* [control::functional](http://dev.crypt.co.za/incubator/doc/tcltm/control/functional.wiki) - Enhanced
+support for functional programming in Tcl, with implementations of some common higher-order functions
+* [fptools](http://wiki.tcl.tk/41349) - A grab bag of functions that can be useful for FP
+* [tcl-f](https://github.com/nektomk/tcl-f) - Provides loadable Tcl extension for programming
+in functional manner
+* [underscore-tcl](https://github.com/arthurschreiber/underscore-tcl) - Functional programming utilities
+for Tcl
+
+As with many things, Tcl is rather unique in this area.
+Commands themselves can not be passed as arguments to other commands,
+but their names can, which provides something very similar to first-class functions.
+Additionally, [apply](http://www.tcl.tk/man/tcl/TclCmd/apply.htm) can be used to
+interpret a value as a function and evaluate it,
+providing the equivalent of lambda functions.
 
 
 GUI and widget
