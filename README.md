@@ -489,6 +489,8 @@ an embedded JavaScript interpreter
 ## Emscripten
 
 * [EmTcl](https://aidanhs.github.io/emtcl/): Tcl 8.6 and Jim Tcl in the browser through emscripten
+* [Wacl](https://fossil.e-lehmann.de/wacl/index) - This is a Tcl distribution for [WebAssembly](http://webassembly.org/).
+It enables Web developers to embed a Tcl interpreter in the browser and integrate Tcl with JavaScript.
 
 
 Related Project
