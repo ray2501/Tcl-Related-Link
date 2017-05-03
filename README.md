@@ -319,11 +319,17 @@ Networking
 Numeric processing
 =====
 
+* [Tcllib math](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/math/math.html) -
+Tcl Math Library
 * [mathemaTcl](http://wiki.tcl.tk/48535) - MathemaTcl is a collection of compiled extensions for Tcl,
 each intended to solve a particular numerical problem
 * [Mpexpr](http://mpexpr.sourceforge.net/) - Mpexpr is a multiple precision math package for Tcl
 * [tensor](http://www.eecs.umich.edu/~mckay/computer/)
 * [VecTcl](http://auriocus.github.io/VecTcl/)
+
+And useful info:
+
+* [Numerical Analysis in Tcl](http://wiki.tcl.tk/1272)
 
 
 Web server and framework
