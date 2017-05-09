@@ -84,5 +84,6 @@ package, provides facilities for working with csv files
 * [tclxqilla](https://github.com/ray2501/tclxqilla)
 * [BaseXClient-Tcl](https://github.com/ray2501/BaseXClient-Tcl)
 * [tcl.mqttc](https://github.com/ray2501/tcl.mqttc) - MQTT Client for Tcl
+* [CurlYQL](https://github.com/ray2501/CurlYQL) - Using TclCurl to send YQL query
 
 

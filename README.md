@@ -22,6 +22,7 @@ This is one of the central features of Tcl.
 
 * [Tcl Developer Site](http://www.tcl.tk/)
 * [Tcler's Wiki](http://wiki.tcl.tk/)
+* [tcltk.free.fr](http://tcltk.free.fr/) - English language Tcl web site in France
 * [Tcl TIP Collection](http://www.tcl.tk/cgi-bin/tct/tip)
 * [comp.lang.tcl](https://groups.google.com/forum/#!forum/comp.lang.tcl)
 * [Tcl Source Code (core package)](http://core.tcl.tk/)
@@ -562,4 +563,5 @@ Misc
 =====
 * [Cameron Laird's personal notes on commercial aspects of Tcl](http://phaseit.net/claird/comp.lang.tcl/commercial-tcl.html)
 * [Dai's Blog](http://blog.got7.org/)
+* [magicsplat.com](http://www.magicsplat.com/) - Software, articles and blog
 * [Tcl-bounties](https://github.com/flightaware/Tcl-bounties) - Bounty program for improvements to Tcl and certain Tcl packages
