@@ -77,14 +77,20 @@ and deprecated by tcllib's tcl::chan::memchan, which is available for Tcl >= 8.5
 * [Trf](http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels.
 Stacked channels is available at the Tcl-script level (after 8.5).
 See the [chan](http://wiki.tcl.tk/15111) command for details.
+* [tserialport](https://sourceforge.net/projects/tclsnippets/files/tserialport/) - tcl package for library libserialport
+* [Tcl extension for the LLVM C API](https://github.com/jdc8/llvmtcl)
+* [tclquadcode](http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
+* [FireTcl](https://sourceforge.net/projects/firetcl/) - It's a framework for developing desktop apps using web technology and Tcl, embeds Tcl inside a browser with websocket support
+
+
+Collection and Tool box
+=====
+
 * [ToclBox](https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
 * [chiark-tcl](http://wiki.tcl.tk/48610) - a collection of tcl extensions and bindings to useful libraries
 * [tcl-modules](https://github.com/Dash-OS/tcl-modules) - A collection of Pure-Tcl Packages & Utilities
 * [ycl](http://www.chiselapp.com/user/pooryorick/repository/ycl/) - short for Yorick's Computing tooLkit,
 is PYK's collection of miscellaneous procedures and programs.
-* [Tcl extension for the LLVM C API](https://github.com/jdc8/llvmtcl)
-* [tclquadcode](http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
-* [FireTcl](https://sourceforge.net/projects/firetcl/) - It's a framework for developing desktop apps using web technology and Tcl, embeds Tcl inside a browser with websocket support
 
 
 Object-oriented
@@ -171,7 +177,6 @@ decoder library
 * [tklib plotchart](http://wiki.tcl.tk/11265)
 
 For handle image formats, you also can check [Img](https://sourceforge.net/projects/tkimg/).
-
 PNG is also built-in support in Tcl/Tk 8.6.0 (and above version).
 
 Useful info:
@@ -179,6 +184,10 @@ Useful info:
 * [3D animation on canvas with Gnuplot](http://wiki.tcl.tk/13555)
 * [Canvas Object Movement Example](http://wiki.tcl.tk/26978)
 * [Graphics with Tcl](http://wiki.tcl.tk/2389)
+
+For barcode:
+
+* [tzint](https://sourceforge.net/projects/tclsnippets/files/tzint/) - tcl package for libzint barcode encoding library (no Tk needed)
 
 And my project:
 
@@ -505,6 +514,7 @@ Related Project
 
 * [The Jim Interpreter](http://jim.tcl.tk/index.html/doc/www/www/index.html): A small footprint implementation of the Tcl programming language
 * [ParTcl](https://github.com/zserge/partcl) - a micro Tcl implementation
+* [Picol](https://chiselapp.com/user/dbohdan/repository/picol/index) - A tiny Tcl interpreter
 
 
 Write a Tcl extension
@@ -552,6 +562,7 @@ examples and in regular use to a large collection of Tcl programmers
 * [Chimera Grid Tools](https://www.nas.nasa.gov/publications/software/docs/chimera/index.html)
 * [Eskil](http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and directory differences
 * [ezdit](https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
+* [IPAT-S Software Suite](https://sourceforge.net/projects/ipat-s/) - IPAT-S Software Suite is a collection of supporting tools for the IPAT-S modeling language
 * [MTE](http://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
 * [Markdown2Go](http://wiki.tcl.tk/48198): markdown converter
 * [minitree note taking app](http://wiki.tcl.tk/48369)
