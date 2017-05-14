@@ -491,6 +491,13 @@ an embedded JavaScript interpreter
 * [Example of a Tcl extension in Go](http://wiki.tcl.tk/48054)
 
 
+## R
+
+* [Tcl'er Wiki info](http://wiki.tcl.tk/6125) - R
+
+R has bindings to Tcl/Tk (part of R, [document](https://www.rdocumentation.org/packages/tcltk/versions/3.4.0)).
+
+
 ## Rust
 
 * [rust-tcl](https://github.com/AngryLawyer/rust-tcl) - Currently targets Tcl 8.5
