@@ -31,7 +31,6 @@ This is one of the central features of Tcl.
 * [Tcl for Web Nerds](http://philip.greenspun.com/tcl/)
 * [TCLWISE](http://www.invece.org/tclwise/)
 * [Tcl Wikibook](https://en.wikibooks.org/wiki/Tcl_Programming)
-* [Tcl/Tk Programming Idioms](http://www.doc.ic.ac.uk/~np2/patterns/scripting/tcl/index.html)
 * [Object Oriented Programming in Tcl](http://www.magicsplat.com/articles/oo.html)
 * [The Tcl Database Connectivity interface](http://www.magicsplat.com/articles/tdbc.html)
 * [Tcl Threading Model](http://www.tcl.tk/doc/howto/thread_model.html)
@@ -77,6 +76,7 @@ and deprecated by tcllib's tcl::chan::memchan, which is available for Tcl >= 8.5
 * [Trf](http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels.
 Stacked channels is available at the Tcl-script level (after 8.5).
 See the [chan](http://wiki.tcl.tk/15111) command for details.
+* [trofs](http://math.nist.gov/~DPorter/tcltk/trofs/) - Tcl Read-Only Filesystem
 * [tserialport](https://sourceforge.net/projects/tclsnippets/files/tserialport/) - tcl package for library libserialport
 * [Tcl extension for the LLVM C API](https://github.com/jdc8/llvmtcl)
 * [tclquadcode](http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
