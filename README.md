@@ -171,6 +171,7 @@ GD graphics drawing library
 any kind of images
 * [tclmagick](http://tclmagick.sourceforge.net/) - Tcl and Tk Interfaces to
 GraphicsMagick and ImageMagick
+* [pure-tcl BMP reader/writer](https://bitbucket.org/smh377/bmp)
 * [Pure Tcl JPEG decoder](https://github.com/dbohdan/ptjd) - A single-file pure Tcl baseline JPEG
 decoder library
 * [tcllib exif](http://wiki.tcl.tk/3055) - to extract and parse EXIF fields from digital images
