@@ -272,6 +272,8 @@ BZip2 compression library
 * [tcllib zipfile::decode](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/decode.html), 
 [tcllib zipfile::encode](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/encode.html),
 [tcllib zipfile::mkzip](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/mkzip.html): Access to zip archives, generation of zip archives and build a zip archive
+* [LZ4](http://wiki.tcl.tk/48789)
+* [Zstandard](http://wiki.tcl.tk/48788) - libzstd bindings for Tcl through Critcl
 
 And my project:
 
