@@ -476,6 +476,11 @@ Machine.
 * [critcl](http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
 
 
+## D
+
+* [Example of a Tcl extension in D](http://wiki.tcl.tk/48795)
+
+
 ## Fortran
 
 * [Ftcl](http://ftcl.sourceforge.net/) - Using Tcl in Fortran programs and vice versa
