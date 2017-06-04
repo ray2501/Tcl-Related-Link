@@ -353,7 +353,7 @@ Web server and framework
 * [Apache Rivet](http://tcl.apache.org/rivet/)
 * [Rivetweb](http://www.rivetweb.org/)
 * [RivetCGI](https://chiselapp.com/user/rkeene/repository/rivetcgi/home) - Rivet as a CGI
-* [tänzer](http://tanzer.io/)
+* [tänzer](https://github.com/xantronix/tanzer)
 * [tclssg](https://github.com/tclssg/tclssg): A static site generator with template support written in Tcl
 * [T2WS - Tiny Tcl Web Server](https://github.com/Drolla/t2ws)
 * [tclhttpd](https://core.tcl.tk/tclhttpd/index)
@@ -413,6 +413,7 @@ Platform and Language
 * [Extended Tcl (TclX)](http://tclx.sourceforge.net/)
 * [DBus binding for Tcl](https://sourceforge.net/projects/dbus-tcl/)
 * [tclreadline](https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
+* [eltclsh](http://homepages.laas.fr/mallet/soft/shell/eltclsh) - an interactive shell for the TCL programming language
 * [tclbsd](https://github.com/flightaware/tclbsd) - A Tcl package for interfacing to
 various BSD UNIX system calls and library routines
 
