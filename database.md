@@ -53,7 +53,7 @@ Other
 * [zeromq - Tcl](http://zeromq.org/bindings:tcl)
 * [rabbitmq-tcl](https://github.com/dereckson/rabbitmq-tcl) - TCL extension to provide an AMQP client. Wrapper around librabbitmq
 * [tstomp](https://github.com/siemens/tstomp) - a Stomp Implementation for Tcl coded in pure Tcl
-* [tcl-mqtt](https://github.com/Tingenek/tcl-mqtt) - Small library to connect to a matt broker. Very, very basic
+* [Tcl MQTT client](https://chiselapp.com/user/schelte/repository/mqtt/home)
 * [Round Robin Database Tool (RRDtool)](http://oss.oetiker.ch/rrdtool/)
 * [Speedtables](http://flightaware.github.io/speedtables/) - High-performance, memory-resident database
 * [SQL Relay](http://wiki.tcl.tk/9242)
