@@ -91,6 +91,7 @@ Collection and Tool box
 * [tcl-modules](https://github.com/Dash-OS/tcl-modules) - A collection of Pure-Tcl Packages & Utilities
 * [ycl](http://www.chiselapp.com/user/pooryorick/repository/ycl/) - short for Yorick's Computing tooLkit,
 is PYK's collection of miscellaneous procedures and programs.
+* [tcl-hacks](https://chiselapp.com/user/aspect/repository/tcl-hacks/index) - A repository of useful and/or interesting hacks in Tcl
 
 
 Object-oriented
