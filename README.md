@@ -579,6 +579,7 @@ Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有�
 Tools
 =====
 
+* [TclProDebug](https://github.com/flightaware/TclProDebug) - Upgrade of debugger from classic [TclPro](https://wiki.tcl.tk/365) to Tcl 8.5+
 * [BAWT](http://www.bawt.tcl3d.org/) - Tcl based configurable framework for automatically
 building C/C++ based software libraries from source code
 * [kitgen build system](https://sourceforge.net/projects/kbskit/) - Framework to generate TclkitLite executables, compile Tcl packages and build kit files for different operating systems
