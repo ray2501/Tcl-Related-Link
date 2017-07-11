@@ -59,9 +59,6 @@ Other
 * [SQL Relay](http://wiki.tcl.tk/9242)
 * [MrPersister](http://wiki.tcl.tk/21669) - a database access library for Jacl
 * [TclRAL](http://repos.modelrealization.com/cgi-bin/fossil/tclral/index) - a "C" based extension of Tcl that implements a complete relational algebra.
-* [tcllib csv](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/csv/csv.html) - a Tcllib
-package, provides facilities for working with csv files
-* [tclcsv](http://tclcsv.sourceforge.net/)
 * [HammerDB](http://www.hammerdb.com/) - multi-platform software for load testing databases
 
 

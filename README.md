@@ -38,6 +38,7 @@ This is one of the central features of Tcl.
 * [Great Unified Tcl/Tk Extension Repository](http://core.tcl.tk/jenglish/gutter/)
 * [RosettaCode: Tcl](http://rosettacode.org/wiki/Category:Tcl)
 * [Tcl and the Tk Toolkit (2nd Edition)](http://www.tcltk-book.com/): Updated for Tcl/Tk 8.5
+* [The Tcl Programming Language](http://wiki.tcl.tk/48868): Book for Tcl (8.6)
 * [Example Scripts Everybody Should Have](http://wiki.tcl.tk/460)
 
 
@@ -389,6 +390,13 @@ And you can check [Markdown2Go](http://wiki.tcl.tk/48198).
 ## Mustache
 
 * [mustache.tcl](https://github.com/ianka/mustache.tcl) - A Tcl implementation of the mustache templating language
+
+
+CSV
+=====
+* [tcllib csv](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/csv/csv.html) - a Tcllib
+package, provides facilities for working with csv files
+* [tclcsv](http://tclcsv.sourceforge.net/)
 
 
 JSON
