@@ -102,6 +102,8 @@ Object-oriented
 * [incr Tcl](http://incrtcl.sourceforge.net/)
 * [Next Scripting Framework](https://next-scripting.org/xowiki/): A descendant of XOTcl
 * [snit](http://core.tcl.tk/jenglish/gutter/packages/snit.html) - Snit is a pure-Tcl object and megawidget framework
+* [self](https://github.com/mpcjanssen/self) - [SELF extension](http://wiki.tcl.tk/17100),
+a Tcl package by the same name that was inspired by Self
 
 
 Functional Programming
@@ -257,6 +259,8 @@ Command line
 Procedures to process command lines and options
 * [getopt.tcl](https://github.com/tcler/getopt.tcl) - A getopt implementation of tcl
 that compat with GNU getopt
+* [tabulate](http://wiki.tcl.tk/41682) - a command line utility that converts standard input
+into pretty-printed tables
 
 And useful info:
 
