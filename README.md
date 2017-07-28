@@ -31,57 +31,72 @@ This is one of the central features of Tcl.
 * [Tcl for Web Nerds](http://philip.greenspun.com/tcl/)
 * [TCLWISE](http://www.invece.org/tclwise/)
 * [Tcl Wikibook](https://en.wikibooks.org/wiki/Tcl_Programming)
+* [Tcl Style Guide](http://wiki.tcl.tk/708)
 * [Object Oriented Programming in Tcl](http://www.magicsplat.com/articles/oo.html)
 * [The Tcl Database Connectivity interface](http://www.magicsplat.com/articles/tdbc.html)
 * [Tcl Threading Model](http://www.tcl.tk/doc/howto/thread_model.html)
 * [TkDocs](http://www.tkdocs.com/)
 * [Great Unified Tcl/Tk Extension Repository](http://core.tcl.tk/jenglish/gutter/)
 * [RosettaCode: Tcl](http://rosettacode.org/wiki/Category:Tcl)
+* [Practical Programming in Tcl and Tk](http://www.beedub.com/book/)
 * [Tcl and the Tk Toolkit (2nd Edition)](http://www.tcltk-book.com/): Updated for Tcl/Tk 8.5
 * [The Tcl Programming Language](http://wiki.tcl.tk/48868): Book for Tcl (8.6)
 * [Example Scripts Everybody Should Have](http://wiki.tcl.tk/460)
 
 
-Tcl binary distributions (for Windows)
+Tcl distributions
 =====
+
+## Source
+
+* [Sources](http://www.tcl.tk/software/tcltk/download.html)
+
+## Binary for Windows
 
 * [ActiveTcl](http://www.activestate.com/activetcl) 是一個廣為人所知，
 提供了 [Batteries Included](http://wiki.tcl.tk/2352) 的 Binary Distribution。
 * [Ashok's Tcl binary distributions for the Windows platform](https://bintray.com/apnadkarni/tcl-binaries/tcl-binaries-windows#read)
 * [IronTcl](https://www.irontcl.com/) - is a binary distribution of Tcl and Tk.
 
-
-TclKits
-=====
+## TclKits
 
 * [TclKits](http://tclkits.rkeene.org/fossil/wiki/Downloads)
 * [SDX](http://wiki.tcl.tk/3411a)
 
 
-Tcllib and Tklib (Standard Libraries)
+Compiler and LLVM
+=====
+
+* [Tcl extension for the LLVM C API](https://github.com/jdc8/llvmtcl)
+* [tclquadcode](http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
+
+
+Debugger
+=====
+
+* [TclProDebug](https://github.com/flightaware/TclProDebug) - Upgrade of debugger from classic [TclPro](https://wiki.tcl.tk/365) to Tcl 8.5+
+
+
+Build System
+=====
+
+* [BAWT](http://www.bawt.tcl3d.org/) - Tcl based configurable framework for automatically
+building C/C++ based software libraries from source code
+* [kitgen build system](https://sourceforge.net/projects/kbskit/) - Framework to generate TclkitLite executables, compile Tcl packages and build kit files for different operating systems
+
+
+Wrap tool
+======
+
+* [freeWrap](http://freewrap.sourceforge.net/): FreeWrap distributions are freely available for Linux and Windows operating systems.
+* [tclexecomp](https://sourceforge.net/projects/tclexecomp/)
+
+
+Standard Libraries
 =====
 
 * [Tcllib](https://core.tcl.tk/tcllib/doc/trunk/embedded/index.html)
 * [Tklib](https://core.tcl.tk/tklib/home)
-
-
-Extensions
-=====
-
-* [Thread](http://core.tcl.tk/thread) - brings native thread capabilities to Tcl
-* [TclVfs](https://sourceforge.net/projects/tclvfs/)
-* [ffidl](http://elf.org/ffidl/) and [git repository](https://github.com/prs-de/ffidl) - Foreign
-Function Interface
-* [Memchan](http://memchan.sourceforge.net/) - In-memory channels for Tcl,
-and deprecated by tcllib's tcl::chan::memchan, which is available for Tcl >= 8.5.
-* [Trf](http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels.
-Stacked channels is available at the Tcl-script level (after 8.5).
-See the [chan](http://wiki.tcl.tk/15111) command for details.
-* [trofs](http://math.nist.gov/~DPorter/tcltk/trofs/) - Tcl Read-Only Filesystem
-* [tserialport](https://sourceforge.net/projects/tclsnippets/files/tserialport/) - tcl package for library libserialport
-* [Tcl extension for the LLVM C API](https://github.com/jdc8/llvmtcl)
-* [tclquadcode](http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
-* [FireTcl](https://sourceforge.net/projects/firetcl/) - It's a framework for developing desktop apps using web technology and Tcl, embeds Tcl inside a browser with websocket support
 
 
 Collection and Tool box
@@ -93,6 +108,8 @@ Collection and Tool box
 * [ycl](http://www.chiselapp.com/user/pooryorick/repository/ycl/) - short for Yorick's Computing tooLkit,
 is PYK's collection of miscellaneous procedures and programs.
 * [tcl-hacks](https://chiselapp.com/user/aspect/repository/tcl-hacks/index) - A repository of useful and/or interesting hacks in Tcl
+* [tclapps](https://github.com/tcltk/tclapps): a suite of small applications for Tcl useful as
+examples and in regular use to a large collection of Tcl programmers
 
 
 Object-oriented
@@ -126,7 +143,7 @@ interpret a value as a function and evaluate it,
 providing the equivalent of lambda functions.
 
 
-GUI and widget
+GUI and Tk widget
 =====
 
 * [BWidget](https://core.tcl.tk/bwidget/home)
@@ -290,6 +307,7 @@ And my project:
 Concurrency
 =====
 
+* [Thread](http://core.tcl.tk/thread) - brings native thread capabilities to Tcl
 * [tcllib Coroutine utilities](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/coroutine/tcllib_coroutine.html)
 * [TclMPI: Tcl bindings for MPI](https://sites.google.com/site/akohlmey/software/tclmpi)
 * [csp - Golang inspired concurrency library for Tcl](https://securitykiss.com/resources/tutorials/csp_project/index.php)
@@ -314,6 +332,19 @@ Database
 and check:
 
 * [Tcl extension and Database](https://github.com/ray2501/Tcl-Related-Link/blob/master/database.md)
+
+
+Channel and file system
+=====
+
+* [TclVfs](https://sourceforge.net/projects/tclvfs/)
+* [Memchan](http://memchan.sourceforge.net/) - In-memory channels for Tcl,
+and deprecated by tcllib's tcl::chan::memchan, which is available for Tcl >= 8.5.
+* [Trf](http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels.
+Stacked channels is available at the Tcl-script level (after 8.5).
+See the [chan](http://wiki.tcl.tk/15111) command for details.
+* [trofs](http://math.nist.gov/~DPorter/tcltk/trofs/) - Tcl Read-Only Filesystem
+* [tserialport](https://sourceforge.net/projects/tclsnippets/files/tserialport/) - tcl package for library libserialport
 
 
 Fileutils
@@ -378,6 +409,7 @@ And useful info:
  * [DustMote](http://wiki.tcl.tk/4333) - A web server in one page of Tcl code
  * [DustMote with Snit](https://github.com/tclssg/tclssg/tree/master/lib/dustmote-snit/) - An extended version of the DustMote web server wrapped in a Snit type
  * [jimhttp](https://github.com/dbohdan/jimhttp) - A web framework prototype for Jim Tcl
+ * [tmpl_parser](http://wiki.tcl.tk/20363) - a simple and fast template engine
 
 
 Templating language
@@ -504,6 +536,8 @@ Machine.
 ## C
 
 * [critcl](http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
+* [ffidl](http://elf.org/ffidl/) and [git repository](https://github.com/prs-de/ffidl) - Foreign
+Function Interface
 
 
 ## D
@@ -553,6 +587,11 @@ R has bindings to Tcl/Tk (part of R, [document](https://www.rdocumentation.org/p
 * [Wacl](https://fossil.e-lehmann.de/wacl/index) - This is a Tcl distribution for [WebAssembly](http://webassembly.org/).
 It enables Web developers to embed a Tcl interpreter in the browser and integrate Tcl with JavaScript.
 
+## Web
+
+* [FireTcl](https://sourceforge.net/projects/firetcl/) - It's a framework for developing desktop apps using web technology and Tcl, embeds Tcl inside a browser with websocket support
+* [Tcl/Tk plugin](http://wiki.tcl.tk/25865)
+
 
 Related Project
 =====
@@ -591,28 +630,21 @@ Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有�
 Tools
 =====
 
-* [TclProDebug](https://github.com/flightaware/TclProDebug) - Upgrade of debugger from classic [TclPro](https://wiki.tcl.tk/365) to Tcl 8.5+
-* [BAWT](http://www.bawt.tcl3d.org/) - Tcl based configurable framework for automatically
-building C/C++ based software libraries from source code
-* [kitgen build system](https://sourceforge.net/projects/kbskit/) - Framework to generate TclkitLite executables, compile Tcl packages and build kit files for different operating systems
-* [tclapps](https://github.com/tcltk/tclapps): a suite of small applications for Tcl useful as
-examples and in regular use to a large collection of Tcl programmers
-* [poApps - Paul's Portable Applications](http://www.posoft.de/html/poTools.html)
-* [freeWrap](http://freewrap.sourceforge.net/): FreeWrap distributions are freely available for Linux and Windows operating systems.
-* [tclexecomp](https://sourceforge.net/projects/tclexecomp/)
 * [Enhanced Tk Console: tkcon](http://tkcon.sourceforge.net/)
-* [TkCVS](http://www.twobarleycorns.net/tkcvs.html)
-* [gitk](https://git-scm.com/docs/gitk) - The Git repository browser
-* [tcl-jira-api](https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
 * [ASED](https://sourceforge.net/projects/ased/), [Wiki page](http://wiki.tcl.tk/1278) - BWidget IDE allowing editing of multiple Tcl files
 * [Chimera Grid Tools](https://www.nas.nasa.gov/publications/software/docs/chimera/index.html)
 * [Eskil](http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and directory differences
 * [ezdit](https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
+* [gitk](https://git-scm.com/docs/gitk) - The Git repository browser
 * [IPAT-S Software Suite](https://sourceforge.net/projects/ipat-s/) - IPAT-S Software Suite is a collection of supporting tools for the IPAT-S modeling language
-* [MTE](http://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
 * [Markdown2Go](http://wiki.tcl.tk/48198): markdown converter
+* [MTE](http://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
 * [minitree note taking app](http://wiki.tcl.tk/48369)
+* [poApps - Paul's Portable Applications](http://www.posoft.de/html/poTools.html)
+* [snackamp](	http://sourceforge.net/projects/snackamp/)
 * [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
+* [tcl-jira-api](https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
+* [TkCVS](http://www.twobarleycorns.net/tkcvs.html)
 * [TkMC](http://wiki.tcl.tk/7772) - MC like file manager with basic functionality
 
 
