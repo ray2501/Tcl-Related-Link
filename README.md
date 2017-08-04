@@ -38,6 +38,7 @@ This is one of the central features of Tcl.
 * [TkDocs](http://www.tkdocs.com/)
 * [Great Unified Tcl/Tk Extension Repository](http://core.tcl.tk/jenglish/gutter/)
 * [RosettaCode: Tcl](http://rosettacode.org/wiki/Category:Tcl)
+* [Tcl/Tk: A Developer's Guide](http://wiki.tcl.tk/9149)
 * [Practical Programming in Tcl and Tk](http://www.beedub.com/book/)
 * [Tcl and the Tk Toolkit (2nd Edition)](http://www.tcltk-book.com/): Updated for Tcl/Tk 8.5
 * [The Tcl Programming Language](http://wiki.tcl.tk/48868): Book for Tcl (8.6)
@@ -358,7 +359,8 @@ Networking
 
 * [Tcl UDP extension](https://sourceforge.net/projects/tcludp/)
 * [scotty](https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
-* [tclcurl](https://bitbucket.org/smh377/tclcurl) - Tcl wrapper for Curl
+* [tclcurl](https://bitbucket.org/smh377/tclcurl) - Tcl wrapper for Curl. Curl got
+HTTP/2 support when it's linked with the [nghttp2](https://nghttp2.org/) library in version 7.43.0.
 * [tclnetsnmp](http://tcl.uk.to/) - netsnmp package for TCL 8.6
 * [ecap-tcl](https://github.com/petasis/ecap-tcl) - An eCAP adapter for Tcl
 * [Netinfo](http://wiki.tcl.tk/17493) - Protocol, service, network, host and ether info
