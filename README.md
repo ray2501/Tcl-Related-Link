@@ -298,6 +298,7 @@ BZip2 compression library
 [tcllib zipfile::mkzip](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/mkzip.html): Access to zip archives, generation of zip archives and build a zip archive
 * [LZ4](http://wiki.tcl.tk/48789)
 * [Zstandard](http://wiki.tcl.tk/48788) - libzstd bindings for Tcl through Critcl
+* [Brotli compression format](http://wiki.tcl.tk/48939) - Uses Critcl
 
 And my project:
 
