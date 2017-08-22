@@ -68,6 +68,7 @@ Other
 下面是我在進行資料庫研究時所寫的 Tcl extension 列表。
 
 * [tcl-lmdb](https://github.com/ray2501/tcl-lmdb)
+* [tcl-leveldb](https://github.com/ray2501/tcl-leveldb)
 * [tcl-rocksdb](https://github.com/ray2501/tcl-rocksdb)
 * [tclunqlite](https://github.com/ray2501/tclunqlite)
 * [tclcubrid](https://github.com/ray2501/tclcubrid)

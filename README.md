@@ -174,6 +174,7 @@ Useful info:
 * [A TclOO Tkhtml 3.0 megawidget - example of how to render html+css](http://wiki.tcl.tk/48458)
 * [Revised Implementation of Tk Text Widget](http://scidb.sourceforge.net/tk/revised-text-widget.html)
 * [A collection of Ttk themes](http://chiselapp.com/user/sgolovan/repository/ttk-themes/home)
+* [Scaled checkbutton](http://wiki.tcl.tk/44212)
 
 
 GUI toolkit
@@ -366,6 +367,7 @@ HTTP/2 support when it's linked with the [nghttp2](https://nghttp2.org/) library
 * [ecap-tcl](https://github.com/petasis/ecap-tcl) - An eCAP adapter for Tcl
 * [Netinfo](http://wiki.tcl.tk/17493) - Protocol, service, network, host and ether info
 * [Tcllib ldap](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ldap/ldap.html) - LDAP client
+* [Sensus ldap](https://web.archive.org/web/20130730202916/www.sensus.org/tcl/)
 * [Tcllib ftp](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ftp/ftp.html) - Client-side tcl implementation of the ftp protocol
 
 
@@ -649,6 +651,7 @@ Tools
 * [tcl-jira-api](https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
 * [TkCVS](http://www.twobarleycorns.net/tkcvs.html)
 * [TkMC](http://wiki.tcl.tk/7772) - MC like file manager with basic functionality
+* [wiki-reaper](http://wiki.tcl.tk/4718) - An HTTP robot in Tcl that will fetch page(s) from Tcler's Wiki
 
 
 Misc
