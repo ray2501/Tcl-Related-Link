@@ -56,8 +56,9 @@ Tcl distributions
 
 * [ActiveTcl](http://www.activestate.com/activetcl) 是一個廣為人所知，
 提供了 [Batteries Included](http://wiki.tcl.tk/2352) 的 Binary Distribution。
-* [Magicsplat Tcl/Tk for Windows](http://www.magicsplat.com/tcl-installer/index.html)
+* [BAWT-Tcl](http://www.bawt.tcl3d.org/download.html#tclbi) - Batteries Included Setup Program
 * [IronTcl](https://www.irontcl.com/) - is a binary distribution of Tcl and Tk.
+* [Magicsplat Tcl/Tk for Windows](http://www.magicsplat.com/tcl-installer/index.html)
 
 ## TclKits
 
