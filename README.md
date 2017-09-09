@@ -168,6 +168,8 @@ GUI and Tk widget
 * [wcb](http://www.nemethi.de/) - The WCB package provides a general-purpose
 mechanism for customizing the behavior of entry, spinbox, and text widgets
 * [BLT in Wize](http://pdqi.com/w/pw/pdqi/Wize/Blt)
+* [extrafont](http://wiki.tcl.tk/48903) - a multi-platform binary package providing a way
+for loading "private fonts" in a Tk apps
 
 Useful info:
 
@@ -545,6 +547,9 @@ Machine.
 * [ffidl](http://elf.org/ffidl/) and [git repository](https://github.com/prs-de/ffidl) - Foreign
 Function Interface
 
+Useful info:
+* [Accessing C library functions using Critcl](http://wiki.tcl.tk/11227)
+
 
 ## D
 
@@ -610,7 +615,8 @@ Related Project
 Write a Tcl extension
 =====
 
-目前就我所知，Tcl extension 可以大致上分為二種形式，一種是使用 C/C++ 與 [TEA](http://wiki.tcl.tk/327) 架構撰寫的 extension。
+目前就我所知，Tcl extension 可以大致上分為二種形式，
+一種是使用 C/C++ 與 [TEA](http://wiki.tcl.tk/327) 架構撰寫的 extension。
 可以從 Tcl 社群提供的 Sample extension 開始。
 
     # Replace sample with the name of your extension
@@ -625,6 +631,9 @@ Write a Tcl extension
     # And then the usual:
     ./configure
     make
+
+另外一個使用 C/C++ 開發 Tcl 套件的方式是使用
+Critcl (provides on-the-fly compilation and execution of C code).
 
 一種是使用 pure Tcl 所撰寫的 exetnsion，以 Tcl 檔案的形式或者是 [Tcl Modules](http://wiki.tcl.tk/12999) 的方式發佈。
 
