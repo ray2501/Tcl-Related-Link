@@ -153,6 +153,7 @@ GUI and Tk widget
 * [Incr Tk](http://chiselapp.com/user/rene/repository/itk/index)
 * [incr Widgets](http://chiselapp.com/user/rene/repository/iwidgets/index)
 * [Img](https://sourceforge.net/projects/tkimg/)
+* [tksvg](https://github.com/auriocus/tksvg) - An extension for Tk to read SVG images based on nanosvg
 * [Tix Widget Set](http://sourceforge.net/projects/tix/)
 * [GRIDPLUS](http://www.satisoft.com/tcltk/gridplus2/)
 * [TkHTML](http://tkhtml.tcl.tk/)
@@ -449,7 +450,7 @@ JSON
 * [yajl-tcl](http://wiki.tcl.tk/28240) - a Tcl binding for yajl (yet another json library)
 * [tcl-json](https://github.com/bef/tcl-json)
 * [rl_json](https://github.com/RubyLane/rl_json) - Extends Tcl with a json value type
-and a command to manipulate json values directly
+and a command to manipulate json values directly, and [rl_json Extensions](http://wiki.tcl.tk/48276)
 * [tcljsonnet](https://github.com/ray2501/tcljsonnet)
 * [Playing XPath with JSON](http://wiki.tcl.tk/40865)
 
@@ -498,6 +499,8 @@ based on Twapi to script Microsoft Windows® applications with Tcl
 
 
 ## Arduino
+
+* [tfirmata](http://pdt.github.io/tfirmata) - a Tcl implementation of Arduino Firmata 2.3
 
 Useful info:
 
