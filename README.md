@@ -403,6 +403,8 @@ Web server and framework
 * [tclssg](https://github.com/tclssg/tclssg): A static site generator with template support written in Tcl
 * [T2WS - Tiny Tcl Web Server](https://github.com/Drolla/t2ws)
 * [tclhttpd](https://core.tcl.tk/tclhttpd/index)
+* [Wibble web server](https://chiselapp.com/user/andy/repository/wibble/timeline?y=ci) and
+[Wiki page](http://wiki.tcl.tk/23626)
 * [Wub](https://github.com/tcler/wub) (github clone) and [Wiki page](http://wiki.tcl.tk/15781)
 * [woof](http://sourceforge.net/projects/woof) - Web Oriented Object Framework
 
@@ -412,6 +414,8 @@ And for html and CGI
 * [htmlparse](http://wiki.tcl.tk/2204) - tcllib module
 * [ncgi](http://wiki.tcl.tk/780) - provides commands that manipulate CGI values (tcllib module)
 * [Tclgumbo](https://sites.google.com/site/ray2501/tclgumbo) - Tcl interface for gumbo library
+* tDOM 9.0 as build option an interface to the gumbo HTML5 parser, which also digests almost
+any other HTML. (--enable-html5)
 
 And useful info:
 
