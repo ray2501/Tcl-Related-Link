@@ -341,6 +341,12 @@ and check:
 * [Tcl extension and Database](https://github.com/ray2501/Tcl-Related-Link/blob/master/database.md)
 
 
+Data type
+=====
+
+* [Tarray](http://wiki.tcl.tk/37462) - implements a new Tcl collection data type - typed array
+
+
 Channel and file system
 =====
 
@@ -561,6 +567,11 @@ Useful info:
 ## D
 
 * [Example of a Tcl extension in D](http://wiki.tcl.tk/48795)
+
+
+## Erlang
+
+* [etclface](https://github.com/fredyouhanaie/etclface) - An Erlang/Tcl Interface
 
 
 ## Fortran
