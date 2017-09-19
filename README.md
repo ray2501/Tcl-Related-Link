@@ -154,6 +154,7 @@ GUI and Tk widget
 * [incr Widgets](http://chiselapp.com/user/rene/repository/iwidgets/index)
 * [Img](https://sourceforge.net/projects/tkimg/)
 * [tksvg](https://github.com/auriocus/tksvg) - An extension for Tk to read SVG images based on nanosvg
+* [Imgtools](http://tkimgtools.sourceforge.net/index.html) - manipulate Tk photo images
 * [Tix Widget Set](http://sourceforge.net/projects/tix/)
 * [GRIDPLUS](http://www.satisoft.com/tcltk/gridplus2/)
 * [TkHTML](http://tkhtml.tcl.tk/)
