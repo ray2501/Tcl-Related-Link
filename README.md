@@ -180,6 +180,7 @@ Useful info:
 * [Revised Implementation of Tk Text Widget](http://scidb.sourceforge.net/tk/revised-text-widget.html)
 * [A collection of Ttk themes](http://chiselapp.com/user/sgolovan/repository/ttk-themes/home)
 * [Scaled checkbutton](http://wiki.tcl.tk/44212)
+* [always on top](http://wiki.tcl.tk/3014)
 
 
 GUI toolkit
@@ -398,10 +399,26 @@ And useful info:
 * [Numerical Analysis in Tcl](http://wiki.tcl.tk/1272)
 
 
+Text and string
+=====
+
+* [tcllib textutil](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/textutil/textutil.html)
+
+And useful info:
+
+* [Additional string functions](http://wiki.tcl.tk/44)
+
+And my project:
+
+* [regex_rez](https://github.com/ray2501/regex_rez) - Tcl bindings for RE2,
+implement basic function - fullmatch, partialmatch, replace and globalrelpace
+
+
 Web server and framework
 =====
 * [AOLserver](http://sourceforge.net/projects/aolserver/)
-* [NaviServer](http://sourceforge.net/projects/naviserver/)
+* [NaviServer](http://sourceforge.net/projects/naviserver/),
+and [qcode-tcl](https://github.com/qcode-software/qcode-tcl)
 * [OpenACS](http://openacs.org/)
 * [Apache Rivet](http://tcl.apache.org/rivet/)
 * [Rivetweb](http://www.rivetweb.org/)
