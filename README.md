@@ -510,6 +510,7 @@ Platform and Language
 * [Expect](http://www.nist.gov/el/msid/expect.cfm)
 * [Extended Tcl (TclX)](http://tclx.sourceforge.net/)
 * [DBus binding for Tcl](https://sourceforge.net/projects/dbus-tcl/)
+* [tcl-mq](https://sourceforge.net/projects/tcl-mq/) - Tcl POSIX Message Queues
 * [tclreadline](https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
 * [eltclsh](http://homepages.laas.fr/mallet/soft/shell/eltclsh) - an interactive shell for the TCL programming language
 * [tclbsd](https://github.com/flightaware/tclbsd) - A Tcl package for interfacing to
@@ -692,6 +693,8 @@ Tools
 * [MTE](http://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
 * [minitree note taking app](http://wiki.tcl.tk/48369)
 * [poApps - Paul's Portable Applications](http://www.posoft.de/html/poTools.html)
+* [SAOImage DS9](http://ds9.si.edu/site/Home.html) - a Tcl/Tk program that uses the SAOTk widget set,
+is an astronomical imaging and data visualization application
 * [snackamp](	http://sourceforge.net/projects/snackamp/)
 * [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
 * [tcl-jira-api](https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
