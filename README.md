@@ -154,9 +154,6 @@ GUI and Tk widget
 * [MCListbox](http://core.tcl.tk/mclistbox/home)
 * [Incr Tk](http://chiselapp.com/user/rene/repository/itk/index)
 * [incr Widgets](http://chiselapp.com/user/rene/repository/iwidgets/index)
-* [Img](https://sourceforge.net/projects/tkimg/)
-* [tksvg](https://github.com/auriocus/tksvg) - An extension for Tk to read SVG images based on nanosvg
-* [Imgtools](http://tkimgtools.sourceforge.net/index.html) - manipulate Tk photo images
 * [Tix Widget Set](http://sourceforge.net/projects/tix/)
 * [GRIDPLUS](http://www.satisoft.com/tcltk/gridplus2/)
 * [TkHTML](http://tkhtml.tcl.tk/)
@@ -195,6 +192,11 @@ GUI toolkit
 Graphics and Images
 =====
 
+* [tkImg](https://sourceforge.net/projects/tkimg/)
+* [tksvg](https://github.com/auriocus/tksvg) - An extension for Tk to read SVG images based on nanosvg
+* [Imgtools](http://tkimgtools.sourceforge.net/index.html) - manipulate Tk photo images
+* [CRIMP](https://core.tcl.tk/akupries/crimp/home) - C Raster Image Manipulation Package
+* [PhotoResize](https://github.com/auriocus/PhotoResize) - A single-purpose extension for Tcl to resize/resample photo images 
 * [tcl.gd](https://github.com/flightaware/tcl.gd) - Feature-complete Tcl interface to
 GD graphics drawing library
 * [tclepeg](https://github.com/dzach/tclepeg) - provide a tcl extension to the epeg thumbnailing library
@@ -207,8 +209,9 @@ GraphicsMagick and ImageMagick
 decoder library
 * [tcllib exif](http://wiki.tcl.tk/3055) - to extract and parse EXIF fields from digital images
 * [tklib plotchart](http://wiki.tcl.tk/11265)
+* [ukaz](https://github.com/auriocus/ukaz) - Graph widget in pure Tcl/Tk
 
-For handle image formats, you also can check [Img](https://sourceforge.net/projects/tkimg/).
+For handle image formats, you can check [tkImg](https://sourceforge.net/projects/tkimg/).
 PNG is also built-in support in Tcl/Tk 8.6.0 (and above version).
 
 Useful info:
@@ -253,6 +256,7 @@ And my projects:
 * [tclmpg123](https://github.com/ray2501/tclmpg123) - Tcl bindings for libmpg123 
 * [tcltaglib](https://sites.google.com/site/ray2501/tcltaglib) - Tcl interface
 for taglib (Abstract API only)
+* [tclmixer](https://github.com/ray2501/tclmixer) - source code is from SDL_mixer bindings for Tcl, try to link SDL2
 
 
 Video
@@ -349,7 +353,8 @@ Data type
 =====
 
 * [Tarray](http://wiki.tcl.tk/37462) - implements a new Tcl collection data type - typed array
-
+* [TclRal](http://chiselapp.com/user/mangoa01/repository/tclral/index) - Tcl Relational Algebra Library.
+It introduces tuple and [relation] data types and a set of commands that operate on them.
 
 Channel and file system
 =====
@@ -705,6 +710,7 @@ is an astronomical imaging and data visualization application
 * [snackamp](	http://sourceforge.net/projects/snackamp/)
 * [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
 * [tcl-jira-api](https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
+* [tkchat](http://tkchat.tcl.tk/) - an instant messaging application
 * [TkCVS](http://www.twobarleycorns.net/tkcvs.html)
 * [TkMC](http://wiki.tcl.tk/7772) - MC like file manager with basic functionality
 * [wiki-reaper](http://wiki.tcl.tk/4718) - An HTTP robot in Tcl that will fetch page(s) from Tcler's Wiki
