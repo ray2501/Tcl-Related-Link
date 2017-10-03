@@ -112,6 +112,8 @@ is PYK's collection of miscellaneous procedures and programs.
 * [tcl-hacks](https://chiselapp.com/user/aspect/repository/tcl-hacks/index) - A repository of useful and/or interesting hacks in Tcl
 * [tclapps](https://github.com/tcltk/tclapps): a suite of small applications for Tcl useful as
 examples and in regular use to a large collection of Tcl programmers
+* [Sugar](https://wiki.tcl.tk/11155) - a macro system for the Tcl programming language,
+and [Sugar macros collection](https://wiki.tcl.tk/11168)
 
 
 Object-oriented
@@ -609,6 +611,11 @@ an embedded JavaScript interpreter
 
 * [gothic](https://github.com/nsf/gothic) - Tcl/Tk Go bindings.
 * [Example of a Tcl extension in Go](http://wiki.tcl.tk/48054)
+
+
+## Python
+
+* [tclpython](https://github.com/amykyta3/tclpython/)
 
 
 ## R
