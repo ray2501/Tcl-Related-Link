@@ -169,6 +169,7 @@ GUI and Tk widget
 * [wcb](http://www.nemethi.de/) - The WCB package provides a general-purpose
 mechanism for customizing the behavior of entry, spinbox, and text widgets
 * [BLT in Wize](http://pdqi.com/w/pw/pdqi/Wize/Blt)
+* [rbc](https://sourceforge.net/projects/rbctoolkit) - Refactored BLT Components
 * [extrafont](http://wiki.tcl.tk/48903) - a multi-platform binary package providing a way
 for loading "private fonts" in a Tk apps
 
@@ -192,7 +193,7 @@ GUI toolkit
 Graphics and Images
 =====
 
-* [tkImg](https://sourceforge.net/projects/tkimg/)
+* [tkImg](https://sourceforge.net/projects/tkimg/) - Additional image formats
 * [tksvg](https://github.com/auriocus/tksvg) - An extension for Tk to read SVG images based on nanosvg
 * [Imgtools](http://tkimgtools.sourceforge.net/index.html) - manipulate Tk photo images
 * [CRIMP](https://core.tcl.tk/akupries/crimp/home) - C Raster Image Manipulation Package
@@ -517,6 +518,7 @@ Platform and Language
 * [Expect](http://www.nist.gov/el/msid/expect.cfm)
 * [Extended Tcl (TclX)](http://tclx.sourceforge.net/)
 * [DBus binding for Tcl](https://sourceforge.net/projects/dbus-tcl/)
+* [Signal Extension](http://www.nyx.net/~mschwart/signal_ext.html) - Unix/POSIX Signal handling for Tcl
 * [tcl-mq](https://sourceforge.net/projects/tcl-mq/) - Tcl POSIX Message Queues
 * [tclreadline](https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
 * [eltclsh](http://homepages.laas.fr/mallet/soft/shell/eltclsh) - an interactive shell for the TCL programming language
