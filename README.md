@@ -360,7 +360,7 @@ It introduces tuple and [relation] data types and a set of commands that operate
 Channel and file system
 =====
 
-* [TclVfs](https://sourceforge.net/projects/tclvfs/)
+* [TclVfs](https://core.tcl.tk/tclvfs/index)
 * [Memchan](http://memchan.sourceforge.net/) - In-memory channels for Tcl,
 and deprecated by tcllib's tcl::chan::memchan, which is available for Tcl >= 8.5.
 * [Trf](http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels.
@@ -379,7 +379,7 @@ Fileutils
 Networking
 =====
 
-* [Tcl UDP extension](https://sourceforge.net/projects/tcludp/)
+* [Tcl UDP extension](https://core.tcl.tk/tcludp/index)
 * [scotty](https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
 * [tclcurl](https://bitbucket.org/smh377/tclcurl) - Tcl wrapper for Curl. Curl got
 HTTP/2 support when it's linked with the [nghttp2](https://nghttp2.org/) library in version 7.43.0.
@@ -455,6 +455,7 @@ And useful info:
  * [DustMote with Snit](https://github.com/tclssg/tclssg/tree/master/lib/dustmote-snit/) - An extended version of the DustMote web server wrapped in a Snit type
  * [jimhttp](https://github.com/dbohdan/jimhttp) - A web framework prototype for Jim Tcl
  * [tmpl_parser](http://wiki.tcl.tk/20363) - a simple and fast template engine
+ * [GraphQL with Tcl](https://wiki.tcl.tk/49041)
 
 
 Templating language
