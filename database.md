@@ -54,6 +54,7 @@ Other
 * [kafkatcl](https://github.com/flightaware/kafkatcl) - Tcl interface to the Apache Kafka
 * [zeromq - Tcl](http://zeromq.org/bindings:tcl)
 * [rabbitmq-tcl](https://github.com/dereckson/rabbitmq-tcl) - TCL extension to provide an AMQP client. Wrapper around librabbitmq
+* [tclrmq](https://github.com/flightaware/tclrmq) - Pure Tcl Library for RabbitMQ
 * [tstomp](https://github.com/siemens/tstomp) - a Stomp Implementation for Tcl coded in pure Tcl
 * [Tcl MQTT client](https://chiselapp.com/user/schelte/repository/mqtt/home)
 * [Round Robin Database Tool (RRDtool)](http://oss.oetiker.ch/rrdtool/)

@@ -87,6 +87,14 @@ building C/C++ based software libraries from source code
 * [kitgen build system](https://sourceforge.net/projects/kbskit/) - Framework to generate TclkitLite executables, compile Tcl packages and build kit files for different operating systems
 
 
+Package system
+=====
+
+* [teapot](https://github.com/ActiveState/teapot) - TEA Package Management system built by ActiveState
+
+However, ActiveTcl 8.6.6 does not include this tool (when I test last time).
+
+
 Wrap tool
 ======
 
@@ -389,6 +397,7 @@ HTTP/2 support when it's linked with the [nghttp2](https://nghttp2.org/) library
 * [Tcllib ldap](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ldap/ldap.html) - LDAP client
 * [Sensus ldap](https://web.archive.org/web/20130730202916/www.sensus.org/tcl/)
 * [Tcllib ftp](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ftp/ftp.html) - Client-side tcl implementation of the ftp protocol
+* [socketservertcl](https://github.com/flightaware/socketservertcl) - Basic socketserver support in Tcl inspired by libancillary
 
 
 Numeric processing
