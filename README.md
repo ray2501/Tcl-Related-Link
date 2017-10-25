@@ -66,6 +66,21 @@ Tcl distributions
 * [SDX](http://wiki.tcl.tk/3411a)
 
 
+Editor and IDE
+=====
+
+* [Notepad++](https://notepad-plus-plus.org/zh/) - For Microsoft Windows environment, supports Tcl syntax highlighting
+* [kate](https://kate-editor.org/) - Supports Tcl syntax highlighting, Symbol Viewer Plugin
+* [Komodo Edit](https://www.activestate.com/komodo-ide/downloads/edit)
+* [Eclipse](http://www.eclipse.org/) and [Eclipse Dynamic Languages Toolkit](https://projects.eclipse.org/projects/technology.dltk). DLTK provides Tcl support.
+* [Visual Studio Code](https://code.visualstudio.com/) and [TCL Language Support for Visual Studio Code](https://github.com/rashwell/tcl), [Tcl for Visual Studio Code](https://github.com/sleutho/tcl)
+
+Useful info:
+
+* [Tcl Editors](https://wiki.tcl.tk/1184)
+* [IDE](https://wiki.tcl.tk/998)
+
+
 Compiler and LLVM
 =====
 
