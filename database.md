@@ -43,6 +43,7 @@ based on [Cassandra cpp driver](https://github.com/datastax/cpp-driver)
 * [mongotcl](https://github.com/flightaware/mongotcl)
 * [retcl](https://github.com/gahr/retcl) - Tcl client library for Redis
 * [redis-tcl](https://github.com/bradvoth/redis-tcl)
+* [neo4j-tcl](https://icube-forge.unistra.fr/akress/neo4j-tcl/) - Tcl extension for Neo4j wrapping the C driver
 
 
 Other

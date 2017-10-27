@@ -746,6 +746,8 @@ is an astronomical imaging and data visualization application
 Misc
 =====
 * [Cameron Laird's personal notes on commercial aspects of Tcl](http://phaseit.net/claird/comp.lang.tcl/commercial-tcl.html)
+* [Andreas' ComputerLab BLOG](https://core.tcl.tk/akupries/blog/)
 * [Dai's Blog](http://blog.got7.org/)
+* [dbohdan blog](http://dbohdan.com/blog/)
 * [magicsplat.com](http://www.magicsplat.com/) - Software, articles and blog
 * [Tcl-bounties](https://github.com/flightaware/Tcl-bounties) - Bounty program for improvements to Tcl and certain Tcl packages
