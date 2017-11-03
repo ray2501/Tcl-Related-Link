@@ -17,6 +17,12 @@ Tcl 8.6 shipped with four drivers for TDBC:
 * PostgreSQL (tdbc::postgres)
 * SQLite (tdbc::sqlite)
 
+ORM
+=====
+
+* [ORM](https://wiki.tcl.tk/26254) - Object Relational Model over TDBC
+
+
 RDBMS
 =====
 
@@ -44,6 +50,7 @@ based on [Cassandra cpp driver](https://github.com/datastax/cpp-driver)
 * [retcl](https://github.com/gahr/retcl) - Tcl client library for Redis
 * [redis-tcl](https://github.com/bradvoth/redis-tcl)
 * [neo4j-tcl](https://icube-forge.unistra.fr/akress/neo4j-tcl/) - Tcl extension for Neo4j wrapping the C driver
+* [TSDB](https://wiki.tcl.tk/41240) - A straightforward implementation of a time-series database, written by Tcl
 
 
 Other
