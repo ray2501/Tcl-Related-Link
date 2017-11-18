@@ -92,6 +92,7 @@ Debugger
 =====
 
 * [TclProDebug](https://github.com/flightaware/TclProDebug) - Upgrade of debugger from classic [TclPro](https://wiki.tcl.tk/365) to Tcl 8.5+
+* [Tclgdb](https://github.com/flightaware/tclgdb) - Use gdb breakpoints for Tcl source with Tcl_CreateTrace
 
 
 Build System
@@ -549,6 +550,7 @@ Platform and Language
 * [eltclsh](http://homepages.laas.fr/mallet/soft/shell/eltclsh) - an interactive shell for the TCL programming language
 * [tclbsd](https://github.com/flightaware/tclbsd) - A Tcl package for interfacing to
 various BSD UNIX system calls and library routines
+* [tcl-augeas](https://github.com/dbohdan/tcl-augeas) - Tcl bindings for Augeas
 
 
 ## Windows-specific
@@ -737,6 +739,7 @@ is an astronomical imaging and data visualization application
 * [snackamp](	http://sourceforge.net/projects/snackamp/)
 * [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
 * [tcl-jira-api](https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
+* [tedit](https://github.com/thanoulis/tedit) - a simple text editor written in Tcl/Tk
 * [tkchat](http://tkchat.tcl.tk/) - an instant messaging application
 * [TkCVS](http://www.twobarleycorns.net/tkcvs.html)
 * [TkMC](http://wiki.tcl.tk/7772) - MC like file manager with basic functionality
