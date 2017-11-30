@@ -244,6 +244,7 @@ Useful info:
 * [3D animation on canvas with Gnuplot](http://wiki.tcl.tk/13555)
 * [Canvas Object Movement Example](http://wiki.tcl.tk/26978)
 * [Graphics with Tcl](http://wiki.tcl.tk/2389)
+* [Webcams / Digital Cameras](https://wiki.tcl.tk/14314)
 
 For barcode:
 
@@ -491,6 +492,7 @@ Templating language
 * [tcllib markdown](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/markdown/markdown.html)
 * [caius markdown](https://github.com/tobijk/caius/tree/master/lib/markdown)
 * [tcl-markdown](https://github.com/wduquette/tcl-markdown)
+* [tcl-cmark](https://github.com/apnadkarni/tcl-cmark) - Tcl bindings to the cmark-gfm
 
 And you can check [Markdown2Go](http://wiki.tcl.tk/48198).
 
