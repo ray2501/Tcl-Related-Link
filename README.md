@@ -401,6 +401,13 @@ Fileutils
 * [tcllib fileutils](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/fileutil/fileutil.html) - Procedures implementing some file utilities
 
 
+Geography
+=====
+
+* [proj4tcl](https://wiki.tcl.tk/41270) - a binding to the [proj4](http://proj4.org/) projection library,
+requires critcl
+
+
 Networking
 =====
 
