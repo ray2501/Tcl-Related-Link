@@ -205,6 +205,7 @@ Useful info:
 * [A collection of Ttk themes](http://chiselapp.com/user/sgolovan/repository/ttk-themes/home)
 * [Scaled checkbutton](http://wiki.tcl.tk/44212)
 * [always on top](http://wiki.tcl.tk/3014)
+* [Tutorial: Modifying a ttk button's style](https://wiki.tcl.tk/54685)
 
 
 GUI toolkit
