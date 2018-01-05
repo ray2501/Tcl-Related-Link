@@ -400,6 +400,8 @@ Fileutils
 =====
 
 * [tcllib fileutils](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/fileutil/fileutil.html) - Procedures implementing some file utilities
+* [DiffUtilTcl](https://github.com/pspjuth/DiffUtilTcl) - A Tcl extension for diff utility functions,
+like Longest Common Substring
 
 
 Geography
