@@ -110,6 +110,9 @@ Package system
 
 However, ActiveTcl 8.6.6 does not include this tool (when I test last time).
 
+* [teaget](https://wiki.tcl.tk/24765) - is a tcl only script that can be used
+as a command line utility to retrieve packages
+
 
 Wrap tool
 ======
@@ -317,6 +320,8 @@ Command line
 Procedures to process command lines and options
 * [getopt.tcl](https://github.com/tcler/getopt.tcl) - A getopt implementation of tcl
 that compat with GNU getopt
+* [parse_args](https://github.com/RubyLane/parse_args) - A fast argument parser
+based on the patterns established by core Tcl commands like [lsort], [lsearch], [glob], [regex], etc.
 * [tabulate](http://wiki.tcl.tk/41682) - a command line utility that converts standard input
 into pretty-printed tables
 
