@@ -446,7 +446,7 @@ And useful info:
 * [Numerical Analysis in Tcl](http://wiki.tcl.tk/1272)
 
 
-Procedure/Funcion
+Procedure/Function
 =====
 
 * [parse_args](https://github.com/RubyLane/parse_args) - A fast argument parser
