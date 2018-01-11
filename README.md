@@ -320,8 +320,6 @@ Command line
 Procedures to process command lines and options
 * [getopt.tcl](https://github.com/tcler/getopt.tcl) - A getopt implementation of tcl
 that compat with GNU getopt
-* [parse_args](https://github.com/RubyLane/parse_args) - A fast argument parser
-based on the patterns established by core Tcl commands like [lsort], [lsearch], [glob], [regex], etc.
 * [tabulate](http://wiki.tcl.tk/41682) - a command line utility that converts standard input
 into pretty-printed tables
 
@@ -448,6 +446,13 @@ And useful info:
 * [Numerical Analysis in Tcl](http://wiki.tcl.tk/1272)
 
 
+Procedure/Funcion
+=====
+
+* [parse_args](https://github.com/RubyLane/parse_args) - A fast argument parser
+based on the patterns established by core Tcl commands like [lsort], [lsearch], [glob], [regex], etc.
+
+
 Text and string
 =====
 
@@ -545,6 +550,10 @@ SOAP and XML-RPC, based on TclDOM (TclDOM is the DOM part of TclXML project).
 switched TclDOM over to tDOM and add JSON-RPC support, changed by ActiveState.
 * [Web Services for Tcl](http://core.tcl.tk/tclws/index)
 
+And my project:
+
+* [tclxqilla](https://github.com/ray2501/tclxqilla) - Tcl extension for XQilla library
+
 
 YAML
 =====
@@ -578,6 +587,7 @@ various BSD UNIX system calls and library routines
 based on Twapi to script Microsoft Windows® applications with Tcl
 * iocpsock: [Winsock2 IOCP channel driver for Tcl](https://sourceforge.net/projects/iocpsock/)
 * [TkPrint](http://pages.videotron.com/cclients/files/tkprint1.1.html)
+* [tcl-vix](http://tcl-vix.magicsplat.com/) - provides an interface to the VIX library for manipulating VMware virtual machines
 
 
 ## Arduino
