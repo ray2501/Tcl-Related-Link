@@ -36,6 +36,7 @@ This is one of the central features of Tcl.
 * [The Tcl Database Connectivity interface](http://www.magicsplat.com/articles/tdbc.html)
 * [Tcl Threading Model](http://www.tcl.tk/doc/howto/thread_model.html)
 * [TkDocs](http://www.tkdocs.com/)
+* [Official library of extensions](https://wiki.tcl.tk/30)
 * [Great Unified Tcl/Tk Extension Repository](http://core.tcl.tk/jenglish/gutter/)
 * [RosettaCode: Tcl](http://rosettacode.org/wiki/Category:Tcl)
 * [Tcl/Tk: A Developer's Guide](http://wiki.tcl.tk/9149)
@@ -507,7 +508,7 @@ And useful info:
 Templating language
 =====
 
-## Markdown
+## CommonMark/Markdown
 
 * [tcllib markdown](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/markdown/markdown.html)
 * [caius markdown](https://github.com/tobijk/caius/tree/master/lib/markdown)
@@ -766,6 +767,7 @@ Tools
 * [SAOImage DS9](http://ds9.si.edu/site/Home.html) - a Tcl/Tk program that uses the SAOTk widget set,
 is an astronomical imaging and data visualization application
 * [snackamp](	http://sourceforge.net/projects/snackamp/)
+* [starDOM](https://wiki.tcl.tk/3895) - a little XML browser
 * [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
 * [tcl-jira-api](https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
 * [tedit](https://github.com/thanoulis/tedit) - a simple text editor written in Tcl/Tk
