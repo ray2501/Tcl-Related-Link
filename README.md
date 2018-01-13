@@ -588,6 +588,7 @@ based on Twapi to script Microsoft Windows® applications with Tcl
 * iocpsock: [Winsock2 IOCP channel driver for Tcl](https://sourceforge.net/projects/iocpsock/)
 * [TkPrint](http://pages.videotron.com/cclients/files/tkprint1.1.html)
 * [tcl-vix](http://tcl-vix.magicsplat.com/) - provides an interface to the VIX library for manipulating VMware virtual machines
+* [Windows Inspection Tool Set](http://windowstoolset.magicsplat.com/)
 
 
 ## Arduino
@@ -760,6 +761,7 @@ Tools
 * [Markdown2Go](http://wiki.tcl.tk/48198): markdown converter
 * [MTE](http://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
 * [minitree note taking app](http://wiki.tcl.tk/48369)
+* [Notebook](https://github.com/wduquette/notebook) - Notebook Personal Wiki
 * [poApps - Paul's Portable Applications](http://www.posoft.de/html/poTools.html)
 * [SAOImage DS9](http://ds9.si.edu/site/Home.html) - a Tcl/Tk program that uses the SAOTk widget set,
 is an astronomical imaging and data visualization application
@@ -770,6 +772,7 @@ is an astronomical imaging and data visualization application
 * [tkchat](http://tkchat.tcl.tk/) - an instant messaging application
 * [TkCVS](http://www.twobarleycorns.net/tkcvs.html)
 * [TkMC](http://wiki.tcl.tk/7772) - MC like file manager with basic functionality
+* [TkSQLite](http://reddog.s35.xrea.com/wiki/TkSQLite.html) - GUI frontend to sqlite3
 * [wiki-reaper](http://wiki.tcl.tk/4718) - An HTTP robot in Tcl that will fetch page(s) from Tcler's Wiki
 
 
