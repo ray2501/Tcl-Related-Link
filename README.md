@@ -387,6 +387,17 @@ Data type
 * [TclRal](http://chiselapp.com/user/mangoa01/repository/tclral/index) - Tcl Relational Algebra Library.
 It introduces tuple and [relation] data types and a set of commands that operate on them.
 
+And check:
+
+* [Abstract Data Types](https://wiki.tcl.tk/11450)
+
+Documentation
+=====
+
+* [Ruff!](http://woof.sourceforge.net/ruff.html) - generates reference documentation
+for Tcl programs using runtime introspection.
+
+
 Channel and file system
 =====
 
