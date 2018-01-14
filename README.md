@@ -142,6 +142,7 @@ is PYK's collection of miscellaneous procedures and programs.
 examples and in regular use to a large collection of Tcl programmers
 * [Sugar](https://wiki.tcl.tk/11155) - a macro system for the Tcl programming language,
 and [Sugar macros collection](https://wiki.tcl.tk/11168)
+* [tcl-gen](https://github.com/rbrogan/tcl-gen) - General Utilities for Tcl
 
 
 Object-oriented
@@ -602,6 +603,7 @@ based on Twapi to script Microsoft Windows® applications with Tcl
 * [TkPrint](http://pages.videotron.com/cclients/files/tkprint1.1.html)
 * [tcl-vix](http://tcl-vix.magicsplat.com/) - provides an interface to the VIX library for manipulating VMware virtual machines
 * [Windows Inspection Tool Set](http://windowstoolset.magicsplat.com/)
+* [winico](http://tktable.sourceforge.net/)
 
 
 ## Arduino
