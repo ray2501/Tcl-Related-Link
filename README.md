@@ -64,7 +64,7 @@ Tcl distributions
 ## TclKits
 
 * [TclKits](http://tclkits.rkeene.org/fossil/wiki/Downloads)
-* [SDX](http://wiki.tcl.tk/3411a)
+* [SDX](http://wiki.tcl.tk/3411)
 
 
 Editor and IDE
@@ -589,6 +589,7 @@ Platform and Language
 * [tclbsd](https://github.com/flightaware/tclbsd) - A Tcl package for interfacing to
 various BSD UNIX system calls and library routines
 * [tcl-augeas](https://github.com/dbohdan/tcl-augeas) - Tcl bindings for Augeas
+* [tcl-inotify](https://sourceforge.net/projects/tcl-inotify/)
 
 
 ## Windows-specific
