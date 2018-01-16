@@ -211,6 +211,7 @@ Useful info:
 * [Scaled checkbutton](http://wiki.tcl.tk/44212)
 * [always on top](http://wiki.tcl.tk/3014)
 * [Tutorial: Modifying a ttk button's style](https://wiki.tcl.tk/54685)
+* [Yet Another Color Picker](https://wiki.tcl.tk/48722)
 
 
 GUI toolkit
@@ -772,6 +773,8 @@ Tools
 * [Eskil](http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and directory differences
 * [ezdit](https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
 * [gitk](https://git-scm.com/docs/gitk) - The Git repository browser
+* [GraphViz](https://www.graphviz.org/) - Set of graph drawing tools and libraries,
+supporting hierarchical and mass-spring drawings
 * [IPAT-S Software Suite](https://sourceforge.net/projects/ipat-s/) - IPAT-S Software Suite is a collection of supporting tools for the IPAT-S modeling language
 * [Markdown2Go](http://wiki.tcl.tk/48198): markdown converter
 * [MTE](http://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
