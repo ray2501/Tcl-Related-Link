@@ -488,7 +488,10 @@ Web server and framework
 * [NaviServer](http://sourceforge.net/projects/naviserver/),
 and [qcode-tcl](https://github.com/qcode-software/qcode-tcl)
 * [OpenACS](http://openacs.org/)
-* [Apache Rivet](http://tcl.apache.org/rivet/)
+* [Apache Rivet](http://tcl.apache.org/rivet/), 3.0.0 provide support for
+both non threaded Apache MPMs (Multi Process Module), such as mod_mpm_prefork,
+and threaded MPMs such as mod_mpm_worker, mod_mpm_event and mod_mpm_winnt.
+(can work with mod_http2 at mpm_event)
 * [Rivetweb](http://www.rivetweb.org/)
 * [RivetCGI](https://chiselapp.com/user/rkeene/repository/rivetcgi/home) - Rivet as a CGI
 * [tänzer](https://github.com/xantronix/tanzer)
@@ -583,7 +586,7 @@ Platform and Language
 
 * [Expect](http://www.nist.gov/el/msid/expect.cfm)
 * [Extended Tcl (TclX)](http://tclx.sourceforge.net/)
-* [DBus binding for Tcl](https://sourceforge.net/projects/dbus-tcl/)
+* [DBus binding for Tcl](https://chiselapp.com/user/schelte/repository/dbus/home)
 * [Signal Extension](http://www.nyx.net/~mschwart/signal_ext.html) - Unix/POSIX Signal handling for Tcl
 * [tcl-mq](https://sourceforge.net/projects/tcl-mq/) - Tcl POSIX Message Queues
 * [tclreadline](https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
