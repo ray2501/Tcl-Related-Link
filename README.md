@@ -775,6 +775,8 @@ Tools
 * [Chimera Grid Tools](https://www.nas.nasa.gov/publications/software/docs/chimera/index.html)
 * [Eskil](http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and directory differences
 * [ezdit](https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
+* [Fossil SCM](https://www.fossil-scm.org/) - a distributed version control system,
+bug tracking system and wiki software server
 * [gitk](https://git-scm.com/docs/gitk) - The Git repository browser
 * [GraphViz](https://www.graphviz.org/) - Set of graph drawing tools and libraries,
 supporting hierarchical and mass-spring drawings
