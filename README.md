@@ -396,8 +396,19 @@ And check:
 Documentation
 =====
 
+* [doctools](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/doctools/doctools_lang_intro.html) - a set of tools is included so that
+the tcllib author can write the documentation for his/her module in a format
+agnostic manner, and then convert the documentation into Unix man pages, HTML,
+and other formats.
 * [Ruff!](http://woof.sourceforge.net/ruff.html) - generates reference documentation
 for Tcl programs using runtime introspection.
+
+
+Internationalization and localization
+=====
+
+* [msgcat](https://www.tcl.tk/man/tcl/TclCmd/msgcat.htm) - a built-in manages Tcl message catalogs
+for localising text
 
 
 Channel and file system
@@ -595,6 +606,7 @@ Platform and Language
 various BSD UNIX system calls and library routines
 * [tcl-augeas](https://github.com/dbohdan/tcl-augeas) - Tcl bindings for Augeas
 * [tcl-inotify](https://sourceforge.net/projects/tcl-inotify/)
+* [tktray](http://wiki.tcl.tk/5972) - an extension for managing system tray icons with Tk on X Window System
 
 
 ## Windows-specific
