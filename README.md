@@ -627,6 +627,13 @@ based on Twapi to script Microsoft Windows® applications with Tcl
 * [MacPorts](https://www.macports.org/) - Package management system for Mac OS X
 
 
+## Docker
+
+* [Ubuntu-based image](https://hub.docker.com/r/efrecon/tcl/)
+* [mini-tcl](https://hub.docker.com/r/efrecon/mini-tcl/)
+* [docker-client](https://github.com/efrecon/docker-client)
+
+
 ## Arduino
 
 * [tfirmata](http://pdt.github.io/tfirmata) - a Tcl implementation of Arduino Firmata 2.3
@@ -809,6 +816,7 @@ is an astronomical imaging and data visualization application
 * [snackamp](	http://sourceforge.net/projects/snackamp/)
 * [starDOM](https://wiki.tcl.tk/3895) - a little XML browser
 * [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
+* [JSMin-Tcl](https://github.com/flightaware/jsmin-tcl) - A Tcl JavaScript minifier
 * [tcl-jira-api](https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
 * [tedit](https://github.com/thanoulis/tedit) - a simple text editor written in Tcl/Tk
 * [tkchat](http://tkchat.tcl.tk/) - an instant messaging application
