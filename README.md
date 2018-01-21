@@ -622,6 +622,11 @@ based on Twapi to script Microsoft Windows® applications with Tcl
 * [winico](http://tktable.sourceforge.net/)
 
 
+## Apple Macintosh
+
+* [MacPorts](https://www.macports.org/) - Package management system for Mac OS X
+
+
 ## Arduino
 
 * [tfirmata](http://pdt.github.io/tfirmata) - a Tcl implementation of Arduino Firmata 2.3
@@ -784,6 +789,7 @@ Tools
 
 * [Enhanced Tk Console: tkcon](http://tkcon.sourceforge.net/)
 * [ASED](https://sourceforge.net/projects/ased/), [Wiki page](http://wiki.tcl.tk/1278) - BWidget IDE allowing editing of multiple Tcl files
+* [Tcl for Creo](https://wiki.tcl.tk/48597) - Scripting, Customization and Automation with Tcl scripts in Creo
 * [Chimera Grid Tools](https://www.nas.nasa.gov/publications/software/docs/chimera/index.html)
 * [Eskil](http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and directory differences
 * [ezdit](https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
