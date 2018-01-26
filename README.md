@@ -197,6 +197,7 @@ GUI and Tk widget
 * [TaoLib](http://fossil.etoyoc.com/fossil/taolib/index) - a TclOO megawidget framework
 * [wcb](http://www.nemethi.de/) - The WCB package provides a general-purpose
 mechanism for customizing the behavior of entry, spinbox, and text widgets
+* [pod](https://wiki.tcl.tk/19773) - a new kind of toplevel widget
 * [BLT in Wize](http://pdqi.com/w/pw/pdqi/Wize/Blt)
 * [rbc](https://sourceforge.net/projects/rbctoolkit) - Refactored BLT Components
 * [extrafont](http://wiki.tcl.tk/48903) - a multi-platform binary package providing a way
@@ -688,6 +689,11 @@ Function Interface
 
 Useful info:
 * [Accessing C library functions using Critcl](http://wiki.tcl.tk/11227)
+
+
+## C++
+
+* [cpptcl](https://github.com/flightaware/cpptcl)
 
 
 ## D
