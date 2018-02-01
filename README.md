@@ -70,6 +70,7 @@ Tcl distributions
 Editor and IDE
 =====
 
+* [VIM](http://www.vim.org/)
 * [Notepad++](https://notepad-plus-plus.org/zh/) - For Microsoft Windows environment, supports Tcl syntax highlighting
 * [kate](https://kate-editor.org/) - Supports Tcl syntax highlighting, Symbol Viewer Plugin
 * [Komodo Edit](https://www.activestate.com/komodo-ide/downloads/edit)
@@ -87,6 +88,7 @@ Compiler and LLVM
 
 * [Tcl extension for the LLVM C API](https://github.com/jdc8/llvmtcl)
 * [tclquadcode](http://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
+And [Godzilla Guides to tclquadcode](https://wiki.tcl.tk/54793).
 
 
 Debugger
@@ -815,6 +817,7 @@ bug tracking system and wiki software server
 * [GraphViz](https://www.graphviz.org/) - Set of graph drawing tools and libraries,
 supporting hierarchical and mass-spring drawings
 * [IPAT-S Software Suite](https://sourceforge.net/projects/ipat-s/) - IPAT-S Software Suite is a collection of supporting tools for the IPAT-S modeling language
+* [JQ](https://wiki.tcl.tk/11630) - Wrapper for command-line tool, [JQ](https://stedolan.github.io/jq/manual/)
 * [Markdown2Go](http://wiki.tcl.tk/48198): markdown converter
 * [MTE](http://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
 * [minitree note taking app](http://wiki.tcl.tk/48369)
@@ -824,6 +827,8 @@ supporting hierarchical and mass-spring drawings
 is an astronomical imaging and data visualization application
 * [snackamp](	http://sourceforge.net/projects/snackamp/)
 * [starDOM](https://wiki.tcl.tk/3895) - a little XML browser
+* [Sqawk](https://github.com/dbohdan/sqawk) - An SQL Awk with table joins
+* [tclsh-wrapper](https://github.com/suewonjp/tclsh-wrapper) - A tiny wrapper for Tcl/Tk's tclsh and wish
 * [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
 * [JSMin-Tcl](https://github.com/flightaware/jsmin-tcl) - A Tcl JavaScript minifier
 * [tcl-jira-api](https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
