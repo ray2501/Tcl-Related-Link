@@ -103,7 +103,8 @@ Build System
 
 * [BAWT](http://www.bawt.tcl3d.org/) - Tcl based configurable framework for automatically
 building C/C++ based software libraries from source code
-* [kitgen build system](https://sourceforge.net/projects/kbskit/) - Framework to generate TclkitLite executables, compile Tcl packages and build kit files for different operating systems
+* [kitgen build system](https://sourceforge.net/projects/kbskit/) - Framework to generate
+TclkitLite executables, compile Tcl packages and build kit files for different operating systems
 
 
 Package system
@@ -139,7 +140,8 @@ Collection and Tool box
 * [tcl-modules](https://github.com/Dash-OS/tcl-modules) - A collection of Pure-Tcl Packages & Utilities
 * [ycl](http://www.chiselapp.com/user/pooryorick/repository/ycl/) - short for Yorick's Computing tooLkit,
 is PYK's collection of miscellaneous procedures and programs.
-* [tcl-hacks](https://chiselapp.com/user/aspect/repository/tcl-hacks/index) - A repository of useful and/or interesting hacks in Tcl
+* [tcl-hacks](https://chiselapp.com/user/aspect/repository/tcl-hacks/index) - A repository of useful
+and/or interesting hacks in Tcl
 * [tclapps](https://github.com/tcltk/tclapps): a suite of small applications for Tcl useful as
 examples and in regular use to a large collection of Tcl programmers
 * [Sugar](https://wiki.tcl.tk/11155) - a macro system for the Tcl programming language,
@@ -178,9 +180,19 @@ interpret a value as a function and evaluate it,
 providing the equivalent of lambda functions.
 
 
-GUI and Tk widget
+Tk widget and extension
 =====
 
+Tk is a graphical toolkit for Tcl.
+It allows you to develop graphical applications that run on Windows, Linux,
+MacOS X and many other platforms.
+
+Tk is equally available as a windowing toolkit for Tcl, Ruby, Perl, Python.
+[TkDocs](https://wiki.tcl.tk/22898) has the best overview of how this compares.
+
+* [Tk](https://wiki.tcl.tk/477)
+* [Ttk](https://wiki.tcl.tk/14796) - Implementation of the Tk theming engine to provide
+native look and feel widgets, now included in Tk 8.5
 * [BWidget](https://core.tcl.tk/bwidget/home)
 * [MCListbox](http://core.tcl.tk/mclistbox/home)
 * [Incr Tk](http://chiselapp.com/user/rene/repository/itk/index)
@@ -202,6 +214,7 @@ mechanism for customizing the behavior of entry, spinbox, and text widgets
 * [pod](https://wiki.tcl.tk/19773) - a new kind of toplevel widget
 * [BLT in Wize](http://pdqi.com/w/pw/pdqi/Wize/Blt)
 * [rbc](https://sourceforge.net/projects/rbctoolkit) - Refactored BLT Components
+* [Plplot](http://plplot.sourceforge.net/)
 * [extrafont](http://wiki.tcl.tk/48903) - a multi-platform binary package providing a way
 for loading "private fonts" in a Tk apps
 
@@ -463,6 +476,7 @@ Numeric processing
 
 * [Tcllib math](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/math/math.html) -
 Tcl Math Library
+* [LA](http://www.hume.com/la/) - The Hume Linear Algebra Tcl Package
 * [mathemaTcl](http://wiki.tcl.tk/48535) - MathemaTcl is a collection of compiled extensions for Tcl,
 each intended to solve a particular numerical problem
 * [Mpexpr](http://mpexpr.sourceforge.net/) - Mpexpr is a multiple precision math package for Tcl
