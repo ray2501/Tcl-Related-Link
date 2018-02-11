@@ -85,6 +85,8 @@ Other
 * [tclcubrid](https://github.com/ray2501/tclcubrid)
 * [tclmonetdb](https://github.com/ray2501/tclmonetdb)
 * [TDBCJDBC](https://github.com/ray2501/TDBCJDBC) and [TclBlend](https://github.com/ray2501/tclBlend) backup
+* [tdbchikaricp](https://github.com/ray2501/tdbchikaricp) - Tcl DataBase Connectivity Driver for
+[HikariCP](http://brettwooldridge.github.io/HikariCP/) library
 * [cratedb-tcl](https://github.com/ray2501/cratedb-tcl)
 * [couchdbtcl](https://github.com/ray2501/couchdbtcl)
 * [BaseXClient-Tcl](https://github.com/ray2501/BaseXClient-Tcl)

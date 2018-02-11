@@ -180,7 +180,7 @@ interpret a value as a function and evaluate it,
 providing the equivalent of lambda functions.
 
 
-Tk widget and extension
+Tk
 =====
 
 Tk is a graphical toolkit for Tcl.
@@ -188,46 +188,15 @@ It allows you to develop graphical applications that run on Windows, Linux,
 MacOS X and many other platforms.
 
 Tk is equally available as a windowing toolkit for Tcl, Ruby, Perl, Python.
-[TkDocs](https://wiki.tcl.tk/22898) has the best overview of how this compares.
+[TkDocs](http://www.tkdocs.com/) has the best overview of how this compares.
 
 * [Tk](https://wiki.tcl.tk/477)
 * [Ttk](https://wiki.tcl.tk/14796) - Implementation of the Tk theming engine to provide
 native look and feel widgets, now included in Tk 8.5
-* [BWidget](https://core.tcl.tk/bwidget/home)
-* [MCListbox](http://core.tcl.tk/mclistbox/home)
-* [Incr Tk](http://chiselapp.com/user/rene/repository/itk/index)
-* [incr Widgets](http://chiselapp.com/user/rene/repository/iwidgets/index)
-* [Tix Widget Set](http://sourceforge.net/projects/tix/)
-* [GRIDPLUS](http://www.satisoft.com/tcltk/gridplus2/)
-* [TkHTML](http://tkhtml.tcl.tk/)
-* [3-D Canvas Widget](http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)
-* [Tcl3D](http://www.tcl3d.org/)
-* [Tkpath](https://bitbucket.org/andrew_shadura/tkpath)
-* [TkTable](https://sourceforge.net/projects/tktable/)
-* [TkTreeCtrl](http://tktreectrl.sourceforge.net/)
-* [Tablelist](http://www.nemethi.de/tablelist/index.html), include in TkLib
-* [TkDND](http://sourceforge.net/projects/tkdnd/)
-* [Mtiwidgets](http://wiki.tcl.tk/6237) - Includes mtiwidgets::mdiframe widget
-* [TaoLib](http://fossil.etoyoc.com/fossil/taolib/index) - a TclOO megawidget framework
-* [wcb](http://www.nemethi.de/) - The WCB package provides a general-purpose
-mechanism for customizing the behavior of entry, spinbox, and text widgets
-* [pod](https://wiki.tcl.tk/19773) - a new kind of toplevel widget
-* [BLT in Wize](http://pdqi.com/w/pw/pdqi/Wize/Blt)
-* [rbc](https://sourceforge.net/projects/rbctoolkit) - Refactored BLT Components
-* [Plplot](http://plplot.sourceforge.net/)
-* [extrafont](http://wiki.tcl.tk/48903) - a multi-platform binary package providing a way
-for loading "private fonts" in a Tk apps
 
-Useful info:
+and check:
 
-* [OpenGL with C and Tcl/Tk](https://codeplea.com/opengl-with-c-and-tcl-tk)
-* [A TclOO Tkhtml 3.0 megawidget - example of how to render html+css](http://wiki.tcl.tk/48458)
-* [Revised Implementation of Tk Text Widget](http://scidb.sourceforge.net/tk/revised-text-widget.html)
-* [A collection of Ttk themes](http://chiselapp.com/user/sgolovan/repository/ttk-themes/home)
-* [Scaled checkbutton](http://wiki.tcl.tk/44212)
-* [always on top](http://wiki.tcl.tk/3014)
-* [Tutorial: Modifying a ttk button's style](https://wiki.tcl.tk/54685)
-* [Yet Another Color Picker](https://wiki.tcl.tk/48722)
+* [Tk widget and extension](https://github.com/ray2501/Tcl-Related-Link/blob/master/Tk.md)
 
 
 GUI toolkit
