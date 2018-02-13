@@ -125,6 +125,12 @@ Wrap tool
 * [tclexecomp](https://sourceforge.net/projects/tclexecomp/)
 
 
+Tests
+=====
+
+* [tcltest](https://wiki.tcl.tk/1502) - a package distributed with Tcl, provides a framework for writing and executing program tests.
+
+
 Standard Libraries
 =====
 
@@ -378,6 +384,7 @@ And check:
 
 * [Abstract Data Types](https://wiki.tcl.tk/11450)
 
+
 Documentation
 =====
 
@@ -420,8 +427,14 @@ like Longest Common Substring
 Geography
 =====
 
+* [tcllib nmea](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/nmea/nmea.html) - provides a standard
+interface for writing software which recieves NMEA standard input data
 * [proj4tcl](https://wiki.tcl.tk/41270) - a binding to the [proj4](http://proj4.org/) projection library,
 requires critcl
+
+And useful info:
+
+* [Category Geography](https://wiki.tcl.tk/16300)
 
 
 Networking
@@ -438,6 +451,11 @@ HTTP/2 support when it's linked with the [nghttp2](https://nghttp2.org/) library
 * [Sensus ldap](https://web.archive.org/web/20130730202916/www.sensus.org/tcl/)
 * [Tcllib ftp](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ftp/ftp.html) - Client-side tcl implementation of the ftp protocol
 * [socketservertcl](https://github.com/flightaware/socketservertcl) - Basic socketserver support in Tcl inspired by libancillary
+
+And useful info:
+
+* [Modbus](https://wiki.tcl.tk/40888) - a de facto standard communication protocol and is now a commonly available
+means of connecting industrial electronic devices
 
 
 Numeric processing
