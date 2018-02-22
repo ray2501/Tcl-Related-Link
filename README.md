@@ -601,7 +601,7 @@ Platform and Language
 ## Unix-specific
 
 * [Expect](http://www.nist.gov/el/msid/expect.cfm)
-* [Extended Tcl (TclX)](http://tclx.sourceforge.net/)
+* [Extended Tcl (TclX)](http://tclx.sourceforge.net/), and [here](https://github.com/flightaware/tclx)
 * [DBus binding for Tcl](https://chiselapp.com/user/schelte/repository/dbus/home)
 * [Signal Extension](http://www.nyx.net/~mschwart/signal_ext.html) - Unix/POSIX Signal handling for Tcl
 * [tcl-mq](https://sourceforge.net/projects/tcl-mq/) - Tcl POSIX Message Queues
@@ -717,6 +717,11 @@ Useful info:
 * [etclface](https://github.com/fredyouhanaie/etclface) - An Erlang/Tcl Interface
 
 
+## Forth
+
+* [TclForth](https://github.com/wejgaard/TclForth) - A multi-platform desktop Forth system based on Tcl/Tk
+
+
 ## Fortran
 
 * [Ftcl](http://ftcl.sourceforge.net/) - Using Tcl in Fortran programs and vice versa
@@ -737,6 +742,7 @@ an embedded JavaScript interpreter
 
 ## Python
 
+* [libtclpy](https://github.com/aidanhs/libtclpy) - targeting Tcl >= 8.5 and Python 2.6 - 2.7
 * [tclpython](https://github.com/amykyta3/tclpython/)
 
 
@@ -844,6 +850,7 @@ is an astronomical imaging and data visualization application
 * [TkMC](http://wiki.tcl.tk/7772) - MC like file manager with basic functionality
 * [TkSQLite](http://reddog.s35.xrea.com/wiki/TkSQLite.html) - GUI frontend to sqlite3
 * [wiki-reaper](http://wiki.tcl.tk/4718) - An HTTP robot in Tcl that will fetch page(s) from Tcler's Wiki
+* [binaryscanr](https://github.com/shuntksh/binaryscanr) - A Tcl binary scan frontend app
 
 
 Misc
