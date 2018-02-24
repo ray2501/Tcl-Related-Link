@@ -76,11 +76,21 @@ Editor and IDE
 * [Komodo Edit](https://www.activestate.com/komodo-ide/downloads/edit)
 * [Eclipse](http://www.eclipse.org/) and [Eclipse Dynamic Languages Toolkit](https://projects.eclipse.org/projects/technology.dltk). DLTK provides Tcl support.
 * [Visual Studio Code](https://code.visualstudio.com/) and [TCL Language Support for Visual Studio Code](https://github.com/rashwell/tcl), [Tcl for Visual Studio Code](https://github.com/sleutho/tcl)
+* [Tloona](https://github.com/ecky-l/tloona) - A Tcl/Tk IDE
 
 Useful info:
 
 * [Tcl Editors](https://wiki.tcl.tk/1184)
 * [IDE](https://wiki.tcl.tk/998)
+
+
+Version control
+=====
+
+* [Fossil SCM](https://www.fossil-scm.org/) - a distributed version control system,
+bug tracking system and wiki software server
+* [gitk](https://git-scm.com/docs/gitk) - The Git repository browser
+* [TkCVS](http://www.twobarleycorns.net/tkcvs.html)
 
 
 Compiler and LLVM
@@ -341,6 +351,7 @@ And my project:
 
 * [tcl.snappy](https://github.com/ray2501/tcl.snappy) - snappy wrapper for Tcl
 * [Tcl-lzf](https://sites.google.com/site/ray2501/tcl-lzf) - Tcl interface to the LibLZF Library
+* [tcl-archive](https://github.com/ray2501/tcl-archive) - A Tcl wrapper for LibArchive
 
 
 Concurrency
@@ -422,6 +433,9 @@ Fileutils
 * [tcllib fileutils](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/fileutil/fileutil.html) - Procedures implementing some file utilities
 * [DiffUtilTcl](https://github.com/pspjuth/DiffUtilTcl) - A Tcl extension for diff utility functions,
 like Longest Common Substring
+* [Eskil](http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and
+directory differences
+* [tkdiff](https://sourceforge.net/projects/tkdiff/) - a graphical front end to the diff program
 
 
 Geography
@@ -821,11 +835,7 @@ Tools
 * [ASED](https://sourceforge.net/projects/ased/), [Wiki page](http://wiki.tcl.tk/1278) - BWidget IDE allowing editing of multiple Tcl files
 * [Tcl for Creo](https://wiki.tcl.tk/48597) - Scripting, Customization and Automation with Tcl scripts in Creo
 * [Chimera Grid Tools](https://www.nas.nasa.gov/publications/software/docs/chimera/index.html)
-* [Eskil](http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and directory differences
 * [ezdit](https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
-* [Fossil SCM](https://www.fossil-scm.org/) - a distributed version control system,
-bug tracking system and wiki software server
-* [gitk](https://git-scm.com/docs/gitk) - The Git repository browser
 * [GraphViz](https://www.graphviz.org/) - Set of graph drawing tools and libraries,
 supporting hierarchical and mass-spring drawings
 * [IPAT-S Software Suite](https://sourceforge.net/projects/ipat-s/) - IPAT-S Software Suite is a collection of supporting tools for the IPAT-S modeling language
@@ -846,7 +856,6 @@ is an astronomical imaging and data visualization application
 * [tcl-jira-api](https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
 * [tedit](https://github.com/thanoulis/tedit) - a simple text editor written in Tcl/Tk
 * [tkchat](http://tkchat.tcl.tk/) - an instant messaging application
-* [TkCVS](http://www.twobarleycorns.net/tkcvs.html)
 * [TkMC](http://wiki.tcl.tk/7772) - MC like file manager with basic functionality
 * [TkSQLite](http://reddog.s35.xrea.com/wiki/TkSQLite.html) - GUI frontend to sqlite3
 * [wiki-reaper](http://wiki.tcl.tk/4718) - An HTTP robot in Tcl that will fetch page(s) from Tcler's Wiki
