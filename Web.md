@@ -19,6 +19,7 @@ and threaded MPMs such as mod_mpm_worker, mod_mpm_event and mod_mpm_winnt.
 * [Wibble web server](https://chiselapp.com/user/andy/repository/wibble/timeline?y=ci) and
 [Wiki page](http://wiki.tcl.tk/23626)
 * [Wub](https://github.com/tcler/wub) (github clone) and [Wiki page](http://wiki.tcl.tk/15781)
+* [tcl-scgi](https://github.com/gahr/tcl-scgi) - SCGI handler for Tcl scripts
 * [woof](http://sourceforge.net/projects/woof) - Web Oriented Object Framework
 
 And useful info:

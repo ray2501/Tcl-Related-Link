@@ -391,6 +391,8 @@ Data type
 * [Tarray](http://wiki.tcl.tk/37462) - implements a new Tcl collection data type - typed array
 * [TclRal](http://chiselapp.com/user/mangoa01/repository/tclral/index) - Tcl Relational Algebra Library.
 It introduces tuple and [relation] data types and a set of commands that operate on them.
+* [tclvalue](https://github.com/auriocus/tclvalue) - An extension for Tcl 8.6+ to reflect the
+Tcl_Obj API into the script level
 
 And check:
 
@@ -816,6 +818,7 @@ Tools
 * [Enhanced Tk Console: tkcon](http://tkcon.sourceforge.net/)
 * [ASED](https://sourceforge.net/projects/ased/), [Wiki page](http://wiki.tcl.tk/1278) - BWidget IDE allowing editing of multiple Tcl files
 * [Tcl for Creo](https://wiki.tcl.tk/48597) - Scripting, Customization and Automation with Tcl scripts in Creo
+* [tcled](https://github.com/slebetman/tcled) - Pure Tcl Console Text Editor
 * [Chimera Grid Tools](https://www.nas.nasa.gov/publications/software/docs/chimera/index.html)
 * [ezdit](https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
 * [GraphViz](https://www.graphviz.org/) - Set of graph drawing tools and libraries,
@@ -835,6 +838,7 @@ is an astronomical imaging and data visualization application
 * [tclsh-wrapper](https://github.com/suewonjp/tclsh-wrapper) - A tiny wrapper for Tcl/Tk's tclsh and wish
 * [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
 * [JSMin-Tcl](https://github.com/flightaware/jsmin-tcl) - A Tcl JavaScript minifier
+* [tcl-fogbugz-api](https://github.com/flightaware/tcl-fogbugz-api) - Tcl package for using the FogBugz API
 * [tcl-jira-api](https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
 * [tedit](https://github.com/thanoulis/tedit) - a simple text editor written in Tcl/Tk
 * [tkchat](http://tkchat.tcl.tk/) - an instant messaging application
