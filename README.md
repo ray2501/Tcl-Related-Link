@@ -26,24 +26,32 @@ This is one of the central features of Tcl.
 * [Tcl TIP Collection](http://www.tcl.tk/cgi-bin/tct/tip)
 * [comp.lang.tcl](https://groups.google.com/forum/#!forum/comp.lang.tcl)
 * [Tcl Source Code (core package)](http://core.tcl.tk/)
-* [Tcl on Windows FAQ](http://www.tcl.tk/faq/tclwin.htm)
-* [Tcl Programming for Windows](http://www.magicsplat.com/book/)
-* [Tcl for Web Nerds](http://philip.greenspun.com/tcl/)
-* [TCLWISE](http://www.invece.org/tclwise/)
-* [Tcl Wikibook](https://en.wikibooks.org/wiki/Tcl_Programming)
 * [Tcl Style Guide](http://wiki.tcl.tk/708)
-* [Object Oriented Programming in Tcl](http://www.magicsplat.com/articles/oo.html)
-* [The Tcl Database Connectivity interface](http://www.magicsplat.com/articles/tdbc.html)
 * [Tcl Threading Model](http://www.tcl.tk/doc/howto/thread_model.html)
 * [TkDocs](http://www.tkdocs.com/)
 * [Official library of extensions](https://wiki.tcl.tk/30)
 * [Great Unified Tcl/Tk Extension Repository](http://core.tcl.tk/jenglish/gutter/)
 * [RosettaCode: Tcl](http://rosettacode.org/wiki/Category:Tcl)
+* [Example Scripts Everybody Should Have](http://wiki.tcl.tk/460)
+* [Tcl on Windows FAQ](http://www.tcl.tk/faq/tclwin.htm)
+* [Expect FAQ](https://wiki.tcl.tk/11581)
+
+
+Books
+=====
+
+* [TCLWISE](http://www.invece.org/tclwise/)
+* [Tcl Wikibook](https://en.wikibooks.org/wiki/Tcl_Programming)
+* [Object Oriented Programming in Tcl](http://www.magicsplat.com/articles/oo.html)
+* [The Tcl Database Connectivity interface](http://www.magicsplat.com/articles/tdbc.html)
 * [Tcl/Tk: A Developer's Guide](http://wiki.tcl.tk/9149)
+* [Tcl Programming for Windows](http://www.magicsplat.com/book/)
+* [Tcl for Web Nerds](http://philip.greenspun.com/tcl/)
 * [Practical Programming in Tcl and Tk](http://www.beedub.com/book/)
 * [Tcl and the Tk Toolkit (2nd Edition)](http://www.tcltk-book.com/): Updated for Tcl/Tk 8.5
 * [The Tcl Programming Language](http://wiki.tcl.tk/48868): Book for Tcl (8.6)
-* [Example Scripts Everybody Should Have](http://wiki.tcl.tk/460)
+
+And check [Book](https://wiki.tcl.tk/3334).
 
 
 Contents
@@ -373,6 +381,7 @@ And my project:
 
 ## Channel and file system
 
+* [chan](https://www.tcl.tk/man/tcl/TclCmd/chan.htm) - a built-in Tcl command, manipulates channels
 * [TclVfs](https://core.tcl.tk/tclvfs/index)
 * [Memchan](http://memchan.sourceforge.net/) - In-memory channels for Tcl,
 and deprecated by tcllib's tcl::chan::memchan, which is available for Tcl >= 8.5.
@@ -500,6 +509,8 @@ for localising text
 
 ## Networking
 
+* [socket](https://www.tcl.tk/man/tcl/TclCmd/socket.htm) - a built-in Tcl command,
+opens a TCP network connection
 * [Tcl UDP extension](https://core.tcl.tk/tcludp/index)
 * [scotty](https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
 * [tclnetsnmp](http://tcl.uk.to/) - netsnmp package for TCL 8.6
@@ -643,7 +654,7 @@ And my project:
 
 ### Unix-specific
 
-* [Expect](http://www.nist.gov/el/msid/expect.cfm)
+* [Expect](https://core.tcl.tk/expect/index)
 * [Extended Tcl (TclX)](http://tclx.sourceforge.net/), and [here](https://github.com/flightaware/tclx)
 * [DBus binding for Tcl](https://chiselapp.com/user/schelte/repository/dbus/home)
 * [Signal Extension](http://www.nyx.net/~mschwart/signal_ext.html) - Unix/POSIX Signal handling for Tcl
