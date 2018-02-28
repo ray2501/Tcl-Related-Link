@@ -3,8 +3,8 @@ Tk widget and extension
 
 * [BWidget](https://core.tcl.tk/bwidget/home)
 * [MCListbox](http://core.tcl.tk/mclistbox/home)
-* [Incr Tk](http://chiselapp.com/user/rene/repository/itk/index)
-* [incr Widgets](http://chiselapp.com/user/rene/repository/iwidgets/index)
+* [Incr Tk](https://core.tcl.tk/itk)
+* [incr Widgets](https://core.tcl.tk/iwidgets)
 * [Tix Widget Set](http://sourceforge.net/projects/tix/)
 * [GRIDPLUS](http://www.satisoft.com/tcltk/gridplus2/)
 * [TkHTML](http://tkhtml.tcl.tk/)

@@ -44,11 +44,13 @@ Books
 * [Tcl Wikibook](https://en.wikibooks.org/wiki/Tcl_Programming)
 * [Object Oriented Programming in Tcl](http://www.magicsplat.com/articles/oo.html)
 * [The Tcl Database Connectivity interface](http://www.magicsplat.com/articles/tdbc.html)
-* [Tcl/Tk: A Developer's Guide](http://wiki.tcl.tk/9149)
 * [Tcl Programming for Windows](http://www.magicsplat.com/book/)
+* [Tcl/Tk: A Developer's Guide](http://wiki.tcl.tk/9149)
 * [Tcl for Web Nerds](http://philip.greenspun.com/tcl/)
 * [Practical Programming in Tcl and Tk](http://www.beedub.com/book/)
 * [Tcl and the Tk Toolkit (2nd Edition)](http://www.tcltk-book.com/): Updated for Tcl/Tk 8.5
+* [Tcl/Tk 8.5 Programming Cookbook](https://wiki.tcl.tk/28075)
+* [Tcl 8.5 Network Programming](https://wiki.tcl.tk/26647)
 * [The Tcl Programming Language](http://wiki.tcl.tk/48868): Book for Tcl (8.6)
 
 And check [Book](https://wiki.tcl.tk/3334).
@@ -515,6 +517,8 @@ for localising text
 * [socket](https://www.tcl.tk/man/tcl/TclCmd/socket.htm) - a built-in Tcl command,
 opens a TCP network connection
 * [Tcl UDP extension](https://core.tcl.tk/tcludp/index)
+* [tcl-pcap](https://bitbucket.org/andrew_shadura/tcl-pcap) - Tcl extension that allows access
+to the libpcap library
 * [scotty](https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
 * [tclnetsnmp](http://tcl.uk.to/) - netsnmp package for TCL 8.6
 * [ecap-tcl](https://github.com/petasis/ecap-tcl) - An eCAP adapter for Tcl
@@ -842,6 +846,9 @@ It enables Web developers to embed a Tcl interpreter in the browser and integrat
 
 ## Write a Tcl extension
 
+* [Tclconfig](https://core.tcl.tk/tclconfig)
+* [Sampleextension](https://core.tcl.tk/sampleextension)
+
 目前就我所知，Tcl extension 可以大致上分為二種形式，
 一種是使用 C/C++ 與 [TEA](http://wiki.tcl.tk/327) 架構撰寫的 extension。
 可以從 Tcl 社群提供的 Sample extension 開始。
@@ -862,7 +869,8 @@ It enables Web developers to embed a Tcl interpreter in the browser and integrat
 另外一個使用 C/C++ 開發 Tcl 套件的方式是使用
 Critcl (provides on-the-fly compilation and execution of C code).
 
-一種是使用 pure Tcl 所撰寫的 exetnsion，以 Tcl 檔案的形式或者是 [Tcl Modules](http://wiki.tcl.tk/12999) 的方式發佈。
+一種是使用 pure Tcl 所撰寫的 exetnsion，
+以 Tcl 檔案的形式或者是 [Tcl Modules](http://wiki.tcl.tk/12999) 的方式發佈。
 
 Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有的 code 都要放在同一個檔案裡，
 這個機制並不是要取代之前的套件機制（使用 pkgIndex.tcl 這個 index script 來提供套件的資訊），

@@ -11,6 +11,11 @@ TDBC
 for databases and connectivity that aims to make it easy to write portable
 and secure Tcl scripts that access SQL databases.
 
+The TDBC library provides several C procedures that simplify writing a TDBC
+driver. They include a procedure that tokenizes a SQL statement, locating
+variables to be substituted, and a procedure that accepts a SQL state and
+returns an error class for the interpreter error information.
+
 Tcl 8.6 shipped with four drivers for TDBC:
 * MySQL (tdbc::mysql)
 * ODBC (tdbc::odbc)
