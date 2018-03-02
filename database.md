@@ -74,7 +74,8 @@ Other
 * [Speedtables](http://flightaware.github.io/speedtables/) - High-performance, memory-resident database
 * [SQL Relay](http://wiki.tcl.tk/9242)
 * [MrPersister](http://wiki.tcl.tk/21669) - a database access library for Jacl
-* [TclRAL](http://repos.modelrealization.com/cgi-bin/fossil/tclral/index) - a "C" based extension of Tcl that implements a complete relational algebra.
+* [TclRAL](http://repos.modelrealization.com/cgi-bin/fossil/tclral/index) - a "C" based extension of Tcl
+that implements a complete relational algebra.
 * [HammerDB](http://www.hammerdb.com/) - multi-platform software for load testing databases
 
 

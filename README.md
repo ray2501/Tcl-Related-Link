@@ -248,7 +248,7 @@ and [Sugar macros collection](https://wiki.tcl.tk/11168)
 
 ## Object-oriented
 
-* [TclOO @ TIP #257](http://www.tcl.tk/cgi-bin/tct/tip/257)
+* [TclOO @ TIP #257](http://www.tcl.tk/cgi-bin/tct/tip/257) and [TclOO Tricks](https://wiki.tcl.tk/21595)
 * [incr Tcl](http://incrtcl.sourceforge.net/)
 * [Next Scripting Framework](https://next-scripting.org/xowiki/): A descendant of XOTcl
 * [snit](http://core.tcl.tk/jenglish/gutter/packages/snit.html) - Snit is a pure-Tcl object and megawidget framework
@@ -754,12 +754,18 @@ Machine.
 * [tclJBlend](http://wiki.tcl.tk/47668) - a fork of TclBlend
 * [Tcl/Java](http://tcljava.sourceforge.net/docs/website/index.html)
 
+and my [TclBlend](https://github.com/ray2501/tclBlend) backup
+
 
 ### C
 
-* [critcl](http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
 * [ffidl](http://elf.org/ffidl/) and [git repository](https://github.com/prs-de/ffidl) - Foreign
 Function Interface
+* [critcl](http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
+* [SWIG](https://github.com/swig/swig) - SWIG is a compiler that integrates C and C++ with languages
+including Perl, Python, Tcl, Ruby, PHP, Java, C#, D, Go, Lua, Octave, R,
+Scheme (Guile, MzScheme/Racket, CHICKEN), Scilab, Ocaml, Modula-3,
+Common Lisp (CLISP, Allegro CL, CFFI, UFFI) and Pike.
 
 Useful info:
 * [Accessing C library functions using Critcl](http://wiki.tcl.tk/11227)
@@ -870,6 +876,8 @@ It enables Web developers to embed a Tcl interpreter in the browser and integrat
 
 另外一個使用 C/C++ 開發 Tcl 套件的方式是使用
 Critcl (provides on-the-fly compilation and execution of C code).
+
+還有的方式是使用 [SWIG](https://github.com/swig/swig) 來撰寫。
 
 一種是使用 pure Tcl 所撰寫的 exetnsion，
 以 Tcl 檔案的形式或者是 [Tcl Modules](http://wiki.tcl.tk/12999) 的方式發佈。
