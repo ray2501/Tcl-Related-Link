@@ -355,6 +355,7 @@ Useful info:
 * [Windows XP: volume control](http://wiki.tcl.tk/48350)
 * [Audio Edit Utility](http://wiki.tcl.tk/40321) - a front-end for the 'ffmpeg' command
 * [VLC Tcl Extension](http://wiki.tcl.tk/48382)
+* [MPV Tcl Extension](https://wiki.tcl.tk/55174) - a Tcl interface to the MPV audio player, using libmpv
 
 And my projects:
 
@@ -466,6 +467,7 @@ and check:
 It introduces tuple and [relation] data types and a set of commands that operate on them.
 * [tclvalue](https://github.com/auriocus/tclvalue) - An extension for Tcl 8.6+ to reflect the
 Tcl_Obj API into the script level
+* [Persistent arrays](https://wiki.tcl.tk/3469)
 
 And check:
 
