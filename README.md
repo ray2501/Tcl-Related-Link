@@ -427,7 +427,7 @@ And useful info:
 * [zlib](http://www.tcl.tk/cgi-bin/tct/tip/234) - Core support for zlib compression
 * [bztcl](http://download.gna.org/bztcl/) and [wiki page](http://wiki.tcl.tk/9661) - wrapper for the
 BZip2 compression library
-* [bz2:compress and bz2:decompress](https://wiki.tcl.tk/6177)
+* [bz2:compress and bz2:decompress](https://wiki.tcl.tk/4218)
 * [tclzvfs](https://github.com/wjoye/tclzvfs) - TCL Zip Virtual File System, Tcl 8.5/8.6 TEA compatible
 * [tcllib tar](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/tar/tar.html) - Tar file creation, extraction & manipulation
 * [tcllib zipfile::decode](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/decode.html), 
@@ -571,6 +571,9 @@ a commonly available means of connecting industrial electronic devices
 
 ## Numeric processing
 
+* [expr](https://www.tcl.tk/man/tcl/TclCmd/expr.htm) is a built-in Tcl command, evaluates an expression.
+* [tcl::mathfunc](https://wiki.tcl.tk/20279) - The ::tcl::mathfunc namespace provides commands for
+all the functions available in expr command.
 * [Tcllib math](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/math/math.html) -
 Tcl Math Library
 * [LA](http://www.hume.com/la/) - The Hume Linear Algebra Tcl Package
@@ -582,6 +585,7 @@ each intended to solve a particular numerical problem
 
 And useful info:
 
+* [Additional math functions](https://wiki.tcl.tk/819)
 * [Numerical Analysis in Tcl](http://wiki.tcl.tk/1272)
 
 
