@@ -15,6 +15,7 @@ Tk widget and extension
 * [TkTreeCtrl](http://tktreectrl.sourceforge.net/)
 * [Tablelist](http://www.nemethi.de/tablelist/index.html), include in TkLib
 * [TkDND](http://sourceforge.net/projects/tkdnd/)
+* [tktray](http://wiki.tcl.tk/5972) - an extension for managing system tray icons with Tk on X Window System
 * [Mtiwidgets](http://wiki.tcl.tk/6237) - Includes mtiwidgets::mdiframe widget
 * [TaoLib](http://fossil.etoyoc.com/fossil/taolib/index) - a TclOO megawidget framework
 * [wcb](http://www.nemethi.de/) - The WCB package provides a general-purpose
@@ -26,6 +27,10 @@ mechanism for customizing the behavior of entry, spinbox, and text widgets
 * [Plplot](http://plplot.sourceforge.net/)
 * [extrafont](http://wiki.tcl.tk/48903) - a multi-platform binary package providing a way
 for loading "private fonts" in a Tk apps
+* [TkPrint](http://pages.videotron.com/cclients/files/tkprint1.1.html) - run under the Windows
+operating systems
+* [winico](http://tktable.sourceforge.net/) - a Tk extension for Windows that
+manages icons for use in the Windows desktop taskbar and for setting an application icon
 
 Useful info:
 

@@ -65,6 +65,7 @@ Contents
   * [TclKits](#tclkits)
 * [Editor and IDE](#editor-and-ide)
 * [Version control](#version-control)
+* [Issue tracking](#issue-tracking)
 * [Compiler](#compiler)
 * [Debugger](#debugger)
 * [Build System](#build-system)
@@ -85,10 +86,12 @@ Contents
 * [Compression](#compression)
 * [Concurrency](#concurrency)
 * [Cryptography](#cryptography)
+* [CSV](#csv)
 * [Database](#database)
 * [Data type](#data-type)
 * [Documentation Tools](#documentation-tools)
 * [Internationalization and localization](#internationalization-and-localization)
+* [JSON](#json)
 * [Fileutils](#fileutils)
 * [Geography](#geography)
 * [Networking](#networking)
@@ -102,19 +105,16 @@ Contents
 * [Templating language](#templating-language)
   * [CommonMark and Markdown](#commonmark-and-markdown)
   * [Mustache](#mustache)
-* [CSV](#csv)
-* [JSON](#json)
 * [XML](#xml)
 * [YAML](#yaml)
+* [Container](#comtianer)
+  * [Docker](#docker)
 * [Platform and Language](#platform-and-language)
   * [Apple Macintosh](#apple-macintosh)
   * [Unix-specific](#unix-specific)
   * [Windows-specific](#windows-specific)
-  * [Docker](#docker)
-  * [Arduino](#arduino)
-  * [Raspberry Pi](#raspberry-pi)
   * [Android](#android)
-  * [dotNET](#dotnet)
+  * [CSharp and dotNET](#csharp-and-dotnet)
   * [Java](#java)
   * [C](#c)
   * [CPP](#cpp)
@@ -130,6 +130,9 @@ Contents
   * [Swift](#swift)
   * [Emscripten](#emscripten)
   * [web](#web)
+* [Hardware](#hardware)
+  * [Arduino](#arduino)
+  * [Raspberry Pi](#raspberry-pi)
 * [Related Project](#related-project)
 * [Write a Tcl extension](#write-a-tcl-extension)
 * [Tools](#tools)
@@ -178,6 +181,12 @@ Useful info:
 bug tracking system and wiki software server
 * [gitk](https://git-scm.com/docs/gitk) - The Git repository browser
 * [TkCVS](http://www.twobarleycorns.net/tkcvs.html)
+
+
+## Issue tracking
+
+* [tcl-fogbugz-api](https://github.com/flightaware/tcl-fogbugz-api) - Tcl package for using the FogBugz API
+* [tcl-jira-api](https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
 
 
 ## Compiler
@@ -417,6 +426,7 @@ And useful info:
 * [zlib](http://www.tcl.tk/cgi-bin/tct/tip/234) - Core support for zlib compression
 * [bztcl](http://download.gna.org/bztcl/) and [wiki page](http://wiki.tcl.tk/9661) - wrapper for the
 BZip2 compression library
+* [bz2:compress and bz2:decompress](https://wiki.tcl.tk/6177)
 * [tclzvfs](https://github.com/wjoye/tclzvfs) - TCL Zip Virtual File System, Tcl 8.5/8.6 TEA compatible
 * [tcllib tar](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/tar/tar.html) - Tar file creation, extraction & manipulation
 * [tcllib zipfile::decode](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/decode.html), 
@@ -428,7 +438,7 @@ BZip2 compression library
 
 And my project:
 
-* [tcl.snappy](https://github.com/ray2501/tcl.snappy) - snappy wrapper for Tcl
+* [tcl.snappy](https://github.com/ray2501/tcl.snappy) - Tcl wrapper for snappy library
 * [Tcl-lzf](https://sites.google.com/site/ray2501/tcl-lzf) - Tcl interface to the LibLZF Library
 * [tcl-archive](https://github.com/ray2501/tcl-archive) - A Tcl wrapper for LibArchive
 
@@ -449,6 +459,13 @@ simplify asynchronous programming by allowing you to write the code in a sequent
 * [Cryptkit](http://wiki.tcl.tk/13191) - a Tcl binding to the Cryptlib security toolkit
 * [NaCl: Networking and Cryptography library](http://wiki.tcl.tk/47681)
 * [TclTLS](https://core.tcl.tk/tcltls/index) - OpenSSL extension to Tcl
+
+
+## CSV
+
+* [tcllib csv](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/csv/csv.html) - a Tcllib
+package, provides facilities for working with csv files
+* [tclcsv](http://tclcsv.sourceforge.net/)
 
 
 ## Database
@@ -512,6 +529,21 @@ And useful info:
 
 * [msgcat](https://www.tcl.tk/man/tcl/TclCmd/msgcat.htm) - a built-in manages Tcl message catalogs
 for localising text
+
+
+## JSON
+
+* [Tcllib JSON](http://wiki.tcl.tk/40053)
+* [yajl-tcl](http://wiki.tcl.tk/28240) - a Tcl binding for yajl (yet another json library)
+* [tcl-json](https://github.com/bef/tcl-json)
+* [rl_json](https://github.com/RubyLane/rl_json) - Extends Tcl with a json value type
+and a command to manipulate json values directly, and [rl_json Extensions](http://wiki.tcl.tk/48276)
+* [tcl-duktape](https://github.com/dbohdan/tcl-duktape) - Tcl bindings for Duktape, an embedded
+JavaScript interpreter. It has JSON objects support.
+* [tDOM](http://tdom.github.io/) adds a JSON parser after v0.9
+* [tcljsonnet](https://github.com/ray2501/tcljsonnet)
+* [JQ](https://wiki.tcl.tk/11630) - Wrapper for command-line tool, [JQ](https://stedolan.github.io/jq/manual/)
+* [Playing XPath with JSON](http://wiki.tcl.tk/40865)
 
 
 ## Networking
@@ -621,24 +653,6 @@ And you can check [Markdown2Go](http://wiki.tcl.tk/48198).
 * [mustache.tcl](https://github.com/ianka/mustache.tcl) - A Tcl implementation of the mustache templating language
 
 
-## CSV
-
-* [tcllib csv](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/csv/csv.html) - a Tcllib
-package, provides facilities for working with csv files
-* [tclcsv](http://tclcsv.sourceforge.net/)
-
-
-## JSON
-
-* [Tcllib JSON](http://wiki.tcl.tk/40053)
-* [yajl-tcl](http://wiki.tcl.tk/28240) - a Tcl binding for yajl (yet another json library)
-* [tcl-json](https://github.com/bef/tcl-json)
-* [rl_json](https://github.com/RubyLane/rl_json) - Extends Tcl with a json value type
-and a command to manipulate json values directly, and [rl_json Extensions](http://wiki.tcl.tk/48276)
-* [tcljsonnet](https://github.com/ray2501/tcljsonnet)
-* [Playing XPath with JSON](http://wiki.tcl.tk/40865)
-
-
 ## XML
 
 * [tDOM](http://tdom.github.io/)
@@ -658,6 +672,24 @@ And my project:
 
 * [Tcllib YAML module](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/yaml/yaml.html)
 * [TclYAML](http://chiselapp.com/user/andreas_kupries/repository/tclyaml/index) - provides a Tcl Binding to the [libyaml](http://pyyaml.org/wiki/LibYAML) library
+
+
+## Container
+
+Containers are a method of operating system virtualization that
+allow you to run an application and its dependencies in
+resource-isolated processes.
+
+Study:
+* [Open source Java projects: Docker](https://www.javaworld.com/article/3000781/development-tools/open-source-java-projects-docker.html)
+* [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
+
+### Docker
+
+* [Ubuntu-based image](https://hub.docker.com/r/efrecon/tcl/)
+* [mini-tcl](https://hub.docker.com/r/efrecon/mini-tcl/)
+* [docker-alpine-tcl](https://github.com/GJRTimmer/docker-alpine-tcl)
+* [docker-client](https://github.com/efrecon/docker-client)
 
 
 ## Platform and Language
@@ -681,7 +713,6 @@ And my project:
 various BSD UNIX system calls and library routines
 * [tcl-augeas](https://github.com/dbohdan/tcl-augeas) - Tcl bindings for Augeas
 * [tcl-inotify](https://sourceforge.net/projects/tcl-inotify/)
-* [tktray](http://wiki.tcl.tk/5972) - an extension for managing system tray icons with Tk on X Window System
 
 
 ### Windows-specific
@@ -691,36 +722,8 @@ various BSD UNIX system calls and library routines
 * [CAWT](http://www.posoft.de/html/extCawt.html) - Com Automation With Tcl,
 based on Twapi to script Microsoft Windows® applications with Tcl
 * iocpsock: [Winsock2 IOCP channel driver for Tcl](https://sourceforge.net/projects/iocpsock/)
-* [TkPrint](http://pages.videotron.com/cclients/files/tkprint1.1.html)
 * [tcl-vix](http://tcl-vix.magicsplat.com/) - provides an interface to the VIX library for manipulating VMware virtual machines
 * [Windows Inspection Tool Set](http://windowstoolset.magicsplat.com/)
-* [winico](http://tktable.sourceforge.net/)
-
-
-### Docker
-
-* [Ubuntu-based image](https://hub.docker.com/r/efrecon/tcl/)
-* [mini-tcl](https://hub.docker.com/r/efrecon/mini-tcl/)
-* [docker-alpine-tcl](https://github.com/GJRTimmer/docker-alpine-tcl)
-* [docker-client](https://github.com/efrecon/docker-client)
-
-
-### Arduino
-
-* [tfirmata](http://pdt.github.io/tfirmata) - a Tcl implementation of Arduino Firmata 2.3
-
-Useful info:
-
-* [Arduino on Tcler's wiki](http://wiki.tcl.tk/37203)
-
-
-### Raspberry Pi
-
-* [piio](http://chiselapp.com/user/schelte/repository/piio/index) - supports both gpio and i2c
-
-Useful info:
-
-* [Raspberry Pi on Tcler's wiki](http://wiki.tcl.tk/29308)
 
 
 ### Android
@@ -730,7 +733,7 @@ run desktop Tcl and Tk programs almost unaltered on the Android Platform while
 it opens the door to script a rich set of features on a mobile platform.
 
 
-### dotNET
+### CSharp and dotNET
 
 * [Tcl Interpreter in C# Application](http://wiki.tcl.tk/9563)
 * [Eagle](http://eagle.to/): Eagle (Extensible Adaptable Generalized Logic Engine) is
@@ -845,6 +848,28 @@ It enables Web developers to embed a Tcl interpreter in the browser and integrat
 * [Tcl/Tk plugin](http://wiki.tcl.tk/25865)
 
 
+## Hardware
+
+* [I2cTcl](http://i2ctcl.sourceforge.net/) - I2cTcl for Tcl/Tk on LINUX
+
+### Arduino
+
+* [tfirmata](http://pdt.github.io/tfirmata) - a Tcl implementation of Arduino Firmata 2.3
+
+Useful info:
+
+* [Arduino on Tcler's wiki](http://wiki.tcl.tk/37203)
+
+
+### Raspberry Pi
+
+* [piio](http://chiselapp.com/user/schelte/repository/piio/index) - supports both gpio and i2c
+
+Useful info:
+
+* [Raspberry Pi on Tcler's wiki](http://wiki.tcl.tk/29308)
+
+
 ## Related Project
 
 * [The Jim Interpreter](http://jim.tcl.tk/index.html/doc/www/www/index.html): A small footprint implementation of the Tcl programming language
@@ -898,8 +923,6 @@ Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有�
 * [GraphViz](https://www.graphviz.org/) - Set of graph drawing tools and libraries,
 supporting hierarchical and mass-spring drawings
 * [IPAT-S Software Suite](https://sourceforge.net/projects/ipat-s/) - IPAT-S Software Suite is a collection of supporting tools for the IPAT-S modeling language
-* [JQ](https://wiki.tcl.tk/11630) - Wrapper for command-line tool, [JQ](https://stedolan.github.io/jq/manual/)
-* [Markdown2Go](http://wiki.tcl.tk/48198): markdown converter
 * [MTE](http://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
 * [minitree note taking app](http://wiki.tcl.tk/48369)
 * [Notebook](https://github.com/wduquette/notebook) - Notebook Personal Wiki
@@ -911,8 +934,6 @@ is an astronomical imaging and data visualization application
 * [Sqawk](https://github.com/dbohdan/sqawk) - An SQL Awk with table joins
 * [tclsh-wrapper](https://github.com/suewonjp/tclsh-wrapper) - A tiny wrapper for Tcl/Tk's tclsh and wish
 * [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
-* [tcl-fogbugz-api](https://github.com/flightaware/tcl-fogbugz-api) - Tcl package for using the FogBugz API
-* [tcl-jira-api](https://github.com/flightaware/tcl-jira-api) - Tcl package to interface with the JIRA REST API
 * [tedit](https://github.com/thanoulis/tedit) - a simple text editor written in Tcl/Tk
 * [tkchat](http://tkchat.tcl.tk/) - an instant messaging application
 * [TkMC](http://wiki.tcl.tk/7772) - MC like file manager with basic functionality
