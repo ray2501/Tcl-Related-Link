@@ -68,6 +68,7 @@ Contents
 * [Issue tracking](#issue-tracking)
 * [Compiler](#compiler)
 * [Debugger](#debugger)
+* [Code Analysis](#code-analysis)
 * [Build System](#build-system)
 * [Package system](#package-system)
 * [Wrap tool](#wrap-tool)
@@ -202,6 +203,16 @@ And [Godzilla Guides to tclquadcode](https://wiki.tcl.tk/54793).
 * [TclProDebug](https://github.com/flightaware/TclProDebug) - Upgrade of debugger from classic [TclPro](https://wiki.tcl.tk/365) to Tcl 8.5+
 * [Tclgdb](https://github.com/flightaware/tclgdb) - Use gdb breakpoints for Tcl source with Tcl_CreateTrace
 * [lttngtcl](https://github.com/flightaware/lttngtcl) - LTTng trace provider which connects to Tcl_CreateTrace
+
+
+## Code Analysis
+
+* TclParser - You can get it from [TclProDebug](https://github.com/flightaware/TclProDebug),
+at lib/tclparser folder
+
+[info](https://www.tcl.tk/man/tcl/TclCmd/info.htm) is a built-in command,
+provides information about the state of a Tcl interpreter. With info,
+you can find out about your Tcl environment.
 
 
 ## Build System
