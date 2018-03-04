@@ -107,13 +107,14 @@ Contents
   * [Mustache](#mustache)
 * [XML](#xml)
 * [YAML](#yaml)
-* [Container](#contianer)
+* [Container](#container)
   * [Docker](#docker)
-* [Platform and Language](#platform-and-language)
+* [Platform](#platform)
   * [Apple Macintosh](#apple-macintosh)
   * [Unix-specific](#unix-specific)
   * [Windows-specific](#windows-specific)
   * [Android](#android)
+* [Language](#language)
   * [CSharp and dotNET](#csharp-and-dotnet)
   * [Java](#java)
   * [C](#c)
@@ -692,7 +693,7 @@ Study:
 * [docker-client](https://github.com/efrecon/docker-client)
 
 
-## Platform and Language
+## Platform
 
 ### Apple Macintosh
 
@@ -732,6 +733,8 @@ based on Twapi to script Microsoft Windows® applications with Tcl
 run desktop Tcl and Tk programs almost unaltered on the Android Platform while
 it opens the door to script a rich set of features on a mobile platform.
 
+
+## Language
 
 ### CSharp and dotNET
 
