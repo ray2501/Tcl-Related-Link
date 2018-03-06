@@ -207,13 +207,12 @@ And [Godzilla Guides to tclquadcode](https://wiki.tcl.tk/54793).
 
 ## Code Analysis
 
-* TclParser - You can get it from [TclProDebug](https://github.com/flightaware/TclProDebug),
-at lib/tclparser folder
-
 [info](https://www.tcl.tk/man/tcl/TclCmd/info.htm) is a built-in command,
 provides information about the state of a Tcl interpreter. With info,
 you can find out about your Tcl environment.
 
+* TclParser - You can get it from [TclProDebug](https://github.com/flightaware/TclProDebug),
+at lib/tclparser folder
 
 ## Build System
 
@@ -227,11 +226,12 @@ TclkitLite executables, compile Tcl packages and build kit files for different o
 ## Package system
 
 * [teapot](https://github.com/ActiveState/teapot) - TEA Package Management system built by ActiveState
+* [teaget](https://wiki.tcl.tk/24765) - is a tcl only script that can be used as a command line utility to retrieve packages
 
-However, ActiveTcl 8.6.6 does not include this tool (when I test last time).
+However, ActiveTcl 8.6.6 does not include teaget this tool (when I test last time).
 
-* [teaget](https://wiki.tcl.tk/24765) - is a tcl only script that can be used
-as a command line utility to retrieve packages
+And you can check [Debian packages for Tcl/Tk](https://wiki.tcl.tk/11333).
+I think most Linux distributions include some Tcl/Tk packages.
 
 
 ## Wrap tool
@@ -247,8 +247,16 @@ as a command line utility to retrieve packages
 
 ## Standard Libraries
 
+Tcllib is a distribution of several packages for Tcl, all written entirely in Tcl, useful in a broad variety of areas.
+A tklib module also exists under the tcllib project, which contains modules that depend on Tk.
+
 * [Tcllib](https://core.tcl.tk/tcllib/doc/trunk/embedded/index.html)
 * [Tklib](https://core.tcl.tk/tklib/home)
+
+[tcllibc](https://wiki.tcl.tk/18382)  is a term used to refer to the parts of Tcllib written in C.
+Some packages in Tcllib provide two implementations, one written in pure Tcl for compatibility and
+low installation overhead and one written in C for speed.
+You need [Critcl](http://andreas-kupries.github.io/critcl/) if you want to build tclllibc.
 
 
 ## Collection and Tool box
