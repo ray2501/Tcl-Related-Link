@@ -90,6 +90,7 @@ Contents
 * [CSV](#csv)
 * [Database](#database)
 * [Data type](#data-type)
+* [Distributed computation](#distributed-computation)
 * [Documentation Tools](#documentation-tools)
 * [Internationalization and localization](#internationalization-and-localization)
 * [JSON](#json)
@@ -467,7 +468,6 @@ And my project:
 
 * [Thread](http://core.tcl.tk/thread) - brings native thread capabilities to Tcl
 * [tcllib Coroutine utilities](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/coroutine/tcllib_coroutine.html)
-* [TclMPI: Tcl bindings for MPI](https://sites.google.com/site/akohlmey/software/tclmpi)
 * [csp - Golang inspired concurrency library for Tcl](https://securitykiss.com/resources/tutorials/csp_project/index.php)
 * [tcl-promise](http://sourceforge.net/projects/tcl-promise/) - Promises are concurrency primitives that
 simplify asynchronous programming by allowing you to write the code in a sequential style
@@ -509,6 +509,18 @@ Tcl_Obj API into the script level
 And check:
 
 * [Abstract Data Types](https://wiki.tcl.tk/11450)
+
+
+## Distributed computation
+
+Distributed Computation is a form of concurrent computing in
+which multiple programs, perhaps running on different processors,
+which may be remote, communicate to accomplish tasks.
+
+* [TclMPI: Tcl bindings for MPI](https://sites.google.com/site/akohlmey/software/tclmpi)
+* [gearman-tcl](https://github.com/noyesno/gearman-tcl)
+
+And check [Distributed computation](https://wiki.tcl.tk/16662).
 
 
 ## Documentation Tools
