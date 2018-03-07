@@ -171,6 +171,7 @@ Contents
 * [Eclipse](http://www.eclipse.org/) and [Eclipse Dynamic Languages Toolkit](https://projects.eclipse.org/projects/technology.dltk). DLTK provides Tcl support.
 * [Visual Studio Code](https://code.visualstudio.com/) and [TCL Language Support for Visual Studio Code](https://github.com/rashwell/tcl), [Tcl for Visual Studio Code](https://github.com/sleutho/tcl)
 * [Tloona](https://github.com/ecky-l/tloona) - A Tcl/Tk IDE
+* [RamDebugger](http://www.compassis.com/ramdebugger/) - a debugger and IDE for TCL-TK (require tcllib, tklib, TkImg and TkTreeCtrl)
 
 Useful info:
 
@@ -263,7 +264,8 @@ You need [Critcl](http://andreas-kupries.github.io/critcl/) if you want to build
 ## Collection and Tool box
 
 * [ToclBox](https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
-* [chiark-tcl](http://wiki.tcl.tk/48610) - a collection of tcl extensions and bindings to useful libraries
+* [chiark-tcl](http://wiki.tcl.tk/48610) - a collection of tcl extensions and bindings to useful libraries,
+include adns, tinycdb, parts of the nettle crypto library and more)
 * [tcl-modules](https://github.com/Dash-OS/tcl-modules) - A collection of Pure-Tcl Packages & Utilities
 * [ycl](http://www.chiselapp.com/user/pooryorick/repository/ycl/) - short for Yorick's Computing tooLkit,
 is PYK's collection of miscellaneous procedures and programs.
