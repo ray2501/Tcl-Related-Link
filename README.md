@@ -37,28 +37,10 @@ This is one of the central features of Tcl.
 * [Expect FAQ](https://wiki.tcl.tk/11581)
 
 
-Books
-=====
-
-* [TCLWISE](http://www.invece.org/tclwise/)
-* [Tcl Wikibook](https://en.wikibooks.org/wiki/Tcl_Programming)
-* [Object Oriented Programming in Tcl](http://www.magicsplat.com/articles/oo.html)
-* [The Tcl Database Connectivity interface](http://www.magicsplat.com/articles/tdbc.html)
-* [Tcl Programming for Windows](http://www.magicsplat.com/book/)
-* [Tcl/Tk: A Developer's Guide](http://wiki.tcl.tk/9149)
-* [Tcl for Web Nerds](http://philip.greenspun.com/tcl/)
-* [Practical Programming in Tcl and Tk](http://www.beedub.com/book/)
-* [Tcl and the Tk Toolkit (2nd Edition)](http://www.tcltk-book.com/): Updated for Tcl/Tk 8.5
-* [Tcl/Tk 8.5 Programming Cookbook](https://wiki.tcl.tk/28075)
-* [Tcl 8.5 Network Programming](https://wiki.tcl.tk/26647)
-* [The Tcl Programming Language](http://wiki.tcl.tk/48868): Book for Tcl (8.6)
-
-And check [Book](https://wiki.tcl.tk/3334).
-
-
 Contents
 =====
 
+* [Books](#books)
 * [Tcl distributions](#tcl-distributions)
   * [Source](#source)
   * [Binary for Windows](#binary-for-windows)
@@ -90,6 +72,7 @@ Contents
 * [CSV](#csv)
 * [Database](#database)
 * [Data type](#data-type)
+* [Diff](#diff)
 * [Distributed computation](#distributed-computation)
 * [Documentation Tools](#documentation-tools)
 * [Internationalization and localization](#internationalization-and-localization)
@@ -140,6 +123,24 @@ Contents
 * [Write a Tcl extension](#write-a-tcl-extension)
 * [Tools](#tools)
 * [Misc](#misc)
+
+
+## Books
+
+* [TCLWISE](http://www.invece.org/tclwise/)
+* [Tcl Wikibook](https://en.wikibooks.org/wiki/Tcl_Programming)
+* [Object Oriented Programming in Tcl](http://www.magicsplat.com/articles/oo.html)
+* [The Tcl Database Connectivity interface](http://www.magicsplat.com/articles/tdbc.html)
+* [Tcl Programming for Windows](http://www.magicsplat.com/book/)
+* [Tcl/Tk: A Developer's Guide](http://wiki.tcl.tk/9149)
+* [Tcl for Web Nerds](http://philip.greenspun.com/tcl/)
+* [Practical Programming in Tcl and Tk](http://www.beedub.com/book/)
+* [Tcl and the Tk Toolkit (2nd Edition)](http://www.tcltk-book.com/): Updated for Tcl/Tk 8.5
+* [Tcl/Tk 8.5 Programming Cookbook](https://wiki.tcl.tk/28075)
+* [Tcl 8.5 Network Programming](https://wiki.tcl.tk/26647)
+* [The Tcl Programming Language](http://wiki.tcl.tk/48868): Book for Tcl (8.6)
+
+And check [Book](https://wiki.tcl.tk/3334).
 
 
 ## Tcl Distributions
@@ -238,13 +239,15 @@ I think most Linux distributions include some Tcl/Tk packages.
 
 ## Wrap tool
 
-* [freeWrap](http://freewrap.sourceforge.net/): FreeWrap distributions are freely available for Linux and Windows operating systems.
+* [freeWrap](http://freewrap.sourceforge.net/): FreeWrap distributions are freely available
+for Linux and Windows operating systems.
 * [tclexecomp](https://sourceforge.net/projects/tclexecomp/)
 
 
 ## Tests
 
-* [tcltest](https://wiki.tcl.tk/1502) - a package distributed with Tcl, provides a framework for writing and executing program tests.
+* [tcltest](https://wiki.tcl.tk/1502) - a package distributed with Tcl, provides a framework
+for writing and executing program tests.
 
 
 ## Standard Libraries
@@ -492,6 +495,9 @@ package, provides facilities for working with csv files
 
 ## Database
 
+Tcl Database Connectivity (TDBC), part of Tcl 8.6,
+is a common database access interface for Tcl scripts.
+
 * [TDBC](http://tdbc.tcl.tk/index.cgi/index)
 
 and check:
@@ -511,6 +517,15 @@ Tcl_Obj API into the script level
 And check:
 
 * [Abstract Data Types](https://wiki.tcl.tk/11450)
+
+
+## Diff
+
+* [DiffUtilTcl](https://github.com/pspjuth/DiffUtilTcl) - A Tcl extension for diff utility functions,
+like Longest Common Substring
+* [Eskil](http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and
+directory differences
+* [tkdiff](https://sourceforge.net/projects/tkdiff/) - a graphical front end to the diff program
 
 
 ## Distributed computation
@@ -540,11 +555,6 @@ for Tcl programs using runtime introspection.
 * [file](https://www.tcl.tk/man/tcl/TclCmd/file.htm) - Manipulate file names and attributes
 * [glob](https://www.tcl.tk/man/tcl/TclCmd/glob.htm) - Return names of files that match patterns
 * [tcllib fileutils](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/fileutil/fileutil.html) - Procedures implementing some file utilities
-* [DiffUtilTcl](https://github.com/pspjuth/DiffUtilTcl) - A Tcl extension for diff utility functions,
-like Longest Common Substring
-* [Eskil](http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and
-directory differences
-* [tkdiff](https://sourceforge.net/projects/tkdiff/) - a graphical front end to the diff program
 
 
 ## Geography
@@ -957,6 +967,7 @@ Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有�
 
 * [Enhanced Tk Console: tkcon](http://tkcon.sourceforge.net/)
 * [ASED](https://sourceforge.net/projects/ased/), [Wiki page](http://wiki.tcl.tk/1278) - BWidget IDE allowing editing of multiple Tcl files
+* [BallroomDJ](https://ballroomdj.org/) - a ballroom music player
 * [Tcl for Creo](https://wiki.tcl.tk/48597) - Scripting, Customization and Automation with Tcl scripts in Creo
 * [tcled](https://github.com/slebetman/tcled) - Pure Tcl Console Text Editor
 * [Chimera Grid Tools](https://www.nas.nasa.gov/publications/software/docs/chimera/index.html)
