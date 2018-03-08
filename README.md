@@ -116,6 +116,8 @@ Contents
   * [Unix-specific](#unix-specific)
   * [Windows-specific](#windows-specific)
   * [Android](#android)
+  * [Emscripten](#emscripten)
+  * [web](#web)  
 * [Language](#language)
   * [CSharp and dotNET](#csharp-and-dotnet)
   * [Java](#java)
@@ -131,8 +133,6 @@ Contents
   * [R](#r)
   * [Rust](#rust)
   * [Swift](#swift)
-  * [Emscripten](#emscripten)
-  * [web](#web)
 * [Hardware](#hardware)
   * [Arduino](#arduino)
   * [Raspberry Pi](#raspberry-pi)
@@ -771,6 +771,19 @@ run desktop Tcl and Tk programs almost unaltered on the Android Platform while
 it opens the door to script a rich set of features on a mobile platform.
 
 
+### Emscripten
+
+* [EmTcl](https://aidanhs.github.io/emtcl/): Tcl 8.6 and Jim Tcl in the browser through emscripten
+* [Wacl](https://fossil.e-lehmann.de/wacl/index) - This is a Tcl distribution for [WebAssembly](http://webassembly.org/).
+It enables Web developers to embed a Tcl interpreter in the browser and integrate Tcl with JavaScript.
+
+### Web
+
+* [FireTcl](https://sourceforge.net/projects/firetcl/) - It's a framework for developing desktop apps using web technology and Tcl, embeds Tcl inside a browser with websocket support
+* [Tcl/Tk plugin](http://wiki.tcl.tk/25865)
+* [Wtk](https://core.tcl.tk/wtk/index) - A variant of the Tk toolkit for GUI development in JS, for use in Browsers
+
+
 ## Language
 
 ### CSharp and dotNET
@@ -874,18 +887,6 @@ R has bindings to Tcl/Tk (part of R, [document](https://www.rdocumentation.org/p
 
 * [tcl-swift-bridge](https://github.com/flightaware/tcl-swift-bridge): Swift class library that bridges between Swift and Tcl
 * [Example of a Tcl extension in Swift](http://wiki.tcl.tk/48057)
-
-
-### Emscripten
-
-* [EmTcl](https://aidanhs.github.io/emtcl/): Tcl 8.6 and Jim Tcl in the browser through emscripten
-* [Wacl](https://fossil.e-lehmann.de/wacl/index) - This is a Tcl distribution for [WebAssembly](http://webassembly.org/).
-It enables Web developers to embed a Tcl interpreter in the browser and integrate Tcl with JavaScript.
-
-### Web
-
-* [FireTcl](https://sourceforge.net/projects/firetcl/) - It's a framework for developing desktop apps using web technology and Tcl, embeds Tcl inside a browser with websocket support
-* [Tcl/Tk plugin](http://wiki.tcl.tk/25865)
 
 
 ## Hardware
