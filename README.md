@@ -100,7 +100,7 @@ Contents
   * [Windows-specific](#windows-specific)
   * [Android](#android)
   * [Emscripten](#emscripten)
-  * [web](#web)  
+  * [Browser](#browser)
 * [Language](#language)
   * [CSharp and dotNET](#csharp-and-dotnet)
   * [Java](#java)
@@ -206,6 +206,7 @@ And [Godzilla Guides to tclquadcode](https://wiki.tcl.tk/54793).
 * [TclProDebug](https://github.com/flightaware/TclProDebug) - Upgrade of debugger from classic [TclPro](https://wiki.tcl.tk/365) to Tcl 8.5+
 * [Tclgdb](https://github.com/flightaware/tclgdb) - Use gdb breakpoints for Tcl source with Tcl_CreateTrace
 * [lttngtcl](https://github.com/flightaware/lttngtcl) - LTTng trace provider which connects to Tcl_CreateTrace
+* [ddt](https://github.com/Drolla/ddt) - Dynamic Debugging for Tcl
 
 
 ## Code Analysis
@@ -282,6 +283,9 @@ and [Sugar macros collection](https://wiki.tcl.tk/11168)
 
 
 ## Object-oriented
+
+TclOO is both a toolkit for creating object systems, and an object system in its own right.
+As of Tcl 8.6, is part of the core distribution.
 
 * [TclOO @ TIP #257](http://www.tcl.tk/cgi-bin/tct/tip/257) and [TclOO Tricks](https://wiki.tcl.tk/21595)
 * [incr Tcl](http://incrtcl.sourceforge.net/)
@@ -787,7 +791,7 @@ it opens the door to script a rich set of features on a mobile platform.
 * [Wacl](https://fossil.e-lehmann.de/wacl/index) - This is a Tcl distribution for [WebAssembly](http://webassembly.org/).
 It enables Web developers to embed a Tcl interpreter in the browser and integrate Tcl with JavaScript.
 
-### Web
+### Browser
 
 * [FireTcl](https://sourceforge.net/projects/firetcl/) - It's a framework for developing desktop apps using web technology and Tcl, embeds Tcl inside a browser with websocket support
 * [Tcl/Tk plugin](http://wiki.tcl.tk/25865)
