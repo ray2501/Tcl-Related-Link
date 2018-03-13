@@ -156,6 +156,7 @@ And check [Book](https://wiki.tcl.tk/3334).
 * [BAWT-Tcl](http://www.bawt.tcl3d.org/download.html#tclbi) - Batteries Included Setup Program
 * [IronTcl](https://www.irontcl.com/) - is a binary distribution of Tcl and Tk.
 * [Magicsplat Tcl/Tk for Windows](http://www.magicsplat.com/tcl-installer/index.html)
+* [tombert's tcltk](https://bitbucket.org/tombert/tcltk) - Compiled under W7 using MinGW 64bit
 
 ### TclKits
 
@@ -630,6 +631,7 @@ each intended to solve a particular numerical problem
 * [Mpexpr](http://mpexpr.sourceforge.net/) - Mpexpr is a multiple precision math package for Tcl
 * [tensor](http://www.eecs.umich.edu/~mckay/computer/)
 * [VecTcl](http://auriocus.github.io/VecTcl/)
+* [Tcl-FFTW](https://github.com/mbarriault/Tcl-FFTW) - Tcl wrapper around FFTW
 
 And useful info:
 
