@@ -218,6 +218,9 @@ you can find out about your Tcl environment.
 
 * TclParser - You can get it from [TclProDebug](https://github.com/flightaware/TclProDebug),
 at lib/tclparser folder
+* [Nagelfar](http://nagelfar.sourceforge.net/) - to read a Tcl program and provide static syntax analysis,
+and [Nagelfar-Vim](https://wiki.tcl.tk/28746)
+
 
 ## Build System
 
