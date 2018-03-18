@@ -185,7 +185,7 @@ Useful info:
 
 * [Fossil SCM](https://www.fossil-scm.org/) - a distributed version control system,
 bug tracking system and wiki software server
-* [gitk](https://git-scm.com/docs/gitk) - The Git repository browser
+* [Git](https://git-scm.com/) and the Git repository browser [gitk](https://git-scm.com/docs/gitk)
 * [TkCVS](http://www.twobarleycorns.net/tkcvs.html)
 
 
@@ -499,7 +499,7 @@ simplify asynchronous programming by allowing you to write the code in a sequent
 
 * [tcllib csv](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/csv/csv.html) - a Tcllib
 package, provides facilities for working with csv files
-* [tclcsv](http://tclcsv.sourceforge.net/)
+* [tclcsv](http://tclcsv.sourceforge.net/) - for reading and writing CSV format files
 
 
 ## Database
@@ -752,11 +752,18 @@ Study:
 
 ## Platform
 
+[exec](https://www.tcl.tk/man/tcl/TclCmd/exec.htm) is a built-in Tcl command, executes other programs.
+
+The [::tcl_platform](https://wiki.tcl.tk/1649) is a global array holds useful data
+concerning the platform on which a specific Tcl interpreter is running.
+
+
 ### Apple Macintosh
 
 * [MacPorts](https://www.macports.org/) - Package management system for Mac OS X
 * [Apple Macintosh and Tcl/Tk](https://wiki.tcl.tk/1013)
 * [Tk differences on Mac OS X](https://wiki.tcl.tk/44444)
+
 
 ### Unix-specific
 
@@ -801,7 +808,8 @@ It enables Web developers to embed a Tcl interpreter in the browser and integrat
 
 * [FireTcl](https://sourceforge.net/projects/firetcl/) - It's a framework for developing desktop apps using web technology and Tcl, embeds Tcl inside a browser with websocket support
 * [Tcl/Tk plugin](http://wiki.tcl.tk/25865)
-* [Wtk](https://core.tcl.tk/wtk/index) - A variant of the Tk toolkit for GUI development in JS, for use in Browsers
+* [Wtk](https://core.tcl.tk/wtk/index) - A variant of the Tk toolkit for GUI development in JS,
+for use in Browsers
 
 
 ## Language
