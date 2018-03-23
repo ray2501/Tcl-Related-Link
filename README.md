@@ -487,6 +487,10 @@ And my project:
 simplify asynchronous programming by allowing you to write the code in a sequential style
 * [tclfiber](https://sourceforge.net/projects/tclfiber/) - Co-routine based multitasking package for Tcl
 
+And useful info:
+
+* [Threads & callbacks](https://wiki.tcl.tk/15342)
+
 
 ## Cryptography
 
@@ -920,6 +924,9 @@ R has bindings to Tcl/Tk (part of R, [document](https://www.rdocumentation.org/p
 ## Hardware
 
 * [I2cTcl](http://i2ctcl.sourceforge.net/) - I2cTcl for Tcl/Tk on LINUX
+* [KineTcl](https://wiki.tcl.tk/37926), a binding of the OpenNI framework (version 1),
+providing Tcl with access to MS Kinect (tm), and related sensor systems
+
 
 ### Arduino
 
@@ -997,6 +1004,9 @@ supporting hierarchical and mass-spring drawings
 * [minitree note taking app](http://wiki.tcl.tk/48369)
 * [Notebook](https://github.com/wduquette/notebook) - Notebook Personal Wiki
 * [poApps - Paul's Portable Applications](http://www.posoft.de/html/poTools.html)
+* [rlwrap](https://github.com/hanslub42/rlwrap) - a wrapper for GNU readline.
+It can be used with an interactive Tcl to provide readline editing
+and command history functionality.
 * [SAOImage DS9](http://ds9.si.edu/site/Home.html) - a Tcl/Tk program that uses the SAOTk widget set,
 is an astronomical imaging and data visualization application
 * [snackamp](	http://sourceforge.net/projects/snackamp/)
