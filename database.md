@@ -49,6 +49,7 @@ in portable files using GDBM
 * [metakit](https://github.com/jcw/metakit)
 * [casstcl](https://github.com/flightaware/casstcl) - Tcl language interface to the Cassandra database,
 based on [Cassandra cpp driver](https://github.com/datastax/cpp-driver)
+* [tclcb](https://sourceforge.net/projects/tclfltk/files/Linux/Couchbase/) - for CouchBase SDK 2.1.3
 * [memcached-for-Tcl](https://github.com/bovine/memcached-for-Tcl) - based on
 [libmemcached](http://libmemcached.org/libMemcached.html)
 * [mongotcl](https://github.com/flightaware/mongotcl)
