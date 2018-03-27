@@ -221,6 +221,8 @@ at lib/tclparser folder
 * [Nagelfar](http://nagelfar.sourceforge.net/) - to read a Tcl program and provide static syntax analysis,
 and [Nagelfar-Vim](https://wiki.tcl.tk/28746)
 
+And check [Scripted Parsing](https://wiki.tcl.tk/4359).
+
 
 ## Build System
 
@@ -823,7 +825,7 @@ for use in Browsers
 * [Tcl Interpreter in C# Application](http://wiki.tcl.tk/9563)
 * [Eagle](http://eagle.to/): Eagle (Extensible Adaptable Generalized Logic Engine) is
 an implementation of the Tcl scripting language for the Common Language Runtime (CLR).
-Beta 42 releas support for building against and running on the .NET Core 2.x runtime
+Beta 42 release support for building against and running on the .NET Core 2.x runtime
 (which conforms to the .NET Standard 2.0) has been added.
 * [Eagle Integration Tutorial](http://eagle.to/tutorial/01/index.html)
 * [Garuda](http://eagle.to/): is part of the Eagle project.
