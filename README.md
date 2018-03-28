@@ -488,6 +488,8 @@ And my project:
 * [tcl-promise](http://sourceforge.net/projects/tcl-promise/) - Promises are concurrency primitives that
 simplify asynchronous programming by allowing you to write the code in a sequential style
 * [tclfiber](https://sourceforge.net/projects/tclfiber/) - Co-routine based multitasking package for Tcl
+* [TclOpenCL](https://github.com/alpha123/TclOpenCL) - VERY WIP [OpenCL](https://www.khronos.org/opencl/)
+extension for Tcl
 
 And useful info:
 
