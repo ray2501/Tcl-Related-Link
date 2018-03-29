@@ -68,12 +68,13 @@ Contents
 * [Command line](#command-line)
 * [Compression](#compression)
 * [Concurrency](#concurrency)
+  * [Distributed computation](#distributed-computation)
+  * [Parallel computing](#parallel computing)
 * [Cryptography](#cryptography)
 * [CSV](#csv)
 * [Database](#database)
 * [Data type](#data-type)
 * [Diff](#diff)
-* [Distributed computation](#distributed-computation)
 * [Documentation Tools](#documentation-tools)
 * [Internationalization and localization](#internationalization-and-localization)
 * [JSON](#json)
@@ -488,12 +489,26 @@ And my project:
 * [tcl-promise](http://sourceforge.net/projects/tcl-promise/) - Promises are concurrency primitives that
 simplify asynchronous programming by allowing you to write the code in a sequential style
 * [tclfiber](https://sourceforge.net/projects/tclfiber/) - Co-routine based multitasking package for Tcl
-* [TclOpenCL](https://github.com/alpha123/TclOpenCL) - VERY WIP [OpenCL](https://www.khronos.org/opencl/)
-extension for Tcl
 
 And useful info:
 
 * [Threads & callbacks](https://wiki.tcl.tk/15342)
+
+### Distributed computation
+
+Distributed Computation is a form of concurrent computing in
+which multiple programs, perhaps running on different processors,
+which may be remote, communicate to accomplish tasks.
+
+* [TclMPI: Tcl bindings for MPI](https://sites.google.com/site/akohlmey/software/tclmpi)
+* [gearman-tcl](https://github.com/noyesno/gearman-tcl)
+
+And check [Distributed computation](https://wiki.tcl.tk/16662).
+
+### Parallel computing
+
+* [TclOpenCL](https://github.com/alpha123/TclOpenCL) - VERY WIP [OpenCL](https://www.khronos.org/opencl/)
+extension for Tcl
 
 
 ## Cryptography
@@ -543,18 +558,6 @@ like Longest Common Substring
 * [Eskil](http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and
 directory differences
 * [tkdiff](https://sourceforge.net/projects/tkdiff/) - a graphical front end to the diff program
-
-
-## Distributed computation
-
-Distributed Computation is a form of concurrent computing in
-which multiple programs, perhaps running on different processors,
-which may be remote, communicate to accomplish tasks.
-
-* [TclMPI: Tcl bindings for MPI](https://sites.google.com/site/akohlmey/software/tclmpi)
-* [gearman-tcl](https://github.com/noyesno/gearman-tcl)
-
-And check [Distributed computation](https://wiki.tcl.tk/16662).
 
 
 ## Documentation Tools
