@@ -69,7 +69,7 @@ Contents
 * [Compression](#compression)
 * [Concurrency](#concurrency)
   * [Distributed computation](#distributed-computation)
-  * [Parallel computing](#parallel computing)
+  * [Parallel computing](#parallel-computing)
 * [Cryptography](#cryptography)
 * [CSV](#csv)
 * [Database](#database)
