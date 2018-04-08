@@ -436,6 +436,8 @@ And my project:
 * [chan](https://www.tcl.tk/man/tcl/TclCmd/chan.htm) - a built-in Tcl command, manipulates channels
 * [TclVfs](https://core.tcl.tk/tclvfs/index)
 * [tcl-fuse](https://sourceforge.net/projects/tcl-fuse/) - A Tcl interface to the linux kernel's FUSE subsystem
+* [di Tcl extension](https://wiki.tcl.tk/42227) - The di program now provides a Tcl extension
+starting with version 4.39
 * [Memchan](http://memchan.sourceforge.net/) - In-memory channels for Tcl,
 and deprecated by tcllib's tcl::chan::memchan, which is available for Tcl >= 8.5.
 * [Trf](http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels.
