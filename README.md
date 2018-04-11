@@ -409,6 +409,7 @@ And my projects:
 * [tpulsesimple](https://github.com/ray2501/tpulsesimple) - Tcl bindings for PulseAudio simple API
 * [tclopenal](https://github.com/ray2501/tclopenal) - Tcl bindings for OpenAL (open audio library)
 * [tclsndfile](https://github.com/ray2501/tclsndfile) - Tcl bindings for libsndfile
+* [tclopusfile](https://github.com/ray2501/tclopusfile) - Tcl bindings for Opusfile library
 * [tclmpg123](https://github.com/ray2501/tclmpg123) - Tcl bindings for libmpg123 
 * [tcltaglib](https://sites.google.com/site/ray2501/tcltaglib) - Tcl interface
 for taglib (Abstract API only)
