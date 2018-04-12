@@ -181,6 +181,10 @@ Useful info:
 * [Tcl Editors](https://wiki.tcl.tk/1184)
 * [IDE](https://wiki.tcl.tk/998)
 
+And TDK (Tcl Dev Kit) is open sourced by ActiveState, check
+
+* [Tcl Dev Kit](https://github.com/ActiveState/tdk) and [Tcl Dev Kit](https://wiki.tcl.tk/3960)
+
 
 ## Version control
 
@@ -437,8 +441,8 @@ And my project:
 * [chan](https://www.tcl.tk/man/tcl/TclCmd/chan.htm) - a built-in Tcl command, manipulates channels
 * [TclVfs](https://core.tcl.tk/tclvfs/index)
 * [tcl-fuse](https://sourceforge.net/projects/tcl-fuse/) - A Tcl interface to the linux kernel's FUSE subsystem
-* [di Tcl extension](https://wiki.tcl.tk/42227) - The di program now provides a Tcl extension
-starting with version 4.39
+* [di Tcl extension](https://wiki.tcl.tk/42227) - Filesystem Usage/Information.
+The di program now provides a Tcl extension starting with version 4.39
 * [Memchan](http://memchan.sourceforge.net/) - In-memory channels for Tcl,
 and deprecated by tcllib's tcl::chan::memchan, which is available for Tcl >= 8.5.
 * [Trf](http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels.
@@ -790,7 +794,7 @@ concerning the platform on which a specific Tcl interpreter is running.
 * [eltclsh](http://homepages.laas.fr/mallet/soft/shell/eltclsh) - an interactive shell for the TCL programming language
 * [tclbsd](https://github.com/flightaware/tclbsd) - A Tcl package for interfacing to
 various BSD UNIX system calls and library routines
-* [tcl-augeas](https://github.com/dbohdan/tcl-augeas) - Tcl bindings for Augeas
+* [tcl-augeas](https://github.com/dbohdan/tcl-augeas) - Tcl bindings for [Augeas](http://augeas.net/)
 * [tcl-inotify](https://sourceforge.net/projects/tcl-inotify/)
 
 
@@ -1032,6 +1036,7 @@ is an astronomical imaging and data visualization application
 * [TkSQLite](http://reddog.s35.xrea.com/wiki/TkSQLite.html) - GUI frontend to sqlite3
 * [wiki-reaper](http://wiki.tcl.tk/4718) - An HTTP robot in Tcl that will fetch page(s) from Tcler's Wiki
 * [binaryscanr](https://github.com/shuntksh/binaryscanr) - A Tcl binary scan frontend app
+* [XilinxTclStore](https://github.com/Xilinx/XilinxTclStore) - Xilinx Tcl Store
 
 
 ## Misc
