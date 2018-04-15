@@ -59,6 +59,7 @@ Contents
 * [Collection and Tool box](#collection-and-tool-box)
 * [Object-oriented](#object-oriented)
 * [Functional Programming](#functional-programming)
+* [CUI](#cui)
 * [Tk](#tk)
 * [GUI toolkit](#gui-toolkit)
 * [Graphics and Images](#graphics-and-images)
@@ -323,6 +324,20 @@ but their names can, which provides something very similar to first-class functi
 Additionally, [apply](http://www.tcl.tk/man/tcl/TclCmd/apply.htm) can be used to
 interpret a value as a function and evaluate it,
 providing the equivalent of lambda functions.
+
+
+## CUI
+
+A Character-based User Interface is a user interface that features full-screen
+cursor manipulations to emulate forms, etc.
+
+The abbreviation TUI (text-based user interface) is sometimes used to describe
+the same thing.
+
+[curses](https://wiki.tcl.tk/9690) is perhaps the most widely-known CUI.
+
+* [Minimalist Curses](https://wiki.tcl.tk/10877) - A "minimalist" tcl package for interfacing to curses.
+And [my test](https://github.com/ray2501/tcl-curses).
 
 
 ## Tk
