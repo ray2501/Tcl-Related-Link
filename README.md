@@ -75,6 +75,7 @@ Contents
 * [CSV](#csv)
 * [Database](#database)
 * [Data type](#data-type)
+* [Data struct](#data-struct)
 * [Diff](#diff)
 * [Documentation Tools](#documentation-tools)
 * [Internationalization and localization](#internationalization-and-localization)
@@ -285,6 +286,7 @@ include adns, tinycdb, parts of the nettle crypto library and more)
 * [tcl-modules](https://github.com/Dash-OS/tcl-modules) - A collection of Pure-Tcl Packages & Utilities
 * [ycl](http://www.chiselapp.com/user/pooryorick/repository/ycl/) - short for Yorick's Computing tooLkit,
 is PYK's collection of miscellaneous procedures and programs.
+* [til](https://github.com/efrecon/til) - The Tcl ICE Library
 * [tcl-hacks](https://chiselapp.com/user/aspect/repository/tcl-hacks/index) - A repository of useful
 and/or interesting hacks in Tcl
 * [tclapps](https://github.com/tcltk/tclapps): a suite of small applications for Tcl useful as
@@ -563,7 +565,7 @@ and check:
 
 * [Tarray](http://wiki.tcl.tk/37462) - implements a new Tcl collection data type - typed array
 * [TclRal](http://chiselapp.com/user/mangoa01/repository/tclral/index) - Tcl Relational Algebra Library.
-It introduces tuple and [relation] data types and a set of commands that operate on them.
+It introduces tuple and relation data types and a set of commands that operate on them.
 * [tclvalue](https://github.com/auriocus/tclvalue) - An extension for Tcl 8.6+ to reflect the
 Tcl_Obj API into the script level
 * [Persistent arrays](https://wiki.tcl.tk/3469)
@@ -571,6 +573,24 @@ Tcl_Obj API into the script level
 And check:
 
 * [Abstract Data Types](https://wiki.tcl.tk/11450)
+
+
+## Data struct
+
+[struct](https://wiki.tcl.tk/783) - Documentation can be found for
+various (tcllib) data structures.Provided structures, so far:
+* graph
+* list
+* matrix
+* pool
+* prioqueue
+* queue
+* record
+* set
+* skiplist
+* stack
+* tree
+* disjointset
 
 
 ## Diff
