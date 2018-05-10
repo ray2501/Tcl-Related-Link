@@ -39,7 +39,9 @@ Useful info:
 * [Revised Implementation of Tk Text Widget](http://scidb.sourceforge.net/tk/revised-text-widget.html)
 * [A collection of Ttk themes](http://chiselapp.com/user/sgolovan/repository/ttk-themes/home)
 * [Scaled checkbutton](http://wiki.tcl.tk/44212)
+* [ttk::checkbutton as toggle switch display](https://wiki.tcl.tk/44059)
 * [always on top](http://wiki.tcl.tk/3014)
 * [Tutorial: Modifying a ttk button's style](https://wiki.tcl.tk/54685)
 * [Yet Another Color Picker](https://wiki.tcl.tk/48722)
+* [Glyphs](https://wiki.tcl.tk/37854) - a pure-tcl library for digging into TrueType font-files
 
