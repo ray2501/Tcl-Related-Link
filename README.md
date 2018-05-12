@@ -227,6 +227,8 @@ you can find out about your Tcl environment.
 at lib/tclparser folder
 * [Nagelfar](http://nagelfar.sourceforge.net/) - to read a Tcl program and provide static syntax analysis,
 and [Nagelfar-Vim](https://wiki.tcl.tk/28746)
+* [tclchecker](https://wiki.tcl.tk/11245) - a component of Tcl Dev Kit,
+is a fork of [procheck](https://wiki.tcl.tk/3163), the static analysis tool.
 
 And check [Scripted Parsing](https://wiki.tcl.tk/4359).
 
@@ -667,6 +669,7 @@ to the libpcap library
 * [Sensus ldap](https://web.archive.org/web/20130730202916/www.sensus.org/tcl/)
 * [Tcllib ftp](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ftp/ftp.html) - Client-side tcl implementation of the ftp protocol
 * [socketservertcl](https://github.com/flightaware/socketservertcl) - Basic socketserver support in Tcl inspired by libancillary
+* [tclcan](https://wiki.tcl.tk/55310) - Tcl interface to Linux SocketCAN
 
 And useful info:
 
