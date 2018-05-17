@@ -570,6 +570,7 @@ and check:
 It introduces tuple and relation data types and a set of commands that operate on them.
 * [tclvalue](https://github.com/auriocus/tclvalue) - An extension for Tcl 8.6+ to reflect the
 Tcl_Obj API into the script level
+* [AitCS](https://chiselapp.com/user/stwo/repository/AitCS/index) - Array in the Command's Shadow
 * [Persistent arrays](https://wiki.tcl.tk/3469)
 
 And check:
