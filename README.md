@@ -403,6 +403,8 @@ For barcode:
 
 * [tzint](https://sourceforge.net/projects/tclsnippets/files/tzint/) - tcl package for libzint barcode encoding library (no Tk needed)
 
+And [Barcode FAQs](http://www.azalea.com/FAQ/) has valuable information.
+
 And my project:
 
 * [tclqrencode](https://sites.google.com/site/ray2501/tclqrencode) - Tcl interface for libqrencode
@@ -416,12 +418,17 @@ And my project:
 the JACK Audio Connection Kit library (jacklib)
 * [tclmidi](https://github.com/jdc8/tclmidi) - a package to work with Midi files
 
-Useful info:
+And volume control:
 
 * [Linux: volume control](http://wiki.tcl.tk/48348)
 * [Mac OS X: volume control](http://wiki.tcl.tk/48551)
 * [Windows: volume control](http://wiki.tcl.tk/48338)
 * [Windows XP: volume control](http://wiki.tcl.tk/48350)
+
+Now available on [SourceForge](https://sourceforge.net/projects/volume-controls-cmdline/files/).
+
+Useful info:
+
 * [Audio Edit Utility](http://wiki.tcl.tk/40321) - a front-end for the 'ffmpeg' command
 * [VLC Tcl Extension](http://wiki.tcl.tk/48382)
 * [MPV Tcl Extension](https://wiki.tcl.tk/55174) - a Tcl interface to the MPV audio player, using libmpv
@@ -771,7 +778,8 @@ And you can check [Markdown2Go](http://wiki.tcl.tk/48198).
 ## XML
 
 * [tDOM](http://tdom.github.io/)
-* [TclXML](http://tclxml.sourceforge.net/)
+* [TclXML](http://tclxml.sourceforge.net/) and
+you can check [here](https://github.com/wjoye/tclxml)
 * [TclSOAP](http://tclsoap.sourceforge.net/) and [Wiki page](http://wiki.tcl.tk/1753) - supports
 SOAP and XML-RPC, based on TclDOM (TclDOM is the DOM part of TclXML project).
 [SCM Repositories](http://tclsoap.cvs.sourceforge.net/viewvc/tclsoap/tclsoap/) version (1.6.8)
