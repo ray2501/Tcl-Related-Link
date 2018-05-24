@@ -10,8 +10,7 @@ Tk widget and extension
 * [TkHTML](http://tkhtml.tcl.tk/)
 * [3-D Canvas Widget](http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)
 * [Tcl3D](http://www.tcl3d.org/)
-* [Tkpath](https://bitbucket.org/andrew_shadura/tkpath) and
-you can check [here](http://chiselapp.com/user/rene/repository/tkpath/index)
+* [Tkpath](https://bitbucket.org/andrew_shadura/tkpath)
 * [TkTable](https://sourceforge.net/projects/tktable/)
 * [TkTreeCtrl](http://tktreectrl.sourceforge.net/)
 * [Tablelist](http://www.nemethi.de/tablelist/index.html), include in TkLib
