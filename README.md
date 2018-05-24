@@ -154,8 +154,7 @@ And check [Book](https://wiki.tcl.tk/3334).
 
 ### Binary for Windows
 
-* [ActiveTcl](http://www.activestate.com/activetcl) 是一個廣為人所知，
-提供了 [Batteries Included](http://wiki.tcl.tk/2352) 的 Binary Distribution。
+* [ActiveTcl](http://www.activestate.com/activetcl): A [Batteries Included](http://wiki.tcl.tk/2352) binary Distribution
 * [BAWT-Tcl](http://www.bawt.tcl3d.org/download.html#tclbi) - Batteries Included Setup Program
 * [IronTcl](https://www.irontcl.com/) - is a binary distribution of Tcl and Tk.
 * [Magicsplat Tcl/Tk for Windows](http://www.magicsplat.com/tcl-installer/index.html)
@@ -1042,6 +1041,7 @@ Useful info:
 Critcl (provides on-the-fly compilation and execution of C code).
 
 還有的方式是使用 [SWIG](https://github.com/swig/swig) 來撰寫。
+可以參考相關的文章 [Tcl and SWIG as a C/C++ Development Tool](http://swig.org/papers/Tcl98/TclChap.html).
 
 一種是使用 pure Tcl 所撰寫的 exetnsion，
 以 Tcl 檔案的形式或者是 [Tcl Modules](http://wiki.tcl.tk/12999) 的方式發佈。
@@ -1093,4 +1093,5 @@ is an astronomical imaging and data visualization application
 * [Dai's Blog](http://blog.got7.org/)
 * [dbohdan blog](http://dbohdan.com/blog/)
 * [magicsplat.com](http://www.magicsplat.com/) - Software, articles and blog
+* [The "Clone Don Porter" Project](https://wiki.tcl.tk/55306)
 * [Tcl-bounties](https://github.com/flightaware/Tcl-bounties) - Bounty program for improvements to Tcl and certain Tcl packages
