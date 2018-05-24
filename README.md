@@ -735,6 +735,13 @@ implement basic function - fullmatch, partialmatch, replace and globalrelpace
 
 ## Time
 
+The [clock](https://www.tcl.tk/man/tcl8.6/TclCmd/clock.htm) command performs several operations
+that obtain and manipulate values that represent times.
+
+This command [time](https://www.tcl.tk/man/tcl8.6/TclCmd/time.htm) will call
+the Tcl interpreter count times to evaluate script (or once if count is not specified).
+It will then return a string of the form.
+
 * [tclclockmod](https://github.com/sebres/tclclockmod) - Tcl clock extension: 
 faster Tcl-module for the replacement of the standard "clock" ensemble of tcl
 
