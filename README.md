@@ -87,6 +87,7 @@ Contents
 * [PDF](#pdf)
 * [Procedure Tools](#procedure-tools)
 * [Text and string](#text-and-string)
+* [Time](#time)
 * [Web and Http](#web-and-http)
   * [CSS](#css)
   * [JSMIN](#jsmin)
@@ -407,6 +408,8 @@ And [Barcode FAQs](http://www.azalea.com/FAQ/) has valuable information.
 And my project:
 
 * [tclqrencode](https://sites.google.com/site/ray2501/tclqrencode) - Tcl interface for libqrencode
+* [tcl-cairo](https://github.com/ray2501/tcl-cairo) - Tcl bindings for Cairo library,
+learn from [tclcairo](https://wiki.tcl.tk/29305)
 
 
 ## Audio and Sound
@@ -729,6 +732,11 @@ And my project:
 
 * [regex_rez](https://github.com/ray2501/regex_rez) - Tcl bindings for RE2,
 implement basic function - fullmatch, partialmatch, replace and globalrelpace
+
+## Time
+
+* [tclclockmod](https://github.com/sebres/tclclockmod) - Tcl clock extension: 
+faster Tcl-module for the replacement of the standard "clock" ensemble of tcl
 
 
 ## Web and Http
