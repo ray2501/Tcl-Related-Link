@@ -613,6 +613,10 @@ like Longest Common Substring
 directory differences
 * [tkdiff](https://sourceforge.net/projects/tkdiff/) - a graphical front end to the diff program
 
+And check
+
+* [diff in Tcl](https://wiki.tcl.tk/3108)
+
 
 ## Documentation Tools
 
@@ -732,6 +736,8 @@ And my project:
 
 * [regex_rez](https://github.com/ray2501/regex_rez) - Tcl bindings for RE2,
 implement basic function - fullmatch, partialmatch, replace and globalrelpace
+* [tcl-opencc](https://github.com/ray2501/tcl-opencc) - Tcl bindings for 
+[OpenCC](https://github.com/BYVoid/OpenCC) (libopencc)
 
 ## Time
 
