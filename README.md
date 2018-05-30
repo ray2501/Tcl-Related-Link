@@ -726,13 +726,18 @@ based on the patterns established by core Tcl commands like [lsort], [lsearch], 
 
 ## Text and string
 
-* [tcllib textutil](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/textutil/textutil.html)
 * [encoding](https://www.tcl.tk/man/tcl8.6/TclCmd/encoding.htm) - a built-in command,
 manages the conversion of text to and from particular encodings
+* [regexP](https://www.tcl.tk/man/tcl/TclCmd/regexp.htm) - a built-in Tcl command,
+matches a regular expression in a string
+* [regsub](https://www.tcl.tk/man/tcl/TclCmd/regsub.htm) - a built-in Tcl command,
+performs substitutions based on regular expression pattern matching
+* [tcllib textutil](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/textutil/textutil.html)
 
 And useful info:
 
 * [Additional string functions](http://wiki.tcl.tk/44)
+* [Regular Expressions](https://wiki.tcl.tk/396)
 
 And my project:
 
