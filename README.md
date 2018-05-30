@@ -727,6 +727,8 @@ based on the patterns established by core Tcl commands like [lsort], [lsearch], 
 ## Text and string
 
 * [tcllib textutil](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/textutil/textutil.html)
+* [encoding](https://www.tcl.tk/man/tcl8.6/TclCmd/encoding.htm) - a built-in command,
+manages the conversion of text to and from particular encodings
 
 And useful info:
 
