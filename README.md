@@ -728,7 +728,7 @@ based on the patterns established by core Tcl commands like [lsort], [lsearch], 
 
 * [encoding](https://www.tcl.tk/man/tcl8.6/TclCmd/encoding.htm) - a built-in command,
 manages the conversion of text to and from particular encodings
-* [regexP](https://www.tcl.tk/man/tcl/TclCmd/regexp.htm) - a built-in Tcl command,
+* [regexp](https://www.tcl.tk/man/tcl/TclCmd/regexp.htm) - a built-in Tcl command,
 matches a regular expression in a string
 * [regsub](https://www.tcl.tk/man/tcl/TclCmd/regsub.htm) - a built-in Tcl command,
 performs substitutions based on regular expression pattern matching
@@ -870,6 +870,18 @@ concerning the platform on which a specific Tcl interpreter is running.
 various BSD UNIX system calls and library routines
 * [tcl-augeas](https://github.com/dbohdan/tcl-augeas) - Tcl bindings for [Augeas](http://augeas.net/)
 * [tcl-inotify](https://sourceforge.net/projects/tcl-inotify/)
+
+The proc filesystem ([procfs](https://en.wikipedia.org/wiki/procfs)) 
+is a special filesystem in Unix-like operating systems that presents 
+information about processes and other system information in a hierarchical 
+file-like structure, providing a more convenient and standardized method for 
+dynamically accessing process data held in the kernel than traditional 
+tracing methods or direct access to kernel memory.
+You can check [my test](https://github.com/ray2501/meminfo).
+
+And useful info:
+
+* [Get Random Bytes on *NIX](https://wiki.tcl.tk/55351)
 
 
 ### Windows-specific
