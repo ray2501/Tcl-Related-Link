@@ -641,7 +641,7 @@ for Tcl programs using runtime introspection.
 interface for writing software which recieves NMEA standard input data
 * [proj4tcl](https://wiki.tcl.tk/41270) - a binding to the [proj4](http://proj4.org/) projection library,
 requires critcl
-* [Tcl-shp](https://sourceforge.net/projects/tclshp/): Wrap the C shapelib API to process shape files in .tcl
+* [Shapetcl](https://github.com/anoved/Shapetcl): Simple shapefile access for Tcl.
 
 And useful info:
 
