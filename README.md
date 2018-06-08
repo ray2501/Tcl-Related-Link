@@ -684,7 +684,8 @@ to the libpcap library
 * [Tcllib ldap](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ldap/ldap.html) - LDAP client
 * [Sensus ldap](https://web.archive.org/web/20130730202916/www.sensus.org/tcl/)
 * [Tcllib ftp](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ftp/ftp.html) - Client-side tcl implementation of the ftp protocol
-* [socketservertcl](https://github.com/flightaware/socketservertcl) - Basic socketserver support in Tcl inspired by libancillary
+* [socketservertcl](https://github.com/flightaware/socketservertcl) - Basic socketserver support in 
+Tcl inspired by libancillary
 * [tclcan](https://wiki.tcl.tk/55310) - Tcl interface to Linux SocketCAN
 
 And useful info:
@@ -866,6 +867,8 @@ concerning the platform on which a specific Tcl interpreter is running.
 * [DBus binding for Tcl](https://chiselapp.com/user/schelte/repository/dbus/home)
 * [Signal Extension](http://www.nyx.net/~mschwart/signal_ext.html) - Unix/POSIX Signal handling for Tcl
 * [tcl-mq](https://sourceforge.net/projects/tcl-mq/) - Tcl POSIX Message Queues
+* [Tulsa](http://chiselapp.com/user/stwo/repository/tulsa/index) - Tcl Unix Local Sockets,
+provides server, client, and pair UNIX socket(2)s.
 * [tclreadline](https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
 * [eltclsh](http://homepages.laas.fr/mallet/soft/shell/eltclsh) - an interactive shell for the TCL programming language
 * [tclbsd](https://github.com/flightaware/tclbsd) - A Tcl package for interfacing to
