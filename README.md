@@ -1101,6 +1101,7 @@ Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有�
 * [Enhanced Tk Console: tkcon](http://tkcon.sourceforge.net/)
 * [ASED](https://sourceforge.net/projects/ased/), [Wiki page](http://wiki.tcl.tk/1278) - BWidget IDE allowing editing of multiple Tcl files
 * [BallroomDJ](https://ballroomdj.org/) - a ballroom music player
+* [DRAKON Editor](https://github.com/stepan-mitkin/drakon_editor) - a free open source tool for authoring DRAKON diagrams
 * [Tcl for Creo](https://wiki.tcl.tk/48597) - Scripting, Customization and Automation with Tcl scripts in Creo
 * [tcled](https://github.com/slebetman/tcled) - Pure Tcl Console Text Editor
 * [Chimera Grid Tools](https://www.nas.nasa.gov/publications/software/docs/chimera/index.html)
