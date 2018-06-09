@@ -31,6 +31,12 @@ ORM
 RDBMS
 =====
 
+A relational database management system (RDBMS) is a database management 
+system (DBMS) based on the relational model invented by Edgar F. Codd at 
+IBM's San Jose Research Laboratory.
+
+You can check [Open source SQL engines](http://www.martinbroadhurst.com/sql-engines.html).
+
 * [mysqltcl](http://www.xdobry.de/mysqltcl/) - Tcl interface to MySQL database
 * [TclODBC](https://sourceforge.net/projects/tclodbc/)
 * [Pgtcl](http://flightaware.github.io/Pgtcl/) - Tcl client side interface to PostgreSQL (libpgtcl)
@@ -42,6 +48,18 @@ RDBMS
 
 NoSQL
 =====
+
+A NoSQL (originally referring to "non SQL" or "non relational") database 
+provides a mechanism for storage and retrieval of data that is modeled in 
+means other than the tabular relations used in relational databases.
+
+What follows is a basic classification by data model,
+* Key-value
+* Wide-column
+* Document
+* Graph
+
+Below is some Tcl NoSQL clients:
 
 * [tgdbm](http://www.vogel-nest.de/tgdbmqgdbm-library-for-tcl-version-0-5/) - Store key/value pairs
 in portable files using GDBM
@@ -63,8 +81,9 @@ Other
 =====
 
 * [Tcl8 bindings for Xapian](https://xapian.org/docs/bindings/tcl8/)
-* [zookeepertcl](https://github.com/flightaware/zookeepertcl) - Tcl interface to Apache zookeeper distributed coordination system
-* [etcd-tcl](https://github.com/efrecon/etcd-tcl)
+* [zookeepertcl](https://github.com/flightaware/zookeepertcl) - Tcl interface to Apache zookeeper 
+distributed coordination system
+* [etcd-tcl](https://github.com/efrecon/etcd-tcl) - an implementation of the etcd API v. 2 in Tcl
 * [kafkatcl](https://github.com/flightaware/kafkatcl) - Tcl interface to the Apache Kafka
 * [zeromq - Tcl](http://zeromq.org/bindings:tcl)
 * [rabbitmq-tcl](https://github.com/dereckson/rabbitmq-tcl) - TCL extension to provide an AMQP client. Wrapper around librabbitmq
@@ -75,8 +94,6 @@ Other
 * [Speedtables](http://flightaware.github.io/speedtables/) - High-performance, memory-resident database
 * [SQL Relay](http://wiki.tcl.tk/9242)
 * [MrPersister](http://wiki.tcl.tk/21669) - a database access library for Jacl
-* [TclRAL](http://repos.modelrealization.com/cgi-bin/fossil/tclral/index) - a "C" based extension of Tcl
-that implements a complete relational algebra.
 * [HammerDB](http://www.hammerdb.com/) - multi-platform software for load testing databases
 
 
