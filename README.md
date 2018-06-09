@@ -252,6 +252,14 @@ However, ActiveTcl 8.6.6 does not include teaget this tool (when I test last tim
 And you can check [Debian packages for Tcl/Tk](https://wiki.tcl.tk/11333).
 I think most Linux distributions include some Tcl/Tk packages.
 
+For example, you can install Tcl/TK at openSUSE:
+
+    sudo zypper install tcl tk
+
+And below is Debian and Ubuntu:
+
+    sudo apt-get install tcl tk
+
 
 ## Wrap tool
 

@@ -9,6 +9,7 @@ Tk widget and extension
 * [GRIDPLUS](http://www.satisoft.com/tcltk/gridplus2/)
 * [TkHTML](http://tkhtml.tcl.tk/)
 * [3-D Canvas Widget](http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)
+* [tkzinc](https://bitbucket.org/plecoanet/tkzinc) - canvas like widget extension
 * [Tcl3D](http://www.tcl3d.org/)
 * [Tkpath](https://bitbucket.org/andrew_shadura/tkpath)
 * [TkTable](https://sourceforge.net/projects/tktable/)
@@ -17,6 +18,7 @@ Tk widget and extension
 * [TkDND](http://sourceforge.net/projects/tkdnd/)
 * [tktray](https://wiki.tcl.tk/5972) - an extension for managing system tray icons with Tk on X Window System
 * [Mtiwidgets](https://wiki.tcl.tk/6237) - Includes mtiwidgets::mdiframe widget
+* [rtl - Megawidget collection](https://sourceforge.net/projects/gestaltitems/)
 * [TaoLib](http://fossil.etoyoc.com/fossil/taolib/index) - a TclOO megawidget framework
 * [wcb](http://www.nemethi.de/) - The WCB package provides a general-purpose
 mechanism for customizing the behavior of entry, spinbox, and text widgets
