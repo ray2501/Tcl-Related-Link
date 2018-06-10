@@ -6,6 +6,7 @@ Tk widget and extension
 * [Incr Tk](https://core.tcl.tk/itk)
 * [incr Widgets](https://core.tcl.tk/iwidgets)
 * [Tix Widget Set](http://sourceforge.net/projects/tix/)
+* [Ttk file selection dialog](http://chiselapp.com/user/schelte/repository/fsdialog/home)
 * [GRIDPLUS](http://www.satisoft.com/tcltk/gridplus2/)
 * [TkHTML](http://tkhtml.tcl.tk/)
 * [3-D Canvas Widget](http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)

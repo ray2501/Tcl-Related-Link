@@ -695,6 +695,7 @@ to the libpcap library
 * [socketservertcl](https://github.com/flightaware/socketservertcl) - Basic socketserver support in 
 Tcl inspired by libancillary
 * [tclcan](https://wiki.tcl.tk/55310) - Tcl interface to Linux SocketCAN
+* [UPnP](http://chiselapp.com/user/schelte/repository/upnp/index) - Universal Plug and Play
 
 And useful info:
 
@@ -1116,6 +1117,7 @@ Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有�
 * [ezdit](https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
 * [GraphViz](https://www.graphviz.org/) - Set of graph drawing tools and libraries,
 supporting hierarchical and mass-spring drawings
+* [HelpViewer Application](http://www.johann-oberdorfer.eu/blog/2017/04/10/17-10-04_helpviewer/)
 * [IPAT-S Software Suite](https://sourceforge.net/projects/ipat-s/) - IPAT-S Software Suite is a collection of supporting tools for the IPAT-S modeling language
 * [MTE](https://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
 * [minitree note taking app](https://wiki.tcl.tk/48369)
