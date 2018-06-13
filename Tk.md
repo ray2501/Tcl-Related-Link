@@ -40,7 +40,8 @@ Useful info:
 * [OpenGL with C and Tcl/Tk](https://codeplea.com/opengl-with-c-and-tcl-tk)
 * [A TclOO Tkhtml 3.0 megawidget - example of how to render html+css](https://wiki.tcl.tk/48458)
 * [Revised Implementation of Tk Text Widget](http://scidb.sourceforge.net/tk/revised-text-widget.html)
-* [A collection of Ttk themes](http://chiselapp.com/user/sgolovan/repository/ttk-themes/home)
+* [A collection of Ttk themes](http://chiselapp.com/user/sgolovan/repository/ttk-themes/home) and
+[List of ttk Themes](https://wiki.tcl.tk/48689)
 * [Scaled checkbutton](https://wiki.tcl.tk/44212)
 * [ttk::checkbutton as toggle switch display](https://wiki.tcl.tk/44059)
 * [always on top](https://wiki.tcl.tk/3014)

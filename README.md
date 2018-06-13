@@ -861,6 +861,10 @@ Study:
 The [::tcl_platform](https://wiki.tcl.tk/1649) is a global array holds useful data
 concerning the platform on which a specific Tcl interpreter is running.
 
+And useful info:
+
+* [Display System Info](https://wiki.tcl.tk/55366): About Tcl system information
+
 
 ### Apple Macintosh
 
