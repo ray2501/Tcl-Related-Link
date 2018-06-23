@@ -266,6 +266,7 @@ And below is Debian and Ubuntu:
 * [freeWrap](http://freewrap.sourceforge.net/): FreeWrap distributions are freely available
 for Linux and Windows operating systems.
 * [tclexecomp](https://sourceforge.net/projects/tclexecomp/)
+* [Thatch](https://wiki.tcl.tk/55332) - Create standalone Tcl/Tk apps
 
 
 ## Tests
