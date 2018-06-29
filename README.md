@@ -72,7 +72,7 @@ Contents
   * [Distributed computation](#distributed-computation)
   * [Parallel computing](#parallel-computing)
 * [Cryptography](#cryptography)
-* [CSV](#csv)
+* [CSV and TSV](#csv-and-tsv)
 * [Database](#database)
 * [Data type](#data-type)
 * [Data struct](#data-struct)
@@ -562,11 +562,13 @@ extension for Tcl
 * [TclTLS](https://core.tcl.tk/tcltls/index) - OpenSSL extension to Tcl
 
 
-## CSV
+## CSV and TSV
 
 * [tcllib csv](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/csv/csv.html) - a Tcllib
 package, provides facilities for working with csv files
 * [tclcsv](http://tclcsv.sourceforge.net/) - for reading and writing CSV format files
+* [speedbag](https://github.com/flightaware/speedbag) - a package for providing accelerated C-based routines 
+for TSV parsing into an array
 
 
 ## Database
