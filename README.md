@@ -487,6 +487,8 @@ Stacked channels is available at the Tcl-script level (after 8.5).
 See the [chan](https://wiki.tcl.tk/15111) command for details.
 * [trofs](http://math.nist.gov/~DPorter/tcltk/trofs/) - Tcl Read-Only Filesystem
 * [tserialport](https://sourceforge.net/projects/tclsnippets/files/tserialport/) - tcl package for library libserialport
+* [Add a time stamp to each line of output](https://wiki.tcl.tk/55399) - a useful example of 
+the transchan functionality available in Tcl
 
 
 ## Command line
