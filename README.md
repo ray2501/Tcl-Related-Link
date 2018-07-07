@@ -653,7 +653,8 @@ for Tcl programs using runtime introspection.
 * [tcllib nmea](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/nmea/nmea.html) - provides a standard
 interface for writing software which recieves NMEA standard input data
 * [proj4tcl](https://wiki.tcl.tk/41270) - a binding to the [proj4](http://proj4.org/) projection library,
-requires critcl
+requires critcl. And [proj](https://wiki.tcl.tk/39048) - swig based binding for tcl for the proj.4 library 
+using the new API.
 * [Shapetcl](https://github.com/anoved/Shapetcl): Simple shapefile access for Tcl.
 
 And useful info:
