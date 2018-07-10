@@ -461,6 +461,7 @@ for taglib (Abstract API only)
 
 * [tkvideo](http://www.patthoyts.tk/tkvideo/) - A video widget for use with Windows
 * [tkmpeg](https://github.com/wjoye/tkmpeg) - TK MPEG 1 encoder, Tcl/Tk 8.5/8.6 TEA compatible
+* [MAWT - Movie Automation With Tcl](http://www.mawt.tcl3d.org/) - a Tcl package based on [FFmpeg](http://www.ffmpeg.org/)
 
 Useful info:
 
