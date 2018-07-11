@@ -34,4 +34,5 @@ And useful info:
  * [TemplaTcl: a Tcl template engine](https://wiki.tcl.tk/18175?redir=18174)
  * [GraphQL with Tcl](https://wiki.tcl.tk/49041)
  * [webpage-1.0](https://wiki.tcl.tk/55297) - A pure TCL extension package for generating HTML pages
+ * [WubWikit](https://wiki.tcl.tk/18028) - wubwikit bundles together Wub and wikit
 
