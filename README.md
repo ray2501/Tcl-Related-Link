@@ -702,6 +702,7 @@ to the libpcap library
 Tcl inspired by libancillary
 * [tclcan](https://wiki.tcl.tk/55310) - Tcl interface to Linux SocketCAN
 * [UPnP](http://chiselapp.com/user/schelte/repository/upnp/index) - Universal Plug and Play
+* [Duft](https://sourceforge.net/projects/duft/) - Datagrams and Udp For Tcl
 
 And useful info:
 
