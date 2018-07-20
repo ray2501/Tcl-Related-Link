@@ -323,7 +323,7 @@ a Tcl package by the same name that was inspired by Self
 Useful info:
 
 * [Inspecting TclOO](https://wiki.tcl.tk/40640)
-* [Tclock](https://github.com/hoodiecrow/Tclook) - A simple TclOO object/class/namespace browser
+* [Tclook](https://github.com/hoodiecrow/Tclook) - A simple TclOO object/class/namespace browser
 
 
 ## Functional Programming
