@@ -756,6 +756,8 @@ And useful info:
 
 * [parse_args](https://github.com/RubyLane/parse_args) - A fast argument parser
 based on the patterns established by core Tcl commands like [lsort], [lsearch], [glob], [regex], etc.
+* [tclargp](http://www.bawt.tcl3d.org/download.html) - allows simple and flexible using and 
+parsing optional arguments, source code you can get from [BAWT](http://www.bawt.tcl3d.org/index.html) project
 
 
 ## Text and string
