@@ -320,6 +320,11 @@ As of Tcl 8.6, is part of the core distribution.
 * [self](https://github.com/mpcjanssen/self) - [SELF extension](https://wiki.tcl.tk/17100),
 a Tcl package by the same name that was inspired by Self
 
+Useful info:
+
+* [Inspecting TclOO](https://wiki.tcl.tk/40640)
+* [Tclock](https://github.com/hoodiecrow/Tclook) - A simple TclOO object/class/namespace browser
+
 
 ## Functional Programming
 
@@ -603,6 +608,16 @@ And check:
 
 
 ## Data struct
+
+[list](https://www.tcl.tk/man/tcl/TclCmd/list.htm) is a built-in Tcl command, creates a list.
+
+[dict](https://www.tcl.tk/man/tcl/TclCmd/dict.htm) is a built-in command for creating 
+and manipulating dictionaries (dicts). A dict, or dictionary, is a list containing an even 
+number of words.
+
+[array](https://www.tcl.tk/man/tcl/TclCmd/array.htm) is a built-in ensemble of commands 
+that manipulates Tcl's array variables. Array variables can also be manipulated using 
+`arrayName(key)` syntax.
 
 [struct](https://wiki.tcl.tk/783) - Documentation can be found for
 various (tcllib) data structures.Provided structures, so far:
