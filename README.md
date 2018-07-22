@@ -1148,6 +1148,7 @@ supporting hierarchical and mass-spring drawings
 * [HelpViewer Application](http://www.johann-oberdorfer.eu/blog/2017/04/10/17-10-04_helpviewer/)
 * [IPAT-S Software Suite](https://sourceforge.net/projects/ipat-s/) - IPAT-S Software Suite is a collection of supporting tools for the IPAT-S modeling language
 * [MTE](https://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
+* [Source Navigator](http://sourcenav.sourceforge.net/index.html)
 * [minitree note taking app](https://wiki.tcl.tk/48369)
 * [Notebook](https://github.com/wduquette/notebook) - Notebook Personal Wiki
 * [poApps - Paul's Portable Applications](http://www.posoft.de/html/poTools.html)
@@ -1162,7 +1163,8 @@ is an astronomical imaging and data visualization application
 * [tclsh-wrapper](https://github.com/suewonjp/tclsh-wrapper) - A tiny wrapper for Tcl/Tk's tclsh and wish
 * [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
 * [tedit](https://github.com/thanoulis/tedit) - a simple text editor written in Tcl/Tk
-* [tkchat](http://tkchat.tcl.tk/) - an instant messaging application
+* [tkchat](http://tkchat.tcl.tk/) - an instant messaging application for 
+[Tcl Chatroom](https://wiki.tcl.tk/1178)
 * [TkMC](https://wiki.tcl.tk/7772) - MC like file manager with basic functionality
 * [TkSQLite](http://reddog.s35.xrea.com/wiki/TkSQLite.html) - GUI frontend to sqlite3
 * [wiki-reaper](https://wiki.tcl.tk/4718) - An HTTP robot in Tcl that will fetch page(s) from Tcler's Wiki
