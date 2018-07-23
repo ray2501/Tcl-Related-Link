@@ -47,5 +47,8 @@ Useful info:
 * [always on top](https://wiki.tcl.tk/3014)
 * [Tutorial: Modifying a ttk button's style](https://wiki.tcl.tk/54685)
 * [Yet Another Color Picker](https://wiki.tcl.tk/48722)
+* [ttk::checkbutton as toggle switch display](https://wiki.tcl.tk/44059)
+* [Virtual Scrolling](https://wiki.tcl.tk/40544)
+* [tinyswitch widget](https://wiki.tcl.tk/55429)
 * [Glyphs](https://wiki.tcl.tk/37854) - a pure-tcl library for digging into TrueType font-files
 
