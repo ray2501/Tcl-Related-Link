@@ -90,6 +90,7 @@ distributed coordination system
 * [tclrmq](https://github.com/flightaware/tclrmq) - Pure Tcl Library for RabbitMQ
 * [tstomp](https://github.com/siemens/tstomp) - a Stomp Implementation for Tcl coded in pure Tcl
 * [Tcl MQTT client](https://chiselapp.com/user/schelte/repository/mqtt/home)
+* [disque](https://github.com/efrecon/disque) - An implementation of the DISQUE API in Tcl
 * [Round Robin Database Tool (RRDtool)](http://oss.oetiker.ch/rrdtool/)
 * [Speedtables](http://flightaware.github.io/speedtables/) - High-performance, memory-resident database
 * [SQL Relay](http://wiki.tcl.tk/9242)
