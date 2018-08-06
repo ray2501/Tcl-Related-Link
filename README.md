@@ -682,6 +682,7 @@ And useful info:
 
 * [msgcat](https://www.tcl.tk/man/tcl/TclCmd/msgcat.htm) - a built-in manages Tcl message catalogs
 for localising text
+* [locale package](https://wiki.tcl.tk/55448) - a locale command to work with Tcl
 
 
 ## JSON
