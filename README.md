@@ -662,7 +662,9 @@ for Tcl programs using runtime introspection.
 
 * [file](https://www.tcl.tk/man/tcl/TclCmd/file.htm) - Manipulate file names and attributes
 * [glob](https://www.tcl.tk/man/tcl/TclCmd/glob.htm) - Return names of files that match patterns
-* [tcllib fileutils](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/fileutil/fileutil.html) - Procedures implementing some file utilities
+* [tcllib fileutils](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/fileutil/fileutil.html) - 
+Procedures implementing some file utilities
+* [tmag](https://github.com/makr/tmag) - Tcl's libmagic interface
 
 
 ## Geography
