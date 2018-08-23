@@ -35,6 +35,7 @@ This is one of the central features of Tcl.
 * [Example Scripts Everybody Should Have](https://wiki.tcl.tk/460)
 * [Tcl on Windows FAQ](https://www.tcl.tk/faq/tclwin.htm)
 * [Expect FAQ](https://wiki.tcl.tk/11581)
+* [Forward compatibility](https://wiki.tcl.tk/1537)
 
 
 Contents
@@ -761,6 +762,7 @@ And useful info:
 based on the patterns established by core Tcl commands like [lsort], [lsearch], [glob], [regex], etc.
 * [tclargp](http://www.bawt.tcl3d.org/download.html) - allows simple and flexible using and 
 parsing optional arguments, source code you can get from [BAWT](http://www.bawt.tcl3d.org/index.html) project
+* [argparse](https://wiki.tcl.tk/47680) - a feature-heavy argument parser
 
 
 ## Text and string
