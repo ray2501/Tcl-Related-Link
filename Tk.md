@@ -50,5 +50,6 @@ Useful info:
 * [ttk::checkbutton as toggle switch display](https://wiki.tcl.tk/44059)
 * [Virtual Scrolling](https://wiki.tcl.tk/40544)
 * [tinyswitch widget](https://wiki.tcl.tk/55429)
+* [Mac style search entry widget](https://wiki.tcl.tk/18188)
 * [Glyphs](https://wiki.tcl.tk/37854) - a pure-tcl library for digging into TrueType font-files
 

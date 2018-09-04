@@ -45,6 +45,10 @@ You can check [Open source SQL engines](http://www.martinbroadhurst.com/sql-engi
 * [Oratcl](http://oratcl.sourceforge.net/) - Tcl interface to Oracle database, versions 8i, 9i, 10g, and 11g
 * [tcltds](https://github.com/cloudsidekick/tcltds) - A tcl extension for the FreeTDS libraries
 
+And
+
+* [TDBC Driver for Oratcl 4.5 Database Connector](https://tcl.sowaswie.de/repos/fossil/tdbc_oratcl/index)
+
 
 NoSQL
 =====
