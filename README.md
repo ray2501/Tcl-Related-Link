@@ -86,6 +86,7 @@ Contents
 * [Networking](#networking)
 * [Numeric processing](#numeric-processing)
 * [PDF](#pdf)
+* [Parser Engine](#parser-engine)
 * [Procedure Tools](#procedure-tools)
 * [Text and string](#text-and-string)
 * [Time](#time)
@@ -754,6 +755,11 @@ And useful info:
 
 * [Pdf4Tcl](https://sourceforge.net/projects/pdf4tcl/)
 * [tclMuPdf](https://wiki.tcl.tk/48296) - a porting of the [MuPdf](http://mupdf.com/) framework
+
+
+## Parser Engine
+
+* [Marpa/Tcl](https://core.tcl.tk/akupries/marpa/home) - Marpa is a Tcl binding to libmarpa
 
 
 ## Procedure Tools
