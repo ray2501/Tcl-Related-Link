@@ -723,11 +723,14 @@ Tcl inspired by libancillary
 * [tclcan](https://wiki.tcl.tk/55310) - Tcl interface to Linux SocketCAN
 * [UPnP](http://chiselapp.com/user/schelte/repository/upnp/index) - Universal Plug and Play
 * [Duft](https://sourceforge.net/projects/duft/) - Datagrams and Udp For Tcl
+* [Hosts](https://gitlab.com/dbohdan/hosts) - Command line tool and Tcl library for manipulating /etc/hosts
 
 And useful info:
 
 * [Modbus](https://wiki.tcl.tk/40888) - a de facto standard communication protocol and is now
 a commonly available means of connecting industrial electronic devices
+* [topcua](https://wiki.tcl.tk/55543) - OPC Unified Architecture (OPC UA) is a machine to machine 
+communication protocol for industrial automation developed by the OPC Foundation
 
 
 ## Numeric processing
