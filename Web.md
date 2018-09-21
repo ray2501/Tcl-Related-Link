@@ -14,6 +14,8 @@ and threaded MPMs such as mod_mpm_worker, mod_mpm_event and mod_mpm_winnt.
 * [tänzer](https://github.com/xantronix/tanzer)
 * [T2WS - Tiny Tcl Web Server](https://github.com/Drolla/t2ws)
 * [tclhttpd](https://core.tcl.tk/tclhttpd/index)
+* [Toadhttpd](https://chiselapp.com/user/hypnotoad/repository/toadhttpd/index) - Toadhttpd is an effort 
+to extend the Httpd (tcllib) module into a fully functioning web server, in the style of Tclhttpd
 * [Wibble web server](https://chiselapp.com/user/andy/repository/wibble/timeline?y=ci) and
 [Wiki page](http://wiki.tcl.tk/23626)
 * [Wub](https://github.com/tcler/wub) (github clone) and [Wiki page](http://wiki.tcl.tk/15781)
