@@ -81,6 +81,12 @@ based on [Cassandra cpp driver](https://github.com/datastax/cpp-driver)
 * [neo4j-tcl](https://icube-forge.unistra.fr/akress/neo4j-tcl/) - Tcl extension for Neo4j wrapping the C driver
 * [TSDB](https://wiki.tcl.tk/41240) - A straightforward implementation of a time-series database, written by Tcl
 
+And
+
+* [memoize](https://wiki.tcl.tk/10981) - A package that can be used to cache, 
+load and save the values of expensive pure function calls
+* [Arrays as cached functions](https://wiki.tcl.tk/4495)
+
 
 Other
 =====
