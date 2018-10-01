@@ -101,6 +101,7 @@ distributed coordination system
 * [tclrmq](https://github.com/flightaware/tclrmq) - Pure Tcl Library for RabbitMQ
 * [tstomp](https://github.com/siemens/tstomp) - a Stomp Implementation for Tcl coded in pure Tcl
 * [Tcl MQTT client](https://chiselapp.com/user/schelte/repository/mqtt/home)
+* [mqtt](https://github.com/efrecon/mqtt) - MQTT client implementation in modern Tcl
 * [mqtt2any](https://github.com/efrecon/mqtt2any) - Route MQTT subscriptions into generic implementations (program)
 * [disque](https://github.com/efrecon/disque) - An implementation of the DISQUE API in Tcl
 * [Round Robin Database Tool (RRDtool)](http://oss.oetiker.ch/rrdtool/)
