@@ -27,6 +27,7 @@ This is one of the central features of Tcl.
 * [comp.lang.tcl](https://groups.google.com/forum/#!forum/comp.lang.tcl)
 * [Tcl Source Code (core package)](http://core.tcl.tk/)
 * [Tcl Style Guide](https://wiki.tcl.tk/708)
+* [Tcl/Tk Engineering Manual](https://core.tcl.tk/tips/doc/trunk/tip/247.md)
 * [Tcl Threading Model](https://www.tcl.tk/doc/howto/thread_model.html)
 * [TkDocs](https://tkdocs.com/index.html)
 * [Official library of extensions](https://wiki.tcl.tk/30)
@@ -181,6 +182,8 @@ And check [Book](https://wiki.tcl.tk/3334).
 * [Visual Studio Code](https://code.visualstudio.com/) and [TCL Language Support for Visual Studio Code](https://github.com/rashwell/tcl), [Tcl for Visual Studio Code](https://github.com/sleutho/tcl)
 * [Tloona](https://github.com/ecky-l/tloona) - A Tcl/Tk IDE
 * [RamDebugger](http://www.compassis.com/ramdebugger/) - a debugger and IDE for TCL-TK (require tcllib, tklib, TkImg and TkTreeCtrl)
+* [Tcl/Tk Project Manager](https://bitbucket.org/svk28/projman)
+* [TKE Text Editor](http://tke.sourceforge.net/)
 
 Useful info:
 
