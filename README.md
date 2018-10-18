@@ -179,7 +179,10 @@ And check [Book](https://wiki.tcl.tk/3334).
 * [kate](https://kate-editor.org/) - Supports Tcl syntax highlighting, Symbol Viewer Plugin
 * [Komodo Edit](https://www.activestate.com/komodo-ide/downloads/edit)
 * [Eclipse](http://www.eclipse.org/) and [Eclipse Dynamic Languages Toolkit](https://projects.eclipse.org/projects/technology.dltk). DLTK provides Tcl support.
-* [Visual Studio Code](https://code.visualstudio.com/) and [TCL Language Support for Visual Studio Code](https://github.com/rashwell/tcl), [Tcl for Visual Studio Code](https://github.com/sleutho/tcl)
+* [Visual Studio Code](https://code.visualstudio.com/) and 
+[TCL Language Support for Visual Studio Code](https://github.com/rashwell/tcl), 
+[Tcl for Visual Studio Code](https://github.com/sleutho/tcl), 
+[VS Code Tcl Debug](https://github.com/conej730/vscode-tcl-debug)
 * [Tloona](https://github.com/ecky-l/tloona) - A Tcl/Tk IDE
 * [RamDebugger](http://www.compassis.com/ramdebugger/) - a debugger and IDE for TCL-TK (require tcllib, tklib, TkImg and TkTreeCtrl)
 * [Tcl/Tk Project Manager](https://bitbucket.org/svk28/projman)
