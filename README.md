@@ -1171,6 +1171,7 @@ Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有�
 * [DRAKON Editor](https://github.com/stepan-mitkin/drakon_editor) - a free open source tool for authoring DRAKON diagrams
 * [Fruho VPN Manager](https://github.com/fruho/fruhoapp)
 * [Tcl for Creo](https://wiki.tcl.tk/48597) - Scripting, Customization and Automation with Tcl scripts in Creo
+* [ElectricFlow API for Tcl/Tk](https://github.com/chpock/ec-api-tcl)
 * [tcled](https://github.com/slebetman/tcled) - Pure Tcl Console Text Editor
 * [Chimera Grid Tools](https://www.nas.nasa.gov/publications/software/docs/chimera/index.html)
 * [ezdit](https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
