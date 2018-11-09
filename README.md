@@ -317,6 +317,8 @@ examples and in regular use to a large collection of Tcl programmers
 and [Sugar macros collection](https://wiki.tcl.tk/11168)
 * [tcl-gen](https://github.com/rbrogan/tcl-gen) - General Utilities for Tcl
 * [TCLtools](https://github.com/mohemiv/TCLtools) - Сollection of TCL scripts for Cisco IOS penetration testing
+* [design-patterns-in-tcl](https://github.com/level44/design-patterns-in-tcl) -
+A collection of popular design patterns implemented in TCL language with TclOO package 
 
 
 ## Object-oriented
@@ -734,6 +736,8 @@ Tcl inspired by libancillary
 * [UPnP](http://chiselapp.com/user/schelte/repository/upnp/index) - Universal Plug and Play
 * [Duft](https://sourceforge.net/projects/duft/) - Datagrams and Udp For Tcl
 * [Hosts](https://gitlab.com/dbohdan/hosts) - Command line tool and Tcl library for manipulating /etc/hosts
+* [tcl-ip-console](https://github.com/flightaware/tcl-ip-console) - provides telnet access to 
+the Tcl interpreter of long-running, event-driven programs 
 
 And useful info:
 
