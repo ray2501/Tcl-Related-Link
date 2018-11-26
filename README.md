@@ -1186,6 +1186,7 @@ supporting hierarchical and mass-spring drawings
 * [HelpViewer Application](http://www.johann-oberdorfer.eu/blog/2017/04/10/17-10-04_helpviewer/)
 * [IPAT-S Software Suite](https://sourceforge.net/projects/ipat-s/) - IPAT-S Software Suite is a collection of supporting tools for the IPAT-S modeling language
 * [MTE](https://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
+* [Tide](https://github.com/ALANVF/Tide) - A code editor made in Tcl/Tk
 * [Source Navigator](http://sourcenav.sourceforge.net/index.html)
 * [minitree note taking app](https://wiki.tcl.tk/48369)
 * [Notebook](https://github.com/wduquette/notebook) - Notebook Personal Wiki
