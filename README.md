@@ -942,6 +942,8 @@ provides server, client, and pair UNIX socket(2)s.
 various BSD UNIX system calls and library routines
 * [tcl-augeas](https://github.com/dbohdan/tcl-augeas) - Tcl bindings for [Augeas](http://augeas.net/)
 * [tcl-inotify](https://sourceforge.net/projects/tcl-inotify/)
+* [TUAPI](https://chiselapp.com/user/rkeene/repository/tuapi/home) - Tcl Unix API, 
+is a thin wrapper over parts of the Unix API.
 
 The proc filesystem ([procfs](https://en.wikipedia.org/wiki/procfs)) 
 is a special filesystem in Unix-like operating systems that presents 
