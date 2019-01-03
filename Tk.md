@@ -53,4 +53,5 @@ Useful info:
 * [flexmenu](https://wiki.tcl.tk/55568) - An alternative menu system
 * [Mac style search entry widget](https://wiki.tcl.tk/18188)
 * [Glyphs](https://wiki.tcl.tk/37854) - a pure-tcl library for digging into TrueType font-files
+* [FamFamFam](https://core.tcl.tk/akupries/famfamfam/index) - Tcl binding to the various sets of fam fam fam icons.
 
