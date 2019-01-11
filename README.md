@@ -1049,7 +1049,7 @@ Useful info:
 ### Erlang
 
 * [etclface](https://github.com/fredyouhanaie/etclface) - An Erlang/Tcl Interface
-* [otpcl](https://github.com/YellowApple/otpc) - Open Telecom Platform Command Language a.k.a. Tcl-Flavored Erlang.
+* [otpcl](https://github.com/YellowApple/otpcl) - Open Telecom Platform Command Language a.k.a. Tcl-Flavored Erlang.
 Right now it's pretty minimal.
 
 
