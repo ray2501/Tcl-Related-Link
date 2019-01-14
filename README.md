@@ -37,6 +37,8 @@ This is one of the central features of Tcl.
 * [Tcl on Windows FAQ](https://www.tcl.tk/faq/tclwin.htm)
 * [Expect FAQ](https://wiki.tcl.tk/11581)
 * [Forward compatibility](https://wiki.tcl.tk/1537)
+* [TCL Windows Help File](https://wiki.tcl-lang.org/page/TCL+Windows+Help+File),
+and [tcl-docs at sourceforge](https://sourceforge.net/projects/magicsplat/files/tcl-docs/)
 
 
 Contents
