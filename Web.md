@@ -11,6 +11,7 @@ and threaded MPMs such as mod_mpm_worker, mod_mpm_event and mod_mpm_winnt.
 (can work with mod_http2 at mpm_event)
 * [Rivetweb](http://www.rivetweb.org/)
 * [RivetCGI](https://chiselapp.com/user/rkeene/repository/rivetcgi/home) - Rivet as a CGI
+* [websh-tcl](https://github.com/noyesno/websh-tcl) - Revive Websh Tcl - For Web and more
 * [tänzer](https://github.com/xantronix/tanzer)
 * [T2WS - Tiny Tcl Web Server](https://github.com/Drolla/t2ws)
 * [tclhttpd](https://core.tcl.tk/tclhttpd/index)
