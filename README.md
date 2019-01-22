@@ -789,6 +789,7 @@ based on the patterns established by core Tcl commands like [lsort], [lsearch], 
 parsing optional arguments, source code you can get from [BAWT](http://www.bawt.tcl3d.org/index.html) project
 * [argparse](https://wiki.tcl.tk/47680) - a feature-heavy argument parser
 * [named-parameters](https://github.com/tcl2020/named-parameters) - Named parameter for Tcl, written in Tcl
+* [xproc_tcl](https://github.com/lawrencewoodman/xproc_tcl) - An enhanced proc that adds descriptions and tests
 
 
 ## Text and string
