@@ -739,7 +739,8 @@ Tcl inspired by libancillary
 * [Duft](https://sourceforge.net/projects/duft/) - Datagrams and Udp For Tcl
 * [Hosts](https://gitlab.com/dbohdan/hosts) - Command line tool and Tcl library for manipulating /etc/hosts
 * [tcl-ip-console](https://github.com/flightaware/tcl-ip-console) - provides telnet access to 
-the Tcl interpreter of long-running, event-driven programs 
+the Tcl interpreter of long-running, event-driven programs
+* [TclRadClient](https://github.com/oleg-derevenetz/tclradclient) - RADIUS client library written in pure Tcl
 
 And useful info:
 
