@@ -359,6 +359,9 @@ Additionally, [apply](https://www.tcl.tk/man/tcl/TclCmd/apply.htm) can be used t
 interpret a value as a function and evaluate it,
 providing the equivalent of lambda functions.
 
+And check
+* [Useful Examples of Functional Tcl](https://wiki.tcl-lang.org/page/Useful+Examples+of+Functional+Tcl)
+
 
 ## CUI
 
