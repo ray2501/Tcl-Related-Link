@@ -914,6 +914,8 @@ Study:
 * [mini-tcl](https://hub.docker.com/r/efrecon/mini-tcl/)
 * [docker-alpine-tcl](https://github.com/GJRTimmer/docker-alpine-tcl)
 * [docker-client](https://github.com/efrecon/docker-client)
+* [circleci-tcl-gcc-autoconf](https://github.com/dbohdan/circleci-tcl-gcc-autoconf) - Docker image for 
+testing Tcl and C code with CircleCI 
 
 
 ## Platform
