@@ -1129,6 +1129,8 @@ Useful info:
 ### Raspberry Pi
 
 * [piio](http://chiselapp.com/user/schelte/repository/piio/index) - supports both gpio and i2c
+* [tclSenseHat](https://github.com/vh3/tclSenseHat) - A library of tcl procedures for interacting with the 
+Raspberry Pi SenseHat
 
 Useful info:
 
