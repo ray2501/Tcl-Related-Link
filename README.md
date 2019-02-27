@@ -1231,6 +1231,7 @@ tool written in Tcl/Tk
 * [wiki-reaper](https://wiki.tcl.tk/4718) - An HTTP robot in Tcl that will fetch page(s) from Tcler's Wiki
 * [binaryscanr](https://github.com/shuntksh/binaryscanr) - A Tcl binary scan frontend app
 * [XilinxTclStore](https://github.com/Xilinx/XilinxTclStore) - Xilinx Tcl Store
+* [tol](https://github.com/gahr/tol) - Tcl One-Liner
 
 
 ## Misc
