@@ -1041,6 +1041,8 @@ Function Interface
 including Perl, Python, Tcl, Ruby, PHP, Java, C#, D, Go, Lua, Octave, R,
 Scheme (Guile, MzScheme/Racket, CHICKEN), Scilab, Ocaml, Modula-3,
 Common Lisp (CLISP, Allegro CL, CFFI, UFFI) and Pike.
+* [tcc4tcl](http://chiselapp.com/user/rkeene/repository/tcc4tcl/index) - a Tcl extension that provides 
+an interface to TCC
 
 Useful info:
 * [Accessing C library functions using Critcl](https://wiki.tcl.tk/11227)
