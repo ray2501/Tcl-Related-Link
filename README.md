@@ -1061,6 +1061,7 @@ Useful info:
 ### Erlang
 
 * [etclface](https://github.com/fredyouhanaie/etclface) - An Erlang/Tcl Interface
+* [portcl](https://github.com/fredyouhanaie/portcl) - portcl helps one create Erlang ports based on Tcl scripts
 * [otpcl](https://github.com/YellowApple/otpcl) - Open Telecom Platform Command Language a.k.a. Tcl-Flavored Erlang.
 Right now it's pretty minimal.
 
