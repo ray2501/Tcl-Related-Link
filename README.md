@@ -811,6 +811,7 @@ And useful info:
 * [Additional string functions](https://wiki.tcl.tk/44)
 * [Regular Expressions](https://wiki.tcl.tk/396)
 * [RegexPlanet's Tcl backend](https://github.com/regexplanet/regexplanet-tcl)
+* [mulster, multi-line replacements in text](https://wiki.tcl-lang.org/page/mulster%2C+multi%2Dline+replacements+in+text)
 
 And my project:
 
