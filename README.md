@@ -955,6 +955,8 @@ various BSD UNIX system calls and library routines
 * [tcl-inotify](https://sourceforge.net/projects/tcl-inotify/)
 * [TUAPI](https://chiselapp.com/user/rkeene/repository/tuapi/home) - Tcl Unix API, 
 is a thin wrapper over parts of the Unix API.
+* [named pipe](https://wiki.tcl-lang.org/page/named+pipe)
+
 
 The proc filesystem ([procfs](https://en.wikipedia.org/wiki/procfs)) 
 is a special filesystem in Unix-like operating systems that presents 
