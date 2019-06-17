@@ -1108,6 +1108,7 @@ R has bindings to Tcl/Tk (part of R, [document](https://www.rdocumentation.org/p
 ### Rust
 
 * [rust-tcl](https://github.com/AngryLawyer/rust-tcl) - Currently targets Tcl 8.5
+* [molt](https://github.com/wduquette/molt) - Embeddable TCL Interpreter for Rust applications
 
 
 ### Swift
