@@ -744,6 +744,7 @@ Tcl inspired by libancillary
 * [tcl-ip-console](https://github.com/flightaware/tcl-ip-console) - provides telnet access to 
 the Tcl interpreter of long-running, event-driven programs
 * [TclRadClient](https://github.com/oleg-derevenetz/tclradclient) - RADIUS client library written in pure Tcl
+* [tcl-tcpwrappers](https://github.com/rkeene/tcl-tcpwrappers) - Tcl interface to manage TCP Wrappers
 
 And useful info:
 
