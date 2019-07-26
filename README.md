@@ -1156,6 +1156,7 @@ A binary Tcl extension for working with the cryptocurrency Nano
 * [The Jim Interpreter](http://jim.tcl.tk/index.html/doc/www/www/index.html): A small footprint implementation of the Tcl programming language
 * [ParTcl](https://github.com/zserge/partcl) - a micro Tcl implementation
 * [Picol](https://chiselapp.com/user/dbohdan/repository/picol/index) - A tiny Tcl interpreter
+* [Pickle](https://github.com/howerj/pickle) - A tiny TCL like interpreter
 
 
 ## Write a Tcl extension
