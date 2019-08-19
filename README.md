@@ -320,7 +320,9 @@ and [Sugar macros collection](https://wiki.tcl.tk/11168)
 * [tcl-gen](https://github.com/rbrogan/tcl-gen) - General Utilities for Tcl
 * [TCLtools](https://github.com/mohemiv/TCLtools) - Сollection of TCL scripts for Cisco IOS penetration testing
 * [design-patterns-in-tcl](https://github.com/level44/design-patterns-in-tcl) -
-A collection of popular design patterns implemented in TCL language with TclOO package 
+A collection of popular design patterns implemented in TCL language with TclOO package
+* [tclstuff](https://github.com/fp4code/tclstuff)
+
 
 
 ## Object-oriented
