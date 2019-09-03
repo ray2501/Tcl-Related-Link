@@ -982,8 +982,11 @@ And useful info:
 * [CAWT](http://www.posoft.de/html/extCawt.html) - Com Automation With Tcl,
 based on Twapi to script Microsoft Windows® applications with Tcl
 * iocpsock: [Winsock2 IOCP channel driver for Tcl](https://sourceforge.net/projects/iocpsock/)
-* [tcl-vix](http://tcl-vix.magicsplat.com/) - provides an interface to the VIX library for manipulating VMware virtual machines
+* [tcl-vix](http://tcl-vix.magicsplat.com/) - provides an interface to the VIX 
+library for manipulating VMware virtual machines
 * [Windows Inspection Tool Set](http://windowstoolset.magicsplat.com/)
+* [tclwinhooks](https://github.com/chpock/tclwinhooks) - This Tcl extension 
+provides access to winapi function SetWindowsHookEx()
 
 
 ### Android
