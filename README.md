@@ -1253,6 +1253,7 @@ tool written in Tcl/Tk
 
 ## Misc
 
+* [Exercism Tcl Track](https://github.com/exercism/tcl)
 * [Cameron Laird's personal notes on commercial aspects of Tcl](http://phaseit.net/claird/comp.lang.tcl/commercial-tcl.html)
 * [Andreas' ComputerLab BLOG](https://core.tcl.tk/akupries/blog/)
 * [Dai's Blog](http://blog.got7.org/)
@@ -1260,3 +1261,4 @@ tool written in Tcl/Tk
 * [magicsplat.com](http://www.magicsplat.com/) - Software, articles and blog
 * [The "Clone Don Porter" Project](https://wiki.tcl.tk/55306)
 * [Tcl-bounties](https://github.com/flightaware/Tcl-bounties) - Bounty program for improvements to Tcl and certain Tcl packages
+
