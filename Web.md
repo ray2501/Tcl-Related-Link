@@ -23,6 +23,7 @@ to extend the Httpd (tcllib) module into a fully functioning web server, in the 
 * [tclfcgi](https://github.com/jdc8/tclfcgi) - FastCGI wrapper for Tcl
 * [tcl-scgi](https://github.com/gahr/tcl-scgi) - SCGI handler for Tcl scripts
 * [Wapp](https://wapp.tcl.tk/index.html/doc/trunk/README.md) - A Web-Application Framework for TCL
+* [Toolatra](https://github.com/timkoi/toolatra) - Sinatra-like micro web framework for Tcl
 * [woof](http://sourceforge.net/projects/woof) - Web Oriented Object Framework
 * [tclssg](https://github.com/tclssg/tclssg): A static site generator with template support written in Tcl
 * [tcl-simple-templater](https://github.com/cyrilthomas/tcl-simple-templater)
