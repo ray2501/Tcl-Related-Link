@@ -1262,4 +1262,5 @@ tool written in Tcl/Tk
 * [magicsplat.com](http://www.magicsplat.com/) - Software, articles and blog
 * [The "Clone Don Porter" Project](https://wiki.tcl.tk/55306)
 * [Tcl-bounties](https://github.com/flightaware/Tcl-bounties) - Bounty program for improvements to Tcl and certain Tcl packages
+* [@TclLang](https://twitter.com/TclLang) - Twitter feed for news about happenings in the Tcl world
 
