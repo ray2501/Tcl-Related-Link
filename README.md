@@ -982,7 +982,8 @@ And useful info:
 * [Tcl Windows API extension (TWAPI)](http://twapi.magicsplat.com/)
 * [CAWT](http://www.posoft.de/html/extCawt.html) - Com Automation With Tcl,
 based on Twapi to script Microsoft Windows® applications with Tcl
-* iocpsock: [Winsock2 IOCP channel driver for Tcl](https://sourceforge.net/projects/iocpsock/)
+* iocpsock: [Winsock2 IOCP channel driver for Tcl](https://sourceforge.net/projects/iocpsock/),
+and [iocpsock](https://github.com/apnadkarni/iocpsock)
 * [tcl-vix](http://tcl-vix.magicsplat.com/) - provides an interface to the VIX 
 library for manipulating VMware virtual machines
 * [Windows Inspection Tool Set](http://windowstoolset.magicsplat.com/)
@@ -1206,6 +1207,7 @@ Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有�
 * [Enhanced Tk Console: tkcon](http://tkcon.sourceforge.net/)
 * [ASED](https://sourceforge.net/projects/ased/), [Wiki page](https://wiki.tcl.tk/1278) - BWidget IDE allowing editing of multiple Tcl files
 * [BallroomDJ](https://ballroomdj.org/) - a ballroom music player
+* [Calc](https://wiki.tcl-lang.org/page/calc) - a Tcl/Tk calculator application
 * [DRAKON Editor](https://github.com/stepan-mitkin/drakon_editor) - a free open source tool for authoring DRAKON diagrams
 * [Fruho VPN Manager](https://github.com/fruho/fruhoapp)
 * [Tcl for Creo](https://wiki.tcl.tk/48597) - Scripting, Customization and Automation with Tcl scripts in Creo
