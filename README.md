@@ -1259,6 +1259,7 @@ tool written in Tcl/Tk
 * [Andreas' ComputerLab BLOG](https://core.tcl.tk/akupries/blog/)
 * [Dai's Blog](http://blog.got7.org/)
 * [dbohdan blog](http://dbohdan.com/blog/)
+* [tclcode - Tcl/Tk code by Detlef Groth](https://chiselapp.com/user/dgroth/repository/tclcode/index)
 * [magicsplat.com](http://www.magicsplat.com/) - Software, articles and blog
 * [The "Clone Don Porter" Project](https://wiki.tcl.tk/55306)
 * [Tcl-bounties](https://github.com/flightaware/Tcl-bounties) - Bounty program for improvements to Tcl and certain Tcl packages
