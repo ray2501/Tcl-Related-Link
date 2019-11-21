@@ -111,6 +111,7 @@ Contents
   * [Emscripten](#emscripten)
   * [Browser](#browser)
 * [Language](#language)
+  * [Ada](#ada)
   * [CSharp and dotNET](#csharp-and-dotnet)
   * [Java](#java)
   * [C](#c)
