@@ -1018,8 +1018,8 @@ for use in Browsers
 
 ### Ada
 
-* [TASH - TclAdaShell](https://sourceforge.net/projects/tcladashell/) - You can extend Tcl with Ada instead of C and 
-you can use Tcl capabilities in an Ada program
+* [TASH - TclAdaShell](https://sourceforge.net/projects/tcladashell/) - You can extend Tcl with Ada instead of C and you can use Tcl capabilities in an Ada program
+* [tashy](https://github.com/thindil/tashy) - Ada binding to Tcl/Tk, based on TASH
 
 ### CSharp and dotNET
 
