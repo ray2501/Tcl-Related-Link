@@ -96,6 +96,7 @@ Contents
 * [Web and Http](#web-and-http)
   * [CSS](#css)
   * [JSMIN](#jsmin)
+* [Computing platform](#computing-platform)
 * [Templating language](#templating-language)
   * [CommonMark and Markdown](#commonmark-and-markdown)
   * [Mustache](#mustache)
@@ -864,6 +865,12 @@ And please check
 ### JSMIN
 
 * [JSMin-Tcl](https://github.com/flightaware/jsmin-tcl) - A Tcl JavaScript minifier
+
+
+## Computing Platform
+
+* [AWS_lambda](https://github.com/RubyLane/AWS_lambda) - Tcl runtime for AWS Lambda and 
+some layers for  talking to AWS services and processing images
 
 
 ## Templating language
