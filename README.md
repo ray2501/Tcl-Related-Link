@@ -507,6 +507,7 @@ And my project:
 * [chan](https://www.tcl.tk/man/tcl/TclCmd/chan.htm) - a built-in Tcl command, manipulates channels
 * [TclVfs](https://core.tcl.tk/tclvfs/index)
 * [tcl-fuse](https://sourceforge.net/projects/tcl-fuse/) - A Tcl interface to the linux kernel's FUSE subsystem
+* [Tcl Extension Virtual Filesystem Prototype](https://chiselapp.com/user/rkeene/repository/xvfs/index)
 * [di Tcl extension](https://wiki.tcl.tk/42227) - Filesystem Usage/Information.
 The di program now provides a Tcl extension starting with version 4.39
 * [Memchan](http://memchan.sourceforge.net/) - In-memory channels for Tcl,
