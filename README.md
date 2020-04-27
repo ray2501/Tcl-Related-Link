@@ -413,6 +413,8 @@ and check:
 * [Imgtools](http://tkimgtools.sourceforge.net/index.html) - manipulate Tk photo images
 * [CRIMP](https://core.tcl.tk/akupries/crimp/home) - C Raster Image Manipulation Package
 * [PhotoResize](https://github.com/auriocus/PhotoResize) - A single-purpose extension for Tcl to resize/resample photo images 
+* [pixmix](https://wiki.tcl-lang.org/page/pixmix) - a widget for displaying, zooming, 
+rotating,blending overlapped images
 * [tcl.gd](https://github.com/flightaware/tcl.gd) - Feature-complete Tcl interface to
 GD graphics drawing library
 * [tclepeg](https://github.com/dzach/tclepeg) - provide a tcl extension to the epeg thumbnailing library
@@ -1145,6 +1147,8 @@ R has bindings to Tcl/Tk (part of R, [document](https://www.rdocumentation.org/p
 * [I2cTcl](http://i2ctcl.sourceforge.net/) - I2cTcl for Tcl/Tk on LINUX
 * [KineTcl](https://wiki.tcl.tk/37926), a binding of the OpenNI framework (version 1),
 providing Tcl with access to MS Kinect (tm), and related sensor systems
+* [Bluetooth channels on Windows](https://wiki.tcl-lang.org/page/Bluetooth+channels+on+Windows) -
+The iocp_bt package implements Bluetooth client channels on Windows
 
 
 ### Arduino
