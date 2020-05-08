@@ -595,6 +595,8 @@ extension for Tcl
 * [Cryptkit](https://wiki.tcl.tk/13191) - a Tcl binding to the Cryptlib security toolkit
 * [NaCl: Networking and Cryptography library](https://wiki.tcl.tk/47681)
 * [TclTLS](https://core.tcl.tk/tcltls/index) - OpenSSL extension to Tcl
+* [tcl-sha](https://sourceforge.net/projects/tcl-sha/) - A Tcl loadable module to do SHA hashes.
+Compiles as SHA-512, SHA-384, SHA-512/256, SHA-512/224 or compiles as SHA-256, SHA-224.
 
 
 ## CSV and TSV
