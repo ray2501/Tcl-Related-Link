@@ -88,6 +88,7 @@ Contents
 * [Geography](#geography)
 * [Networking](#networking)
 * [Numeric processing](#numeric-processing)
+* [Office File](#office-file)
 * [PDF](#pdf)
 * [Parser Engine](#parser-engine)
 * [Procedure Tools](#procedure-tools)
@@ -519,7 +520,7 @@ and deprecated by tcllib's tcl::chan::memchan, which is available for Tcl >= 8.5
 Stacked channels is available at the Tcl-script level (after 8.5).
 See the [chan](https://wiki.tcl.tk/15111) command for details.
 * [trofs](http://math.nist.gov/~DPorter/tcltk/trofs/) - Tcl Read-Only Filesystem
-* [tserialport](https://sourceforge.net/projects/tclsnippets/files/tserialport/) - tcl package for library libserialport
+* [tserialport](https://sourceforge.net/projects/tclsnippets/files/tserialport/) - tcl package for library libserialport, and check [tserialport](https://github.com/aschoepe/tserialport)
 * [Add a time stamp to each line of output](https://wiki.tcl.tk/55399) - a useful example of 
 the transchan functionality available in Tcl
 
@@ -783,6 +784,12 @@ And useful info:
 
 * [Additional math functions](https://wiki.tcl.tk/819)
 * [Numerical Analysis in Tcl](https://wiki.tcl.tk/1272)
+
+
+## Office File
+
+* [ooxml](https://tcl.sowaswie.de/repos/fossil/ooxml/index) - 
+Read and Write Office Open XML "XLSX" since Excel 2007
 
 
 ## PDF
