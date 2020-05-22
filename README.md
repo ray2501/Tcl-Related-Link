@@ -460,6 +460,8 @@ learn from [tclcairo](https://wiki.tcl.tk/29305)
 * [TclJACK](https://github.com/screwtop/TclJACK) - A Tcl extension for interacting with
 the JACK Audio Connection Kit library (jacklib)
 * [tclmidi](https://github.com/jdc8/tclmidi) - a package to work with Midi files
+* [flac.tcl](https://github.com/wader/flac.tcl) - Probably the slowest and most verbose FLAC decoder 
+in the world (for learn more about FLAC)
 
 And volume control:
 
@@ -1158,6 +1160,8 @@ R has bindings to Tcl/Tk (part of R, [document](https://www.rdocumentation.org/p
 providing Tcl with access to MS Kinect (tm), and related sensor systems
 * [Bluetooth channels on Windows](https://wiki.tcl-lang.org/page/Bluetooth+channels+on+Windows) -
 The iocp_bt package implements Bluetooth client channels on Windows
+* [obex package](https://wiki.tcl-lang.org/page/obex+package) - Package obex is 
+an implementation of the OBEX protocol in Tcl. And at [github](https://github.com/apnadkarni/tcl-obex)
 
 
 ### Arduino
