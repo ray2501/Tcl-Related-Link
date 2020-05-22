@@ -1161,7 +1161,8 @@ providing Tcl with access to MS Kinect (tm), and related sensor systems
 * [Bluetooth channels on Windows](https://wiki.tcl-lang.org/page/Bluetooth+channels+on+Windows) -
 The iocp_bt package implements Bluetooth client channels on Windows
 * [obex package](https://wiki.tcl-lang.org/page/obex+package) - Package obex is 
-an implementation of the OBEX protocol in Tcl. And at [github](https://github.com/apnadkarni/tcl-obex)
+an implementation of the OBEX protocol in Tcl. [Document](https://tcl-obex.magicsplat.com/) and 
+[source at github](https://github.com/apnadkarni/tcl-obex).
 
 
 ### Arduino
