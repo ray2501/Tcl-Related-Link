@@ -1241,6 +1241,8 @@ Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有�
 * [ASED](https://sourceforge.net/projects/ased/), [Wiki page](https://wiki.tcl.tk/1278) - BWidget IDE allowing editing of multiple Tcl files
 * [BallroomDJ](https://ballroomdj.org/) - a ballroom music player
 * [Calc](https://wiki.tcl-lang.org/page/calc) - a Tcl/Tk calculator application
+* [darwaza](https://github.com/Koshroy/darwaza) - A dynamic,
+graphical [Gemini](https://gemini.circumlunar.space/) Browser in Tcl/Tk
 * [DRAKON Editor](https://github.com/stepan-mitkin/drakon_editor) - a free open source tool for authoring DRAKON diagrams
 * [Fruho VPN Manager](https://github.com/fruho/fruhoapp)
 * [Tcl for Creo](https://wiki.tcl.tk/48597) - Scripting, Customization and Automation with Tcl scripts in Creo
