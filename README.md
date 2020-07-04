@@ -1270,6 +1270,7 @@ is an astronomical imaging and data visualization application
 * [snackamp](	http://sourceforge.net/projects/snackamp/)
 * [starDOM](https://wiki.tcl.tk/3895) - a little XML browser
 * [Sqawk](https://github.com/dbohdan/sqawk) - An SQL Awk with table joins
+* [tawk](https://github.com/shawnw/tawk) - awk but in tcl
 * [tcljupyter](https://github.com/mpcjanssen/tcljupyter) - Tcl kernel for Jupyter
 * [tclsh-wrapper](https://github.com/suewonjp/tclsh-wrapper) - A tiny wrapper for Tcl/Tk's tclsh and wish
 * [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
