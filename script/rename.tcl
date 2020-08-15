@@ -16,7 +16,7 @@ if {$argc >= 1} {
    cd "~/tmp"
 }
 
-foreach filename [glob *.jpg] {
+foreach filename [glob -nocomplain *.jpg] {
    array set exif [::jpeg::getExif $filename]
    set today [clock format [clock scan $exif(DateTimeOriginal) \
                    -format {%Y:%m:%d %H:%M:%S}] -format %Y%m%d]
