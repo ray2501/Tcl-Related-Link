@@ -17,6 +17,7 @@ Tk widget and extension
 * [TkTreeCtrl](http://tktreectrl.sourceforge.net/)
 * [Tablelist](http://www.nemethi.de/tablelist/index.html), include in TkLib
 * [Scrolling utilities](http://www.nemethi.de/scrollutil/index.html), include in TkLib
+* [bartabs](https://github.com/aplsimple/bartabs) - tab bar widget for Tcl/Tk
 * [TkDND](http://sourceforge.net/projects/tkdnd/)
 * [tktray](https://wiki.tcl.tk/5972) - an extension for managing system tray icons with Tk on X Window System
 * [Mtiwidgets](https://wiki.tcl.tk/6237) - Includes mtiwidgets::mdiframe widget
