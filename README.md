@@ -411,7 +411,7 @@ and check:
 ## Graphics and Images
 
 * [tkImg](https://sourceforge.net/projects/tkimg/) - Additional image formats
-* [tksvg](https://github.com/auriocus/tksvg) - An extension for Tk to read SVG images based on nanosvg
+* [tksvg](https://github.com/oehhar/tksvg) - An extension for Tk to read SVG images based on nanosvg
 * [Imgtools](http://tkimgtools.sourceforge.net/index.html) - manipulate Tk photo images
 * [CRIMP](https://core.tcl.tk/akupries/crimp/home) - C Raster Image Manipulation Package
 * [PhotoResize](https://github.com/auriocus/PhotoResize) - A single-purpose extension for Tcl to resize/resample photo images 
