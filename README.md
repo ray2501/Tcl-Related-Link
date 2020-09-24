@@ -541,6 +541,12 @@ And useful info:
 
 * [command options](https://wiki.tcl.tk/1730) - Tcler's Wiki info
 
+tclsh supports [here document](https://en.wikipedia.org/wiki/Here_document). For example:
+
+    tclsh - << "EOF"
+    puts [expr 99 + 1]
+    EOF
+
 
 ## Compression
 
