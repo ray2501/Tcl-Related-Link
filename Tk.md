@@ -17,6 +17,11 @@ Tk widget and extension
 * [TkTreeCtrl](http://tktreectrl.sourceforge.net/)
 * [Tablelist](http://www.nemethi.de/tablelist/index.html), include in TkLib
 * [Scrolling utilities](http://www.nemethi.de/scrollutil/index.html), include in TkLib
+* [tcl-virtualscrolling](https://sourceforge.net/projects/tcl-virtualscrolling/), 
+[Virtual Scrolling](https://wiki.tcl-lang.org/page/Virtual+Scrolling) - It is not intended to 
+be a replacement for tktable or treectrl or tablelist. It is intended to be a virtual scrolling 
+solution that could be used by one of those type of packages or for any other display of 
+scrolling multiple rows by an application.
 * [bartabs](https://github.com/aplsimple/bartabs) - tab bar widget for Tcl/Tk
 * [TkDND](http://sourceforge.net/projects/tkdnd/)
 * [tktray](https://wiki.tcl.tk/5972) - an extension for managing system tray icons with Tk on X Window System
