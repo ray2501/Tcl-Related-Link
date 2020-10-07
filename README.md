@@ -124,6 +124,7 @@ Contents
   * [Fortran](#fortran)
   * [JavaScript](#javascript)
   * [GO](#go)
+  * [Pascal](#pascal)
   * [Python](#python)
   * [R](#r)
   * [Rust](#rust)
@@ -1049,6 +1050,7 @@ for use in Browsers
 * [TASH - TclAdaShell](https://sourceforge.net/projects/tcladashell/) - You can extend Tcl with Ada instead of C and you can use Tcl capabilities in an Ada program
 * [tashy](https://github.com/thindil/tashy) - Ada binding to Tcl/Tk, based on TASH
 
+
 ### CSharp and dotNET
 
 * [Tcl Interpreter in C# Application](https://wiki.tcl.tk/9563)
@@ -1101,7 +1103,7 @@ Useful info:
 
 ### D
 
-* [Example of a Tcl extension in D](https://wiki.tcl.tk/48795)
+* [Example of a Tcl extension in D](https://wiki.tcl-lang.org/page/Example+of+a+Tcl+extension+in+D)
 
 
 ### Erlang
@@ -1120,7 +1122,7 @@ Right now it's pretty minimal.
 ### Fortran
 
 * [Ftcl](http://ftcl.sourceforge.net/) - Using Tcl in Fortran programs and vice versa
-* [Example of a Tcl extension in Fortran](https://wiki.tcl.tk/48061)
+* [Example of a Tcl extension in Fortran](https://wiki.tcl-lang.org/page/Example+of+a+Tcl+extension+in+Fortran)
 
 
 ### JavaScript
@@ -1132,7 +1134,13 @@ an embedded JavaScript interpreter
 ### GO
 
 * [gothic](https://github.com/nsf/gothic) - Tcl/Tk Go bindings.
-* [Example of a Tcl extension in Go](https://wiki.tcl.tk/48054)
+* [Example of a Tcl extension in Go](https://wiki.tcl-lang.org/page/Example+of+a+Tcl+extension+in+Go)
+
+
+### Pascal
+
+* [fpc-tcl](https://github.com/mpcjanssen/fpc-tcl) - Full wrapper of the Tcl C API for Free Pascal
+* [Example of a Tcl extension in Free Pascal](https://wiki.tcl-lang.org/page/Example+of+a+Tcl+extension+in+Free+Pascal)
 
 
 ### Python
@@ -1157,7 +1165,7 @@ R has bindings to Tcl/Tk (part of R, [document](https://www.rdocumentation.org/p
 ### Swift
 
 * [tcl-swift-bridge](https://github.com/flightaware/tcl-swift-bridge): Swift class library that bridges between Swift and Tcl
-* [Example of a Tcl extension in Swift](https://wiki.tcl.tk/48057)
+* [Example of a Tcl extension in Swift](https://wiki.tcl-lang.org/page/Example+of+a+Tcl+extension+in+Swift)
 
 
 ## Hardware
