@@ -723,7 +723,8 @@ And useful info:
 
 * [msgcat](https://www.tcl.tk/man/tcl/TclCmd/msgcat.htm) - a built-in manages Tcl message catalogs
 for localising text
-* [locale package](https://wiki.tcl.tk/55448) - a locale command to work with Tcl
+* [tcl-collate](https://sourceforge.net/projects/tcl-collate/) - A Tcl interface to strcoll() 
+(or _mbscoll() on Windows). And a Tcl interface to setlocale().
 
 
 ## JSON
