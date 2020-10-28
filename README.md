@@ -1295,6 +1295,7 @@ is an astronomical imaging and data visualization application
 [Tcl Chatroom](https://wiki.tcl.tk/1178)
 * [TkMC](https://wiki.tcl.tk/7772) - MC like file manager with basic functionality
 * [TkSQLite](http://reddog.s35.xrea.com/wiki/TkSQLite.html) - GUI frontend to sqlite3
+* [tkrunner](https://github.com/oldlaptop/tkrunner) - run command dialog for X in Tcl/Tk
 * [GEB](http://fossil.etoyoc.com/fossil/geb/home) - Displaying and modifying an SQLite DB 
 using Tcl code stored in the DB
 * [Time Sheets](https://chiselapp.com/user/gwlester/repository/TimeSheet/home) - a personal time entry/reporting 
