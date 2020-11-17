@@ -834,6 +834,7 @@ matches a regular expression in a string
 * [regsub](https://www.tcl.tk/man/tcl/TclCmd/regsub.htm) - a built-in Tcl command,
 performs substitutions based on regular expression pattern matching
 * [tcllib textutil](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/textutil/textutil.html)
+* [ICU For Tcl](https://github.com/shawnw/icu4tcl), Tcl bindings for ICU
 
 And useful info:
 
