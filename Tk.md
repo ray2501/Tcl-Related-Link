@@ -10,7 +10,7 @@ Tk widget and extension
 * [GRIDPLUS](http://www.satisoft.com/tcltk/gridplus2/)
 * [TkHTML](http://tkhtml.tcl.tk/)
 * [3-D Canvas Widget](http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)
-* [tkzinc](https://bitbucket.org/plecoanet/tkzinc) - canvas like widget extension
+* [TkZinc](https://github.com/asb-capfan/TkZinc) - canvas like widget extension
 * [Tcl3D](http://www.tcl3d.org/)
 * [Tkpath](https://bitbucket.org/andrew_shadura/tkpath)
 * [TkTable](https://sourceforge.net/projects/tktable/)
