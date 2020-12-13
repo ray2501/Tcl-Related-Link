@@ -301,6 +301,18 @@ A tklib module also exists under the tcllib project, which contains modules that
 * [Tcllib](https://core.tcl.tk/tcllib/doc/trunk/embedded/index.html)
 * [Tklib](https://core.tcl.tk/tklib/home)
 
+`control` is a Tcllib package, provides `do` command 
+for `do ... while` or `do ... until` flow. For example,
+
+    package require control
+    
+    set index 0
+    
+    control::do {
+        incr index
+    } until {$index > 10}
+    puts $index
+
 [tcllibc](https://wiki.tcl.tk/18382)  is a term used to refer to the parts of Tcllib written in C.
 Some packages in Tcllib provide two implementations, one written in pure Tcl for compatibility and
 low installation overhead and one written in C for speed.
