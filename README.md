@@ -887,6 +887,7 @@ And for html and CGI
 * [htmlparse](https://wiki.tcl.tk/2204) - tcllib module
 * [ncgi](https://wiki.tcl.tk/780) - provides commands that manipulate CGI values (tcllib module)
 * [Tclgumbo](https://sites.google.com/site/ray2501/tclgumbo) - Tcl interface for gumbo library
+* [tcl-tidy](https://github.com/ray2501/tcl-tidy) - Tcl bindings for libtidy
 * tDOM 9.0 as build option an interface to the gumbo HTML5 parser, which also digests almost
 any other HTML. (--enable-html5)
 
