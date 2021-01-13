@@ -47,6 +47,7 @@ You can check [Open source SQL engines](http://www.martinbroadhurst.com/sql-engi
 * [tcltds](https://github.com/cloudsidekick/tcltds) - A tcl extension for the FreeTDS libraries
 * [hdbtcl](https://github.com/quietboil/hdbtcl) - An extension to the Tcl language that 
 provides access to SAP HANA database server 
+* [db2tcl](https://github.com/memmertoIBM/db2tcl) - TCL language interface to Db2 databases
 
 And
 
