@@ -1160,7 +1160,8 @@ an embedded JavaScript interpreter
 
 ### Python
 
-* [libtclpy](https://github.com/aidanhs/libtclpy) - targeting Tcl >= 8.5 and Python 2.6 - 2.7
+* [libtclpy](https://github.com/aidanhs/libtclpy) - targeting Tcl >= 8.5 and and Python 3.6+,
+and [Experimenting with numPy](https://wiki.tcl-lang.org/page/Experimenting+with+numPy)
 * [tclpython](https://github.com/amykyta3/tclpython/)
 
 
