@@ -92,6 +92,8 @@ Contents
 * [PDF](#pdf)
 * [Parser Engine](#parser-engine)
 * [Procedure Tools](#procedure-tools)
+* [System](#system)
+  * [monitoring](#monitoring)
 * [Text and string](#text-and-string)
 * [Time](#time)
 * [Web and Http](#web-and-http)
@@ -835,6 +837,13 @@ parsing optional arguments, source code you can get from [BAWT](http://www.bawt.
 * [argparse](https://wiki.tcl.tk/47680) - a feature-heavy argument parser
 * [named-parameters](https://github.com/tcl2020/named-parameters) - Named parameter for Tcl, written in Tcl
 * [xproc_tcl](https://github.com/lawrencewoodman/xproc_tcl) - An enhanced proc that adds descriptions and tests
+
+## System
+
+### Monitoring
+
+* [prometheus-tcl](https://github.com/flightaware/prometheus-tcl) - a pure Tcl library for 
+instrumenting Tcl scripts with [Prometheus metrics](https://prometheus.io/docs/concepts/metric_types/)
 
 
 ## Text and string
