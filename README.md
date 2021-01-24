@@ -94,6 +94,7 @@ Contents
 * [Procedure Tools](#procedure-tools)
 * [System](#system)
   * [monitoring](#monitoring)
+* [SenML](#senml)
 * [Text and string](#text-and-string)
 * [Time](#time)
 * [Web and Http](#web-and-http)
@@ -844,6 +845,15 @@ parsing optional arguments, source code you can get from [BAWT](http://www.bawt.
 
 * [prometheus-tcl](https://github.com/flightaware/prometheus-tcl) - a pure Tcl library for 
 instrumenting Tcl scripts with [Prometheus metrics](https://prometheus.io/docs/concepts/metric_types/)
+
+
+## SenML
+
+SenML (RFC8428) stands for Sensor Measurement Lists and is a format
+for representing lists of sensor values.
+
+* [senML](https://github.com/efrecon/senML) - Tcl implementation of a SenSML parser (for JSON)
+and a SenML wrapper
 
 
 ## Text and string
