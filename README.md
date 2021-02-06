@@ -261,6 +261,7 @@ building C/C++ based software libraries from source code
 * [kitgen build system](https://sourceforge.net/projects/kbskit/) - Framework to generate
 TclkitLite executables, compile Tcl packages and build kit files for different operating systems
 * [KitCreator](http://kitcreator.rkeene.org/fossil/home) - a simple build system for creating a Tclkit
+* [tcl-act](https://github.com/anticrisis/tcl-act) - A simple Tcl/C++ build and packaging system
 
 
 ## Package system
