@@ -41,6 +41,8 @@ You can check [Open source SQL engines](http://www.martinbroadhurst.com/sql-engi
 * [TclODBC](https://sourceforge.net/projects/tclodbc/)
 * [Pgtcl](http://flightaware.github.io/Pgtcl/) - Tcl client side interface to PostgreSQL (libpgtcl)
 * [pgintcl](https://sourceforge.net/projects/pgintcl/): Pure-Tcl Interface to PostgreSQL
+* [pgwire](https://github.com/cyanogilvie/pgwire) - Pure Tcl script implementation of
+the PostgreSQL version 3.0 protocol
 * [The Tcl interface to the SQLite library](http://www.sqlite.org/tclsqlite.html), and 
 [SpatiaLite](https://wiki.tcl.tk/23457)
 * [Oratcl](http://oratcl.sourceforge.net/) - Tcl interface to Oracle database, versions 8i, 9i, 10g, and 11g
