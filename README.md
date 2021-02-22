@@ -116,9 +116,10 @@ Contents
   * [Emscripten](#emscripten)
   * [Browser](#browser)
 * [Language](#language)
-  * [Ada](#ada)
+  * [Assembly](#assembly)
   * [CSharp and dotNET](#csharp-and-dotnet)
   * [Java](#java)
+  * [Ada](#ada)
   * [C](#c)
   * [CPP](#cpp)
   * [D](#d)
@@ -1080,10 +1081,11 @@ for use in Browsers
 
 ## Language
 
-### Ada
+### Assembly
 
-* [TASH - TclAdaShell](https://sourceforge.net/projects/tcladashell/) - You can extend Tcl with Ada instead of C and you can use Tcl capabilities in an Ada program
-* [tashy](https://github.com/thindil/tashy) - Ada binding to Tcl/Tk, based on TASH
+* [risc-v assembler](https://github.com/jbroll/riscv-asm) - About risc-v assembly language,
+written in Tcl.
+* [IA-32/x86 assembler in Tcl](https://wiki.tcl-lang.org/page/IA-32%2Fx86+assembler+in+Tcl)
 
 
 ### CSharp and dotNET
@@ -1113,6 +1115,12 @@ Machine.
 * [Tcl/Java](http://tcljava.sourceforge.net/docs/website/index.html)
 
 and my [TclBlend](https://github.com/ray2501/tclBlend) backup
+
+
+### Ada
+
+* [TASH - TclAdaShell](https://sourceforge.net/projects/tcladashell/) - You can extend Tcl with Ada instead of C and you can use Tcl capabilities in an Ada program
+* [tashy](https://github.com/thindil/tashy) - Ada binding to Tcl/Tk, based on TASH
 
 
 ### C
