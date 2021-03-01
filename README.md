@@ -344,6 +344,7 @@ and [Sugar macros collection](https://wiki.tcl.tk/11168)
 * [design-patterns-in-tcl](https://github.com/level44/design-patterns-in-tcl) -
 A collection of popular design patterns implemented in TCL language with TclOO package
 * [tclstuff](https://github.com/fp4code/tclstuff)
+* [jbr.tcl](https://github.com/jbroll/jbr.tcl)
 
 
 
