@@ -1315,14 +1315,18 @@ graphical [Gemini](https://gemini.circumlunar.space/) Browser in Tcl/Tk
 * [tcled](https://github.com/slebetman/tcled) - Pure Tcl Console Text Editor
 * [Chimera Grid Tools](https://www.nas.nasa.gov/publications/software/docs/chimera/index.html)
 * [ezdit](https://github.com/jianiau/ezdit): A cross-platform editor written in Tcl/Tk
-* [fbackup](https://github.com/gahr/fbackup) - Perform incremental backups using a fossil repository as a storage.
+* [fbackup](https://github.com/gahr/fbackup) - Perform incremental backups using
+a fossil repository as a storage.
 * [GraphViz](https://www.graphviz.org/) - Set of graph drawing tools and libraries,
 supporting hierarchical and mass-spring drawings
 * [HelpViewer Application](http://www.johann-oberdorfer.eu/blog/2017/04/10/17-10-04_helpviewer/)
+* [hl_tcl](https://github.com/aplsimple/hl_tcl) - The hl_tcl package is a
+syntax highlighter for Tcl/Tk code
 * [hoc-tcl](https://github.com/vzvca/hoc-tcl) - Port of hoc from 
 "The Unix Programming Environment"  book to TCL using taccle/fickle 
 yacc/lex TCL clones
-* [IPAT-S Software Suite](https://sourceforge.net/projects/ipat-s/) - IPAT-S Software Suite is a collection of supporting tools for the IPAT-S modeling language
+* [IPAT-S Software Suite](https://sourceforge.net/projects/ipat-s/) - IPAT-S Software Suite is
+a collection of supporting tools for the IPAT-S modeling language
 * [LogCatch](https://github.com/pikey8706/LogCatch) - android adb logcat viewer for Linux/Mac/Windows
 * [MTE](https://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
 * [Tide](https://github.com/ALANVF/Tide) - A code editor made in Tcl/Tk
