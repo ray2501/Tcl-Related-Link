@@ -127,7 +127,7 @@ Contents
   * [Forth](#forth)
   * [Fortran](#fortran)
   * [JavaScript](#javascript)
-  * [GO](#go)
+  * [Go](#go)
   * [Pascal](#pascal)
   * [Python](#python)
   * [R](#r)
@@ -1180,7 +1180,7 @@ Right now it's pretty minimal.
 * [tcl-duktape](https://github.com/dbohdan/tcl-duktape) - Tcl bindings for [Duktape](http://duktape.org/),
 an embedded JavaScript interpreter
 
-### GO
+### Go
 
 * [gothic](https://github.com/nsf/gothic) - Tcl/Tk Go bindings.
 * [Example of a Tcl extension in Go](https://wiki.tcl-lang.org/page/Example+of+a+Tcl+extension+in+Go)
