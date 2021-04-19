@@ -74,7 +74,7 @@ Below is some Tcl NoSQL clients:
 * [tgdbm](http://www.vogel-nest.de/tgdbmqgdbm-library-for-tcl-version-0-5/) - Store key/value pairs
 in portable files using GDBM
 * [Berkeley DB Extensions: Tcl](https://docs.oracle.com/cd/E17276_01/html/programmer_reference/tcl.html)
-* [metakit](https://git.jeelabs.org/jcw/metakit)
+* [metakit](https://github.com/pooryorick/metakit/)
 * [casstcl](https://github.com/flightaware/casstcl) - Tcl language interface to the Cassandra database,
 based on [Cassandra cpp driver](https://github.com/datastax/cpp-driver)
 * [tclcb](https://sourceforge.net/projects/tclfltk/files/Linux/Couchbase/) - for CouchBase SDK 2.1.3
