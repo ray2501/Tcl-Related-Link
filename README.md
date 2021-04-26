@@ -908,6 +908,8 @@ faster Tcl-module for the replacement of the standard "clock" ensemble of tcl
 * [http](https://www.tcl.tk/man/tcl/TclCmd/http.htm) - Client-side implementation of the HTTP/1.1 protocol
 * [tclcurl](https://github.com/flightaware/tclcurl-fa) - Tcl wrapper for Curl. Curl got
 HTTP/2 support when it's linked with the [nghttp2](https://nghttp2.org/) library in version 7.43.0.
+* [rl_http](https://github.com/RubyLane/rl_http) - A REST-capable, never-blocking HTTP client package
+that supports HTTPS, keepalive, deflate, chunked encoding for Tcl, NaviServer or AOLserver
 
 And for html and CGI
 
