@@ -1023,6 +1023,7 @@ And useful info:
 * [Extended Tcl (TclX)](http://tclx.sourceforge.net/), and [here](https://github.com/flightaware/tclx)
 * [DBus binding for Tcl](https://chiselapp.com/user/schelte/repository/dbus/home)
 * [Signal Extension](http://www.nyx.net/~mschwart/signal_ext.html) - Unix/POSIX Signal handling for Tcl
+* [tclsignal](https://github.com/wjoye/tclsignal) - Tcl Signal Extension Tcl 8.5/8.6 TEA compatible.
 * [tcl-mq](https://sourceforge.net/projects/tcl-mq/) - Tcl POSIX Message Queues
 * [Tulsa](http://chiselapp.com/user/stwo/repository/tulsa/index) - Tcl Unix Local Sockets,
 provides server, client, and pair UNIX socket(2)s.
