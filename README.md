@@ -358,9 +358,12 @@ As of Tcl 8.6, is part of the core distribution.
 * [TclOO @ TIP #257](https://core.tcl.tk/tips/doc/trunk/tip/257.md) and [TclOO Tricks](https://wiki.tcl.tk/21595)
 * [incr Tcl](http://incrtcl.sourceforge.net/)
 * [Next Scripting Framework](https://next-scripting.org/xowiki/): A descendant of XOTcl
-* [snit](http://core.tcl.tk/jenglish/gutter/packages/snit.html) - Snit is a pure-Tcl object and megawidget framework
+* [snit](http://core.tcl.tk/jenglish/gutter/packages/snit.html) - Snit is a pure-Tcl object and
+megawidget framework
 * [self](https://github.com/mpcjanssen/self) - [SELF extension](https://wiki.tcl.tk/17100),
 a Tcl package by the same name that was inspired by Self
+* [tclooh](https://github.com/ecky-l/tclooh) - Minimally extending the TclOO object system 
+to provide more natural object variables
 
 Useful info:
 
