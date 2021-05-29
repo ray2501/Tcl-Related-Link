@@ -1140,6 +1140,8 @@ and my [TclBlend](https://github.com/ray2501/tclBlend) backup
 
 * [ffidl](http://elf.org/ffidl/) and [git repository](https://github.com/prs-de/ffidl) - Foreign
 Function Interface
+* [tcl-cffi](https://github.com/apnadkarni/tcl-cffi) - A Foreign Function Interface
+extension for Tcl
 * [critcl](http://andreas-kupries.github.io/critcl/) - Critcl lets you easily embed C code in Tcl
 * [SWIG](https://github.com/swig/swig) - SWIG is a compiler that integrates C and C++ with languages
 including Perl, Python, Tcl, Ruby, PHP, Java, C#, D, Go, Lua, Octave, R,
