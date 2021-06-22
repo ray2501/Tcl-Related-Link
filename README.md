@@ -916,6 +916,7 @@ faster Tcl-module for the replacement of the standard "clock" ensemble of tcl
 HTTP/2 support when it's linked with the [nghttp2](https://nghttp2.org/) library in version 7.43.0.
 * [rl_http](https://github.com/RubyLane/rl_http) - A REST-capable, never-blocking HTTP client package
 that supports HTTPS, keepalive, deflate, chunked encoding for Tcl, NaviServer or AOLserver
+* [tcl-signalr](https://github.com/ecky-l/tcl-signalr) - SignalR client implementation for Tcl
 
 And for html and CGI
 
