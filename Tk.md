@@ -49,6 +49,8 @@ Useful info:
 * [Revised Implementation of Tk Text Widget](http://scidb.sourceforge.net/tk/revised-text-widget.html)
 * [A collection of Ttk themes](http://chiselapp.com/user/sgolovan/repository/ttk-themes/home) and
 [List of ttk Themes](https://wiki.tcl.tk/48689)
+* [tcl-awthemes](https://sourceforge.net/projects/tcl-awthemes/) -
+awdark and awlight themes for Tk, scalable themes. 
 * [Scaled checkbutton](https://wiki.tcl.tk/44212)
 * [ttk::checkbutton as toggle switch display](https://wiki.tcl.tk/44059)
 * [always on top](https://wiki.tcl.tk/3014)
