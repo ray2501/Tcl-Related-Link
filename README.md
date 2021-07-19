@@ -700,6 +700,7 @@ various (tcllib) data structures.Provided structures, so far:
 * tree
 * disjointset
 
+For graph, you can check:
 * [tclgraphs](https://github.com/ecky-l/tclgraphs) - A Tcl extension for graph algorithms and combinatorial optimization 
 
 
