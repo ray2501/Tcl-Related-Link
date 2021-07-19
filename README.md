@@ -661,8 +661,8 @@ and check:
 ## Data type
 
 * [Tarray](https://wiki.tcl.tk/37462) - implements a new Tcl collection data type - typed array
-* [TclRal](http://chiselapp.com/user/mangoa01/repository/tclral/index) - Tcl Relational Algebra Library.
-It introduces tuple and relation data types and a set of commands that operate on them.
+* [TclRal](http://chiselapp.com/user/mangoa01/repository/tclral/index) - Tcl Relational Algebra 
+Library. It introduces tuple and relation data types and a set of commands that operate on them.
 * [tclvalue](https://github.com/auriocus/tclvalue) - An extension for Tcl 8.6+ to reflect the
 Tcl_Obj API into the script level
 * [AitCS](https://chiselapp.com/user/stwo/repository/AitCS/index) - Array in the Command's Shadow
@@ -699,6 +699,8 @@ various (tcllib) data structures.Provided structures, so far:
 * stack
 * tree
 * disjointset
+
+* [tclgraphs](https://github.com/ecky-l/tclgraphs) - A Tcl extension for graph algorithms and combinatorial optimization 
 
 
 ## Diff
