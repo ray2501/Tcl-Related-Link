@@ -139,6 +139,7 @@ distributed coordination system
 * [HBaseClient-Tcl](https://github.com/ray2501/HBaseClient-Tcl)
 * [solr4tcl](https://github.com/ray2501/solr4tcl)
 * [thiredis](https://github.com/ray2501/thiredis) - Wrapper Redis client hiredis for Tcl
+* [tcl-gremlin](https://github.com/ray2501/tcl-gremlin) - Gremlin Server driver for Tcl
 * [tclxqilla](https://github.com/ray2501/tclxqilla)
 * [tcl.mqttc](https://github.com/ray2501/tcl.mqttc) - MQTT Client for Tcl
 * [CurlYQL](https://github.com/ray2501/CurlYQL) - Using TclCurl to send YQL query
