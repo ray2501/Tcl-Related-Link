@@ -12,7 +12,7 @@ Tk widget and extension
 * [3-D Canvas Widget](http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)
 * [TkZinc](https://github.com/asb-capfan/TkZinc) - canvas like widget extension
 * [Tcl3D](http://www.tcl3d.org/)
-* [Tkpath](https://bitbucket.org/andrew_shadura/tkpath)
+* [Tkpath](http://chiselapp.com/user/rene/repository/tkpath/index)
 * [TkTable](https://sourceforge.net/projects/tktable/)
 * [TkTreeCtrl](http://tktreectrl.sourceforge.net/)
 * [Tablelist](http://www.nemethi.de/tablelist/index.html), include in TkLib

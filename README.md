@@ -177,7 +177,6 @@ And check [Book](https://wiki.tcl.tk/3334).
 * [BAWT-Tcl](http://www.bawt.tcl3d.org/download.html#tclbi) - Batteries Included Setup Program
 * [IronTcl](https://www.irontcl.com/) - is a binary distribution of Tcl and Tk.
 * [Magicsplat Tcl/Tk for Windows](http://www.magicsplat.com/tcl-installer/index.html)
-* [tombert's tcltk](https://bitbucket.org/tombert/tcltk) - Compiled under W7 using MinGW 64bit
 
 ### TclKits
 
@@ -197,7 +196,6 @@ And check [Book](https://wiki.tcl.tk/3334).
 [VS Code Tcl Debug](https://github.com/conej730/vscode-tcl-debug)
 * [Tloona](https://github.com/ecky-l/tloona) - A Tcl/Tk IDE
 * [RamDebugger](http://www.compassis.com/ramdebugger/) - a debugger and IDE for TCL-TK (require tcllib, tklib, TkImg and TkTreeCtrl)
-* [Tcl/Tk Project Manager](https://bitbucket.org/svk28/projman)
 * [TKE Text Editor](http://tke.sourceforge.net/)
 
 Useful info:
@@ -454,7 +452,7 @@ GD graphics drawing library
 any kind of images
 * [tclmagick](http://tclmagick.sourceforge.net/) - Tcl and Tk Interfaces to
 GraphicsMagick and ImageMagick
-* [pure-tcl BMP reader/writer](https://bitbucket.org/smh377/bmp)
+* [pure-tcl BMP reader/writer](https://wiki.tcl-lang.org/page/pure%2Dtcl+BMP+reader%2Fwriter)
 * [Pure Tcl JPEG decoder](https://github.com/dbohdan/ptjd) - A single-file pure Tcl baseline JPEG
 decoder library
 * [tcllib exif](https://wiki.tcl.tk/3055) - to extract and parse EXIF fields from digital images
@@ -782,8 +780,6 @@ JavaScript interpreter. It has JSON objects support.
 * [socket](https://www.tcl.tk/man/tcl/TclCmd/socket.htm) - a built-in Tcl command,
 opens a TCP network connection
 * [Tcl UDP extension](https://core.tcl.tk/tcludp/index)
-* [tcl-pcap](https://bitbucket.org/andrew_shadura/tcl-pcap) - Tcl extension that allows access
-to the libpcap library
 * [scotty](https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
 * [tclnetsnmp](http://tcl.uk.to/) - netsnmp package for TCL 8.6
 * [ecap-tcl](https://github.com/petasis/ecap-tcl) - An eCAP adapter for Tcl
