@@ -480,6 +480,9 @@ And my project:
 * [tclqrencode](https://sites.google.com/site/ray2501/tclqrencode) - Tcl interface for libqrencode
 * [tcl-cairo](https://github.com/ray2501/tcl-cairo) - Tcl bindings for Cairo library,
 learn from [tclcairo](https://wiki.tcl.tk/29305)
+* [tcl-stbimage](https://github.com/ray2501/tcl-stbimage) - Tcl extension for stb_image
+* [tcl-imagebytes](https://github.com/ray2501/tcl-imagebytes) - To and from byte array
+and Tk photo image
 
 
 ## Audio and Sound
