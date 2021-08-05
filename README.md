@@ -93,6 +93,7 @@ Contents
 * [Parser Engine](#parser-engine)
 * [Procedure Tools](#procedure-tools)
 * [System](#system)
+  * [configuration](#configuration)
   * [monitoring](#monitoring)
 * [SenML](#senml)
 * [Text and string](#text-and-string)
@@ -317,6 +318,9 @@ for `do ... while` or `do ... until` flow. For example,
         incr index
     } until {$index > 10}
     puts $index
+
+For do-while loop for tcl,
+you also can check [dowhile.tcl](https://github.com/lego12239/dowhile.tcl).
 
 [tcllibc](https://wiki.tcl.tk/18382)  is a term used to refer to the parts of Tcllib written in C.
 Some packages in Tcllib provide two implementations, one written in pure Tcl for compatibility and
@@ -862,6 +866,11 @@ parsing optional arguments, source code you can get from [BAWT](http://www.bawt.
 * [xproc_tcl](https://github.com/lawrencewoodman/xproc_tcl) - An enhanced proc that adds descriptions and tests
 
 ## System
+
+### Configuration
+
+* [conf.tcl](https://github.com/lego12239/conf.tcl) - A tcl package for loading a textual
+configuration(from file, string, etc) into dict
 
 ### Monitoring
 
