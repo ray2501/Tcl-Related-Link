@@ -1053,6 +1053,8 @@ And useful info:
 * [Tulsa](http://chiselapp.com/user/stwo/repository/tulsa/index) - Tcl Unix Local Sockets,
 provides server, client, and pair UNIX socket(2)s.
 * [tclreadline](https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
+* [tcl-linenose](https://github.com/andreas-kupries/tcl-linenoise) - Tcl Binding to
+the linenoise line editing library
 * [eltclsh](http://homepages.laas.fr/mallet/soft/shell/eltclsh) - an interactive shell for the TCL programming language
 * [tclbsd](https://github.com/flightaware/tclbsd) - A Tcl package for interfacing to
 various BSD UNIX system calls and library routines
