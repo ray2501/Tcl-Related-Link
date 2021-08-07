@@ -457,14 +457,14 @@ and check:
 * [tksvg](https://github.com/oehhar/tksvg) - An extension for Tk to read SVG images based on nanosvg
 * [Imgtools](http://tkimgtools.sourceforge.net/index.html) - manipulate Tk photo images
 * [CRIMP](https://core.tcl.tk/akupries/crimp/home) - C Raster Image Manipulation Package
-* [PhotoResize](https://github.com/auriocus/PhotoResize) - A single-purpose extension for Tcl to resize/resample photo images 
+* [PhotoResize](https://github.com/auriocus/PhotoResize) - A single-purpose extension for
+Tcl to resize/resample photo images
 * [pixmix](https://wiki.tcl-lang.org/page/pixmix) - a widget for displaying, zooming, 
 rotating,blending overlapped images
 * [tcl.gd](https://github.com/flightaware/tcl.gd) - Feature-complete Tcl interface to
 GD graphics drawing library
-* [tclepeg](https://github.com/dzach/tclepeg) - provide a tcl extension to the epeg thumbnailing library
-* [tclimage](https://sourceforge.net/projects/tclimage/) - A Tcl library extension for managing virtually
-any kind of images
+* [tclepeg](https://github.com/dzach/tclepeg) - provide a tcl extension to the epeg
+thumbnailing library
 * [tclmagick](http://tclmagick.sourceforge.net/) - Tcl and Tk Interfaces to
 GraphicsMagick and ImageMagick
 * [pure-tcl BMP reader/writer](https://wiki.tcl-lang.org/page/pure%2Dtcl+BMP+reader%2Fwriter)
@@ -487,8 +487,6 @@ Useful info:
 For barcode:
 
 * [tzint](https://sourceforge.net/projects/tclsnippets/files/tzint/) - tcl package for libzint barcode encoding library (no Tk needed)
-
-And [Barcode FAQs](http://www.azalea.com/FAQ/) has valuable information.
 
 And my project:
 
