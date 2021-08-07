@@ -63,6 +63,7 @@ Contents
 * [Collection and Tool box](#collection-and-tool-box)
 * [Object-oriented](#object-oriented)
 * [Functional Programming](#functional-programming)
+* [Interactive Tcl](#interactive-tcl)
 * [CUI](#cui)
 * [Tk](#tk)
 * [GUI toolkit](#gui-toolkit)
@@ -395,6 +396,14 @@ providing the equivalent of lambda functions.
 
 And check
 * [Useful Examples of Functional Tcl](https://wiki.tcl-lang.org/page/Useful+Examples+of+Functional+Tcl)
+
+
+## Interactive Tcl
+
+* [eltclsh](http://homepages.laas.fr/mallet/soft/shell/eltclsh) - an interactive shell for the TCL programming language
+* [tclreadline](https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
+* [tcl-linenose](https://github.com/andreas-kupries/tcl-linenoise) - Tcl Binding to
+the linenoise line editing library
 
 
 ## CUI
@@ -789,6 +798,8 @@ JavaScript interpreter. It has JSON objects support.
 * [socket](https://www.tcl.tk/man/tcl/TclCmd/socket.htm) - a built-in Tcl command,
 opens a TCP network connection
 * [Tcl UDP extension](https://core.tcl.tk/tcludp/index)
+* [tclpcap](http://tclpcap.sourceforge.net/) - Tcl extension that allows access
+to the libpcap library (need update)
 * [scotty](https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
 * [tclnetsnmp](http://tcl.uk.to/) - netsnmp package for TCL 8.6
 * [ecap-tcl](https://github.com/petasis/ecap-tcl) - An eCAP adapter for Tcl
@@ -1052,10 +1063,6 @@ And useful info:
 * [tcl-mq](https://sourceforge.net/projects/tcl-mq/) - Tcl POSIX Message Queues
 * [Tulsa](http://chiselapp.com/user/stwo/repository/tulsa/index) - Tcl Unix Local Sockets,
 provides server, client, and pair UNIX socket(2)s.
-* [tclreadline](https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
-* [tcl-linenose](https://github.com/andreas-kupries/tcl-linenoise) - Tcl Binding to
-the linenoise line editing library
-* [eltclsh](http://homepages.laas.fr/mallet/soft/shell/eltclsh) - an interactive shell for the TCL programming language
 * [tclbsd](https://github.com/flightaware/tclbsd) - A Tcl package for interfacing to
 various BSD UNIX system calls and library routines
 * [tcl-augeas](https://github.com/dbohdan/tcl-augeas) - Tcl bindings for [Augeas](http://augeas.net/)
