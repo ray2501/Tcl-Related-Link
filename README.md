@@ -480,6 +480,7 @@ PNG is also built-in support in Tcl/Tk 8.6.0 (and above version).
 Useful info:
 
 * [3D animation on canvas with Gnuplot](https://wiki.tcl.tk/13555)
+* [C Image Processing](https://wiki.tcl-lang.org/page/C+Image+Processing)
 * [Canvas Object Movement Example](https://wiki.tcl.tk/26978)
 * [Graphics with Tcl](https://wiki.tcl.tk/2389)
 * [Webcams / Digital Cameras](https://wiki.tcl.tk/14314)
