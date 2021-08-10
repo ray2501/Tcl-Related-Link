@@ -947,6 +947,8 @@ that supports HTTPS, keepalive, deflate, chunked encoding for Tcl, NaviServer or
 * [Tcllib websocket](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/md/tcllib/files/modules/websocket/websocket.md) - Tcl implementation of the websocket protocol
 * [tclwebsocket](https://github.com/ecky-l/tclwebsocket) - A websocket channel for Tcl
 * [tcl-signalr](https://github.com/ecky-l/tcl-signalr) - SignalR client implementation for Tcl
+* [Selenium](https://wiki.tcl-lang.org/page/Selenium) - Selenium info at Tcler's Wiki
+
 
 And for html and CGI
 
