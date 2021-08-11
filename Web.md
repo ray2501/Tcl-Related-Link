@@ -32,7 +32,9 @@ to extend the Httpd (tcllib) module into a fully functioning web server, in the 
 * [Curlys](https://github.com/jessemonroy650/curlys) - an HTML template engine for static pages,
 similar to mustache.js or handlebars.js
 * [htmltmpl.tcl](https://github.com/lego12239/htmltmpl.tcl) - A text template engine similar
-to perl HTML::Template 
+to perl HTML::Template
+* [mustache.tcl](https://github.com/ianka/mustache.tcl) - A Tcl implementation of the mustache
+templating language
 
 And useful info:
 

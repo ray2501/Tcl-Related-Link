@@ -107,8 +107,6 @@ Contents
   * [CSS](#css)
   * [JSMIN](#jsmin)
 * [Computing platform](#computing-platform)
-* [Templating language](#templating-language)
-  * [Mustache](#mustache)
 * [Container](#container)
   * [Docker](#docker)
 * [Platform](#platform)
@@ -1008,13 +1006,6 @@ And please check
 
 * [AWS_lambda](https://github.com/RubyLane/AWS_lambda) - Tcl runtime for AWS Lambda and 
 some layers for  talking to AWS services and processing images
-
-
-## Templating language
-
-### Mustache
-
-* [mustache.tcl](https://github.com/ianka/mustache.tcl) - A Tcl implementation of the mustache templating language
 
 
 ## Container
