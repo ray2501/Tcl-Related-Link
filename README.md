@@ -635,7 +635,7 @@ Distributed Computation is a form of concurrent computing in
 which multiple programs, perhaps running on different processors,
 which may be remote, communicate to accomplish tasks.
 
-* [TclMPI: Tcl bindings for MPI](https://sites.google.com/site/akohlmey/software/tclmpi)
+* [TclMPI: Tcl bindings for MPI](https://akohlmey.github.io/tclmpi/)
 * [gearman-tcl](https://github.com/noyesno/gearman-tcl)
 
 And check [Distributed computation](https://wiki.tcl.tk/16662).
