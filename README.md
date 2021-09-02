@@ -498,6 +498,7 @@ learn from [tclcairo](https://wiki.tcl.tk/29305)
 * [tcl-stbimage](https://github.com/ray2501/tcl-stbimage) - Tcl extension for stb_image
 * [tcl-imagebytes](https://github.com/ray2501/tcl-imagebytes) - To and from byte array
 and Tk photo image
+* [tcl-opencv](https://github.com/ray2501/tcl-opencv) - Tcl extension for OpenCV library
 
 
 ## Audio and Sound
