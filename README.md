@@ -215,7 +215,7 @@ And TDK (Tcl Dev Kit) is open sourced by ActiveState, check
 * [Fossil SCM](https://www.fossil-scm.org/) - a distributed version control system,
 bug tracking system and wiki software server
 * [Git](https://git-scm.com/) and the Git repository browser [gitk](https://git-scm.com/docs/gitk)
-* [TkCVS](http://www.twobarleycorns.net/tkcvs.html)
+* [TkRev](https://sourceforge.net/projects/tkcvs/) - Platform-agnostic GUI supporting CVS, Subversion, Git, and RCS
 
 
 ## Issue tracking
