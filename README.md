@@ -574,6 +574,10 @@ See the [chan](https://wiki.tcl.tk/15111) command for details.
 * [Add a time stamp to each line of output](https://wiki.tcl.tk/55399) - a useful example of 
 the transchan functionality available in Tcl
 
+And useful info:
+* [Diskusage](https://wiki.tcl-lang.org/page/Diskusage) -
+a little utility to help out when your disk gets full (open du command to get info)
+
 
 ## Command line
 
