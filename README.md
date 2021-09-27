@@ -88,6 +88,7 @@ Contents
   * [CSV and TSV](#csv-and-tsv)
   * [CommonMark and Markdown](#commonmark-and-markdown)
   * [JSON](#json)
+  * [HDF](#hdf)
   * [Office File](#office-file)
   * [PDF](#pdf)
   * [SenML](#senml)
@@ -783,6 +784,13 @@ JavaScript interpreter. It has JSON objects support.
 * [tcljsonnet](https://github.com/ray2501/tcljsonnet)
 * [JQ](https://wiki.tcl.tk/11630) - Wrapper for command-line tool, [JQ](https://stedolan.github.io/jq/manual/)
 * [Playing XPath with JSON](https://wiki.tcl.tk/40865)
+
+### HDF
+
+* [HDFpp](https://github.com/BessyHDFViewer/HDFpp) - Interface for Tcl (and optionally Python)
+to read HDF4 and HDF5 files
+
+And you also can check [BessyHDFViewer](https://github.com/BessyHDFViewer/BessyHDFViewer).
 
 ### Office File
 
