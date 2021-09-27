@@ -742,7 +742,7 @@ And check
 the tcllib author can write the documentation for his/her module in a format
 agnostic manner, and then convert the documentation into Unix man pages, HTML,
 and other formats.
-* [Ruff!](http://woof.sourceforge.net/ruff.html) - generates reference documentation
+* [Ruff!](https://ruff.magicsplat.com/) - generates reference documentation
 for Tcl programs using runtime introspection.
 
 
