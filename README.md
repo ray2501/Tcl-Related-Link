@@ -922,6 +922,7 @@ And useful info:
 ## Parser Engine
 
 * [Marpa/Tcl](https://core.tcl.tk/akupries/marpa/home) - Marpa is a Tcl binding to libmarpa
+* [Yeti](https://github.com/mittelmark/yeti) - parser and scanner generator for Tcl
 
 
 ## Procedure Tools
