@@ -475,6 +475,7 @@ decoder library
 * [tcllib exif](https://wiki.tcl.tk/3055) - to extract and parse EXIF fields from digital images
 * [tklib plotchart](https://wiki.tcl.tk/11265)
 * [ukaz](https://github.com/auriocus/ukaz) - Graph widget in pure Tcl/Tk
+* [PLplot](http://plplot.sourceforge.net/) - often used to make scientific plots
 
 For handle image formats, you can check [tkImg](https://sourceforge.net/projects/tkimg/).
 PNG is also built-in support in Tcl/Tk 8.6.0 (and above version).
