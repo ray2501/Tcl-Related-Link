@@ -1420,6 +1420,7 @@ tool written in Tcl/Tk
 ## Misc
 
 * [Exercism Tcl Track](https://github.com/exercism/tcl)
+* [Exercism Tcl Test Runner](https://github.com/exercism/tcl-test-runner)
 * [Cameron Laird's personal notes on commercial aspects of Tcl](http://phaseit.net/claird/comp.lang.tcl/commercial-tcl.html)
 * [Andreas' ComputerLab BLOG](https://core.tcl.tk/akupries/blog/)
 * [Dai's Blog](http://blog.got7.org/)
