@@ -1283,6 +1283,12 @@ The iocp_bt package implements Bluetooth client channels on Windows
 * [obex package](https://wiki.tcl-lang.org/page/obex+package) - Package obex is 
 an implementation of the OBEX protocol in Tcl. [Document](https://tcl-obex.magicsplat.com/) and 
 [source at github](https://github.com/apnadkarni/tcl-obex).
+* [GPIB-Tcl](http://gpib-tcl.sourceforge.net/GPIB-Tcl.html) -
+control measurement equipment through the industry-standard
+IEEE-488 ([GPIB](https://wiki.tcl-lang.org/page/GPIB)) bus.
+* [tclvisa](http://tclvisa.sourceforge.net/) - Tcl binding to VISA API.
+Virtual Instrument Software Architecture (VISA) is, generally speaking,
+measurement instrument contolling API.
 
 
 ### Arduino
