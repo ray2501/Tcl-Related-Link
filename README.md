@@ -101,6 +101,7 @@ Contents
 * [Parser Engine](#parser-engine)
 * [Procedure Tools](#procedure-tools)
 * [System](#system)
+  * [syslog](#syslog)
   * [monitoring](#monitoring)
 * [Text and string](#text-and-string)
 * [Time](#time)
@@ -938,6 +939,11 @@ parsing optional arguments, source code you can get from [BAWT](http://www.bawt.
 * [xproc_tcl](https://github.com/lawrencewoodman/xproc_tcl) - An enhanced proc that adds descriptions and tests
 
 ## System
+
+### Syslog
+
+* [syslog-alert](https://github.com/nabbi/syslog-alert) - throttle email
+notifications from syslog-ng to multiple distribution groups
 
 ### Monitoring
 
