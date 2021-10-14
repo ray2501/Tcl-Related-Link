@@ -406,6 +406,7 @@ And check
 * [tclreadline](https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
 * [tcl-linenose](https://github.com/andreas-kupries/tcl-linenoise) - Tcl Binding to
 the linenoise line editing library
+* [readcmd.tcl](https://github.com/Z-Wave-Me/readcmd.tcl) - A command line editing library
 
 
 ## CUI
