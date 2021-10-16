@@ -1031,7 +1031,8 @@ And please check
 ## Computing Platform
 
 * [AWS_lambda](https://github.com/RubyLane/AWS_lambda) - Tcl runtime for AWS Lambda and 
-some layers for  talking to AWS services and processing images
+some layers for  talking to AWS services and processing image
+* [aws-tcl](https://github.com/cyanogilvie/aws-tcl) - Tcl related resources for AWS
 
 
 ## Container
