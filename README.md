@@ -196,7 +196,8 @@ And check [Book](https://wiki.tcl.tk/3334).
 * [Eclipse](http://www.eclipse.org/) and [Eclipse Dynamic Languages Toolkit](https://projects.eclipse.org/projects/technology.dltk). DLTK provides Tcl support.
 * [Visual Studio Code](https://code.visualstudio.com/) and 
 [Tcl for Visual Studio Code](https://github.com/bitwisecook/vscode-tcl), 
-[VS Code Tcl Debug](https://github.com/conej730/vscode-tcl-debug)
+[VS Code Tcl Debug](https://github.com/conej730/vscode-tcl-debug),
+[vscode_tcl](https://github.com/EHCORE-Open-Source/vscode_tcl)
 * [alited](https://aplsimple.github.io/en/tcl/alited/) - A lite editor
 * [Tloona](https://github.com/ecky-l/tloona) - A Tcl/Tk IDE
 * [RamDebugger](http://www.compassis.com/ramdebugger/) - a debugger and IDE for TCL-TK (require tcllib, tklib, TkImg and TkTreeCtrl)
