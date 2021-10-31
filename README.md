@@ -891,6 +891,7 @@ the Tcl interpreter of long-running, event-driven programs
 * [tcl-tcpwrappers](https://github.com/rkeene/tcl-tcpwrappers) - Tcl interface to manage TCP Wrappers
 * [tcl-dav](https://github.com/gahr/tcl-dav) - Card/CalDAV client library for Tcl
 * [tcl-libproxy](https://github.com/ray2501/tcl-libproxy) - Tcl bindings for libproxy
+* [resolve](https://github.com/cyanogilvie/resolve) - Advanced name resolution for Tcl scripts
 
 And useful info:
 
