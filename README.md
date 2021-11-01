@@ -452,7 +452,7 @@ and check:
 
 ## GUI toolkit
 
-* [Gnocl](https://sites.google.com/site/gnocltclgtk/): Tcl binding to GTK
+* [Gnocl](https://dr-baum.net/gnocl/index.html): Tcl binding to GTK
 * [TclFltk](https://sourceforge.net/projects/tclfltk/): a Tcl binding for the Fast Light Tool Kit portable GUI development environment
 
 
