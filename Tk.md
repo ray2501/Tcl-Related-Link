@@ -41,6 +41,8 @@ for loading "private fonts" in a Tk apps
 operating systems
 * [winico](http://tktable.sourceforge.net/) - a Tk extension for Windows that
 manages icons for use in the Windows desktop taskbar and for setting an application icon
+* [zoom-canvas](https://wiki.tcl-lang.org/page/zoom%2Dcanvas) - zoom-canvas is an
+extension of the standard tk canvas widget
 
 Useful info:
 
