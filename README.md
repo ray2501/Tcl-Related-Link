@@ -592,6 +592,8 @@ Procedures to process command lines and options
 that compat with GNU getopt
 * [tabulate](https://wiki.tcl.tk/41682) - a command line utility that converts standard input
 into pretty-printed tables
+* [autoopts](https://gitlab.com/dbohdan/autoopts) - Tcl module that automatically gives
+your program a command line interface
 
 And useful info:
 
