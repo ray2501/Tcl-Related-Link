@@ -23,6 +23,8 @@ be a replacement for tktable or treectrl or tablelist. It is intended to be a vi
 solution that could be used by one of those type of packages or for any other display of 
 scrolling multiple rows by an application.
 * [bartabs](https://github.com/aplsimple/bartabs) - tab bar widget for Tcl/Tk
+* [apave](https://aplsimple.github.io/en/tcl/pave/index.html) - The apave software
+provides a sort of geometry manager for Tcl/Tk.
 * [TkDND](https://github.com/petasis/tkdnd)
 * [tktray](https://wiki.tcl.tk/5972) - an extension for managing system tray icons with Tk on X Window System
 * [Mtiwidgets](https://wiki.tcl.tk/6237) - Includes mtiwidgets::mdiframe widget
