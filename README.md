@@ -894,6 +894,7 @@ the Tcl interpreter of long-running, event-driven programs
 * [tcl-dav](https://github.com/gahr/tcl-dav) - Card/CalDAV client library for Tcl
 * [tcl-libproxy](https://github.com/ray2501/tcl-libproxy) - Tcl bindings for libproxy
 * [resolve](https://github.com/cyanogilvie/resolve) - Advanced name resolution for Tcl scripts
+* [reuri](https://github.com/cyanogilvie/reuri) - High performance URI manipulation package for Tcl
 
 And useful info:
 
