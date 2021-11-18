@@ -820,7 +820,7 @@ and a SenML wrapper
 
 * [tDOM](http://tdom.github.io/)
 * [TclXML](http://tclxml.sourceforge.net/) and
-you can check [here](https://github.com/wjoye/tclxml)
+you can check [here](https://github.com/flightaware/TclXML)
 * [TclSOAP](http://tclsoap.sourceforge.net/) and [Wiki page](https://wiki.tcl.tk/1753) - supports
 SOAP and XML-RPC, based on TclDOM (TclDOM is the DOM part of TclXML project).
 [SCM Repositories](http://tclsoap.cvs.sourceforge.net/viewvc/tclsoap/tclsoap/) version (1.6.8)
