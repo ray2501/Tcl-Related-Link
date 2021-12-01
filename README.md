@@ -893,6 +893,9 @@ the Tcl interpreter of long-running, event-driven programs
 * [tcl-tcpwrappers](https://github.com/rkeene/tcl-tcpwrappers) - Tcl interface to manage TCP Wrappers
 * [tcl-dav](https://github.com/gahr/tcl-dav) - Card/CalDAV client library for Tcl
 * [tcl-libproxy](https://github.com/ray2501/tcl-libproxy) - Tcl bindings for libproxy
+* [TclXMPP](https://chiselapp.com/user/sgolovan/repository/tclxmpp/home) - 
+This project implements an XMPP (RFC-6120 and RFC-6121) library which is to be used for clients,
+bots and components written in Tcl or Tcl/Tk
 * [resolve](https://github.com/cyanogilvie/resolve) - Advanced name resolution for Tcl scripts
 * [reuri](https://github.com/cyanogilvie/reuri) - High performance URI manipulation package for Tcl
 
