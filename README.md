@@ -1093,6 +1093,9 @@ And useful info:
 * [tcl-mq](https://sourceforge.net/projects/tcl-mq/) - Tcl POSIX Message Queues
 * [Tulsa](http://chiselapp.com/user/stwo/repository/tulsa/index) - Tcl Unix Local Sockets,
 provides server, client, and pair UNIX socket(2)s.
+* [TclLuX](https://chiselapp.com/user/stwo/repository/tcllux/index) -
+Tcl with the luxury of UNIX, a collection of packages, each offering some
+loosely-categorized form of UNIX functionality.
 * [tclbsd](https://github.com/flightaware/tclbsd) - A Tcl package for interfacing to
 various BSD UNIX system calls and library routines
 * [tcl-augeas](https://github.com/dbohdan/tcl-augeas) - Tcl bindings for [Augeas](http://augeas.net/)
