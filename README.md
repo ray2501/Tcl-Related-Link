@@ -1411,8 +1411,6 @@ yacc/lex TCL clones
 a collection of supporting tools for the IPAT-S modeling language
 * [LogCatch](https://github.com/pikey8706/LogCatch) - android adb logcat viewer for Linux/Mac/Windows
 * [MTE](https://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
-* [Tide](https://github.com/ALANVF/Tide) - A code editor made in Tcl/Tk
-* [Source Navigator](http://sourcenav.sourceforge.net/index.html)
 * [minitree note taking app](https://wiki.tcl.tk/48369)
 * [Notebook](https://github.com/wduquette/notebook) - Notebook Personal Wiki
 * [poApps - Paul's Portable Applications](http://www.posoft.de/html/poTools.html)
@@ -1421,10 +1419,13 @@ It can be used with an interactive Tcl to provide readline editing
 and command history functionality.
 * [SAOImage DS9](http://ds9.si.edu/site/Home.html) - a Tcl/Tk program that uses the SAOTk widget set,
 is an astronomical imaging and data visualization application
+* [Source Navigator](http://sourcenav.sourceforge.net/index.html)
+* [SplineEditor](https://wiki.tcl-lang.org/page/SplineEditor) - For creating interesting
 * [snackamp](	http://sourceforge.net/projects/snackamp/)
 * [starDOM](https://wiki.tcl.tk/3895) - a little XML browser
 * [Sqawk](https://github.com/dbohdan/sqawk) - An SQL Awk with table joins
 * [tawk](https://github.com/shawnw/tawk) - awk but in tcl
+* [Tide](https://github.com/ALANVF/Tide) - A code editor made in Tcl/Tk
 * [tcljupyter](https://github.com/mpcjanssen/tcljupyter) - Tcl kernel for Jupyter
 * [tclsh-wrapper](https://github.com/suewonjp/tclsh-wrapper) - A tiny wrapper for Tcl/Tk's tclsh and wish
 * [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
@@ -1434,14 +1435,13 @@ is an astronomical imaging and data visualization application
 * [TkMC](https://wiki.tcl.tk/7772) - MC like file manager with basic functionality
 * [TkSQLite](http://reddog.s35.xrea.com/wiki/TkSQLite.html) - GUI frontend to sqlite3
 * [tkrunner](https://github.com/oldlaptop/tkrunner) - run command dialog for X in Tcl/Tk
+* [tol](https://github.com/gahr/tol) - Tcl One-Liner
 * [GEB](http://fossil.etoyoc.com/fossil/geb/home) - Displaying and modifying an SQLite DB 
 using Tcl code stored in the DB
-* [Time Sheets](https://chiselapp.com/user/gwlester/repository/TimeSheet/home) - a personal time entry/reporting 
-tool written in Tcl/Tk
+* [Time Sheets](https://chiselapp.com/user/gwlester/repository/TimeSheet/home) - a personal time entry/reporting tool written in Tcl/Tk
 * [wiki-reaper](https://wiki.tcl.tk/4718) - An HTTP robot in Tcl that will fetch page(s) from Tcler's Wiki
 * [binaryscanr](https://github.com/shuntksh/binaryscanr) - A Tcl binary scan frontend app
 * [XilinxTclStore](https://github.com/Xilinx/XilinxTclStore) - Xilinx Tcl Store
-* [tol](https://github.com/gahr/tol) - Tcl One-Liner
 
 
 ## Misc
