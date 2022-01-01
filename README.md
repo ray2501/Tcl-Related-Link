@@ -1421,6 +1421,7 @@ and command history functionality.
 is an astronomical imaging and data visualization application
 * [Source Navigator](http://sourcenav.sourceforge.net/index.html)
 * [SplineEditor](https://wiki.tcl-lang.org/page/SplineEditor) - For creating interesting
+vectorial drawings
 * [snackamp](	http://sourceforge.net/projects/snackamp/)
 * [starDOM](https://wiki.tcl.tk/3895) - a little XML browser
 * [Sqawk](https://github.com/dbohdan/sqawk) - An SQL Awk with table joins
