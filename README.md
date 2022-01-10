@@ -1428,6 +1428,9 @@ vectorial drawings
 * [tawk](https://github.com/shawnw/tawk) - awk but in tcl
 * [Tide](https://github.com/ALANVF/Tide) - A code editor made in Tcl/Tk
 * [tcljupyter](https://github.com/mpcjanssen/tcljupyter) - Tcl kernel for Jupyter
+* [tclmake](https://github.com/TclLab/tclmake) - tclmake is not meant to be a
+clone of standard make, but it borrows many features and adds a few useful
+features of its own.
 * [tclsh-wrapper](https://github.com/suewonjp/tclsh-wrapper) - A tiny wrapper for Tcl/Tk's tclsh and wish
 * [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
 * [tedit](https://github.com/thanoulis/tedit) - a simple text editor written in Tcl/Tk
