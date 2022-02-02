@@ -790,6 +790,8 @@ JavaScript interpreter. It has JSON objects support.
 * [tcljsonnet](https://github.com/ray2501/tcljsonnet)
 * [JQ](https://wiki.tcl.tk/11630) - Wrapper for command-line tool, [JQ](https://stedolan.github.io/jq/manual/)
 * [Playing XPath with JSON](https://wiki.tcl.tk/40865)
+* [xjson.tcl](https://github.com/ianka/xjson.tcl) - A Tcl library that validates,
+collects, composes JSON data against supplied schemas and to/from Tcl datat.
 
 ### HDF
 
