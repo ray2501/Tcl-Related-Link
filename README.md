@@ -198,7 +198,8 @@ And check [Book](https://wiki.tcl.tk/3334).
 [Tcl for Visual Studio Code](https://github.com/bitwisecook/vscode-tcl), 
 [VS Code Tcl Debug](https://github.com/conej730/vscode-tcl-debug),
 [vscode_tcl](https://github.com/EHCORE-Open-Source/vscode_tcl)
-* [alited](https://aplsimple.github.io/en/tcl/alited/) - A lite editor
+* [alited](https://aplsimple.github.io/en/tcl/alited/) - A lite editor,
+and [tclbag](https://github.com/aplsimple/tclbag).
 * [Tloona](https://github.com/ecky-l/tloona) - A Tcl/Tk IDE
 * [RamDebugger](http://www.compassis.com/ramdebugger/) - a debugger and IDE for TCL-TK (require tcllib, tklib, TkImg and TkTreeCtrl)
 * [TKE Text Editor](http://tke.sourceforge.net/)
