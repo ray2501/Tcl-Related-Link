@@ -1398,6 +1398,8 @@ graphical [Gemini](https://gemini.circumlunar.space/) Browser in Tcl/Tk
 * [DRAKON Editor](https://github.com/stepan-mitkin/drakon_editor) - a free open source tool for authoring DRAKON diagrams
 * [Fruho VPN Manager](https://github.com/fruho/fruhoapp)
 * [Tcl for Creo](https://wiki.tcl.tk/48597) - Scripting, Customization and Automation with Tcl scripts in Creo
+* [dia2kroki](https://wiki.tcl-lang.org/page/dia2kroki) - convert textual descriptions
+for various diagram tools to image URL's using the https://kroki.io/ webservice.
 * [ElectricFlow API for Tcl/Tk](https://github.com/chpock/ec-api-tcl)
 * [tcled](https://github.com/slebetman/tcled) - Pure Tcl Console Text Editor
 * [Chimera Grid Tools](https://www.nas.nasa.gov/publications/software/docs/chimera/index.html)
