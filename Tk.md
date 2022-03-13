@@ -8,6 +8,8 @@ Tk widget and extension
 * [Tix Widget Set](http://sourceforge.net/projects/tix/)
 * [Ttk file selection dialog](http://chiselapp.com/user/schelte/repository/fsdialog/home)
 * [GRIDPLUS](http://www.satisoft.com/tcltk/gridplus2/)
+* [shtmlview](https://wiki.tcl-lang.org/page/shtmlview) - A snidget widget to
+to display a large subset of HTML
 * [TkHTML](http://tkhtml.tcl.tk/) and [here](https://github.com/olebole/tkhtml3)
 * [3-D Canvas Widget](http://3dcanvas.tcl.tk/index.html/doc/tip/doc/index.wiki)
 * [TkZinc](https://github.com/asb-capfan/TkZinc) - canvas like widget extension
