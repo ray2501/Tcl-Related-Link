@@ -206,6 +206,7 @@ and [tclbag](https://github.com/aplsimple/tclbag).
 
 Useful info:
 
+* [e_menu](https://aplsimple.github.io/en/tcl/e_menu/) - menuing system for editors
 * [Tcl Editors](https://wiki.tcl.tk/1184)
 * [IDE](https://wiki.tcl.tk/998)
 
