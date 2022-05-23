@@ -532,7 +532,8 @@ Useful info:
 
 * [Audio Edit Utility](https://wiki.tcl.tk/40321) - a front-end for the 'ffmpeg' command
 * [VLC Tcl Extension](https://wiki.tcl.tk/48382)
-* [MPV Tcl Extension](https://wiki.tcl.tk/55174) - a Tcl interface to the MPV audio player, using libmpv
+* [MPV Tcl Extension](https://wiki.tcl.tk/55174) - a Tcl interface to the MPV audio player,
+using libmpv. You also can check [tclmpv](https://github.com/jlinkels/tclmpv).
 
 And my projects:
 
