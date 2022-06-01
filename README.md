@@ -221,6 +221,11 @@ And TDK (Tcl Dev Kit) is open sourced by ActiveState, check
 bug tracking system and wiki software server
 * [Git](https://git-scm.com/) and the Git repository browser [gitk](https://git-scm.com/docs/gitk)
 * [TkRev](https://sourceforge.net/projects/tkcvs/) - Platform-agnostic GUI supporting CVS, Subversion, Git, and RCS
+* [tcl-libgit2](https://github.com/apnadkarni/tcl-libgit2) - Tcl bindings for the libgit2 library.
+It is only intended as a demonstration of using CFFI to wrap 
+a fairly substantial shared library (more than 800 functions) 
+and thus lacks a comprehensive test suite though some basic sanity 
+checks are in the tests directory.
 
 
 ## Issue tracking
