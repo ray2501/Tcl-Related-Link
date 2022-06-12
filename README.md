@@ -88,6 +88,7 @@ Contents
   * [CSV and TSV](#csv-and-tsv)
   * [CommonMark and Markdown](#commonmark-and-markdown)
   * [JSON](#json)
+  * [TOML](#toml)
   * [HDF](#hdf)
   * [Office File](#office-file)
   * [PDF](#pdf)
@@ -801,6 +802,11 @@ JavaScript interpreter. It has JSON objects support.
 * [Playing XPath with JSON](https://wiki.tcl.tk/40865)
 * [xjson.tcl](https://github.com/ianka/xjson.tcl) - A Tcl library that validates,
 collects, composes JSON data against supplied schemas and to/from Tcl datat.
+
+### TOML
+
+Useful info:
+* [Parsing TOML files](https://wiki.tcl-lang.org/page/Parsing+TOML+files)
 
 ### HDF
 
