@@ -53,7 +53,7 @@ provides access to SAP HANA database server
 
 And
 
-* [TDBC Driver for Oratcl 4.5 Database Connector](https://tcl.sowaswie.de/repos/fossil/tdbc_oratcl/index)
+* [TDBC Driver for Oratcl 4.5 Database Connector](https://fossil.sowaswie.de/tdbc_oratcl/index)
 
 
 NoSQL
