@@ -71,4 +71,5 @@ awdark and awlight themes for Tk, scalable themes.
 * [Mac style search entry widget](https://wiki.tcl.tk/18188)
 * [Glyphs](https://wiki.tcl.tk/37854) - a pure-tcl library for digging into TrueType font-files
 * [FamFamFam](https://core.tcl.tk/akupries/famfamfam/index) - Tcl binding to the various sets of fam fam fam icons.
+* [Entering Unicode characters in a widget](https://wiki.tcl-lang.org/page/Entering+Unicode+characters+in+a+widget)
 
