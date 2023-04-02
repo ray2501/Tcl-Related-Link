@@ -30,6 +30,8 @@ provides a sort of geometry manager for Tcl/Tk.
 * [TkDND](https://github.com/petasis/tkdnd)
 * [tktray](https://wiki.tcl.tk/5972) - an extension for managing system tray icons with Tk on X Window System
 * [Mtiwidgets](https://wiki.tcl.tk/6237) - Includes mtiwidgets::mdiframe widget
+* [oowidgets](https://github.com/mittelmark/oowidgets) - Package for creating megawidgets
+using TclOO (WIP)
 * [rtl - Megawidget collection](https://sourceforge.net/projects/gestaltitems/)
 * [TaoLib](http://fossil.etoyoc.com/fossil/taolib/index) - a TclOO megawidget framework
 * [wcb](http://www.nemethi.de/) - The WCB package provides a general-purpose
