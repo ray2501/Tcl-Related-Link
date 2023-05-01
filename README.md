@@ -480,6 +480,8 @@ GD graphics drawing library
 thumbnailing library
 * [tclmagick](http://tclmagick.sourceforge.net/) - Tcl and Tk Interfaces to
 GraphicsMagick and ImageMagick
+* [Tcl-blend2d](https://wiki.tcl-lang.org/page/Blend2d) - TclTk binding for
+[Blend2d](https://blend2d.com/)
 * [pure-tcl BMP reader/writer](https://wiki.tcl-lang.org/page/pure%2Dtcl+BMP+reader%2Fwriter)
 * [Pure Tcl JPEG decoder](https://github.com/dbohdan/ptjd) - A single-file pure Tcl baseline JPEG
 decoder library
