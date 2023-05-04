@@ -508,7 +508,7 @@ For barcode:
 
 And my project:
 
-* [tclqrencode](https://sites.google.com/site/ray2501/tclqrencode) - Tcl interface for libqrencode
+* [tclqrencode](https://github.com/ray2501/tclqrencode) - Tcl interface for libqrencode
 * [tcl-cairo](https://github.com/ray2501/tcl-cairo) - Tcl bindings for Cairo library,
 learn from [tclcairo](https://wiki.tcl.tk/29305)
 * [tcl-stbimage](https://github.com/ray2501/tcl-stbimage) - Tcl extension for stb_image
@@ -551,7 +551,7 @@ And my projects:
 * [tclsndfile](https://github.com/ray2501/tclsndfile) - Tcl bindings for libsndfile
 * [tclopusfile](https://github.com/ray2501/tclopusfile) - Tcl bindings for Opusfile library
 * [tclmpg123](https://github.com/ray2501/tclmpg123) - Tcl bindings for libmpg123 
-* [tcltaglib](https://sites.google.com/site/ray2501/tcltaglib) - Tcl interface
+* [tcltaglib](https://github.com/ray2501/tcltaglib) - Tcl interface
 for taglib (Abstract API only)
 * [tclmixer](https://github.com/ray2501/tclmixer) - source code is from SDL_mixer bindings for Tcl, try to link SDL2
 
@@ -636,7 +636,7 @@ BZip2 compression library
 And my project:
 
 * [tcl.snappy](https://github.com/ray2501/tcl.snappy) - Tcl wrapper for snappy library
-* [Tcl-lzf](https://sites.google.com/site/ray2501/tcl-lzf) - Tcl interface to the LibLZF Library
+* [Tcl-lzf](https://github.com/ray2501/tcl-lzf) - Tcl interface to the LibLZF Library
 * [tcl-archive](https://github.com/ray2501/tcl-archive) - A Tcl wrapper for LibArchive
 
 
@@ -1043,7 +1043,7 @@ And for html and CGI
 * [Tcllib html](https://wiki.tcl.tk/38727) - provides tools to generate HTML programmatically (tcllib module)
 * [htmlparse](https://wiki.tcl.tk/2204) - tcllib module
 * [ncgi](https://wiki.tcl.tk/780) - provides commands that manipulate CGI values (tcllib module)
-* [Tclgumbo](https://sites.google.com/site/ray2501/tclgumbo) - Tcl interface for gumbo library
+* [Tclgumbo](https://github.com/ray2501/tclgumbo) - Tcl interface for gumbo library
 * [tcl-tidy](https://github.com/ray2501/tcl-tidy) - Tcl bindings for libtidy
 * tDOM 9.0 as build option an interface to the gumbo HTML5 parser, which also digests almost
 any other HTML. (--enable-html5)
