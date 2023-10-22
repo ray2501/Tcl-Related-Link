@@ -9,7 +9,6 @@ and [qcode-tcl](https://github.com/qcode-software/qcode-tcl)
 both non threaded Apache MPMs (Multi Process Module), such as mod_mpm_prefork,
 and threaded MPMs such as mod_mpm_worker, mod_mpm_event and mod_mpm_winnt.
 (can work with mod_http2 at mpm_event)
-* [Rivetweb](http://www.rivetweb.org/)
 * [RivetCGI](https://chiselapp.com/user/rkeene/repository/rivetcgi/home) - Rivet as a CGI
 * [websh-tcl](https://github.com/noyesno/websh-tcl) - Revive Websh Tcl - For Web and more
 * [tcl-http](https://github.com/anticrisis/tcl-http) - A simple, fast HTTP server with Tcl handlers
