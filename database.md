@@ -128,6 +128,7 @@ distributed coordination system
 * [tclunqlite](https://github.com/ray2501/tclunqlite)
 * [tclcubrid](https://github.com/ray2501/tclcubrid)
 * [tclmonetdb](https://github.com/ray2501/tclmonetdb)
+* [tcl-monetdbe](https://github.com/ray2501/tcl-monetdbe)
 * [TDBCJDBC](https://github.com/ray2501/TDBCJDBC) and [TclBlend](https://github.com/ray2501/tclBlend) backup
 * [tdbchikaricp](https://github.com/ray2501/tdbchikaricp) - Tcl DataBase Connectivity Driver for
 [HikariCP](http://brettwooldridge.github.io/HikariCP/) library
