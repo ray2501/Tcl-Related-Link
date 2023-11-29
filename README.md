@@ -947,6 +947,8 @@ each intended to solve a particular numerical problem
 * [Tcl-FFTW](https://github.com/mbarriault/Tcl-FFTW) - Tcl wrapper around FFTW
 * [tomato](https://github.com/nico-robert/tomato) - math::geometry Tcl package,
 an opensource geometry 3D library with basics functions for working in 3D space
+* [ggml-tcl](https://github.com/jerily/ggml-tcl) - TCL bindings for ggml,
+a tensor library for machine learning.
 
 And useful info:
 
