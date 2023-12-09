@@ -871,7 +871,7 @@ And my project:
 * [tcllib fileutils](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/fileutil/fileutil.html) - 
 Procedures implementing some file utilities
 * [tmag](https://github.com/makr/tmag) - Tcl's libmagic interface
-* [magic](https://github.com/makr/tmag) - Tcl bindings for libmagic,
+* [magic](https://github.com/nico-robert/magic) - Tcl bindings for libmagic,
 based on [tcl-cffi](https://github.com/apnadkarni/tcl-cffi)
 
 
