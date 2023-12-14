@@ -685,6 +685,8 @@ Compiles as SHA-512, SHA-384, SHA-512/256, SHA-512/224 or compiles as SHA-256, S
 * [ANKH](https://core.tcl-lang.org/akupries/ankh/) - Andreas Kupries' Hashes.
 This package provides commands for a variety of cryptographically secure hashes of
 varying new-ness and strength.
+* [tcl-tomcrypt](https://github.com/cyanogilvie/tcl-tomcrypt) -
+Tcl wrapper for the libtomcrypt library (partial)
 
 
 ## Database
