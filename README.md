@@ -24,7 +24,6 @@ This is one of the central features of Tcl.
 * [Tcler's Wiki](https://wiki.tcl.tk/)
 * [tcltk.free.fr](http://tcltk.free.fr/) - English language Tcl web site in France
 * [Tcl TIP Collection](https://core.tcl.tk/tips/doc/trunk/index.md)
-* [comp.lang.tcl](https://groups.google.com/forum/#!forum/comp.lang.tcl)
 * [Tcl Source Code (core package)](http://core.tcl.tk/)
 * [Tcl Style Guide](https://wiki.tcl.tk/708)
 * [Tcl/Tk Engineering Manual](https://core.tcl.tk/tips/doc/trunk/tip/247.md)
@@ -1508,4 +1507,5 @@ using Tcl code stored in the DB
 * [The "Clone Don Porter" Project](https://wiki.tcl.tk/55306)
 * [Tcl-bounties](https://github.com/flightaware/Tcl-bounties) - Bounty program for improvements to Tcl and certain Tcl packages
 * [@TclLang](https://twitter.com/TclLang) - Twitter feed for news about happenings in the Tcl world
+* [Monthly Virtual Meetup](https://wiki.tcl-lang.org/page/Monthly+Virtual+Meetup)
 
