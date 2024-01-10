@@ -707,6 +707,8 @@ and check:
 Library. It introduces tuple and relation data types and a set of commands that operate on them.
 * [tclvalue](https://github.com/auriocus/tclvalue) - An extension for Tcl 8.6+ to reflect the
 Tcl_Obj API into the script level
+* [type](https://github.com/cyanogilvie/type) - Allow custom Tcl_ObjTypes to be defined and
+used in Tcl scripts
 * [AitCS](https://chiselapp.com/user/stwo/repository/AitCS/index) - Array in the Command's Shadow
 * [Persistent arrays](https://wiki.tcl.tk/3469)
 
@@ -1508,4 +1510,5 @@ using Tcl code stored in the DB
 * [Tcl-bounties](https://github.com/flightaware/Tcl-bounties) - Bounty program for improvements to Tcl and certain Tcl packages
 * [@TclLang](https://twitter.com/TclLang) - Twitter feed for news about happenings in the Tcl world
 * [Monthly Virtual Meetup](https://wiki.tcl-lang.org/page/Monthly+Virtual+Meetup)
+* [Monatlicher virtueller Tcl Stammtisch](https://wiki.tcl-lang.org/page/Monatlicher+virtueller+Tcl+Stammtisch) - A virtual European Tcl Meetup
 
