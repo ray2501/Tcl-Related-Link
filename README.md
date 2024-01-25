@@ -679,6 +679,8 @@ And my project:
 * [Cryptkit](https://wiki.tcl.tk/13191) - a Tcl binding to the Cryptlib security toolkit
 * [NaCl: Networking and Cryptography library](https://wiki.tcl.tk/47681)
 * [TclTLS](https://core.tcl.tk/tcltls/index) - OpenSSL extension to Tcl
+* [tcl-s2n](https://github.com/cyanogilvie/tcl-s2n) - Stack a TLS protocol driver
+on any Tcl channel that supports read and write, using the s2n TLS implementation
 * [tcl-sha](https://sourceforge.net/projects/tcl-sha/) - A Tcl loadable module to do SHA hashes.
 Compiles as SHA-512, SHA-384, SHA-512/256, SHA-512/224 or compiles as SHA-256, SHA-224.
 * [ANKH](https://core.tcl-lang.org/akupries/ankh/) - Andreas Kupries' Hashes.
