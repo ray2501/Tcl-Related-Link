@@ -1358,6 +1358,8 @@ IEEE-488 ([GPIB](https://wiki.tcl-lang.org/page/GPIB)) bus.
 * [tclvisa](http://tclvisa.sourceforge.net/) - Tcl binding to VISA API.
 Virtual Instrument Software Architecture (VISA) is, generally speaking,
 measurement instrument contolling API.
+* [tcladu](https://github.com/johnpeck/tcladu) - Tcl package supporting multiple ADU100s
+from Ontrak Control Systems via libusb and SWIG.
 
 
 ### Arduino
