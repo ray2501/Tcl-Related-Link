@@ -688,6 +688,10 @@ This package provides commands for a variety of cryptographically secure hashes 
 varying new-ness and strength.
 * [tcl-tomcrypt](https://github.com/cyanogilvie/tcl-tomcrypt) -
 Tcl wrapper for the libtomcrypt library (partial)
+* [tink-tcl](https://wiki.tcl-lang.org/page/tink%2Dtcl) -
+Tcl bindings for [Tink](https://developers.google.com/tink).
+Tink is a multi-language, cross-platform, open source library that
+provides secure and easy-to-use cryptographic APIs.
 
 
 ## Database
