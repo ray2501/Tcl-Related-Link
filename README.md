@@ -1090,6 +1090,7 @@ And Example - [Taygete Scrap Book](https://wiki.tcl-lang.org/page/Taygete+Scrap+
 * [AWS_lambda](https://github.com/RubyLane/AWS_lambda) - Tcl runtime for AWS Lambda and 
 some layers for  talking to AWS services and processing image
 * [aws-tcl](https://github.com/cyanogilvie/aws-tcl) - Tcl related resources for AWS
+* [aws-sdk-tcl](https://github.com/jerily/aws-sdk-tcl) - TCL bindings for the AWS SDK C++.
 
 
 ## Container
