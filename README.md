@@ -1115,6 +1115,10 @@ Study:
 testing Tcl and C code with CircleCI
 * [tcl2020-build](https://github.com/tcl2020/tcl2020-build) - Create Docker images
 
+And useful info:
+
+* [Tcl docker container](https://wiki.tcl-lang.org/page/Tcl+docker+container)
+
 
 ## Platform
 
