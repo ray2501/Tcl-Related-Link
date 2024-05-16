@@ -1447,6 +1447,8 @@ Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有�
 
 * [Enhanced Tk Console: tkcon](http://tkcon.sourceforge.net/)
 * [ASED](https://sourceforge.net/projects/ased/), [Wiki page](https://wiki.tcl.tk/1278) - BWidget IDE allowing editing of multiple Tcl files
+* [aloupe](https://wiki.tcl-lang.org/page/aloupe%2C+a+screen+loupe) - is a Tcl/Tk small widget/utility
+allowing to view the screen through a loupe. The Img and treectrl packages have to be installed to run it.
 * [BallroomDJ](https://ballroomdj.org/) - a ballroom music player
 * [Calc](https://wiki.tcl-lang.org/page/calc) - a Tcl/Tk calculator application
 * [darwaza](https://github.com/Koshroy/darwaza) - A dynamic,
