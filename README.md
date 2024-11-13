@@ -7,7 +7,7 @@ Tcl-Related-Link
 Tcl
 =====
 
-## [Summary of Tcl language syntax](https://www.tcl.tk/man/tcl8.6/TclCmd/Tcl.htm)
+## [Summary of Tcl language syntax](https://www.tcl.tk/man/tcl9.0/TclCmd/Tcl.html)
 
 Tcl 說明文件中關於語法的說明，總共有 12 條規則。
 
@@ -149,7 +149,6 @@ Contents
 
 ## Books
 
-* [TCLWISE](http://www.invece.org/tclwise/)
 * [Tcl Wikibook](https://en.wikibooks.org/wiki/Tcl_Programming)
 * [Object Oriented Programming in Tcl](http://www.magicsplat.com/articles/oo.html)
 * [The Tcl Database Connectivity interface](http://www.magicsplat.com/articles/tdbc.html)
@@ -1519,7 +1518,6 @@ using Tcl code stored in the DB
 * [Exercism Tcl Test Runner](https://github.com/exercism/tcl-test-runner)
 * [Cameron Laird's personal notes on commercial aspects of Tcl](http://phaseit.net/claird/comp.lang.tcl/commercial-tcl.html)
 * [Andreas' ComputerLab BLOG](https://core.tcl.tk/akupries/blog/)
-* [Dai's Blog](http://blog.got7.org/)
 * [dbohdan blog](http://dbohdan.com/blog/)
 * [tclcode - Tcl/Tk code by Detlef Groth](https://chiselapp.com/user/dgroth/repository/tclcode/index)
 * [magicsplat.com](http://www.magicsplat.com/) - Software, articles and blog
