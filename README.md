@@ -1273,6 +1273,7 @@ an interface to TCC
 Useful info:
 * [Accessing C library functions using Critcl](https://wiki.tcl.tk/11227)
 * [Cmake](https://wiki.tcl-lang.org/page/Cmake)
+* [Meson](https://wiki.tcl-lang.org/page/Meson)
 * [Adding Tcl/Tk to a C application](https://wiki.tcl-lang.org/page/Adding+Tcl%2FTk+to+a+C+application)
 
 

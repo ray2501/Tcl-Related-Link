@@ -13,7 +13,7 @@ puts "##########   Start   ##########"
 if {$argc >= 1} {
    cd [lindex $argv 0]
 } elseif {$argc == 0} {
-   cd "~/tmp"
+   cd "$::env(HOME)/tmp"
 }
 
 foreach filename [glob -nocomplain *.jpg] {
