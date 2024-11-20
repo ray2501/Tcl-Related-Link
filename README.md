@@ -1417,9 +1417,9 @@ A binary Tcl extension for working with the cryptocurrency Nano
 可以從 Tcl 社群提供的 Sample extension 開始。
 
     # Replace sample with the name of your extension
-    wget -qO- http://core.tcl.tk/sampleextension/tarball/sample.tar.gz | tar xzv
+    wget2 -qO- http://core.tcl.tk/sampleextension/tarball/sample.tar.gz | tar xzv
     cd sample
-    wget -qO- http://core.tcl.tk/tclconfig/tarball/tclconfig.tar.gz | tar xzv
+    wget2 -qO- http://core.tcl.tk/tclconfig/tarball/tclconfig.tar.gz | tar xzv
 
     # Write your source files
     # Edit configure.in
