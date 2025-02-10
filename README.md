@@ -958,7 +958,8 @@ Tcl Math Library
 each intended to solve a particular numerical problem
 * [Mpexpr](http://mpexpr.sourceforge.net/) - Mpexpr is a multiple precision math package for Tcl
 * [tensor](http://www.eecs.umich.edu/~mckay/computer/)
-* [VecTcl](http://auriocus.github.io/VecTcl/)
+* [VecTcl9](https://github.com/bgriffinfortytwo/VecTcl9/tree/abstractlist) -
+[VecTcl](http://auriocus.github.io/VecTcl/) for Tcl 9
 * [Tcl-FFTW](https://github.com/mbarriault/Tcl-FFTW) - Tcl wrapper around FFTW
 * [tomato](https://github.com/nico-robert/tomato) - math::geometry Tcl package,
 an opensource geometry 3D library with basics functions for working in 3D space
