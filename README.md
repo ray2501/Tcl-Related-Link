@@ -363,7 +363,8 @@ A collection of popular design patterns implemented in TCL language with TclOO p
 * [tclstuff](https://github.com/fp4code/tclstuff)
 * [jbr.tcl](https://github.com/jbroll/jbr.tcl)
 * [DGTcl](https://github.com/mittelmark/DGTcl) - Tcl packages and Tk widgets
-
+* [Tin](https://github.com/ambaker1/Tin) - Github-based Tcl package manager.
+It is a tool to handle tcl packages written by Alex Baker.
 
 
 ## Object-oriented
