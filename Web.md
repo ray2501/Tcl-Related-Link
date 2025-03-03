@@ -28,6 +28,7 @@ in the style of Tclhttpd
 * [tcl-xcgi](https://github.com/noyesno/tcl-xcgi) - Tcl for CGI, FastCG, SCGI, WSGI, etc.
 * [Toolatra](https://github.com/timkoi/toolatra) - Sinatra-like micro web framework for Tcl
 * [Wapp](https://wapp.tcl.tk/index.html/doc/trunk/README.md) - A Web-Application Framework for TCL
+* [wapp-fork](https://wiki.tcl-lang.org/page/wapp%2Dfork) - A fork of Wapp
 * [woof](http://sourceforge.net/projects/woof) - Web Oriented Object Framework
 * [tclssg](https://github.com/tclssg/tclssg): A static site generator with template support written in Tcl
 * [tcl-simple-templater](https://github.com/cyrilthomas/tcl-simple-templater)
