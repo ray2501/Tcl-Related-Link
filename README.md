@@ -468,6 +468,8 @@ and check:
 
 * [tkImg](https://sourceforge.net/projects/tkimg/) - Additional image formats
 * [tksvg](https://github.com/oehhar/tksvg) - An extension for Tk to read SVG images based on nanosvg
+* [tresvg](https://github.com/nico-robert/tresvg) - Tcl wrapper around [resvg](https://github.com/linebender/resvg),
+based on tcl-cffi.
 * [Imgtools](http://tkimgtools.sourceforge.net/index.html) - manipulate Tk photo images
 * [CRIMP](https://core.tcl.tk/akupries/crimp/home) - C Raster Image Manipulation Package
 * [PhotoResize](https://github.com/auriocus/PhotoResize) - A single-purpose extension for
