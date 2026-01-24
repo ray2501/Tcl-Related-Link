@@ -15,7 +15,7 @@ if {[catch {package require archive} errMsg] == 1} {
     set haveArchive 0
 }
 
-set version "1.10.2"
+set version "1.25.6"
 set fileurl "https://dl.google.com/go/go$version.linux-amd64.tar.gz"
 set home /home/danilo
 set gofile "go$version.linux-amd64.tar.gz"
@@ -29,7 +29,8 @@ if {[file exists $gofile]==0} {
     puts "Dowonload file..."
     set f [open $gofile {WRONLY CREAT EXCL}]
 
-    http::register https 443 [list ::tls::socket -ssl3 0 -ssl2 0 -tls1 1]
+    set protocol "http/1.1"
+    http::register https 443 [list ::tls::socket -autoservername 1 -require 1 -alpn [list [string tolower $protocol]]]
     set token [http::geturl $fileurl -channel $f]
     http::cleanup $token
     close $f
