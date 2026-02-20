@@ -811,17 +811,19 @@ And you can check [Markdown2Go](https://wiki.tcl-lang.org/page/Markdown2Go).
 
 ### JSON
 
-* [Tcllib JSON](https://wiki.tcl-lang.org/40053)
-* [yajl-tcl](https://wiki.tcl-lang.org/28240) - a Tcl binding for yajl (yet another json library)
-* [tcl-json](https://github.com/bef/tcl-json)
+* [Tcllib JSON](https://wiki.tcl-lang.org/page/Tcllib+JSON)
+* [yajl-tcl](https://wiki.tcl-lang.org/page/yajl%2Dtcl) - a Tcl binding for yajl (yet another json library)
 * [rl_json](https://github.com/RubyLane/rl_json) - Extends Tcl with a json value type
-and a command to manipulate json values directly, and [rl_json Extensions](https://wiki.tcl-lang.org/48276)
+and a command to manipulate json values directly,
+and [rl_json Extensions](https://wiki.tcl-lang.org/page/RL%5FJSON+Extensions)
+* [tcl-json](https://github.com/bef/tcl-json)
 * [tcl-duktape](https://github.com/dbohdan/tcl-duktape) - Tcl bindings for Duktape, an embedded
 JavaScript interpreter. It has JSON objects support.
 * [tDOM](http://tdom.github.io/) adds a JSON parser after v0.9
 * [tcljsonnet](https://github.com/ray2501/tcljsonnet)
-* [JQ](https://wiki.tcl-lang.org/11630) - Wrapper for command-line tool, [JQ](https://stedolan.github.io/jq/manual/)
-* [Playing XPath with JSON](https://wiki.tcl-lang.org/40865)
+* [JQ](https://wiki.tcl-lang.org/page/JQ) - Wrapper for command-line tool,
+[JQ](https://jqlang.org/manual/)
+* [Playing XPath with JSON](https://wiki.tcl-lang.org/page/Playing+XPath+with+JSON)
 * [xjson.tcl](https://github.com/ianka/xjson.tcl) - A Tcl library that validates,
 collects, composes JSON data against supplied schemas and to/from Tcl datat.
 
@@ -839,14 +841,14 @@ And you also can check [BessyHDFViewer](https://github.com/BessyHDFViewer/BessyH
 
 ### Office File
 
-* [ooxml](https://tcl.sowaswie.de/repos/fossil/ooxml/index) - 
+* [ooxml](https://fossil.sowaswie.de/ooxml/index) - 
 Read and Write Office Open XML "XLSX" since Excel 2007
 
 ### PDF
 
 * [Pdf4Tcl](https://sourceforge.net/projects/pdf4tcl/)
 * [TCLFPDF](https://github.com/lamuzzachiodi/tclfpdf) - a port of tFPDF from PHP to TCL
-* [tclMuPdf](https://wiki.tcl-lang.org/48296) - a porting of the [MuPdf](http://mupdf.com/) framework
+* [tclMuPdf](https://wiki.tcl-lang.org/page/tclMuPdf) - a porting of the [MuPdf](http://mupdf.com/) framework
 * [haru](https://github.com/nico-robert/haru) - Tcl bindings for libharu
 
 ### SenML
@@ -859,13 +861,12 @@ and a SenML wrapper
 
 ### XML
 
-* [tDOM](http://tdom.github.io/)
-* [TclXML](http://tclxml.sourceforge.net/) and
+* [tDOM](https://tdom.org/)
+* [TclXML](https://tclxml.sourceforge.net/) and
 you can check [here](https://github.com/flightaware/TclXML)
-* [TclSOAP](http://tclsoap.sourceforge.net/) and [Wiki page](https://wiki.tcl-lang.org/1753) - supports
+* [TclSOAP](https://tclsoap.sourceforge.net/) and 
+[Wiki page](https://wiki.tcl-lang.org/page/TclSOAP) - supports
 SOAP and XML-RPC, based on TclDOM (TclDOM is the DOM part of TclXML project).
-[SCM Repositories](http://tclsoap.cvs.sourceforge.net/viewvc/tclsoap/tclsoap/) version (1.6.8)
-switched TclDOM over to tDOM and add JSON-RPC support, changed by ActiveState.
 * [Web Services for Tcl](http://core.tcl-lang.org/tclws/index)
 
 And my project:
@@ -875,13 +876,13 @@ And my project:
 ### YAML
 
 * [Tcllib YAML module](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/yaml/yaml.html)
-* [TclYAML](http://chiselapp.com/user/andreas_kupries/repository/tclyaml/index) - provides a Tcl Binding to the [libyaml](http://pyyaml.org/wiki/LibYAML) library
+* [TclYAML](https://chiselapp.com/user/andreas_kupries/repository/tclyaml/index) - provides a Tcl Binding to the [libyaml](https://pyyaml.org/wiki/LibYAML) library
 
 
 ## Fileutils
 
-* [file](https://www.tcl-lang.org/man/tcl/TclCmd/file.htm) - Manipulate file names and attributes
-* [glob](https://www.tcl-lang.org/man/tcl/TclCmd/glob.htm) - Return names of files that match patterns
+* [file](https://www.tcl-lang.org/man/tcl9.0/TclCmd/file.html) - Manipulate file names and attributes
+* [glob](https://www.tcl-lang.org/man/tcl9.0/TclCmd/glob.html) - Return names of files that match patterns
 * [tcllib fileutils](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/fileutil/fileutil.html) - 
 Procedures implementing some file utilities
 * [tmag](https://github.com/makr/tmag) - Tcl's libmagic interface
@@ -893,18 +894,18 @@ based on [tcl-cffi](https://github.com/apnadkarni/tcl-cffi)
 
 * [tcllib nmea](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/nmea/nmea.html) - provides a standard
 interface for writing software which recieves NMEA standard input data
-* [proj](https://wiki.tcl-lang.org/39048) - swig based binding for tcl for the proj.4 library using the new API.
+* [proj](https://wiki.tcl-lang.org/page/proj) - swig based binding for tcl for the proj.4 library using the new API.
 * [Shapetcl](https://github.com/anoved/Shapetcl): Simple shapefile access for Tcl.
 
 And useful info:
 
-* [Category Geography](https://wiki.tcl-lang.org/16300)
-* [GIS](https://wiki.tcl-lang.org/2459)
+* [Category Geography](https://wiki.tcl-lang.org/page/Category+Geography)
+* [GIS](https://wiki.tcl-lang.org/page/GIS)
 
 
 ## Internationalization and localization
 
-* [msgcat](https://www.tcl-lang.org/man/tcl/TclCmd/msgcat.htm) - a built-in manages Tcl message catalogs
+* [msgcat](https://www.tcl-lang.org/man/tcl9.0/TclCmd/msgcat.html) - a built-in manages Tcl message catalogs
 for localising text
 * [tcl-collate](https://wiki.tcl-lang.org/page/Collation) - A Tcl interface to strcoll()
 (or _mbscoll() on Windows). And a Tcl interface to setlocale().
@@ -912,22 +913,21 @@ for localising text
 
 ## Networking
 
-* [socket](https://www.tcl-lang.org/man/tcl/TclCmd/socket.htm) - a built-in Tcl command,
+* [socket](https://www.tcl-lang.org/man/tcl9.0/TclCmd/socket.html) - a built-in Tcl command,
 opens a TCP network connection
 * [Tcl UDP extension](https://core.tcl-lang.org/tcludp/index)
-* [tclpcap](http://tclpcap.sourceforge.net/) - Tcl extension that allows access
+* [tclpcap](https://tclpcap.sourceforge.net/) - Tcl extension that allows access
 to the libpcap library (need update)
 * [scotty](https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
-* [tclnetsnmp](http://tcl.uk.to/) - netsnmp package for TCL 8.6
 * [ecap-tcl](https://github.com/petasis/ecap-tcl) - An eCAP adapter for Tcl
-* [Netinfo](https://wiki.tcl-lang.org/17493) - Protocol, service, network, host and ether info
+* [Netinfo](https://wiki.tcl-lang.org/page/Netinfo) - Protocol, service, network, host and ether info
 * [Tcllib ldap](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ldap/ldap.html) - LDAP client
 * [Sensus ldap](https://web.archive.org/web/20130730202916/www.sensus.org/tcl/)
 * [Tcllib ftp](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ftp/ftp.html) - Client-side tcl implementation of the ftp protocol
 * [socketservertcl](https://github.com/flightaware/socketservertcl) - Basic socketserver support in 
 Tcl inspired by libancillary
-* [tclcan](https://wiki.tcl-lang.org/55310) - Tcl interface to Linux SocketCAN
-* [UPnP](http://chiselapp.com/user/schelte/repository/upnp/index) - Universal Plug and Play
+* [tclcan](https://wiki.tcl-lang.org/page/tclcan) - Tcl interface to Linux SocketCAN
+* [UPnP](https://chiselapp.com/user/schelte/repository/upnp/index) - Universal Plug and Play
 * [Duft](https://sourceforge.net/projects/duft/) - Datagrams and Udp For Tcl
 * [Hosts](https://gitlab.com/dbohdan/hosts) - Command line tool and Tcl library for manipulating /etc/hosts
 * [tcl-ip-console](https://github.com/flightaware/tcl-ip-console) - provides telnet access to 
@@ -944,26 +944,26 @@ bots and components written in Tcl or Tcl/Tk
 
 And useful info:
 
-* [Modbus](https://wiki.tcl-lang.org/40888) - a de facto standard communication protocol and is now
+* [Modbus](https://wiki.tcl-lang.org/page/Modbus) - a de facto standard communication protocol and is now
 a commonly available means of connecting industrial electronic devices
-* [topcua](https://wiki.tcl-lang.org/55543) - OPC Unified Architecture (OPC UA) is a machine to machine 
+* [topcua](https://wiki.tcl-lang.org/page/topcua) - OPC Unified Architecture (OPC UA) is a machine to machine 
 communication protocol for industrial automation developed by the OPC Foundation
 
 
 ## Numeric processing
 
-* [expr](https://www.tcl-lang.org/man/tcl/TclCmd/expr.htm) is a built-in Tcl command, evaluates an expression.
-* [tcl::mathfunc](https://wiki.tcl-lang.org/20279) - The ::tcl::mathfunc namespace provides commands for
+* [expr](https://www.tcl-lang.org/man/tcl9.0/TclCmd/expr.html) is a built-in Tcl command, evaluates an expression.
+* [tcl::mathfunc](https://wiki.tcl-lang.org/page/tcl%3A%3Amathfunc) - The ::tcl::mathfunc namespace provides commands for
 all the functions available in expr command.
-* [Tcllib math](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/math/math.html) -
+* [Tcllib math](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/math/math.html) -
 Tcl Math Library
-* [LA](http://www.hume.com/la/) - The Hume Linear Algebra Tcl Package
-* [mathemaTcl](https://wiki.tcl-lang.org/48535) - MathemaTcl is a collection of compiled extensions for Tcl,
+* [LA](https://www.hume.com/la/) - The Hume Linear Algebra Tcl Package
+* [mathemaTcl](https://wiki.tcl-lang.org/page/mathemaTcl) - MathemaTcl is a collection of compiled extensions for Tcl,
 each intended to solve a particular numerical problem
-* [Mpexpr](http://mpexpr.sourceforge.net/) - Mpexpr is a multiple precision math package for Tcl
-* [tensor](http://www.eecs.umich.edu/~mckay/computer/)
+* [Mpexpr](https://mpexpr.sourceforge.net/) - Mpexpr is a multiple precision math package for Tcl
+* [tensor](https://www.eecs.umich.edu/~mckay/computer/)
 * [VecTcl9](https://github.com/bgriffinfortytwo/VecTcl9/tree/abstractlist) -
-[VecTcl](http://auriocus.github.io/VecTcl/) for Tcl 9
+[VecTcl](https://auriocus.github.io/VecTcl/) for Tcl 9
 * [Tcl-FFTW](https://github.com/mbarriault/Tcl-FFTW) - Tcl wrapper around FFTW
 * [tomato](https://github.com/nico-robert/tomato) - math::geometry Tcl package,
 an opensource geometry 3D library with basics functions for working in 3D space
@@ -972,8 +972,8 @@ a tensor library for machine learning.
 
 And useful info:
 
-* [Additional math functions](https://wiki.tcl-lang.org/819)
-* [Numerical Analysis in Tcl](https://wiki.tcl-lang.org/1272)
+* [Additional math functions](https://wiki.tcl-lang.org/page/Additional+math+functions)
+* [Numerical Analysis in Tcl](https://wiki.tcl-lang.org/page/Numerical+Analysis+in+Tcl)
 
 
 ## Parser Engine
