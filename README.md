@@ -1,17 +1,17 @@
 Tcl-Related-Link
 =====
 
-這是一個我個人收集的 [Tcl](https://www.tcl.tk/) 相關連結網頁。目的是我需要某個連結的時候，可以很快的找到。
+這是一個我個人收集的 [Tcl](https://www.tcl-lang.org/) 相關連結網頁。目的是我需要某個連結的時候，可以很快的找到。
 
 
 Tcl
 =====
 
-## [Summary of Tcl language syntax](https://www.tcl.tk/man/tcl9.0/TclCmd/Tcl.html)
+## [Summary of Tcl language syntax](https://www.tcl-lang.org/man/tcl9.0/TclCmd/Tcl.html)
 
 Tcl 說明文件中關於語法的說明，總共有 12 條規則。
 
-## [Everything is a string](https://wiki.tcl.tk/3018)
+## [Everything is a string](https://wiki.tcl-lang.org/page/everything+is+a+string)
 
 The more precise meaning of Everything is a string is every value is a string.
 This is one of the central features of Tcl.
@@ -20,22 +20,22 @@ This is one of the central features of Tcl.
 官網與相關文件
 =====
 
-* [Tcl Developer Site](https://www.tcl.tk/)
-* [Tcler's Wiki](https://wiki.tcl.tk/)
+* [Tcl Developer Site](https://www.tcl-lang.org/)
+* [Tcler's Wiki](https://wiki.tcl-lang.org/)
 * [tcltk.free.fr](http://tcltk.free.fr/) - English language Tcl web site in France
-* [Tcl TIP Collection](https://core.tcl.tk/tips/doc/trunk/index.md)
-* [Tcl Source Code (core package)](http://core.tcl.tk/)
-* [Tcl Style Guide](https://wiki.tcl.tk/708)
-* [Tcl/Tk Engineering Manual](https://core.tcl.tk/tips/doc/trunk/tip/247.md)
-* [Tcl Threading Model](https://www.tcl.tk/doc/howto/thread_model.html)
+* [Tcl TIP Collection](https://core.tcl-lang.org/tips/doc/trunk/index.md)
+* [Tcl Source Code (core package)](https://core.tcl-lang.org/index.html)
+* [Tcl Style Guide](https://wiki.tcl-lang.org/page/Tcl+Style+Guide)
+* [Tcl/Tk Engineering Manual](https://core.tcl-lang.org/tips/doc/trunk/tip/247.md)
+* [Tcl Threading Model](https://www.tcl-lang.org/doc/howto/thread_model.html)
 * [TkDocs](https://tkdocs.com/index.html)
-* [Official library of extensions](https://wiki.tcl.tk/30)
-* [Great Unified Tcl/Tk Extension Repository](http://core.tcl.tk/jenglish/gutter/)
-* [RosettaCode: Tcl](http://rosettacode.org/wiki/Category:Tcl)
-* [Example Scripts Everybody Should Have](https://wiki.tcl.tk/460)
-* [Tcl on Windows FAQ](https://www.tcl.tk/faq/tclwin.htm)
-* [Expect FAQ](https://wiki.tcl.tk/11581)
-* [Forward compatibility](https://wiki.tcl.tk/1537)
+* [Official library of extensions](https://wiki.tcl-lang.org/page/Official+library+of+extensions)
+* [Great Unified Tcl/Tk Extension Repository](https://core.tcl-lang.org/jenglish/gutter/)
+* [RosettaCode: Tcl](https://rosettacode.org/wiki/Category:Tcl)
+* [Example Scripts Everybody Should Have](https://wiki.tcl-lang.org/page/Example+Scripts+Everybody+Should+Have)
+* [Tcl on Windows FAQ](https://www.tcl-lang.org/faq/tclwin.htm)
+* [Expect FAQ](https://wiki.tcl-lang.org/page/Expect+FAQ)
+* [Forward compatibility](https://wiki.tcl-lang.org/page/Forward+compatibility)
 * [TCL Windows Help File](https://wiki.tcl-lang.org/page/TCL+Windows+Help+File),
 and [tcl-docs at sourceforge](https://sourceforge.net/projects/magicsplat/files/tcl-docs/)
 
@@ -150,50 +150,52 @@ Contents
 ## Books
 
 * [Tcl Wikibook](https://en.wikibooks.org/wiki/Tcl_Programming)
-* [Object Oriented Programming in Tcl](http://www.magicsplat.com/articles/oo.html)
-* [The Tcl Database Connectivity interface](http://www.magicsplat.com/articles/tdbc.html)
-* [Tcl Programming for Windows](http://www.magicsplat.com/book/)
-* [Tcl/Tk: A Developer's Guide](https://wiki.tcl.tk/9149)
+* [Object Oriented Programming in Tcl](https://www.magicsplat.com/articles/oo.html)
+* [The Tcl Database Connectivity interface](https://www.magicsplat.com/articles/tdbc.html)
+* [Tcl Programming for Windows](https://www.magicsplat.com/book/)
+* [Tcl/Tk: A Developer's Guide](https://wiki.tcl-lang.org/page/BOOK%3A+Tcl%2FTk%3A+A+Developer%27s+Guide)
 * [Tcl for Web Nerds](http://philip.greenspun.com/tcl/)
 * [Practical Programming in Tcl and Tk](http://www.beedub.com/book/)
-* [Tcl and the Tk Toolkit (2nd Edition)](http://www.tcltk-book.com/): Updated for Tcl/Tk 8.5
-* [Tcl/Tk 8.5 Programming Cookbook](https://wiki.tcl.tk/28075)
-* [Tcl 8.5 Network Programming](https://wiki.tcl.tk/26647)
-* [The Tcl Programming Language](https://wiki.tcl.tk/48868): Book for Tcl (8.6)
-* [Tcl/Tk Tutorial](https://www.tutorialspoint.com/tcl-tk/)
+* [Tcl and the Tk Toolkit (2nd Edition)](https://wiki.tcl-lang.org/page/BOOK+Tcl+and+the+Tk+Toolkit+%282nd+Edition%29): Updated for Tcl/Tk 8.5
+* [Tcl/Tk 8.5 Programming Cookbook](https://wiki.tcl-lang.org/page/BOOK%3A+Tcl%2FTk+8%2E5+Programming+Cookbook)
+* [Tcl 8.5 Network Programming](https://wiki.tcl-lang.org/page/BOOK+Tcl+8%2E5+Network+Programming)
+* [The Tcl Programming Language](https://wiki.tcl-lang.org/page/BOOK+The+Tcl+Programming+Language): Book for Tcl
+(updated for 9.0)
+* [Tcl/Tk Tutorial](https://www.tutorialspoint.com/tcl-tk/index.htm)
 * [Tcl Tutorial](https://wiki.tcl-lang.org/page/Tcl+Tutorial+Index)
-* [Tcl/Tk tutorial](http://zetcode.com/gui/tcltktutorial/)
+* [Tcl/Tk tutorial](https://zetcode.com/gui/tcltktutorial/)
 * [Tcl Reference Card](https://wiki.tcl-lang.org/page/BOOK+Tcl+Reference+Card)
 
-And check [Book](https://wiki.tcl.tk/3334).
+And check [Book](https://wiki.tcl-lang.org/page/Category+Book).
 
 
 ## Tcl Distributions
 
 ### Source
 
-* [Sources](https://www.tcl.tk/software/tcltk/download.html)
+* [Sources](https://www.tcl-lang.org/software/tcltk/download.html)
 
 ### Binary for Windows
 
-* [ActiveTcl](http://www.activestate.com/activetcl): A [Batteries Included](https://wiki.tcl.tk/2352) binary Distribution
-* [BAWT-Tcl](http://www.bawt.tcl3d.org/download.html#tclbi) - Batteries Included Setup Program
+* [ActiveTcl](http://www.activestate.com/activetcl):
+A [Batteries Included](https://wiki.tcl-lang.org/page/Batteries+Included) binary Distribution
+* [BAWT-Tcl](https://www.bawt.tcl3d.org/download.html#tclbi) - Batteries Included Setup Program
 * [IronTcl](https://www.irontcl.com/) - is a binary distribution of Tcl and Tk.
-* [Magicsplat Tcl/Tk for Windows](http://www.magicsplat.com/tcl-installer/index.html)
+* [Magicsplat Tcl/Tk for Windows](https://www.magicsplat.com/tcl-installer/index.html)
 
 ### TclKits
 
-* [TclKits](http://tclkits.rkeene.org/fossil/wiki/Downloads)
-* [SDX](https://wiki.tcl.tk/3411)
+* [TclKits](https://tclkits.rkeene.org/fossil/wiki/Downloads)
+* [SDX](https://wiki.tcl-lang.org/page/sdx)
 
 
 ## Editor and IDE
 
-* [VIM](http://www.vim.org/)
-* [Notepad++](https://notepad-plus-plus.org/zh/) - For Microsoft Windows environment, supports Tcl syntax highlighting
+* [VIM](https://www.vim.org/)
 * [kate](https://kate-editor.org/) - Supports Tcl syntax highlighting, Symbol Viewer Plugin
 * [Komodo Edit](https://www.activestate.com/komodo-ide/downloads/edit)
-* [Eclipse](http://www.eclipse.org/) and [Eclipse Dynamic Languages Toolkit](https://projects.eclipse.org/projects/technology.dltk). DLTK provides Tcl support.
+* [Eclipse](https://www.eclipse.org/) and [Eclipse Dynamic Languages Toolkit](https://projects.eclipse.org/projects/technology.dltk). DLTK provides Tcl support.
+* [Notepad++](https://notepad-plus-plus.org/) - For Microsoft Windows environment, supports Tcl syntax highlighting
 * [Visual Studio Code](https://code.visualstudio.com/) and 
 [Tcl for Visual Studio Code](https://github.com/bitwisecook/vscode-tcl), 
 [VS Code Tcl Debug](https://github.com/conej730/vscode-tcl-debug),
@@ -201,18 +203,19 @@ And check [Book](https://wiki.tcl.tk/3334).
 * [alited](https://aplsimple.github.io/en/tcl/alited/) - A lite editor,
 and [tclbag](https://github.com/aplsimple/tclbag).
 * [Tloona](https://github.com/ecky-l/tloona) - A Tcl/Tk IDE
-* [RamDebugger](http://www.compassis.com/ramdebugger/) - a debugger and IDE for TCL-TK (require tcllib, tklib, TkImg and TkTreeCtrl)
+* [RamDebugger](https://wiki.tcl-lang.org/page/RamDebugger) - a debugger and IDE for TCL-TK (require tcllib, tklib, TkImg and TkTreeCtrl)
 * [TKE Text Editor](http://tke.sourceforge.net/)
 
 Useful info:
 
 * [e_menu](https://aplsimple.github.io/en/tcl/e_menu/) - menuing system for editors
-* [Tcl Editors](https://wiki.tcl.tk/1184)
-* [IDE](https://wiki.tcl.tk/998)
+* [Tcl Editors](https://wiki.tcl-lang.org/page/Tcl+Editors)
+* [IDE](https://wiki.tcl-lang.org/page/IDE)
 
 And TDK (Tcl Dev Kit) is open sourced by ActiveState, check
 
-* [Tcl Dev Kit](https://github.com/ActiveState/tdk) and [Tcl Dev Kit](https://wiki.tcl.tk/3960)
+* [Tcl Dev Kit](https://github.com/ActiveState/tdk) and
+[Tcl Dev Kit](https://wiki.tcl-lang.org/page/Tcl+Dev+Kit)
 
 
 ## Version control
@@ -237,15 +240,16 @@ checks are in the tests directory.
 ## Compiler
 
 * [Tcl extension for the LLVM C API](https://github.com/jdc8/llvmtcl)
-* [tclquadcode](https://wiki.tcl.tk/40985) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
-And [Godzilla Guides to tclquadcode](https://wiki.tcl.tk/54793).
+* [tclquadcode](https://wiki.tcl-lang.org/page/tclquadcode) - Experimental Tcl Compiler, requires Tcl 8.6 and llvmtcl.
+And [Godzilla Guides to tclquadcode](https://wiki.tcl-lang.org/page/Godzilla+Guides+to+tclquadcode).
 * [OttoCompiler](https://wiki.tcl-lang.org/page/OttoCompiler) - The Tcl-Compiler compiles
 Tcl-Scripts into native C-Code
 
 
 ## Debugger
 
-* [TclProDebug](https://github.com/flightaware/TclProDebug) - Upgrade of debugger from classic [TclPro](https://wiki.tcl.tk/365) to Tcl 8.5+
+* [TclProDebug](https://github.com/flightaware/TclProDebug) -
+Upgrade of debugger from classic [TclPro](https://wiki.tcl-lang.org/page/TclPro) to Tcl 8.5+
 * [Tclgdb](https://github.com/flightaware/tclgdb) - Use gdb breakpoints for Tcl source with Tcl_CreateTrace
 * [lttngtcl](https://github.com/flightaware/lttngtcl) - LTTng trace provider which connects to Tcl_CreateTrace
 * [ddt](https://github.com/Drolla/ddt) - Dynamic Debugging for Tcl
@@ -253,27 +257,27 @@ Tcl-Scripts into native C-Code
 
 ## Code Analysis
 
-[info](https://www.tcl.tk/man/tcl/TclCmd/info.htm) is a built-in command,
+[info](https://www.tcl-lang.org/man/tcl9.0/TclCmd/info.html) is a built-in command,
 provides information about the state of a Tcl interpreter. With info,
 you can find out about your Tcl environment.
 
 * TclParser - You can get it from [TclProDebug](https://github.com/flightaware/TclProDebug),
 at lib/tclparser folder
-* [Nagelfar](http://nagelfar.sourceforge.net/) - to read a Tcl program and provide static syntax analysis,
-and [Nagelfar-Vim](https://wiki.tcl.tk/28746)
-* [tclchecker](https://wiki.tcl.tk/11245) - a component of Tcl Dev Kit,
-is a fork of [procheck](https://wiki.tcl.tk/3163), the static analysis tool.
+* [Nagelfar](https://nagelfar.sourceforge.net/) - to read a Tcl program and provide static syntax analysis,
+and [Nagelfar-Vim](https://wiki.tcl-lang.org/page/Nagelfar%2DVim)
+* [tclchecker](https://github.com/flightaware/TclProDebug) - a component of Tcl Dev Kit,
+is a fork of [procheck](https://wiki.tcl-lang.org/page/ProCheck), the static analysis tool.
 
-And check [Scripted Parsing](https://wiki.tcl.tk/4359).
+And check [Scripted Parsing](https://wiki.tcl-lang.org/page/Scripted+Parsing).
 
 
 ## Build System
 
-* [BAWT](http://www.bawt.tcl3d.org/) - Tcl based configurable framework for automatically
+* [BAWT](https://www.bawt.tcl3d.org/) - Tcl based configurable framework for automatically
 building C/C++ based software libraries from source code
 * [kitgen build system](https://sourceforge.net/projects/kbskit/) - Framework to generate
 TclkitLite executables, compile Tcl packages and build kit files for different operating systems
-* [KitCreator](http://kitcreator.rkeene.org/fossil/home) - a simple build system for creating a Tclkit
+* [KitCreator](https://kitcreator.rkeene.org/fossil/home) - a simple build system for creating a Tclkit
 * [tcl-act](https://github.com/anticrisis/tcl-act) - A simple Tcl/C++ build and packaging system
 * [Kettle](https://github.com/andreas-kupries/kettle) - A build system for pure Tcl,
 and critcl packages
@@ -282,11 +286,11 @@ and critcl packages
 ## Package system
 
 * [teapot](https://github.com/ActiveState/teapot) - TEA Package Management system built by ActiveState
-* [teaget](https://wiki.tcl.tk/24765) - is a tcl only script that can be used as a command line utility to retrieve packages
+* [teaget](https://wiki.tcl-lang.org/page/teaget) - is a tcl only script that can be used as a command line utility to retrieve packages
 
 However, ActiveTcl 8.6.6 does not include teaget this tool (when I test last time).
 
-And you can check [Debian packages for Tcl/Tk](https://wiki.tcl.tk/11333).
+And you can check [Debian packages for Tcl/Tk](https://wiki.tcl-lang.org/page/Debian+packages+for+Tcl%2FTk).
 I think most Linux distributions include some Tcl/Tk packages.
 
 For example, you can install Tcl/TK at openSUSE:
@@ -300,15 +304,15 @@ And below is Debian and Ubuntu:
 
 ## Wrap tool
 
-* [freeWrap](http://freewrap.sourceforge.net/): FreeWrap distributions are freely available
+* [freeWrap](https://freewrap.dengensys.com/): FreeWrap distributions are freely available
 for Linux and Windows operating systems.
 * [tclexecomp](https://sourceforge.net/projects/tclexecomp/)
-* [Thatch](https://wiki.tcl.tk/55332) - Create standalone Tcl/Tk apps
+* [Thatch](https://wiki.tcl-lang.org/page/Thatch) - Create standalone Tcl/Tk apps
 
 
 ## Tests
 
-* [tcltest](https://wiki.tcl.tk/1502) - a package distributed with Tcl, provides a framework
+* [tcltest](https://wiki.tcl-lang.org/page/tcltest) - a package distributed with Tcl, provides a framework
 for writing and executing program tests.
 
 
@@ -317,8 +321,8 @@ for writing and executing program tests.
 Tcllib is a distribution of several packages for Tcl, all written entirely in Tcl, useful in a broad variety of areas.
 A tklib module also exists under the tcllib project, which contains modules that depend on Tk.
 
-* [Tcllib](https://core.tcl.tk/tcllib/doc/trunk/embedded/index.html)
-* [Tklib](https://core.tcl.tk/tklib/home)
+* [Tcllib](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/index.html)
+* [Tklib](https://core.tcl-lang.org/tklib/home)
 
 `control` is a Tcllib package, provides `do` command 
 for `do ... while` or `do ... until` flow. For example,
@@ -335,27 +339,28 @@ for `do ... while` or `do ... until` flow. For example,
 For do-while loop for tcl,
 you also can check [dowhile.tcl](https://github.com/lego12239/dowhile.tcl).
 
-[tcllibc](https://wiki.tcl.tk/18382)  is a term used to refer to the parts of Tcllib written in C.
+[tcllibc](https://wiki.tcl-lang.org/page/tcllibc)  is a term used to refer to the parts of Tcllib written in C.
 Some packages in Tcllib provide two implementations, one written in pure Tcl for compatibility and
 low installation overhead and one written in C for speed.
-You need [Critcl](http://andreas-kupries.github.io/critcl/) if you want to build tclllibc.
+You need [Critcl](https://andreas-kupries.github.io/critcl/) if you want to build tclllibc.
 
 
 ## Collection and Tool box
 
 * [ToclBox](https://github.com/efrecon/toclbox) -  A ToolBox for Tcl
-* [chiark-tcl](https://wiki.tcl.tk/48610) - a collection of tcl extensions and bindings to useful libraries,
+* [chiark-tcl](https://wiki.tcl-lang.org/page/chiark%2Dtcl) -
+a collection of tcl extensions and bindings to useful libraries,
 include adns, tinycdb, parts of the nettle crypto library and more)
 * [tcl-modules](https://github.com/Dash-OS/tcl-modules) - A collection of Pure-Tcl Packages & Utilities
-* [ycl](http://www.chiselapp.com/user/pooryorick/repository/ycl/) - short for Yorick's Computing tooLkit,
+* [ycl](https://chiselapp.com/user/pooryorick/repository/ycl/index) - short for Yorick's Computing tooLkit,
 is PYK's collection of miscellaneous procedures and programs.
 * [til](https://github.com/efrecon/til) - The Tcl ICE Library
 * [tcl-hacks](https://chiselapp.com/user/aspect/repository/tcl-hacks/index) - A repository of useful
 and/or interesting hacks in Tcl
 * [tclapps](https://github.com/tcltk/tclapps): a suite of small applications for Tcl useful as
 examples and in regular use to a large collection of Tcl programmers
-* [Sugar](https://wiki.tcl.tk/11155) - a macro system for the Tcl programming language,
-and [Sugar macros collection](https://wiki.tcl.tk/11168)
+* [Sugar](https://wiki.tcl-lang.org/page/Sugar) - a macro system for the Tcl programming language,
+and [Sugar macros collection](https://wiki.tcl-lang.org/page/Sugar+macros+collection)
 * [tcl-gen](https://github.com/rbrogan/tcl-gen) - General Utilities for Tcl
 * [TCLtools](https://github.com/mohemiv/TCLtools) - Сollection of TCL scripts for Cisco IOS penetration testing
 * [design-patterns-in-tcl](https://github.com/level44/design-patterns-in-tcl) -
@@ -372,28 +377,28 @@ It is a tool to handle tcl packages written by Alex Baker.
 TclOO is both a toolkit for creating object systems, and an object system in its own right.
 As of Tcl 8.6, is part of the core distribution.
 
-* [TclOO @ TIP #257](https://core.tcl.tk/tips/doc/trunk/tip/257.md) and [TclOO Tricks](https://wiki.tcl.tk/21595)
+* [TclOO @ TIP #257](https://core.tcl-lang.org/tips/doc/trunk/tip/257.md) and [TclOO Tricks](https://wiki.tcl-lang.org/21595)
 * [incr Tcl](http://incrtcl.sourceforge.net/)
 * [Next Scripting Framework](https://next-scripting.org/xowiki/): A descendant of XOTcl
-* [snit](http://core.tcl.tk/jenglish/gutter/packages/snit.html) - Snit is a pure-Tcl object and
+* [snit](http://core.tcl-lang.org/jenglish/gutter/packages/snit.html) - Snit is a pure-Tcl object and
 megawidget framework
-* [self](https://github.com/mpcjanssen/self) - [SELF extension](https://wiki.tcl.tk/17100),
+* [self](https://github.com/mpcjanssen/self) - [SELF extension](https://wiki.tcl-lang.org/17100),
 a Tcl package by the same name that was inspired by Self
 * [tclooh](https://github.com/ecky-l/tclooh) - Minimally extending the TclOO object system 
 to provide more natural object variables
 
 Useful info:
 
-* [Inspecting TclOO](https://wiki.tcl.tk/40640)
+* [Inspecting TclOO](https://wiki.tcl-lang.org/40640)
 * [Tclook](https://github.com/hoodiecrow/Tclook) - A simple TclOO object/class/namespace browser
 
 
 ## Functional Programming
 
-* [tcllib lambda](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/lambda/lambda.html) - Utility commands for anonymous procedures
+* [tcllib lambda](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/lambda/lambda.html) - Utility commands for anonymous procedures
 * [control::functional](http://dev.crypt.co.za/incubator/doc/tcltm/control/functional.wiki) - Enhanced
 support for functional programming in Tcl, with implementations of some common higher-order functions
-* [fptools](https://wiki.tcl.tk/41349) - A grab bag of functions that can be useful for FP
+* [fptools](https://wiki.tcl-lang.org/41349) - A grab bag of functions that can be useful for FP
 * [tcl-f](https://github.com/nektomk/tcl-f) - Provides loadable Tcl extension for programming
 in functional manner
 * [underscore-tcl](https://github.com/arthurschreiber/underscore-tcl) - Functional programming utilities
@@ -402,7 +407,7 @@ for Tcl
 As with many things, Tcl is rather unique in this area.
 Commands themselves can not be passed as arguments to other commands,
 but their names can, which provides something very similar to first-class functions.
-Additionally, [apply](https://www.tcl.tk/man/tcl/TclCmd/apply.htm) can be used to
+Additionally, [apply](https://www.tcl-lang.org/man/tcl/TclCmd/apply.htm) can be used to
 interpret a value as a function and evaluate it,
 providing the equivalent of lambda functions.
 
@@ -427,12 +432,12 @@ cursor manipulations to emulate forms, etc.
 The abbreviation TUI (text-based user interface) is sometimes used to describe
 the same thing.
 
-[curses](https://wiki.tcl.tk/9690) is perhaps the most widely-known CUI.
+[curses](https://wiki.tcl-lang.org/9690) is perhaps the most widely-known CUI.
 
 * [Tcllib: term](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/md/toc.md) - Terminal control
 * [tcl-tty](https://github.com/cyanogilvie/tcl-tty) - Control TTYs and ANSI colour escape
 sequences from Tcl scripts. Requires parse_args and tclsignal.
-* [Minimalist Curses](https://wiki.tcl.tk/10877) - A "minimalist" tcl package for interfacing 
+* [Minimalist Curses](https://wiki.tcl-lang.org/10877) - A "minimalist" tcl package for interfacing 
 to curses. And [my test](https://github.com/ray2501/tcl-curses).
 * [tcl-caca](https://github.com/ray2501/tcl-caca)  - Tcl bindings for 
 Colour ASCII Art library (libcaca)
@@ -449,8 +454,8 @@ MacOS X and many other platforms.
 Tk is equally available as a windowing toolkit for Tcl, Ruby, Perl, Python.
 [TkDocs](http://www.tkdocs.com/) has the best overview of how this compares.
 
-* [Tk](https://wiki.tcl.tk/477)
-* [Ttk](https://wiki.tcl.tk/14796) - Implementation of the Tk theming engine to provide
+* [Tk](https://wiki.tcl-lang.org/477)
+* [Ttk](https://wiki.tcl-lang.org/14796) - Implementation of the Tk theming engine to provide
 native look and feel widgets, now included in Tk 8.5
 
 and check:
@@ -471,7 +476,7 @@ and check:
 * [tresvg](https://github.com/nico-robert/tresvg) - Tcl wrapper around [resvg](https://github.com/linebender/resvg),
 based on tcl-cffi.
 * [Imgtools](http://tkimgtools.sourceforge.net/index.html) - manipulate Tk photo images
-* [CRIMP](https://core.tcl.tk/akupries/crimp/home) - C Raster Image Manipulation Package
+* [CRIMP](https://core.tcl-lang.org/akupries/crimp/home) - C Raster Image Manipulation Package
 * [PhotoResize](https://github.com/auriocus/PhotoResize) - A single-purpose extension for
 Tcl to resize/resample photo images
 * [pixmix](https://wiki.tcl-lang.org/page/pixmix) - a widget for displaying, zooming, 
@@ -487,8 +492,8 @@ GraphicsMagick and ImageMagick
 * [pure-tcl BMP reader/writer](https://wiki.tcl-lang.org/page/pure%2Dtcl+BMP+reader%2Fwriter)
 * [Pure Tcl JPEG decoder](https://github.com/dbohdan/ptjd) - A single-file pure Tcl baseline JPEG
 decoder library
-* [tcllib exif](https://wiki.tcl.tk/3055) - to extract and parse EXIF fields from digital images
-* [tklib plotchart](https://wiki.tcl.tk/11265)
+* [tcllib exif](https://wiki.tcl-lang.org/3055) - to extract and parse EXIF fields from digital images
+* [tklib plotchart](https://wiki.tcl-lang.org/11265)
 * [ukaz](https://github.com/auriocus/ukaz) - Graph widget in pure Tcl/Tk
 * [PLplot](http://plplot.sourceforge.net/) - often used to make scientific plots
 * [ticklecharts](https://github.com/nico-robert/ticklecharts) - Tcl wrapper for Apache ECharts
@@ -498,11 +503,11 @@ PNG is also built-in support in Tcl/Tk 8.6.0 (and above version).
 
 Useful info:
 
-* [3D animation on canvas with Gnuplot](https://wiki.tcl.tk/13555)
+* [3D animation on canvas with Gnuplot](https://wiki.tcl-lang.org/13555)
 * [C Image Processing](https://wiki.tcl-lang.org/page/C+Image+Processing)
-* [Canvas Object Movement Example](https://wiki.tcl.tk/26978)
-* [Graphics with Tcl](https://wiki.tcl.tk/2389)
-* [Webcams / Digital Cameras](https://wiki.tcl.tk/14314)
+* [Canvas Object Movement Example](https://wiki.tcl-lang.org/26978)
+* [Graphics with Tcl](https://wiki.tcl-lang.org/2389)
+* [Webcams / Digital Cameras](https://wiki.tcl-lang.org/14314)
 
 For barcode:
 
@@ -512,7 +517,7 @@ And my project:
 
 * [tclqrencode](https://github.com/ray2501/tclqrencode) - Tcl interface for libqrencode
 * [tcl-cairo](https://github.com/ray2501/tcl-cairo) - Tcl bindings for Cairo library,
-learn from [tclcairo](https://wiki.tcl.tk/29305)
+learn from [tclcairo](https://wiki.tcl-lang.org/29305)
 * [tcl-stbimage](https://github.com/ray2501/tcl-stbimage) - Tcl extension for stb_image
 * [tcl-imagebytes](https://github.com/ray2501/tcl-imagebytes) - To and from byte array
 and Tk photo image
@@ -521,7 +526,7 @@ and Tk photo image
 
 ## Audio and Sound
 
-* [Snack](http://www.speech.kth.se/snack/) and check [Here](https://wiki.tcl.tk/2647)
+* [Snack](http://www.speech.kth.se/snack/) and check [Here](https://wiki.tcl-lang.org/2647)
 * [SDL_mixer bindings for Tcl](http://sqlitestudio.pl/tclmixer/) - TclMixer
 * [TclJACK](https://github.com/screwtop/TclJACK) - A Tcl extension for interacting with
 the JACK Audio Connection Kit library (jacklib)
@@ -531,18 +536,18 @@ in the world (for learn more about FLAC)
 
 And volume control:
 
-* [Linux: volume control](https://wiki.tcl.tk/48348)
-* [Mac OS X: volume control](https://wiki.tcl.tk/48551)
-* [Windows: volume control](https://wiki.tcl.tk/48338)
-* [Windows XP: volume control](https://wiki.tcl.tk/48350)
+* [Linux: volume control](https://wiki.tcl-lang.org/48348)
+* [Mac OS X: volume control](https://wiki.tcl-lang.org/48551)
+* [Windows: volume control](https://wiki.tcl-lang.org/48338)
+* [Windows XP: volume control](https://wiki.tcl-lang.org/48350)
 
 Now available on [SourceForge](https://sourceforge.net/projects/volume-controls-cmdline/files/).
 
 Useful info:
 
-* [Audio Edit Utility](https://wiki.tcl.tk/40321) - a front-end for the 'ffmpeg' command
-* [VLC Tcl Extension](https://wiki.tcl.tk/48382)
-* [MPV Tcl Extension](https://wiki.tcl.tk/55174) - a Tcl interface to the MPV audio player,
+* [Audio Edit Utility](https://wiki.tcl-lang.org/40321) - a front-end for the 'ffmpeg' command
+* [VLC Tcl Extension](https://wiki.tcl-lang.org/48382)
+* [MPV Tcl Extension](https://wiki.tcl-lang.org/55174) - a Tcl interface to the MPV audio player,
 using libmpv. You also can check [tclmpv](https://github.com/jlinkels/tclmpv).
 
 And my projects:
@@ -566,9 +571,9 @@ for taglib (Abstract API only)
 
 Useful info:
 
-* [Using Tcl/Tk in Multimedia Applications](https://wiki.tcl.tk/864)
-* [Movie Edit Utility](https://wiki.tcl.tk/40305) - a front-end for the 'ffmpeg' command
-* [SnitMPlayer](https://wiki.tcl.tk/48588) - Widget wrapper for the mplayer media application
+* [Using Tcl/Tk in Multimedia Applications](https://wiki.tcl-lang.org/864)
+* [Movie Edit Utility](https://wiki.tcl-lang.org/40305) - a front-end for the 'ffmpeg' command
+* [SnitMPlayer](https://wiki.tcl-lang.org/48588) - Widget wrapper for the mplayer media application
 
 And my project:
 
@@ -577,20 +582,20 @@ And my project:
 
 ## Channel and file system
 
-* [chan](https://www.tcl.tk/man/tcl/TclCmd/chan.htm) - a built-in Tcl command, manipulates channels
-* [TclVfs](https://core.tcl.tk/tclvfs/index)
+* [chan](https://www.tcl-lang.org/man/tcl/TclCmd/chan.htm) - a built-in Tcl command, manipulates channels
+* [TclVfs](https://core.tcl-lang.org/tclvfs/index)
 * [tcl-fuse](https://sourceforge.net/projects/tcl-fuse/) - A Tcl interface to the linux kernel's FUSE subsystem
 * [Tcl Extension Virtual Filesystem Prototype](https://chiselapp.com/user/rkeene/repository/xvfs/index)
-* [di Tcl extension](https://wiki.tcl.tk/42227) - Filesystem Usage/Information.
+* [di Tcl extension](https://wiki.tcl-lang.org/42227) - Filesystem Usage/Information.
 The di program now provides a Tcl extension starting with version 4.39
 * [Memchan](http://memchan.sourceforge.net/) - In-memory channels for Tcl,
 and deprecated by tcllib's tcl::chan::memchan, which is available for Tcl >= 8.5.
 * [Trf](http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels.
 Stacked channels is available at the Tcl-script level (after 8.5).
-See the [chan](https://wiki.tcl.tk/15111) command for details.
+See the [chan](https://wiki.tcl-lang.org/15111) command for details.
 * [trofs](http://math.nist.gov/~DPorter/tcltk/trofs/) - Tcl Read-Only Filesystem
 * [tserialport](https://sourceforge.net/projects/tclsnippets/files/tserialport/) - tcl package for library libserialport, and check [tserialport](https://github.com/aschoepe/tserialport)
-* [Add a time stamp to each line of output](https://wiki.tcl.tk/55399) - a useful example of 
+* [Add a time stamp to each line of output](https://wiki.tcl-lang.org/55399) - a useful example of 
 the transchan functionality available in Tcl
 
 And useful info:
@@ -600,18 +605,18 @@ a little utility to help out when your disk gets full (open du command to get in
 
 ## Command line
 
-* [Tcllib cmdline](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/cmdline/cmdline.html) 
+* [Tcllib cmdline](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/cmdline/cmdline.html) 
 Procedures to process command lines and options
 * [getopt.tcl](https://github.com/tcler/getopt.tcl) - A getopt implementation of tcl
 that compat with GNU getopt
-* [tabulate](https://wiki.tcl.tk/41682) - a command line utility that converts standard input
+* [tabulate](https://wiki.tcl-lang.org/41682) - a command line utility that converts standard input
 into pretty-printed tables
 * [autoopts](https://gitlab.com/dbohdan/autoopts) - Tcl module that automatically gives
 your program a command line interface
 
 And useful info:
 
-* [command options](https://wiki.tcl.tk/1730) - Tcler's Wiki info
+* [command options](https://wiki.tcl-lang.org/1730) - Tcler's Wiki info
 
 tclsh supports [here document](https://en.wikipedia.org/wiki/Here_document). For example:
 
@@ -622,18 +627,18 @@ tclsh supports [here document](https://en.wikipedia.org/wiki/Here_document). For
 
 ## Compression
 
-* [zlib](https://core.tcl.tk/tips/doc/trunk/tip/234.md) - Core support for zlib compression
-* [bztcl](http://download.gna.org/bztcl/) and [wiki page](https://wiki.tcl.tk/9661) - wrapper for the
+* [zlib](https://core.tcl-lang.org/tips/doc/trunk/tip/234.md) - Core support for zlib compression
+* [bztcl](http://download.gna.org/bztcl/) and [wiki page](https://wiki.tcl-lang.org/9661) - wrapper for the
 BZip2 compression library
-* [bz2:compress and bz2:decompress](https://wiki.tcl.tk/4218)
+* [bz2:compress and bz2:decompress](https://wiki.tcl-lang.org/4218)
 * [tclzvfs](https://github.com/wjoye/tclzvfs) - TCL Zip Virtual File System, Tcl 8.5/8.6 TEA compatible
-* [tcllib tar](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/tar/tar.html) - Tar file creation, extraction & manipulation
-* [tcllib zipfile::decode](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/decode.html), 
-[tcllib zipfile::encode](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/encode.html),
-[tcllib zipfile::mkzip](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/mkzip.html): Access to zip archives, generation of zip archives and build a zip archive
-* [LZ4](https://wiki.tcl.tk/48789)
-* [Zstandard](https://wiki.tcl.tk/48788) - libzstd bindings for Tcl through Critcl
-* [Brotli compression format](https://wiki.tcl.tk/48939) - Uses Critcl
+* [tcllib tar](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/tar/tar.html) - Tar file creation, extraction & manipulation
+* [tcllib zipfile::decode](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/decode.html), 
+[tcllib zipfile::encode](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/encode.html),
+[tcllib zipfile::mkzip](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/mkzip.html): Access to zip archives, generation of zip archives and build a zip archive
+* [LZ4](https://wiki.tcl-lang.org/48789)
+* [Zstandard](https://wiki.tcl-lang.org/48788) - libzstd bindings for Tcl through Critcl
+* [Brotli compression format](https://wiki.tcl-lang.org/48939) - Uses Critcl
 
 And my project:
 
@@ -644,8 +649,8 @@ And my project:
 
 ## Concurrency
 
-* [Thread](http://core.tcl.tk/thread) - brings native thread capabilities to Tcl
-* [tcllib Coroutine utilities](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/coroutine/tcllib_coroutine.html)
+* [Thread](http://core.tcl-lang.org/thread) - brings native thread capabilities to Tcl
+* [tcllib Coroutine utilities](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/coroutine/tcllib_coroutine.html)
 * [csp - Golang inspired concurrency library for Tcl](https://securitykiss.com/resources/tutorials/csp_project/index.php)
 * [tcl-promise](http://sourceforge.net/projects/tcl-promise/) - Promises are concurrency primitives that
 simplify asynchronous programming by allowing you to write the code in a sequential style
@@ -654,7 +659,7 @@ simplify asynchronous programming by allowing you to write the code in a sequent
 
 And useful info:
 
-* [Threads & callbacks](https://wiki.tcl.tk/15342)
+* [Threads & callbacks](https://wiki.tcl-lang.org/15342)
 
 ### Distributed computation
 
@@ -665,7 +670,7 @@ which may be remote, communicate to accomplish tasks.
 * [TclMPI: Tcl bindings for MPI](https://akohlmey.github.io/tclmpi/)
 * [gearman-tcl](https://github.com/noyesno/gearman-tcl)
 
-And check [Distributed computation](https://wiki.tcl.tk/16662).
+And check [Distributed computation](https://wiki.tcl-lang.org/16662).
 
 ### Parallel computing
 
@@ -678,9 +683,9 @@ And my project:
 
 ## Cryptography
 
-* [Cryptkit](https://wiki.tcl.tk/13191) - a Tcl binding to the Cryptlib security toolkit
-* [NaCl: Networking and Cryptography library](https://wiki.tcl.tk/47681)
-* [TclTLS](https://core.tcl.tk/tcltls/index) - OpenSSL extension to Tcl
+* [Cryptkit](https://wiki.tcl-lang.org/13191) - a Tcl binding to the Cryptlib security toolkit
+* [NaCl: Networking and Cryptography library](https://wiki.tcl-lang.org/47681)
+* [TclTLS](https://core.tcl-lang.org/tcltls/index) - OpenSSL extension to Tcl
 * [tcltls](https://github.com/chpock/tcltls) - It is a modified TclTLS version.
 Added support for wolfSSL backend.
 * [tcl-s2n](https://github.com/cyanogilvie/tcl-s2n) - Stack a TLS protocol driver
@@ -703,7 +708,7 @@ provides secure and easy-to-use cryptographic APIs.
 Tcl Database Connectivity (TDBC), part of Tcl 8.6,
 is a common database access interface for Tcl scripts.
 
-* [TDBC](http://tdbc.tcl.tk/index.cgi/index)
+* [TDBC](http://tdbc.tcl-lang.org/index.cgi/index)
 
 and check:
 
@@ -712,7 +717,7 @@ and check:
 
 ## Data type
 
-* [Tarray](https://wiki.tcl.tk/37462) - implements a new Tcl collection data type - typed array
+* [Tarray](https://wiki.tcl-lang.org/37462) - implements a new Tcl collection data type - typed array
 * [TclRal](http://chiselapp.com/user/mangoa01/repository/tclral/index) - Tcl Relational Algebra 
 Library. It introduces tuple and relation data types and a set of commands that operate on them.
 * [tclvalue](https://github.com/auriocus/tclvalue) - An extension for Tcl 8.6+ to reflect the
@@ -720,26 +725,26 @@ Tcl_Obj API into the script level
 * [type](https://github.com/cyanogilvie/type) - Allow custom Tcl_ObjTypes to be defined and
 used in Tcl scripts
 * [AitCS](https://chiselapp.com/user/stwo/repository/AitCS/index) - Array in the Command's Shadow
-* [Persistent arrays](https://wiki.tcl.tk/3469)
+* [Persistent arrays](https://wiki.tcl-lang.org/3469)
 
 And check:
 
-* [Abstract Data Types](https://wiki.tcl.tk/11450)
+* [Abstract Data Types](https://wiki.tcl-lang.org/11450)
 
 
 ## Data struct
 
-[list](https://www.tcl.tk/man/tcl/TclCmd/list.htm) is a built-in Tcl command, creates a list.
+[list](https://www.tcl-lang.org/man/tcl/TclCmd/list.htm) is a built-in Tcl command, creates a list.
 
-[dict](https://www.tcl.tk/man/tcl/TclCmd/dict.htm) is a built-in command for creating 
+[dict](https://www.tcl-lang.org/man/tcl/TclCmd/dict.htm) is a built-in command for creating 
 and manipulating dictionaries (dicts). A dict, or dictionary, is a list containing an even 
 number of words.
 
-[array](https://www.tcl.tk/man/tcl/TclCmd/array.htm) is a built-in ensemble of commands 
+[array](https://www.tcl-lang.org/man/tcl/TclCmd/array.htm) is a built-in ensemble of commands 
 that manipulates Tcl's array variables. Array variables can also be manipulated using 
 `arrayName(key)` syntax.
 
-[struct](https://wiki.tcl.tk/783) - Documentation can be found for
+[struct](https://wiki.tcl-lang.org/783) - Documentation can be found for
 various (tcllib) data structures.Provided structures, so far:
 * graph
 * list
@@ -762,18 +767,18 @@ For graph, you can check:
 
 * [DiffUtilTcl](https://github.com/pspjuth/DiffUtilTcl) - A Tcl extension for diff utility functions,
 like Longest Common Substring
-* [Eskil](http://eskil.tcl.tk/index.html/doc/trunk/htdocs/index.html): A graphical view of file and
+* [Eskil](http://eskil.tcl-lang.org/index.html/doc/trunk/htdocs/index.html): A graphical view of file and
 directory differences
 * [tkdiff](https://sourceforge.net/projects/tkdiff/) - a graphical front end to the diff program
 
 And check
 
-* [diff in Tcl](https://wiki.tcl.tk/3108)
+* [diff in Tcl](https://wiki.tcl-lang.org/3108)
 
 
 ## Documentation Tools
 
-* [doctools](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/doctools/doctools_lang_intro.html) - a set of tools is included so that
+* [doctools](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/doctools/doctools_lang_intro.html) - a set of tools is included so that
 the tcllib author can write the documentation for his/her module in a format
 agnostic manner, and then convert the documentation into Unix man pages, HTML,
 and other formats.
@@ -792,7 +797,7 @@ configuration(from file, string, etc) into dict
 
 ### CSV and TSV
 
-* [tcllib csv](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/csv/csv.html) - a Tcllib
+* [tcllib csv](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/csv/csv.html) - a Tcllib
 package, provides facilities for working with csv files
 * [tclcsv](http://tclcsv.sourceforge.net/) - for reading and writing CSV format files
 * [speedbag](https://github.com/flightaware/speedbag) - a package for providing accelerated C-based routines 
@@ -800,27 +805,27 @@ for TSV parsing into an array
 
 ### CommonMark and Markdown
 
-* [tcllib markdown](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/markdown/markdown.html)
+* [tcllib markdown](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/markdown/markdown.html)
 * [caius markdown](https://github.com/tobijk/caius/tree/master/lib/markdown)
 * [tcl-markdown](https://github.com/wduquette/tcl-markdown)
 * [tcl-cmark](https://github.com/apnadkarni/tcl-cmark) - Tcl bindings to the cmark-gfm
 * [cmarktcl](https://github.com/mpcjanssen/cmarktcl) - Tcl wrapper for commonmark
 
-And you can check [Markdown2Go](https://wiki.tcl.tk/48198).
+And you can check [Markdown2Go](https://wiki.tcl-lang.org/48198).
 
 ### JSON
 
-* [Tcllib JSON](https://wiki.tcl.tk/40053)
-* [yajl-tcl](https://wiki.tcl.tk/28240) - a Tcl binding for yajl (yet another json library)
+* [Tcllib JSON](https://wiki.tcl-lang.org/40053)
+* [yajl-tcl](https://wiki.tcl-lang.org/28240) - a Tcl binding for yajl (yet another json library)
 * [tcl-json](https://github.com/bef/tcl-json)
 * [rl_json](https://github.com/RubyLane/rl_json) - Extends Tcl with a json value type
-and a command to manipulate json values directly, and [rl_json Extensions](https://wiki.tcl.tk/48276)
+and a command to manipulate json values directly, and [rl_json Extensions](https://wiki.tcl-lang.org/48276)
 * [tcl-duktape](https://github.com/dbohdan/tcl-duktape) - Tcl bindings for Duktape, an embedded
 JavaScript interpreter. It has JSON objects support.
 * [tDOM](http://tdom.github.io/) adds a JSON parser after v0.9
 * [tcljsonnet](https://github.com/ray2501/tcljsonnet)
-* [JQ](https://wiki.tcl.tk/11630) - Wrapper for command-line tool, [JQ](https://stedolan.github.io/jq/manual/)
-* [Playing XPath with JSON](https://wiki.tcl.tk/40865)
+* [JQ](https://wiki.tcl-lang.org/11630) - Wrapper for command-line tool, [JQ](https://stedolan.github.io/jq/manual/)
+* [Playing XPath with JSON](https://wiki.tcl-lang.org/40865)
 * [xjson.tcl](https://github.com/ianka/xjson.tcl) - A Tcl library that validates,
 collects, composes JSON data against supplied schemas and to/from Tcl datat.
 
@@ -845,7 +850,7 @@ Read and Write Office Open XML "XLSX" since Excel 2007
 
 * [Pdf4Tcl](https://sourceforge.net/projects/pdf4tcl/)
 * [TCLFPDF](https://github.com/lamuzzachiodi/tclfpdf) - a port of tFPDF from PHP to TCL
-* [tclMuPdf](https://wiki.tcl.tk/48296) - a porting of the [MuPdf](http://mupdf.com/) framework
+* [tclMuPdf](https://wiki.tcl-lang.org/48296) - a porting of the [MuPdf](http://mupdf.com/) framework
 * [haru](https://github.com/nico-robert/haru) - Tcl bindings for libharu
 
 ### SenML
@@ -861,11 +866,11 @@ and a SenML wrapper
 * [tDOM](http://tdom.github.io/)
 * [TclXML](http://tclxml.sourceforge.net/) and
 you can check [here](https://github.com/flightaware/TclXML)
-* [TclSOAP](http://tclsoap.sourceforge.net/) and [Wiki page](https://wiki.tcl.tk/1753) - supports
+* [TclSOAP](http://tclsoap.sourceforge.net/) and [Wiki page](https://wiki.tcl-lang.org/1753) - supports
 SOAP and XML-RPC, based on TclDOM (TclDOM is the DOM part of TclXML project).
 [SCM Repositories](http://tclsoap.cvs.sourceforge.net/viewvc/tclsoap/tclsoap/) version (1.6.8)
 switched TclDOM over to tDOM and add JSON-RPC support, changed by ActiveState.
-* [Web Services for Tcl](http://core.tcl.tk/tclws/index)
+* [Web Services for Tcl](http://core.tcl-lang.org/tclws/index)
 
 And my project:
 
@@ -873,15 +878,15 @@ And my project:
 
 ### YAML
 
-* [Tcllib YAML module](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/yaml/yaml.html)
+* [Tcllib YAML module](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/yaml/yaml.html)
 * [TclYAML](http://chiselapp.com/user/andreas_kupries/repository/tclyaml/index) - provides a Tcl Binding to the [libyaml](http://pyyaml.org/wiki/LibYAML) library
 
 
 ## Fileutils
 
-* [file](https://www.tcl.tk/man/tcl/TclCmd/file.htm) - Manipulate file names and attributes
-* [glob](https://www.tcl.tk/man/tcl/TclCmd/glob.htm) - Return names of files that match patterns
-* [tcllib fileutils](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/fileutil/fileutil.html) - 
+* [file](https://www.tcl-lang.org/man/tcl/TclCmd/file.htm) - Manipulate file names and attributes
+* [glob](https://www.tcl-lang.org/man/tcl/TclCmd/glob.htm) - Return names of files that match patterns
+* [tcllib fileutils](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/fileutil/fileutil.html) - 
 Procedures implementing some file utilities
 * [tmag](https://github.com/makr/tmag) - Tcl's libmagic interface
 * [magic](https://github.com/nico-robert/magic) - Tcl bindings for libmagic,
@@ -890,20 +895,20 @@ based on [tcl-cffi](https://github.com/apnadkarni/tcl-cffi)
 
 ## Geography
 
-* [tcllib nmea](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/nmea/nmea.html) - provides a standard
+* [tcllib nmea](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/nmea/nmea.html) - provides a standard
 interface for writing software which recieves NMEA standard input data
-* [proj](https://wiki.tcl.tk/39048) - swig based binding for tcl for the proj.4 library using the new API.
+* [proj](https://wiki.tcl-lang.org/39048) - swig based binding for tcl for the proj.4 library using the new API.
 * [Shapetcl](https://github.com/anoved/Shapetcl): Simple shapefile access for Tcl.
 
 And useful info:
 
-* [Category Geography](https://wiki.tcl.tk/16300)
-* [GIS](https://wiki.tcl.tk/2459)
+* [Category Geography](https://wiki.tcl-lang.org/16300)
+* [GIS](https://wiki.tcl-lang.org/2459)
 
 
 ## Internationalization and localization
 
-* [msgcat](https://www.tcl.tk/man/tcl/TclCmd/msgcat.htm) - a built-in manages Tcl message catalogs
+* [msgcat](https://www.tcl-lang.org/man/tcl/TclCmd/msgcat.htm) - a built-in manages Tcl message catalogs
 for localising text
 * [tcl-collate](https://wiki.tcl-lang.org/page/Collation) - A Tcl interface to strcoll()
 (or _mbscoll() on Windows). And a Tcl interface to setlocale().
@@ -911,21 +916,21 @@ for localising text
 
 ## Networking
 
-* [socket](https://www.tcl.tk/man/tcl/TclCmd/socket.htm) - a built-in Tcl command,
+* [socket](https://www.tcl-lang.org/man/tcl/TclCmd/socket.htm) - a built-in Tcl command,
 opens a TCP network connection
-* [Tcl UDP extension](https://core.tcl.tk/tcludp/index)
+* [Tcl UDP extension](https://core.tcl-lang.org/tcludp/index)
 * [tclpcap](http://tclpcap.sourceforge.net/) - Tcl extension that allows access
 to the libpcap library (need update)
 * [scotty](https://github.com/flightaware/scotty) - A Tcl extension for building network management (SNMP, ICMP, UDP, DNS) applications
 * [tclnetsnmp](http://tcl.uk.to/) - netsnmp package for TCL 8.6
 * [ecap-tcl](https://github.com/petasis/ecap-tcl) - An eCAP adapter for Tcl
-* [Netinfo](https://wiki.tcl.tk/17493) - Protocol, service, network, host and ether info
-* [Tcllib ldap](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ldap/ldap.html) - LDAP client
+* [Netinfo](https://wiki.tcl-lang.org/17493) - Protocol, service, network, host and ether info
+* [Tcllib ldap](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ldap/ldap.html) - LDAP client
 * [Sensus ldap](https://web.archive.org/web/20130730202916/www.sensus.org/tcl/)
-* [Tcllib ftp](https://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ftp/ftp.html) - Client-side tcl implementation of the ftp protocol
+* [Tcllib ftp](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/ftp/ftp.html) - Client-side tcl implementation of the ftp protocol
 * [socketservertcl](https://github.com/flightaware/socketservertcl) - Basic socketserver support in 
 Tcl inspired by libancillary
-* [tclcan](https://wiki.tcl.tk/55310) - Tcl interface to Linux SocketCAN
+* [tclcan](https://wiki.tcl-lang.org/55310) - Tcl interface to Linux SocketCAN
 * [UPnP](http://chiselapp.com/user/schelte/repository/upnp/index) - Universal Plug and Play
 * [Duft](https://sourceforge.net/projects/duft/) - Datagrams and Udp For Tcl
 * [Hosts](https://gitlab.com/dbohdan/hosts) - Command line tool and Tcl library for manipulating /etc/hosts
@@ -943,21 +948,21 @@ bots and components written in Tcl or Tcl/Tk
 
 And useful info:
 
-* [Modbus](https://wiki.tcl.tk/40888) - a de facto standard communication protocol and is now
+* [Modbus](https://wiki.tcl-lang.org/40888) - a de facto standard communication protocol and is now
 a commonly available means of connecting industrial electronic devices
-* [topcua](https://wiki.tcl.tk/55543) - OPC Unified Architecture (OPC UA) is a machine to machine 
+* [topcua](https://wiki.tcl-lang.org/55543) - OPC Unified Architecture (OPC UA) is a machine to machine 
 communication protocol for industrial automation developed by the OPC Foundation
 
 
 ## Numeric processing
 
-* [expr](https://www.tcl.tk/man/tcl/TclCmd/expr.htm) is a built-in Tcl command, evaluates an expression.
-* [tcl::mathfunc](https://wiki.tcl.tk/20279) - The ::tcl::mathfunc namespace provides commands for
+* [expr](https://www.tcl-lang.org/man/tcl/TclCmd/expr.htm) is a built-in Tcl command, evaluates an expression.
+* [tcl::mathfunc](https://wiki.tcl-lang.org/20279) - The ::tcl::mathfunc namespace provides commands for
 all the functions available in expr command.
-* [Tcllib math](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/math/math.html) -
+* [Tcllib math](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/math/math.html) -
 Tcl Math Library
 * [LA](http://www.hume.com/la/) - The Hume Linear Algebra Tcl Package
-* [mathemaTcl](https://wiki.tcl.tk/48535) - MathemaTcl is a collection of compiled extensions for Tcl,
+* [mathemaTcl](https://wiki.tcl-lang.org/48535) - MathemaTcl is a collection of compiled extensions for Tcl,
 each intended to solve a particular numerical problem
 * [Mpexpr](http://mpexpr.sourceforge.net/) - Mpexpr is a multiple precision math package for Tcl
 * [tensor](http://www.eecs.umich.edu/~mckay/computer/)
@@ -971,13 +976,13 @@ a tensor library for machine learning.
 
 And useful info:
 
-* [Additional math functions](https://wiki.tcl.tk/819)
-* [Numerical Analysis in Tcl](https://wiki.tcl.tk/1272)
+* [Additional math functions](https://wiki.tcl-lang.org/819)
+* [Numerical Analysis in Tcl](https://wiki.tcl-lang.org/1272)
 
 
 ## Parser Engine
 
-* [Marpa/Tcl](https://core.tcl.tk/akupries/marpa/home) - Marpa is a Tcl binding to libmarpa
+* [Marpa/Tcl](https://core.tcl-lang.org/akupries/marpa/home) - Marpa is a Tcl binding to libmarpa
 * [Yeti](https://github.com/mittelmark/yeti) - parser and scanner generator for Tcl
 
 
@@ -989,7 +994,7 @@ provides a command-line interface for any user-defined proc
 based on the patterns established by core Tcl commands like [lsort], [lsearch], [glob], [regex], etc.
 * [tclargp](http://www.bawt.tcl3d.org/download.html) - allows simple and flexible using and 
 parsing optional arguments, source code you can get from [BAWT](http://www.bawt.tcl3d.org/index.html) project
-* [argparse](https://wiki.tcl.tk/47680) - a feature-heavy argument parser
+* [argparse](https://wiki.tcl-lang.org/47680) - a feature-heavy argument parser
 * [named-parameters](https://github.com/tcl2020/named-parameters) - Named parameter for Tcl, written in Tcl
 * [xproc_tcl](https://github.com/lawrencewoodman/xproc_tcl) - An enhanced proc that adds descriptions and tests
 
@@ -1009,19 +1014,19 @@ instrumenting Tcl scripts with [Prometheus metrics](https://prometheus.io/docs/c
 
 ## Text and string
 
-* [encoding](https://www.tcl.tk/man/tcl8.6/TclCmd/encoding.htm) - a built-in command,
+* [encoding](https://www.tcl-lang.org/man/tcl8.6/TclCmd/encoding.htm) - a built-in command,
 manages the conversion of text to and from particular encodings
-* [regexp](https://www.tcl.tk/man/tcl/TclCmd/regexp.htm) - a built-in Tcl command,
+* [regexp](https://www.tcl-lang.org/man/tcl/TclCmd/regexp.htm) - a built-in Tcl command,
 matches a regular expression in a string
-* [regsub](https://www.tcl.tk/man/tcl/TclCmd/regsub.htm) - a built-in Tcl command,
+* [regsub](https://www.tcl-lang.org/man/tcl/TclCmd/regsub.htm) - a built-in Tcl command,
 performs substitutions based on regular expression pattern matching
-* [tcllib textutil](http://core.tcl.tk/tcllib/doc/trunk/embedded/www/tcllib/files/modules/textutil/textutil.html)
+* [tcllib textutil](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/textutil/textutil.html)
 * [ICU For Tcl](https://github.com/shawnw/icu4tcl), Tcl bindings for ICU
 
 And useful info:
 
-* [Additional string functions](https://wiki.tcl.tk/44)
-* [Regular Expressions](https://wiki.tcl.tk/396)
+* [Additional string functions](https://wiki.tcl-lang.org/44)
+* [Regular Expressions](https://wiki.tcl-lang.org/396)
 * [RegexPlanet's Tcl backend](https://github.com/regexplanet/regexplanet-tcl)
 * [mulster, multi-line replacements in text](https://wiki.tcl-lang.org/page/mulster%2C+multi%2Dline+replacements+in+text)
 
@@ -1034,10 +1039,10 @@ implement basic function - fullmatch, partialmatch, replace and globalrelpace
 
 ## Time
 
-The [clock](https://www.tcl.tk/man/tcl8.6/TclCmd/clock.htm) command performs several operations
+The [clock](https://www.tcl-lang.org/man/tcl8.6/TclCmd/clock.htm) command performs several operations
 that obtain and manipulate values that represent times.
 
-This command [time](https://www.tcl.tk/man/tcl8.6/TclCmd/time.htm) will call
+This command [time](https://www.tcl-lang.org/man/tcl8.6/TclCmd/time.htm) will call
 the Tcl interpreter count times to evaluate script (or once if count is not specified).
 It will then return a string of the form.
 
@@ -1047,7 +1052,7 @@ faster Tcl-module for the replacement of the standard "clock" ensemble of tcl
 
 ## Web and Http
 
-* [http](https://www.tcl.tk/man/tcl/TclCmd/http.htm) - Client-side implementation of the HTTP/1.1 protocol
+* [http](https://www.tcl-lang.org/man/tcl/TclCmd/http.htm) - Client-side implementation of the HTTP/1.1 protocol
 * [tclcurl](https://github.com/flightaware/tclcurl-fa) - Tcl wrapper for Curl. Curl got
 HTTP/2 support when it's linked with the [nghttp2](https://nghttp2.org/) library in version 7.43.0.
 * [rl_http](https://github.com/RubyLane/rl_http) - A REST-capable, never-blocking HTTP client package
@@ -1064,9 +1069,9 @@ and [Caius](https://github.com/tobijk/caius),
 
 And for html and CGI
 
-* [Tcllib html](https://wiki.tcl.tk/38727) - provides tools to generate HTML programmatically (tcllib module)
-* [htmlparse](https://wiki.tcl.tk/2204) - tcllib module
-* [ncgi](https://wiki.tcl.tk/780) - provides commands that manipulate CGI values (tcllib module)
+* [Tcllib html](https://wiki.tcl-lang.org/38727) - provides tools to generate HTML programmatically (tcllib module)
+* [htmlparse](https://wiki.tcl-lang.org/2204) - tcllib module
+* [ncgi](https://wiki.tcl-lang.org/780) - provides commands that manipulate CGI values (tcllib module)
 * [Tclgumbo](https://github.com/ray2501/tclgumbo) - Tcl interface for gumbo library
 * [tcl-tidy](https://github.com/ray2501/tcl-tidy) - Tcl bindings for libtidy
 * tDOM 9.0 as build option an interface to the gumbo HTML5 parser, which also digests almost
@@ -1125,26 +1130,26 @@ And useful info:
 
 ## Platform
 
-[exec](https://www.tcl.tk/man/tcl/TclCmd/exec.htm) is a built-in Tcl command, executes other programs.
+[exec](https://www.tcl-lang.org/man/tcl/TclCmd/exec.htm) is a built-in Tcl command, executes other programs.
 
-The [::tcl_platform](https://wiki.tcl.tk/1649) is a global array holds useful data
+The [::tcl_platform](https://wiki.tcl-lang.org/1649) is a global array holds useful data
 concerning the platform on which a specific Tcl interpreter is running.
 
 And useful info:
 
-* [Display System Info](https://wiki.tcl.tk/55366): About Tcl system information
+* [Display System Info](https://wiki.tcl-lang.org/55366): About Tcl system information
 
 
 ### Apple Macintosh
 
 * [MacPorts](https://www.macports.org/) - Package management system for Mac OS X
-* [Apple Macintosh and Tcl/Tk](https://wiki.tcl.tk/1013)
-* [Tk differences on Mac OS X](https://wiki.tcl.tk/44444)
+* [Apple Macintosh and Tcl/Tk](https://wiki.tcl-lang.org/1013)
+* [Tk differences on Mac OS X](https://wiki.tcl-lang.org/44444)
 
 
 ### Unix-specific
 
-* [Expect](https://core.tcl.tk/expect/index)
+* [Expect](https://core.tcl-lang.org/expect/index)
 * [Extended Tcl (TclX)](http://tclx.sourceforge.net/), and [here](https://github.com/flightaware/tclx)
 * [DBus binding for Tcl](https://chiselapp.com/user/schelte/repository/dbus/home)
 * [Signal Extension](http://www.nyx.net/~mschwart/signal_ext.html) - Unix/POSIX Signal handling for Tcl
@@ -1176,7 +1181,7 @@ And check [Tcl interface to procfs](https://github.com/efrecon/procfs).
 
 And useful info:
 
-* [Get Random Bytes on *NIX](https://wiki.tcl.tk/55351)
+* [Get Random Bytes on *NIX](https://wiki.tcl-lang.org/55351)
 
 
 ### Windows-specific
@@ -1210,8 +1215,8 @@ It enables Web developers to embed a Tcl interpreter in the browser and integrat
 ### Browser
 
 * [FireTcl](https://sourceforge.net/projects/firetcl/) - It's a framework for developing desktop apps using web technology and Tcl, embeds Tcl inside a browser with websocket support
-* [Tcl/Tk plugin](https://wiki.tcl.tk/25865)
-* [Wtk](https://core.tcl.tk/wtk/index) - A variant of the Tk toolkit for GUI development in JS,
+* [Tcl/Tk plugin](https://wiki.tcl-lang.org/25865)
+* [Wtk](https://core.tcl-lang.org/wtk/index) - A variant of the Tk toolkit for GUI development in JS,
 for use in Browsers
 
 
@@ -1226,7 +1231,7 @@ written in Tcl.
 
 ### CSharp and dotNET
 
-* [Tcl Interpreter in C# Application](https://wiki.tcl.tk/9563)
+* [Tcl Interpreter in C# Application](https://wiki.tcl-lang.org/9563)
 * [Eagle](http://eagle.to/): Eagle (Extensible Adaptable Generalized Logic Engine) is
 an implementation of the Tcl scripting language for the Common Language Runtime (CLR).
 Beta 42 release support for building against and running on the .NET Core 2.x runtime
@@ -1236,7 +1241,7 @@ Beta 42 release support for building against and running on the .NET Core 2.x ru
 It is a stubs-enabled native package for Tcl that allows the CLR and Eagle to
 be loaded and used by Tcl 8.4 or higher on Windows.
 
-And my test for [TickleSharp](https://wiki.tcl.tk/10849):
+And my test for [TickleSharp](https://wiki.tcl-lang.org/10849):
 
 * [TickleSharp](https://github.com/ray2501/ticklesharp) - Binding to the Tcl/Tk scripting language for the .NET platform
 
@@ -1247,7 +1252,7 @@ And my test for [TickleSharp](https://wiki.tcl.tk/10849):
 Tool Command Language written in Java. JTcl implements a large extent of Tcl 8.4
 syntax and commands, limited only by API restrictions of the Java Virtual
 Machine.
-* [tclJBlend](https://wiki.tcl.tk/47668) - a fork of TclBlend
+* [tclJBlend](https://wiki.tcl-lang.org/47668) - a fork of TclBlend
 * [Tcl/Java](http://tcljava.sourceforge.net/docs/website/index.html)
 
 and my [TclBlend](https://github.com/ray2501/tclBlend) backup
@@ -1275,7 +1280,7 @@ Common Lisp (CLISP, Allegro CL, CFFI, UFFI) and Pike.
 an interface to TCC
 
 Useful info:
-* [Accessing C library functions using Critcl](https://wiki.tcl.tk/11227)
+* [Accessing C library functions using Critcl](https://wiki.tcl-lang.org/11227)
 * [Cmake](https://wiki.tcl-lang.org/page/Cmake)
 * [Meson](https://wiki.tcl-lang.org/page/Meson)
 * [Adding Tcl/Tk to a C application](https://wiki.tcl-lang.org/page/Adding+Tcl%2FTk+to+a+C+application)
@@ -1340,7 +1345,7 @@ delightful integration between python, the serpent, and TCL
 
 ### R
 
-* [Tcl'er Wiki info](https://wiki.tcl.tk/6125) - R
+* [Tcl'er Wiki info](https://wiki.tcl-lang.org/6125) - R
 
 R has bindings to Tcl/Tk (part of R, [document](https://www.rdocumentation.org/packages/tcltk/versions/3.4.0)).
 
@@ -1360,7 +1365,7 @@ R has bindings to Tcl/Tk (part of R, [document](https://www.rdocumentation.org/p
 ## Hardware
 
 * [I2cTcl](http://i2ctcl.sourceforge.net/) - I2cTcl for Tcl/Tk on LINUX
-* [KineTcl](https://wiki.tcl.tk/37926), a binding of the OpenNI framework (version 1),
+* [KineTcl](https://wiki.tcl-lang.org/37926), a binding of the OpenNI framework (version 1),
 providing Tcl with access to MS Kinect (tm), and related sensor systems
 * [Bluetooth channels on Windows](https://wiki.tcl-lang.org/page/Bluetooth+channels+on+Windows) -
 The iocp_bt package implements Bluetooth client channels on Windows
@@ -1383,7 +1388,7 @@ from Ontrak Control Systems via libusb and SWIG.
 
 Useful info:
 
-* [Arduino on Tcler's wiki](https://wiki.tcl.tk/37203)
+* [Arduino on Tcler's wiki](https://wiki.tcl-lang.org/37203)
 
 
 ### Raspberry Pi
@@ -1394,7 +1399,7 @@ Raspberry Pi SenseHat
 
 Useful info:
 
-* [Raspberry Pi on Tcler's wiki](https://wiki.tcl.tk/29308)
+* [Raspberry Pi on Tcler's wiki](https://wiki.tcl-lang.org/29308)
 
 
 ### Nano
@@ -1405,7 +1410,7 @@ A binary Tcl extension for working with the cryptocurrency Nano
 
 ## Related Project
 
-* [The Jim Interpreter](http://jim.tcl.tk/index.html/doc/www/www/index.html): A small footprint implementation of the Tcl programming language
+* [The Jim Interpreter](http://jim.tcl-lang.org/index.html/doc/www/www/index.html): A small footprint implementation of the Tcl programming language
 * [ParTcl](https://github.com/zserge/partcl) - a micro Tcl implementation
 * [Picol](https://chiselapp.com/user/dbohdan/repository/picol/index) - A tiny Tcl interpreter
 * [Pickle](https://github.com/howerj/pickle) - A tiny TCL like interpreter
@@ -1413,17 +1418,17 @@ A binary Tcl extension for working with the cryptocurrency Nano
 
 ## Write a Tcl extension
 
-* [Tclconfig](https://core.tcl.tk/tclconfig)
-* [Sampleextension](https://core.tcl.tk/sampleextension)
+* [Tclconfig](https://core.tcl-lang.org/tclconfig)
+* [Sampleextension](https://core.tcl-lang.org/sampleextension)
 
 目前就我所知，Tcl extension 可以大致上分為二種形式，
-一種是使用 C/C++ 與 [TEA](https://wiki.tcl.tk/327) 架構撰寫的 extension。
+一種是使用 C/C++ 與 [TEA](https://wiki.tcl-lang.org/327) 架構撰寫的 extension。
 可以從 Tcl 社群提供的 Sample extension 開始。
 
     # Replace sample with the name of your extension
-    wget2 -qO- http://core.tcl.tk/sampleextension/tarball/sample.tar.gz | tar xzv
+    wget2 -qO- http://core.tcl-lang.org/sampleextension/tarball/sample.tar.gz | tar xzv
     cd sample
-    wget2 -qO- http://core.tcl.tk/tclconfig/tarball/tclconfig.tar.gz | tar xzv
+    wget2 -qO- http://core.tcl-lang.org/tclconfig/tarball/tclconfig.tar.gz | tar xzv
 
     # Write your source files
     # Edit configure.in
@@ -1440,7 +1445,7 @@ Critcl (provides on-the-fly compilation and execution of C code).
 可以參考相關的文章 [Tcl and SWIG as a C/C++ Development Tool](http://swig.org/papers/Tcl98/TclChap.html).
 
 一種是使用 pure Tcl 所撰寫的 exetnsion，
-以 Tcl 檔案的形式或者是 [Tcl Modules](https://wiki.tcl.tk/12999) 的方式發佈。
+以 Tcl 檔案的形式或者是 [Tcl Modules](https://wiki.tcl-lang.org/12999) 的方式發佈。
 
 Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有的 code 都要放在同一個檔案裡，
 這個機制並不是要取代之前的套件機制（使用 pkgIndex.tcl 這個 index script 來提供套件的資訊），
@@ -1450,7 +1455,7 @@ Tcl Modules（.tm 檔案）在 Tcl/Tk 8.5 被 Tcl core team 所接受，所有�
 ## Tools
 
 * [Enhanced Tk Console: tkcon](http://tkcon.sourceforge.net/)
-* [ASED](https://sourceforge.net/projects/ased/), [Wiki page](https://wiki.tcl.tk/1278) - BWidget IDE allowing editing of multiple Tcl files
+* [ASED](https://sourceforge.net/projects/ased/), [Wiki page](https://wiki.tcl-lang.org/1278) - BWidget IDE allowing editing of multiple Tcl files
 * [aloupe](https://wiki.tcl-lang.org/page/aloupe%2C+a+screen+loupe) - is a Tcl/Tk small widget/utility
 allowing to view the screen through a loupe. The Img and treectrl packages have to be installed to run it.
 * [BallroomDJ](https://ballroomdj.org/) - a ballroom music player
@@ -1459,7 +1464,7 @@ allowing to view the screen through a loupe. The Img and treectrl packages have 
 graphical [Gemini](https://gemini.circumlunar.space/) Browser in Tcl/Tk
 * [DRAKON Editor](https://github.com/stepan-mitkin/drakon_editor) - a free open source tool for authoring DRAKON diagrams
 * [Fruho VPN Manager](https://github.com/fruho/fruhoapp)
-* [Tcl for Creo](https://wiki.tcl.tk/48597) - Scripting, Customization and Automation with Tcl scripts in Creo
+* [Tcl for Creo](https://wiki.tcl-lang.org/48597) - Scripting, Customization and Automation with Tcl scripts in Creo
 * [dia2kroki](https://wiki.tcl-lang.org/page/dia2kroki) - convert textual descriptions
 for various diagram tools to image URL's using the https://kroki.io/ webservice.
 * [ElectricFlow API for Tcl/Tk](https://github.com/chpock/ec-api-tcl)
@@ -1479,8 +1484,8 @@ yacc/lex TCL clones
 * [IPAT-S Software Suite](https://sourceforge.net/projects/ipat-s/) - IPAT-S Software Suite is
 a collection of supporting tools for the IPAT-S modeling language
 * [LogCatch](https://github.com/pikey8706/LogCatch) - android adb logcat viewer for Linux/Mac/Windows
-* [MTE](https://wiki.tcl.tk/15025) - A customizable editor for (X)HTML written in Tcl/Tk
-* [minitree note taking app](https://wiki.tcl.tk/48369)
+* [MTE](https://wiki.tcl-lang.org/15025) - A customizable editor for (X)HTML written in Tcl/Tk
+* [minitree note taking app](https://wiki.tcl-lang.org/48369)
 * [Notebook](https://github.com/wduquette/notebook) - Notebook Personal Wiki
 * [poApps - Paul's Portable Applications](http://www.posoft.de/html/poTools.html)
 * [rlwrap](https://github.com/hanslub42/rlwrap) - a wrapper for GNU readline.
@@ -1492,7 +1497,7 @@ is an astronomical imaging and data visualization application
 * [SplineEditor](https://wiki.tcl-lang.org/page/SplineEditor) - For creating interesting
 vectorial drawings
 * [snackamp](	http://sourceforge.net/projects/snackamp/)
-* [starDOM](https://wiki.tcl.tk/3895) - a little XML browser
+* [starDOM](https://wiki.tcl-lang.org/3895) - a little XML browser
 * [Sqawk](https://github.com/dbohdan/sqawk) - An SQL Awk with table joins
 * [tawk](https://github.com/shawnw/tawk) - awk but in tcl
 * [Tide](https://github.com/ALANVF/Tide) - A code editor made in Tcl/Tk
@@ -1503,16 +1508,16 @@ features of its own.
 * [tclsh-wrapper](https://github.com/suewonjp/tclsh-wrapper) - A tiny wrapper for Tcl/Tk's tclsh and wish
 * [Tcl Task Manager](https://github.com/Dash-OS/tcl-task-manager)
 * [tedit](https://github.com/thanoulis/tedit) - a simple text editor written in Tcl/Tk
-* [tkchat](http://tkchat.tcl.tk/) - an instant messaging application for 
-[Tcl Chatroom](https://wiki.tcl.tk/1178)
-* [TkMC](https://wiki.tcl.tk/7772) - MC like file manager with basic functionality
+* [tkchat](http://tkchat.tcl-lang.org/) - an instant messaging application for 
+[Tcl Chatroom](https://wiki.tcl-lang.org/1178)
+* [TkMC](https://wiki.tcl-lang.org/7772) - MC like file manager with basic functionality
 * [TkSQLite](http://reddog.s35.xrea.com/wiki/TkSQLite.html) - GUI frontend to sqlite3
 * [tkrunner](https://github.com/oldlaptop/tkrunner) - run command dialog for X in Tcl/Tk
 * [tol](https://github.com/gahr/tol) - Tcl One-Liner
 * [GEB](http://fossil.etoyoc.com/fossil/geb/home) - Displaying and modifying an SQLite DB 
 using Tcl code stored in the DB
 * [Time Sheets](https://chiselapp.com/user/gwlester/repository/TimeSheet/home) - a personal time entry/reporting tool written in Tcl/Tk
-* [wiki-reaper](https://wiki.tcl.tk/4718) - An HTTP robot in Tcl that will fetch page(s) from Tcler's Wiki
+* [wiki-reaper](https://wiki.tcl-lang.org/4718) - An HTTP robot in Tcl that will fetch page(s) from Tcler's Wiki
 * [binaryscanr](https://github.com/shuntksh/binaryscanr) - A Tcl binary scan frontend app
 * [XilinxTclStore](https://github.com/Xilinx/XilinxTclStore) - Xilinx Tcl Store
 
@@ -1522,11 +1527,11 @@ using Tcl code stored in the DB
 * [Exercism Tcl Track](https://github.com/exercism/tcl)
 * [Exercism Tcl Test Runner](https://github.com/exercism/tcl-test-runner)
 * [Cameron Laird's personal notes on commercial aspects of Tcl](http://phaseit.net/claird/comp.lang.tcl/commercial-tcl.html)
-* [Andreas' ComputerLab BLOG](https://core.tcl.tk/akupries/blog/)
+* [Andreas' ComputerLab BLOG](https://core.tcl-lang.org/akupries/blog/)
 * [dbohdan blog](http://dbohdan.com/blog/)
 * [tclcode - Tcl/Tk code by Detlef Groth](https://chiselapp.com/user/dgroth/repository/tclcode/index)
 * [magicsplat.com](http://www.magicsplat.com/) - Software, articles and blog
-* [The "Clone Don Porter" Project](https://wiki.tcl.tk/55306)
+* [The "Clone Don Porter" Project](https://wiki.tcl-lang.org/55306)
 * [Tcl-bounties](https://github.com/flightaware/Tcl-bounties) - Bounty program for improvements to Tcl and certain Tcl packages
 * [@TclLang](https://twitter.com/TclLang) - Twitter feed for news about happenings in the Tcl world
 * [Fosstodon @tcl_tk](https://fosstodon.org/@tcl_tk)
