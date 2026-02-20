@@ -7,7 +7,7 @@ Tcl database client 端的相關連結。
 TDBC
 =====
 
-[TDBC](http://tdbc.tcl.tk/index.cgi/index) is an interface standard
+[TDBC](https://tdbc.tcl-lang.org/) is an interface standard
 for databases and connectivity that aims to make it easy to write portable
 and secure Tcl scripts that access SQL databases.
 
@@ -22,11 +22,6 @@ Tcl 8.6 shipped with four drivers for TDBC:
 * PostgreSQL (tdbc::postgres)
 * SQLite (tdbc::sqlite)
 
-ORM
-=====
-
-* [ORM](https://wiki.tcl.tk/26254) - Object Relational Model over TDBC
-
 
 RDBMS
 =====
@@ -35,18 +30,15 @@ A relational database management system (RDBMS) is a database management
 system (DBMS) based on the relational model invented by Edgar F. Codd at 
 IBM's San Jose Research Laboratory.
 
-You can check [Open source SQL engines](http://www.martinbroadhurst.com/sql-engines.html).
-
 * [mysqltcl](http://www.xdobry.de/mysqltcl/) - Tcl interface to MySQL database
 * [TclODBC](https://sourceforge.net/projects/tclodbc/)
 * [Pgtcl](http://flightaware.github.io/Pgtcl/) - Tcl client side interface to PostgreSQL (libpgtcl)
 * [pgintcl](https://sourceforge.net/projects/pgintcl/): Pure-Tcl Interface to PostgreSQL
 * [pgwire](https://github.com/cyanogilvie/pgwire) - Pure Tcl script implementation of
 the PostgreSQL version 3.0 protocol
-* [The Tcl interface to the SQLite library](http://www.sqlite.org/tclsqlite.html), and 
-[SpatiaLite](https://wiki.tcl.tk/23457)
-* [Oratcl](http://oratcl.sourceforge.net/) - Tcl interface to Oracle database, versions 8i, 9i, 10g, and 11g
-* [tcltds](https://github.com/cloudsidekick/tcltds) - A tcl extension for the FreeTDS libraries
+* [The Tcl interface to the SQLite library](https://www.sqlite.org/tclsqlite.html), and 
+[SpatiaLite](https://wiki.tcl-lang.org/page/SpatiaLite)
+* [Oratcl](https://oratcl.sourceforge.net/) - Tcl interface to Oracle database, versions 8i, 9i, 10g, and 11g
 * [hdbtcl](https://github.com/quietboil/hdbtcl) - An extension to the Tcl language that 
 provides access to SAP HANA database server 
 * [db2tcl](https://github.com/memmertoIBM/db2tcl) - TCL language interface to Db2 databases
@@ -79,19 +71,19 @@ in portable files using GDBM
 based on [Cassandra cpp driver](https://github.com/apache/cassandra-cpp-driver)
 * [tclcb](https://sourceforge.net/projects/tclfltk/files/Linux/Couchbase/) - for CouchBase SDK 2.1.3
 * [memcached-for-Tcl](https://github.com/bovine/memcached-for-Tcl) - based on
-[libmemcached](http://libmemcached.org/libMemcached.html)
+[libmemcached](https://libmemcached.org/libMemcached.html)
 * [mongotcl](https://github.com/flightaware/mongotcl)
 * [retcl](https://github.com/gahr/retcl) - Tcl client library for Redis
 * [redis-tcl](https://github.com/bradvoth/redis-tcl)
 * [valkey-tcl](https://github.com/jerily/valkey-tcl) - TCL/C extension that provides an interface to the Valkey store.
-* [neo4j-tcl](https://icube-forge.unistra.fr/akress/neo4j-tcl/) - Tcl extension for Neo4j wrapping the C driver
-* [TSDB](https://wiki.tcl.tk/41240) - A straightforward implementation of a time-series database, written by Tcl
+* [neo4j-tcl](https://git.unistra.fr/akress/neo4j-tcl) - Tcl extension for Neo4j wrapping the C driver
+* [TSDB](https://wiki.tcl-lang.org/page/TSDB) - A straightforward implementation of a time-series database, written by Tcl
 
 And
 
-* [memoize](https://wiki.tcl.tk/10981) - A package that can be used to cache, 
+* [memoize](https://wiki.tcl-lang.org/page/memoize) - A package that can be used to cache, 
 load and save the values of expensive pure function calls
-* [Arrays as cached functions](https://wiki.tcl.tk/4495)
+* [Arrays as cached functions](https://wiki.tcl-lang.org/page/Arrays+as+cached+functions)
 
 
 Other
@@ -113,8 +105,8 @@ distributed coordination system
 * [disque](https://github.com/efrecon/disque) - An implementation of the DISQUE API in Tcl
 * [Round Robin Database Tool (RRDtool)](http://oss.oetiker.ch/rrdtool/)
 * [Speedtables](http://flightaware.github.io/speedtables/) - High-performance, memory-resident database
-* [SQL Relay](http://wiki.tcl.tk/9242)
-* [MrPersister](http://wiki.tcl.tk/21669) - a database access library for Jacl
+* [SQL Relay](https://wiki.tcl-lang.org/page/SQL+Relay)
+* [MrPersister](https://wiki.tcl-lang.org/page/MrPersister) - a database access library for Jacl
 * [HammerDB](http://www.hammerdb.com/) - multi-platform software for load testing databases
 
 

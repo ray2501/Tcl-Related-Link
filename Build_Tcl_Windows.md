@@ -7,7 +7,7 @@ Build Tcl on Windows Platform
 Building Tcl/Tk with Mingw
 =====
 
-* [Building Tcl/Tk with Mingw](http://wiki.tcl.tk/14828)
+* [Building Tcl/Tk with Mingw](https://wiki.tcl-lang.org/page/Building+Tcl%2FTk+with+Mingw)
  
 在 Windows 平台上使用 Mingw/MSYS 自己編譯 Tcl/Tk 可以參考 Tcler's wiki 上的文章。
 
