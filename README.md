@@ -582,21 +582,21 @@ And my project:
 
 ## Channel and file system
 
-* [chan](https://www.tcl-lang.org/man/tcl/TclCmd/chan.htm) - a built-in Tcl command, manipulates channels
+* [chan](https://www.tcl-lang.org/man/tcl9.0/TclCmd/chan.html) - a built-in Tcl command, manipulates channels
 * [TclVfs](https://core.tcl-lang.org/tclvfs/index)
 * [tcl-fuse](https://sourceforge.net/projects/tcl-fuse/) - A Tcl interface to the linux kernel's FUSE subsystem
 * [Tcl Extension Virtual Filesystem Prototype](https://chiselapp.com/user/rkeene/repository/xvfs/index)
-* [di Tcl extension](https://wiki.tcl-lang.org/42227) - Filesystem Usage/Information.
-The di program now provides a Tcl extension starting with version 4.39
-* [Memchan](http://memchan.sourceforge.net/) - In-memory channels for Tcl,
+* [di Tcl extension](https://wiki.tcl-lang.org/page/Filesystem+Usage+%2F+Information%3A+di+Tcl+extension) -
+Filesystem Usage/Information. The di program now provides a Tcl extension starting with version 4.39
+* [Memchan](https://memchan.sourceforge.net/) - In-memory channels for Tcl,
 and deprecated by tcllib's tcl::chan::memchan, which is available for Tcl >= 8.5.
-* [Trf](http://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels.
+* [Trf](https://tcltrf.sourceforge.net/) - is a Tcl extension based upon the principle of stacked channels.
 Stacked channels is available at the Tcl-script level (after 8.5).
-See the [chan](https://wiki.tcl-lang.org/15111) command for details.
-* [trofs](http://math.nist.gov/~DPorter/tcltk/trofs/) - Tcl Read-Only Filesystem
+See the [chan](https://wiki.tcl-lang.org/page/chan) command for details.
+* [trofs](https://math.nist.gov/~DPorter/tcltk/trofs/) - Tcl Read-Only Filesystem
 * [tserialport](https://sourceforge.net/projects/tclsnippets/files/tserialport/) - tcl package for library libserialport, and check [tserialport](https://github.com/aschoepe/tserialport)
-* [Add a time stamp to each line of output](https://wiki.tcl-lang.org/55399) - a useful example of 
-the transchan functionality available in Tcl
+* [Add a time stamp to each line of output](https://wiki.tcl-lang.org/page/Add+a+time+stamp+to+each+line+of+output) -
+a useful example of the transchan functionality available in Tcl
 
 And useful info:
 * [Diskusage](https://wiki.tcl-lang.org/page/Diskusage) -
