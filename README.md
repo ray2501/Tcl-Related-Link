@@ -609,14 +609,14 @@ a little utility to help out when your disk gets full (open du command to get in
 Procedures to process command lines and options
 * [getopt.tcl](https://github.com/tcler/getopt.tcl) - A getopt implementation of tcl
 that compat with GNU getopt
-* [tabulate](https://wiki.tcl-lang.org/41682) - a command line utility that converts standard input
+* [tabulate](https://wiki.tcl-lang.org/page/tabulate) - a command line utility that converts standard input
 into pretty-printed tables
 * [autoopts](https://gitlab.com/dbohdan/autoopts) - Tcl module that automatically gives
 your program a command line interface
 
 And useful info:
 
-* [command options](https://wiki.tcl-lang.org/1730) - Tcler's Wiki info
+* [command options](https://wiki.tcl-lang.org/page/command+options) - Tcler's Wiki info
 
 tclsh supports [here document](https://en.wikipedia.org/wiki/Here_document). For example:
 
@@ -628,17 +628,14 @@ tclsh supports [here document](https://en.wikipedia.org/wiki/Here_document). For
 ## Compression
 
 * [zlib](https://core.tcl-lang.org/tips/doc/trunk/tip/234.md) - Core support for zlib compression
-* [bztcl](http://download.gna.org/bztcl/) and [wiki page](https://wiki.tcl-lang.org/9661) - wrapper for the
-BZip2 compression library
-* [bz2:compress and bz2:decompress](https://wiki.tcl-lang.org/4218)
-* [tclzvfs](https://github.com/wjoye/tclzvfs) - TCL Zip Virtual File System, Tcl 8.5/8.6 TEA compatible
-* [tcllib tar](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/tar/tar.html) - Tar file creation, extraction & manipulation
-* [tcllib zipfile::decode](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/decode.html), 
-[tcllib zipfile::encode](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/encode.html),
-[tcllib zipfile::mkzip](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/mkzip.html): Access to zip archives, generation of zip archives and build a zip archive
-* [LZ4](https://wiki.tcl-lang.org/48789)
-* [Zstandard](https://wiki.tcl-lang.org/48788) - libzstd bindings for Tcl through Critcl
-* [Brotli compression format](https://wiki.tcl-lang.org/48939) - Uses Critcl
+* [bz2:compress and bz2:decompress](https://wiki.tcl-lang.org/page/bz2%3Acompress+and+bz2%3Adecompress)
+* [tcllib tar](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/tar/tar.html) - Tar file creation, extraction & manipulation
+* [tcllib zipfile::decode](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/decode.html), 
+[tcllib zipfile::encode](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/encode.html),
+[tcllib zipfile::mkzip](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/zip/mkzip.html): Access to zip archives, generation of zip archives and build a zip archive
+* [LZ4](https://wiki.tcl-lang.org/page/LZ4)
+* [Zstandard](https://wiki.tcl-lang.org/page/Zstandard) - libzstd bindings for Tcl through Critcl
+* [Brotli compression format](https://wiki.tcl-lang.org/page/brotli) - Uses Critcl
 
 And my project:
 
@@ -649,9 +646,9 @@ And my project:
 
 ## Concurrency
 
-* [Thread](http://core.tcl-lang.org/thread) - brings native thread capabilities to Tcl
-* [tcllib Coroutine utilities](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/coroutine/tcllib_coroutine.html)
-* [csp - Golang inspired concurrency library for Tcl](https://securitykiss.com/resources/tutorials/csp_project/index.php)
+* [Thread](https://core.tcl-lang.org/thread) - brings native thread capabilities to Tcl
+* [tcllib Coroutine utilities](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/coroutine/tcllib_coroutine.html)
+* [csp - Golang inspired concurrency library for Tcl](https://github.com/securitykiss-com/csp/)
 * [tcl-promise](http://sourceforge.net/projects/tcl-promise/) - Promises are concurrency primitives that
 simplify asynchronous programming by allowing you to write the code in a sequential style
 * [tclfiber](https://sourceforge.net/projects/tclfiber/) - Co-routine based multitasking package for Tcl
@@ -659,7 +656,7 @@ simplify asynchronous programming by allowing you to write the code in a sequent
 
 And useful info:
 
-* [Threads & callbacks](https://wiki.tcl-lang.org/15342)
+* [Threads & callbacks](https://wiki.tcl-lang.org/page/Threads+%26+callbacks)
 
 ### Distributed computation
 
@@ -670,7 +667,7 @@ which may be remote, communicate to accomplish tasks.
 * [TclMPI: Tcl bindings for MPI](https://akohlmey.github.io/tclmpi/)
 * [gearman-tcl](https://github.com/noyesno/gearman-tcl)
 
-And check [Distributed computation](https://wiki.tcl-lang.org/16662).
+And check [Distributed computation](https://wiki.tcl-lang.org/page/Distributed+computation).
 
 ### Parallel computing
 
@@ -683,8 +680,8 @@ And my project:
 
 ## Cryptography
 
-* [Cryptkit](https://wiki.tcl-lang.org/13191) - a Tcl binding to the Cryptlib security toolkit
-* [NaCl: Networking and Cryptography library](https://wiki.tcl-lang.org/47681)
+* [Cryptkit](https://wiki.tcl-lang.org/page/Cryptkit) - a Tcl binding to the Cryptlib security toolkit
+* [NaCl: Networking and Cryptography library](https://wiki.tcl-lang.org/page/NaCl+%2D+Networking+and+Cryptography+library+%28pronounced+%22salt%22%29)
 * [TclTLS](https://core.tcl-lang.org/tcltls/index) - OpenSSL extension to Tcl
 * [tcltls](https://github.com/chpock/tcltls) - It is a modified TclTLS version.
 Added support for wolfSSL backend.
@@ -708,7 +705,7 @@ provides secure and easy-to-use cryptographic APIs.
 Tcl Database Connectivity (TDBC), part of Tcl 8.6,
 is a common database access interface for Tcl scripts.
 
-* [TDBC](http://tdbc.tcl-lang.org/index.cgi/index)
+* [TDBC](https://tdbc.tcl-lang.org/)
 
 and check:
 
@@ -717,34 +714,34 @@ and check:
 
 ## Data type
 
-* [Tarray](https://wiki.tcl-lang.org/37462) - implements a new Tcl collection data type - typed array
-* [TclRal](http://chiselapp.com/user/mangoa01/repository/tclral/index) - Tcl Relational Algebra 
+* [Tarray](https://wiki.tcl-lang.org/page/TArray) - implements a new Tcl collection data type - typed array
+* [TclRal](https://chiselapp.com/user/mangoa01/repository/tclral/index) - Tcl Relational Algebra 
 Library. It introduces tuple and relation data types and a set of commands that operate on them.
 * [tclvalue](https://github.com/auriocus/tclvalue) - An extension for Tcl 8.6+ to reflect the
 Tcl_Obj API into the script level
 * [type](https://github.com/cyanogilvie/type) - Allow custom Tcl_ObjTypes to be defined and
 used in Tcl scripts
-* [AitCS](https://chiselapp.com/user/stwo/repository/AitCS/index) - Array in the Command's Shadow
-* [Persistent arrays](https://wiki.tcl-lang.org/3469)
+* [AitCS](https://chiselapp.com/user/stwo/repository/aitcs/index) - Array in the Command's Shadow
+* [Persistent arrays](https://wiki.tcl-lang.org/page/Persistent+arrays)
 
 And check:
 
-* [Abstract Data Types](https://wiki.tcl-lang.org/11450)
+* [Abstract Data Types](https://wiki.tcl-lang.org/page/Abstract+Data+Types)
 
 
 ## Data struct
 
-[list](https://www.tcl-lang.org/man/tcl/TclCmd/list.htm) is a built-in Tcl command, creates a list.
+[list](https://www.tcl-lang.org/man/tcl9.0/TclCmd/list.html) is a built-in Tcl command, creates a list.
 
-[dict](https://www.tcl-lang.org/man/tcl/TclCmd/dict.htm) is a built-in command for creating 
+[dict](https://www.tcl-lang.org/man/tcl9.0/TclCmd/dict.html) is a built-in command for creating 
 and manipulating dictionaries (dicts). A dict, or dictionary, is a list containing an even 
 number of words.
 
-[array](https://www.tcl-lang.org/man/tcl/TclCmd/array.htm) is a built-in ensemble of commands 
+[array](https://www.tcl-lang.org/man/tcl9.0/TclCmd/array.html) is a built-in ensemble of commands 
 that manipulates Tcl's array variables. Array variables can also be manipulated using 
 `arrayName(key)` syntax.
 
-[struct](https://wiki.tcl-lang.org/783) - Documentation can be found for
+[struct](https://wiki.tcl-lang.org/page/struct) - Documentation can be found for
 various (tcllib) data structures.Provided structures, so far:
 * graph
 * list
@@ -773,7 +770,7 @@ directory differences
 
 And check
 
-* [diff in Tcl](https://wiki.tcl-lang.org/3108)
+* [diff in Tcl](https://wiki.tcl-lang.org/page/diff+in+Tcl)
 
 
 ## Documentation Tools
@@ -797,21 +794,20 @@ configuration(from file, string, etc) into dict
 
 ### CSV and TSV
 
-* [tcllib csv](http://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/csv/csv.html) - a Tcllib
+* [tcllib csv](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/csv/csv.html) - a Tcllib
 package, provides facilities for working with csv files
-* [tclcsv](http://tclcsv.sourceforge.net/) - for reading and writing CSV format files
+* [tclcsv](https://tclcsv.sourceforge.net/) - for reading and writing CSV format files
 * [speedbag](https://github.com/flightaware/speedbag) - a package for providing accelerated C-based routines 
 for TSV parsing into an array
 
 ### CommonMark and Markdown
 
 * [tcllib markdown](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/markdown/markdown.html)
-* [caius markdown](https://github.com/tobijk/caius/tree/master/lib/markdown)
 * [tcl-markdown](https://github.com/wduquette/tcl-markdown)
 * [tcl-cmark](https://github.com/apnadkarni/tcl-cmark) - Tcl bindings to the cmark-gfm
 * [cmarktcl](https://github.com/mpcjanssen/cmarktcl) - Tcl wrapper for commonmark
 
-And you can check [Markdown2Go](https://wiki.tcl-lang.org/48198).
+And you can check [Markdown2Go](https://wiki.tcl-lang.org/page/Markdown2Go).
 
 ### JSON
 
