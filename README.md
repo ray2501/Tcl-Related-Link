@@ -377,28 +377,28 @@ It is a tool to handle tcl packages written by Alex Baker.
 TclOO is both a toolkit for creating object systems, and an object system in its own right.
 As of Tcl 8.6, is part of the core distribution.
 
-* [TclOO @ TIP #257](https://core.tcl-lang.org/tips/doc/trunk/tip/257.md) and [TclOO Tricks](https://wiki.tcl-lang.org/21595)
-* [incr Tcl](http://incrtcl.sourceforge.net/)
+* [TclOO @ TIP #257](https://core.tcl-lang.org/tips/doc/trunk/tip/257.md) and
+[TclOO Tricks](https://wiki.tcl-lang.org/page/TclOO+Tricks)
+* [incr Tcl](https://sourceforge.net/projects/incrtcl/)
 * [Next Scripting Framework](https://next-scripting.org/xowiki/): A descendant of XOTcl
-* [snit](http://core.tcl-lang.org/jenglish/gutter/packages/snit.html) - Snit is a pure-Tcl object and
-megawidget framework
-* [self](https://github.com/mpcjanssen/self) - [SELF extension](https://wiki.tcl-lang.org/17100),
+* [snit](https://core.tcl-lang.org/jenglish/gutter/packages/snit.html) -
+Snit is a pure-Tcl object and megawidget framework
+* [self](https://github.com/mpcjanssen/self) -
+[SELF extension](https://wiki.tcl-lang.org/page/SELF+extension),
 a Tcl package by the same name that was inspired by Self
 * [tclooh](https://github.com/ecky-l/tclooh) - Minimally extending the TclOO object system 
 to provide more natural object variables
 
 Useful info:
 
-* [Inspecting TclOO](https://wiki.tcl-lang.org/40640)
+* [Inspecting TclOO](https://wiki.tcl-lang.org/page/Inspecting+TclOO)
 * [Tclook](https://github.com/hoodiecrow/Tclook) - A simple TclOO object/class/namespace browser
 
 
 ## Functional Programming
 
 * [tcllib lambda](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/www/tcllib/files/modules/lambda/lambda.html) - Utility commands for anonymous procedures
-* [control::functional](http://dev.crypt.co.za/incubator/doc/tcltm/control/functional.wiki) - Enhanced
-support for functional programming in Tcl, with implementations of some common higher-order functions
-* [fptools](https://wiki.tcl-lang.org/41349) - A grab bag of functions that can be useful for FP
+* [fptools](https://wiki.tcl-lang.org/page/fptools) - A grab bag of functions that can be useful for FP
 * [tcl-f](https://github.com/nektomk/tcl-f) - Provides loadable Tcl extension for programming
 in functional manner
 * [underscore-tcl](https://github.com/arthurschreiber/underscore-tcl) - Functional programming utilities
@@ -407,7 +407,7 @@ for Tcl
 As with many things, Tcl is rather unique in this area.
 Commands themselves can not be passed as arguments to other commands,
 but their names can, which provides something very similar to first-class functions.
-Additionally, [apply](https://www.tcl-lang.org/man/tcl/TclCmd/apply.htm) can be used to
+Additionally, [apply](https://www.tcl-lang.org/man/tcl9.0/TclCmd/apply.html) can be used to
 interpret a value as a function and evaluate it,
 providing the equivalent of lambda functions.
 
@@ -417,7 +417,7 @@ And check
 
 ## Interactive Tcl
 
-* [eltclsh](http://homepages.laas.fr/mallet/soft/shell/eltclsh) - an interactive shell for the TCL programming language
+* [eltclsh](https://homepages.laas.fr/mallet/soft/shell/eltclsh) - an interactive shell for the TCL programming language
 * [tclreadline](https://github.com/flightaware/tclreadline) - GNU readline for interactive tcl shells
 * [tcl-linenose](https://github.com/andreas-kupries/tcl-linenoise) - Tcl Binding to
 the linenoise line editing library
@@ -432,16 +432,16 @@ cursor manipulations to emulate forms, etc.
 The abbreviation TUI (text-based user interface) is sometimes used to describe
 the same thing.
 
-[curses](https://wiki.tcl-lang.org/9690) is perhaps the most widely-known CUI.
+[curses](https://wiki.tcl-lang.org/page/CUI) is perhaps the most widely-known CUI.
 
 * [Tcllib: term](https://core.tcl-lang.org/tcllib/doc/trunk/embedded/md/toc.md) - Terminal control
 * [tcl-tty](https://github.com/cyanogilvie/tcl-tty) - Control TTYs and ANSI colour escape
 sequences from Tcl scripts. Requires parse_args and tclsignal.
-* [Minimalist Curses](https://wiki.tcl-lang.org/10877) - A "minimalist" tcl package for interfacing 
+* [Minimalist Curses](https://wiki.tcl-lang.org/page/Minimalist+Curses) - A "minimalist" tcl package for interfacing 
 to curses. And [my test](https://github.com/ray2501/tcl-curses).
 * [tcl-caca](https://github.com/ray2501/tcl-caca)  - Tcl bindings for 
 Colour ASCII Art library (libcaca)
-* [tcl-termbox](https://github.com/ray2501/tcl-termbox) - Tcl bindings for termbox
+* [tcl-termbox](https://github.com/ray2501/tcl-termbox) - Tcl bindings for termbox2
 * [ck](https://github.com/credil/ck) - Tk-like Curses toolkit on top of Tcl
 
 
@@ -452,10 +452,10 @@ It allows you to develop graphical applications that run on Windows, Linux,
 MacOS X and many other platforms.
 
 Tk is equally available as a windowing toolkit for Tcl, Ruby, Perl, Python.
-[TkDocs](http://www.tkdocs.com/) has the best overview of how this compares.
+[TkDocs](https://tkdocs.com/) has the best overview of how this compares.
 
-* [Tk](https://wiki.tcl-lang.org/477)
-* [Ttk](https://wiki.tcl-lang.org/14796) - Implementation of the Tk theming engine to provide
+* [Tk](https://wiki.tcl-lang.org/page/Tk)
+* [Ttk](https://wiki.tcl-lang.org/page/Ttk) - Implementation of the Tk theming engine to provide
 native look and feel widgets, now included in Tk 8.5
 
 and check:
@@ -475,7 +475,7 @@ and check:
 * [tksvg](https://github.com/oehhar/tksvg) - An extension for Tk to read SVG images based on nanosvg
 * [tresvg](https://github.com/nico-robert/tresvg) - Tcl wrapper around [resvg](https://github.com/linebender/resvg),
 based on tcl-cffi.
-* [Imgtools](http://tkimgtools.sourceforge.net/index.html) - manipulate Tk photo images
+* [Imgtools](https://tkimgtools.sourceforge.net/index.html) - manipulate Tk photo images
 * [CRIMP](https://core.tcl-lang.org/akupries/crimp/home) - C Raster Image Manipulation Package
 * [PhotoResize](https://github.com/auriocus/PhotoResize) - A single-purpose extension for
 Tcl to resize/resample photo images
@@ -485,15 +485,15 @@ rotating,blending overlapped images
 GD graphics drawing library
 * [tclepeg](https://github.com/dzach/tclepeg) - provide a tcl extension to the epeg
 thumbnailing library
-* [tclmagick](http://tclmagick.sourceforge.net/) - Tcl and Tk Interfaces to
+* [tclmagick](https://tclmagick.sourceforge.net/) - Tcl and Tk Interfaces to
 GraphicsMagick and ImageMagick
 * [Tcl-blend2d](https://wiki.tcl-lang.org/page/Blend2d) - TclTk binding for
 [Blend2d](https://blend2d.com/)
 * [pure-tcl BMP reader/writer](https://wiki.tcl-lang.org/page/pure%2Dtcl+BMP+reader%2Fwriter)
 * [Pure Tcl JPEG decoder](https://github.com/dbohdan/ptjd) - A single-file pure Tcl baseline JPEG
 decoder library
-* [tcllib exif](https://wiki.tcl-lang.org/3055) - to extract and parse EXIF fields from digital images
-* [tklib plotchart](https://wiki.tcl-lang.org/11265)
+* [tcllib exif](https://wiki.tcl-lang.org/page/exif) - to extract and parse EXIF fields from digital images
+* [tklib plotchart](https://wiki.tcl-lang.org/page/plotchart)
 * [ukaz](https://github.com/auriocus/ukaz) - Graph widget in pure Tcl/Tk
 * [PLplot](http://plplot.sourceforge.net/) - often used to make scientific plots
 * [ticklecharts](https://github.com/nico-robert/ticklecharts) - Tcl wrapper for Apache ECharts
@@ -503,11 +503,11 @@ PNG is also built-in support in Tcl/Tk 8.6.0 (and above version).
 
 Useful info:
 
-* [3D animation on canvas with Gnuplot](https://wiki.tcl-lang.org/13555)
+* [3D animation on canvas with Gnuplot](https://wiki.tcl-lang.org/page/3D+animation+on+canvas+with+Gnuplot)
 * [C Image Processing](https://wiki.tcl-lang.org/page/C+Image+Processing)
-* [Canvas Object Movement Example](https://wiki.tcl-lang.org/26978)
-* [Graphics with Tcl](https://wiki.tcl-lang.org/2389)
-* [Webcams / Digital Cameras](https://wiki.tcl-lang.org/14314)
+* [Canvas Object Movement Example](https://wiki.tcl-lang.org/page/Canvas+Object+Movement+Example)
+* [Graphics with Tcl](https://wiki.tcl-lang.org/page/Graphics+with+Tcl)
+* [Webcams / Digital Cameras](https://wiki.tcl-lang.org/page/Webcams+%2F+Digital+Cameras)
 
 For barcode:
 
@@ -517,7 +517,7 @@ And my project:
 
 * [tclqrencode](https://github.com/ray2501/tclqrencode) - Tcl interface for libqrencode
 * [tcl-cairo](https://github.com/ray2501/tcl-cairo) - Tcl bindings for Cairo library,
-learn from [tclcairo](https://wiki.tcl-lang.org/29305)
+learn from [tclcairo](https://wiki.tcl-lang.org/page/tclcairo)
 * [tcl-stbimage](https://github.com/ray2501/tcl-stbimage) - Tcl extension for stb_image
 * [tcl-imagebytes](https://github.com/ray2501/tcl-imagebytes) - To and from byte array
 and Tk photo image
@@ -526,8 +526,9 @@ and Tk photo image
 
 ## Audio and Sound
 
-* [Snack](http://www.speech.kth.se/snack/) and check [Here](https://wiki.tcl-lang.org/2647)
-* [SDL_mixer bindings for Tcl](http://sqlitestudio.pl/tclmixer/) - TclMixer
+* [Snack](https://www.speech.kth.se/snack/) and check
+[Here](https://wiki.tcl-lang.org/page/Snack)
+* [SDL_mixer bindings for Tcl](https://wiki.tcl-lang.org/page/TclMixer)
 * [TclJACK](https://github.com/screwtop/TclJACK) - A Tcl extension for interacting with
 the JACK Audio Connection Kit library (jacklib)
 * [tclmidi](https://github.com/jdc8/tclmidi) - a package to work with Midi files
@@ -536,18 +537,16 @@ in the world (for learn more about FLAC)
 
 And volume control:
 
-* [Linux: volume control](https://wiki.tcl-lang.org/48348)
-* [Mac OS X: volume control](https://wiki.tcl-lang.org/48551)
-* [Windows: volume control](https://wiki.tcl-lang.org/48338)
-* [Windows XP: volume control](https://wiki.tcl-lang.org/48350)
-
-Now available on [SourceForge](https://sourceforge.net/projects/volume-controls-cmdline/files/).
+* [Linux: volume control](https://wiki.tcl-lang.org/page/Linux%3A+volume+control)
+* [Mac OS X: volume control](https://wiki.tcl-lang.org/page/Mac+OS+X%3A+volume+control)
+* [Windows: volume control](https://wiki.tcl-lang.org/page/Windows%3A+volume+control)
+* [Windows XP: volume control](https://wiki.tcl-lang.org/page/Windows+XP%3A+volume+control)
 
 Useful info:
 
-* [Audio Edit Utility](https://wiki.tcl-lang.org/40321) - a front-end for the 'ffmpeg' command
-* [VLC Tcl Extension](https://wiki.tcl-lang.org/48382)
-* [MPV Tcl Extension](https://wiki.tcl-lang.org/55174) - a Tcl interface to the MPV audio player,
+* [Audio Edit Utility](https://wiki.tcl-lang.org/page/Audio+Edit+Utility+%2D+Clip%2C+Change%2DVolume%2C+Convert%2C+etc%2E+%2D+a+front%2Dend+for+the+%27ffmpeg%27+command) - a front-end for the 'ffmpeg' command
+* [VLC Tcl Extension](https://wiki.tcl-lang.org/page/VLC+Tcl+Extension)
+* [MPV Tcl Extension](https://wiki.tcl-lang.org/page/MPV+Tcl+Extension) - a Tcl interface to the MPV audio player,
 using libmpv. You also can check [tclmpv](https://github.com/jlinkels/tclmpv).
 
 And my projects:
@@ -565,15 +564,16 @@ for taglib (Abstract API only)
 
 ## Video
 
-* [tkvideo](http://www.patthoyts.tk/tkvideo/) - A video widget for use with Windows
+* [tkvideo](https://github.com/patthoyts/tkvideo) - A video widget for use with Windows
 * [tkmpeg](https://github.com/wjoye/tkmpeg) - TK MPEG 1 encoder, Tcl/Tk 8.5/8.6 TEA compatible
-* [MAWT - Movie Automation With Tcl](http://www.mawt.tcl3d.org/) - a Tcl package based on [FFmpeg](http://www.ffmpeg.org/)
+* [MAWT - Movie Automation With Tcl](https://www.mawt.tcl3d.org/) -
+a Tcl package based on [FFmpeg](https://www.ffmpeg.org/)
 
 Useful info:
 
-* [Using Tcl/Tk in Multimedia Applications](https://wiki.tcl-lang.org/864)
-* [Movie Edit Utility](https://wiki.tcl-lang.org/40305) - a front-end for the 'ffmpeg' command
-* [SnitMPlayer](https://wiki.tcl-lang.org/48588) - Widget wrapper for the mplayer media application
+* [Using Tcl/Tk in Multimedia Applications](https://wiki.tcl-lang.org/page/Using+Tcl%2FTk+in+Multimedia+Applications)
+* [Movie Edit Utility](https://wiki.tcl-lang.org/page/Movie+Edit+Utility+%2D+Clip%2C+Crop%2C+Convert%2C+etc%2E+%2D+a+front%2Dend+for+the+%27ffmpeg%27+command) - a front-end for the 'ffmpeg' command
+* [SnitMPlayer](https://wiki.tcl-lang.org/page/SnitMPlayer) - Widget wrapper for the mplayer media application
 
 And my project:
 
