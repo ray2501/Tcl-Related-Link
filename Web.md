@@ -10,6 +10,8 @@ both non threaded Apache MPMs (Multi Process Module), such as mod_mpm_prefork,
 and threaded MPMs such as mod_mpm_worker, mod_mpm_event and mod_mpm_winnt.
 (can work with mod_http2 at mpm_event)
 * [RivetCGI](https://chiselapp.com/user/rkeene/repository/rivetcgi/home) - Rivet as a CGI
+* [rivet-fcgi](https://github.com/ray2501/rivet-fcgi) -
+Embed a Tcl interpreter and Rivet tempalte parser in a FastCGI application
 * [websh-tcl](https://github.com/noyesno/websh-tcl) - Revive Websh Tcl - For Web and more
 * [tcl-http](https://github.com/anticrisis/tcl-http) - A simple, fast HTTP server with Tcl handlers
 * [tänzer](https://github.com/xantronix/tanzer)
