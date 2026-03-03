@@ -685,6 +685,7 @@ And my project:
 * [TclTLS](https://core.tcl-lang.org/tcltls/index) - OpenSSL extension to Tcl
 * [tcltls](https://github.com/chpock/tcltls) - It is a modified TclTLS version.
 Added support for wolfSSL backend.
+* [tcl-blake3](https://sr.ht/~fgaz/tcl-blake3/) - BLAKE3 hashing through libblake3.
 * [tcl-s2n](https://github.com/cyanogilvie/tcl-s2n) - Stack a TLS protocol driver
 on any Tcl channel that supports read and write, using the s2n TLS implementation
 * [tcl-sha](https://sourceforge.net/projects/tcl-sha/) - A Tcl loadable module to do SHA hashes.
