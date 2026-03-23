@@ -208,6 +208,8 @@ and [tclbag](https://github.com/aplsimple/tclbag).
 
 Useful info:
 
+* [tcl-lsp](https://github.com/bitwisecook/tcl-lsp) - An LSP for Tcl 8.4-9.0, F5 iRules,
+F5 iApps and other Tcl dialects
 * [e_menu](https://aplsimple.github.io/en/tcl/e_menu/) - menuing system for editors
 * [Tcl Editors](https://wiki.tcl-lang.org/page/Tcl+Editors)
 * [IDE](https://wiki.tcl-lang.org/page/IDE)
