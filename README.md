@@ -1527,6 +1527,7 @@ using Tcl code stored in the DB
 * [dbohdan blog](https://dbohdan.com/blog/)
 * [tclcode - Tcl/Tk code by Detlef Groth](https://chiselapp.com/user/dgroth/repository/tclcode/index)
 * [magicsplat.com](https://www.magicsplat.com/) - Software, articles and blog
+* [tcltk-depot](https://github.com/tcltk-depot)
 * [@TclLang](https://twitter.com/TclLang) - Twitter feed for news about happenings in the Tcl world
 * [Fosstodon @tcl_tk](https://fosstodon.org/@tcl_tk)
 * [Monthly Virtual Meetup](https://wiki.tcl-lang.org/page/Monthly+Virtual+Meetup)
