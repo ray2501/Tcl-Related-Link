@@ -39,6 +39,7 @@ the PostgreSQL version 3.0 protocol
 * [The Tcl interface to the SQLite library](https://www.sqlite.org/tclsqlite.html), and 
 [SpatiaLite](https://wiki.tcl-lang.org/page/SpatiaLite)
 * [Oratcl](https://oratcl.sourceforge.net/) - Tcl interface to Oracle database, versions 8i, 9i, 10g, and 11g
+* [Oratcl](https://github.com/bagnongithub/oratcl) - Tcl 9 extension that re‑implements Oratcl on top of ODPI‑C
 * [hdbtcl](https://github.com/quietboil/hdbtcl) - An extension to the Tcl language that 
 provides access to SAP HANA database server 
 * [db2tcl](https://github.com/memmertoIBM/db2tcl) - TCL language interface to Db2 databases
