@@ -425,6 +425,8 @@ And check
 * [tcl-linenose](https://github.com/andreas-kupries/tcl-linenoise) - Tcl Binding to
 the linenoise line editing library
 * [readcmd.tcl](https://github.com/Z-Wave-Me/readcmd.tcl) - A command line editing library
+* [cmdgraph](https://github.com/sgeard/cmdgraph) - State-graph command-dispatch engine in three implementations:
+Fortran (module/submodule, allocatable strings), C++23, and Tcl
 
 
 ## CUI
@@ -469,6 +471,8 @@ and check:
 ## GUI toolkit
 
 * [Gnocl](https://dr-baum.net/gnocl/index.html): Tcl binding to GTK
+* [Gtk4Tcl](https://github.com/wjgiddings/Gtk4Tcl) - provides a Gcl-style interface for GTK4
+using FFI (Foreign Function Interface)
 * [TclFltk](https://sourceforge.net/projects/tclfltk/): a Tcl binding for the Fast Light Tool Kit portable GUI development environment
 
 
